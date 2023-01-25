@@ -71,8 +71,9 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [5] [Heeft ChatGPT taalbegrip?](#v5)
 * [6] [Kan ChatGPT logisch redeneren?](#v6)
 * [7a] [Kan  ChatGPT broncode schrijven?](#v7a)
-* [7b] [Kan ChatGPT  broncode uit te leggen?](#v7b)
-* [7c] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7c)
+* [7b] [Kan ChatGPT  broncode uitleggen?](#v7b)
+* [7c] [Kan ChatGPT  broncode output simuleren?](#v7c)
+* [7d] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7d)
 * [8] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8)
 * [9] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v9)
 * [12] [Kan het gebruik van ChatGPT gedetecteerd worden?](#v12)
@@ -186,8 +187,7 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking 
 | <sub>Mood to color</sub> | <sub>Een tekstomschrijving omzetten naar een kleur</sub> | <sub>Automatisch genereren van kleuren op basis van emoties, efficiënter ontwerpen van visuals</sub> |
 | <sub>Write a Python docstring</sub> | <sub>Een voorbeeld geven van hoe een docstring voor een Python-functie gemaakt kan worden</sub> | <sub>Makkelijker documentatie van code, efficiënter ontwikkelen in teams</sub> |
 | <sub>Analogy maker</sub> | <sub>Analogieën maken</sub> | <sub>Creatie van vergelijkingen voor verduidelijking en verrijking van tekst</sub> |
- 
-Deze voorbeelden zijn slechts bedoeld om eindgebruikers een idee te geven waarvoor ChatGPT tot nu toe is gebruikt. Het is niet de bedoeling om een volledige lijst te zijn van alle mogelijke toepassingen.
+
 
 # v1b
 
@@ -371,10 +371,104 @@ print(fullText)
 ```
 
 ********
-
 # v7b
 ********
-### [7b] KAN  ChatGPT GEBRUIKT WORDEN OM EEN LESSEN REEKS TE BEDENKEN
+### [7b] Kan ChatGPT gebruikt worden om code uit te leggen?
+********
+
+| agent | prompt | agent | response |
+----- | ----- | ----- | ----- |
+| Human | Kun je de onderstaande code uitleggen en voorzien van extra commentaar zodat een beginnende Python coder de werking ervan kan begrijpen? | ChatGPT | Zie Text voor uitleg van de code |
+
+```python
+import os
+import numpy as np
+import pandas as pd
+from pandas import DataFrame as df
+
+currentdir = os.getcwd() + r'/RAW_DATA/NON'
+flist = pd.DataFrame()
+
+# create dataframe with list of .docx files in de data map
+for r, d, f in os.walk(currentdir):
+    for idx, file in enumerate(f):
+        if ".docx" in file:
+            #print(os.path.join( ' ', file))
+            temp = df([file], index = [idx+1])
+            flist = pd.concat([flist, temp])   
+            
+#  Create column label "filename"      
+filenameslist = flist.rename(columns={0: 'filename'})
+
+```
+
+Deze code leest de volgende Python modules in:
+
+#### STAP 01
+* os: deze module bevat functies voor interactie met het besturingssysteem, zoals het verkrijgen van de huidige map (os.getcwd())
+* numpy: deze module bevat veelgebruikte functies voor wiskundige berekeningen en bevat onder andere het np object dat vaak gebruikt wordt als alias
+* pandas: deze module bevat functies voor het werken met datatabellen, zoals het aanmaken van een DataFrame (pd.DataFrame())
+De code begint met het instellen van de huidige map als de map waar de data staat (currentdir) plus een submap RAW_DATA/NON. 
+
+#### STAP 02
+Daarna wordt een lege DataFrame aangemaakt (flist = pd.DataFrame()).
+
+#### STAP 03
+Vervolgens wordt er met een for-loop door de huidige map (currentdir) gelopen met os.walk(). Deze functie geeft 3 argumenten terug:
+
+* r: de huidige map
+* d: een lijst met submappen in de huidige map
+* f: een lijst met bestanden in de huidige map
+
+De for-loop loopt door deze lijst met bestanden (f) en checkt of elk bestand eindigt op ".docx". Als dat zo is, wordt het bestand toegevoegd aan de lege DataFrame (flist) als een nieuwe rij met als index het huidige aantal rijen + 1.
+
+#### STAP 04
+Als laatste wordt er een kolomlabel "filename" toegevoegd aan de DataFrame met de lijst van bestanden.
+
+********
+
+<br /> 
+
+# v7c
+********
+### [7c] Kan ChatGPT  broncode output simuleren?
+ 
+********
+ 
+ 
+  
+| agent | prompt | agent | response |
+----- | ----- | ----- | ----- |
+| Human | Kun de uitkomst simuleren?  | ChatGPT | Zie Text voor de gesimuleerde uitkomst volgend ChatGPT |
+
+
+ Laten we zeggen dat de folder de volgende bestanden bevat:
+
+* test1.docx
+* test2.docx
+* test3.docx
+* test4.pdf
+
+Dan zou de output van de code een DataFrame zijn met de volgende inhoud:
+
+```
+    filename
+1   test1.docx
+2   test2.docx
+3   test3.docx
+
+```
+
+De DataFrame zou dus alleen de bestanden bevatten die eindigen op ".docx", en zou een kolom hebben met de naam "filename" met daarin de bestandsnamen.
+ 
+ 
+ 
+
+<br /> 
+
+# v7d
+********
+### [7d] KAN  ChatGPT GEBRUIKT WORDEN OM EEN LESSEN REEKS TE BEDENKEN
 ********
 
 | agent | prompt | agent | response |
@@ -476,88 +570,6 @@ Let op: deze code is een voorbeeld en is niet direct uitvoerbaar. Variabelen zoa
 
 <br /> 
 
-# v7c
-********
-### [7c] KAN  ChatGPT GEBRUIKT WORDEN OM CODE UIT TE LEGGEN?
-********
-
-| agent | prompt | agent | response |
------ | ----- | ----- | ----- |
-| Human | Kun je de onderstaande code uitleggen en voorzien van extra commentaar zodat een beginnende Python coder de werking ervan kan begrijpen? | ChatGPT | Zie Text voor uitleg van de code |
-
-```python
-import os
-import numpy as np
-import pandas as pd
-from pandas import DataFrame as df
-
-currentdir = os.getcwd() + r'/RAW_DATA/NON'
-flist = pd.DataFrame()
-
-# create dataframe with list of .docx files in de data map
-for r, d, f in os.walk(currentdir):
-    for idx, file in enumerate(f):
-        if ".docx" in file:
-            #print(os.path.join( ' ', file))
-            temp = df([file], index = [idx+1])
-            flist = pd.concat([flist, temp])   
-            
-#  Create column label "filename"      
-filenameslist = flist.rename(columns={0: 'filename'})
-
-```
-
-Deze code leest de volgende Python modules in:
-
-#### STAP 01
-* os: deze module bevat functies voor interactie met het besturingssysteem, zoals het verkrijgen van de huidige map (os.getcwd())
-* numpy: deze module bevat veelgebruikte functies voor wiskundige berekeningen en bevat onder andere het np object dat vaak gebruikt wordt als alias
-* pandas: deze module bevat functies voor het werken met datatabellen, zoals het aanmaken van een DataFrame (pd.DataFrame())
-De code begint met het instellen van de huidige map als de map waar de data staat (currentdir) plus een submap RAW_DATA/NON. 
-
-#### STAP 02
-Daarna wordt een lege DataFrame aangemaakt (flist = pd.DataFrame()).
-
-#### STAP 03
-Vervolgens wordt er met een for-loop door de huidige map (currentdir) gelopen met os.walk(). Deze functie geeft 3 argumenten terug:
-
-* r: de huidige map
-* d: een lijst met submappen in de huidige map
-* f: een lijst met bestanden in de huidige map
-
-De for-loop loopt door deze lijst met bestanden (f) en checkt of elk bestand eindigt op ".docx". Als dat zo is, wordt het bestand toegevoegd aan de lege DataFrame (flist) als een nieuwe rij met als index het huidige aantal rijen + 1.
-
-#### STAP 04
-Als laatste wordt er een kolomlabel "filename" toegevoegd aan de DataFrame met de lijst van bestanden.
-
- 
-| agent | prompt | agent | response |
------ | ----- | ----- | ----- |
-| Human | Kun de uitkomst simuleren?  | ChatGPT | Zie Text voor de gesimuleerde uitkomst volgend ChatGPT |
-
-
- Laten we zeggen dat de folder de volgende bestanden bevat:
-
-* test1.docx
-* test2.docx
-* test3.docx
-* test4.pdf
-
-Dan zou de output van de code een DataFrame zijn met de volgende inhoud:
-
-```
-    filename
-1   test1.docx
-2   test2.docx
-3   test3.docx
-
-```
-
-De DataFrame zou dus alleen de bestanden bevatten die eindigen op ".docx", en zou een kolom hebben met de naam "filename" met daarin de bestandsnamen.
-
-********
-
-<br /> 
 
 
 <br /> 
