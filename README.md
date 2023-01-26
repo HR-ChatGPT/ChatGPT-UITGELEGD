@@ -4,7 +4,7 @@
 
 <img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
-# PROMETHEUS <br /> DATA SCIENCE LAB
+# [PROMETHEUS](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br /> DATA SCIENCE LAB
 
 
 ***********
