@@ -652,7 +652,7 @@ OpenAI heeft op 1 februari 2023 een tool vrijgegeven voor het herkennen van door
 
 Door zich voor te doen als een mens, probeert de imposter GEN-AI eindgebruikers te laten geloven dat ze met een echt menselijk wezen communiceren, terwijl ze in werkelijkheid met een AI-systeem spreken. Dit is een vorm van *"social engineering"* die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.
 
-OpenAI.com heeft naar eigen zeggen de  classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals ChatGPT. De vraag is of eerst een probleem creëren en dan een oplossing zoeken om het probleem op te lossen een goede strategie is?
+OpenAI.com heeft naar eigen zeggen de  classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals de [AI-TEKST-CLASSIFIER](https://platform.openai.com/ai-text-classifier). De vraag is of eerst een probleem creëren en dan een oplossing zoeken om het probleem op te lossen een goede strategie is?
 
 Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te maken die alle vormen van misbruik van AI-technologie kan detecteren. Dit laatste blijkt uit de volgende prompt:
 
