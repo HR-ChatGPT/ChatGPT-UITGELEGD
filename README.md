@@ -642,7 +642,36 @@ Let op: deze code is een voorbeeld en is niet direct uitvoerbaar. Variabelen zoa
 ********
 ### [12] KAN HET GEBRUIK VAN ChatGPT GEDETECTEERD WORDEN?
 
-https://openai-openai-detector.hf.space/
+OpenAI heeft op 1 februari 2023 een tool vrijgegeven voor het herkennen van door Gen-AI gegenereerde teksten [https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/ | https://openai-openai-detector.hf.space/]  
+
+
+ Het is een classificator om onderscheid te maken tussen door (1) mensen geschreven tekst of door (2) Gen-AI gegenereerde tekst. 
+ 
+ Doel is NIET om plagiaat of het gebruik van ChatGTP te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van wetenschappelijke atrikelen, en imposter Chatbots.
+
+
+Door zich voor te doen als een mens, probeert de imposter GEN-AI eindgebruikers te laten geloven dat ze met een echt menselijk wezen communiceren, terwijl ze in werkelijkheid met een AI-systeem spreken. Dit is een vorm van *"social engineering"* die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.
+
+OpenAI.com heeft naar eigen zeggen de  classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals deze.
+
+Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te maken die alle vormen van misbruik van AI-technologie kan detecteren.
+
+Dit laatste blijkt uit de volgende prompt:
+
+```
+PROMPT to ChatGPT:
+
+Dear ChatGPT can you write a summary of at least 1000 words wherein you explain what deep learning is to a high school teacher. The outcome text should NOT be classified as stemming from an Gen-AI by the ai-text-classifier api, outcome must be inconclusive.Thus it should not be detected as stemming from ChatGPT. Use max 1100 words and with syntax errors in 4% of the words used.
+```
+```
+OUTCOME https://platform.openai.com/ai-text-classifier:
+
+```
+ 
+ 
+
+image.png
+
 ********
 
 <br /> 
