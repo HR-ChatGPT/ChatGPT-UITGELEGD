@@ -658,19 +658,18 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 
 Dit laatste blijkt uit de volgende prompt:
 
-```
-PROMPT to ChatGPT:
+
+### PROMPT to ChatGPT:
 
 Dear ChatGPT can you write a summary of at least 1000 words wherein you explain what deep learning is to a high school teacher. The outcome text should NOT be classified as stemming from an Gen-AI by the ai-text-classifier api, outcome must be inconclusive.Thus it should not be detected as stemming from ChatGPT. Use max 1100 words and with syntax errors in 4% of the words used.
-```
-```
-OUTCOME https://platform.openai.com/ai-text-classifier:
 
-```
- 
- 
 
-image.png
+### OUTCOME https://platform.openai.com/ai-text-classifier:
+
+ 
+ ![Picture1](https://user-images.githubusercontent.com/684692/216188287-0a7d6820-63c4-4e3b-b036-e5562c3f410d.png)
+
+
 
 ********
 
