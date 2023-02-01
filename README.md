@@ -199,7 +199,16 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking 
 
 
 
-ChatGPT is geoptimaliseerd voor (1) het afleiden van de intentie van de eindgebruiker (2) het tegengaan van ongepast taalgebruik; (3) het reduceren van de kans op het genereren van "verzonnen" feiten; en (4) het genereren van adequate reacties op de input van de eindgebruiker.
+ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor:
+
+| Functionele beperking | Beschrijving |
+| ------- | -------- | 
+| Afleiden van de intentie van de eindgebruiker | Wat de eindgebruiker wil bereiken en/of vaststellen wat zijn/haar bedoeling, doel of motivatie is   | 
+| Tegengaan van ongepast taalgebruik  | Voorkomen of bestrijden van het gebruik van taal die aanstootgevend, beledigend, kwetsend of discriminerend is. <br> <br /> Denk aan taal die racistisch, seksistisch, homofoob of op andere manieren onacceptabel is en niet in overeenstemming is met de normen van de samenleving. <br> <br/> Beoogde doel is om een respectvolle en inclusieve omgeving te creëren waarin iedereen zich veilig en geaccepteerd voelt.
+ | Reduceren van de kans op het genereren van "verzonnen" feiten | Verminderen van de kans op het creëren of verspreiden van onjuiste of niet-geverifieerde informatie. <br > <br> Dit omvat het voorkomen van het opzettelijk verspreiden van verkeerde informatie en het beperken van onbedoelde verspreiding van onjuiste feiten. <br> <br> Het streven is de betrouwbaarheid en authenticiteit van de informatie te verhogen en de verspreiding van valse informatie te voorkomen, wat kan leiden tot verwarring en verkeerde/schadelijke beslissingen.
+ Adequate reacties  |  het bieden van een gepaste en effectieve reactie op de input prompts van de eindgebruiker, waarbij de nadruk ligt op precisie, bruikbaarheid.
+
+
 
 ChatGPT's gebruikersinterface is gespecialiseerd in het uitvoeren van door mensen ingevoerde tekstuele instructies. Dit heet *"prompting"* of *"priming"* in het Engelse taaldomein. 
 
