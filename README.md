@@ -387,7 +387,7 @@ print(fullText)
 
 | agent | prompt | agent | response |
 ----- | ----- | ----- | ----- |
-| Human | Kun je de onderstaande code uitleggen en voorzien van extra commentaar zodat een beginnende Python-coder de werking ervan kan begrijpen? | ChatGPT | Zie onderstaande text voor uitleg van de code door ChatGPT |
+| Human | Kun je de onderstaande code uitleggen en voorzien van extra commentaar zodat een beginnende Python-coder de werking ervan kan begrijpen? | ChatGPT | Zie onderstaande tekst voor uitleg van de code door ChatGPT |
 
 ```python
 import os
