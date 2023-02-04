@@ -62,7 +62,8 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 <td align="left">
 <br>
 
-* [0] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0)
+* [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
+* [0b] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0b)
 * [1a] [Wat moet je weten over ChatGPT?](#v1a)
 * [1b] [Wat zijn de beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn de risico's van ChatGPT?](#v1c)
@@ -93,11 +94,11 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 <br>
 
 
-# v0
+# v0a
 
 
 *******
-### [0] Wat is "*generatieve kunstmatige intelligentie"* [Gen-AI]?
+### [0a] Wat is "*generatieve kunstmatige intelligentie"* [Gen-AI]?
 *******
 
 
@@ -120,6 +121,18 @@ Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met al
 >Living Mona Lisa from Few-Shot Adversarial Learning of Realistic Neural Talking Head Models. <br>  <sub> Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). Few-shot adversarial learning of realistic neural talking head models. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9459-9468). https://doi.org/10.1109/ICCV.2019.00671
 
 
+br>
+
+
+# v0b
+
+
+*******
+### [0b] WAT IS NODIG OM EEN GEN-AI ZOALS ChatGPT TE BOUWEN?
+*******
+
+
+
 <br>
 
 
@@ -127,7 +140,7 @@ Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met al
 
 
 *******
-### [1a] Wat moet je weten over ChatGPT?
+### [1a] WAT MOET JE WETEN OVER ChatGPT?
 *******
 
 <!--
@@ -283,6 +296,22 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 
 *******
 ### [1c] WAT ZIJN DE RISICO'S VAN ChatGPT?
+*******
+
+
+
+
+
+<br>
+
+
+
+<br>
+
+# v1d
+
+*******
+### [1d] STAAT HET GEBRUIK VAN ChatGPT GELIJK AAN VALSSPELEN? 
 *******
 
 
