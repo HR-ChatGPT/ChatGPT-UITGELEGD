@@ -63,8 +63,9 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 <br>
 
 * [0] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0)
-* [1a] [Wat moet je weten over ChatGPT ](#v1a)
+* [1a] [Wat moet je weten over ChatGPT?](#v1a)
 * [1b] [Wat zijn de beperkingen van ChatGPT?](#v1b)
+* [1c] [Wat zijn de risico's van ChatGPT?](#v1c)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
 * [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
 * [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
@@ -189,6 +190,7 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking 
 | <sub>Write a Python docstring</sub> | <sub>Een voorbeeld geven van hoe een docstring voor een Python-functie gemaakt kan worden</sub> | <sub>Makkelijker documentatie van code, efficiënter ontwikkelen in teams</sub> |
 | <sub>Analogy maker</sub> | <sub>Analogieën maken</sub> | <sub>Creatie van vergelijkingen voor verduidelijking en verrijking van tekst</sub> |
 
+<br>
 
 # v1b
 
@@ -200,9 +202,9 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking 
 
 
 
-ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor:
+ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal functies. <br> Deze functies zijn:
 
-| Functionele beperking | Beschrijving |
+| Functie | Beschrijving |
 | ------- | -------- | 
 | Afleiden van de intentie van de eindgebruiker | Wat de eindgebruiker wil bereiken en/of vaststellen wat zijn/haar bedoeling, doel of motivatie is  | 
 | Tegengaan van ongepast taalgebruik | Voorkomen of bestrijden van het gebruik van taal die aanstootgevend, beledigend, kwetsend of discriminerend is. <br> <br /> Denk aan taal die racistisch, seksistisch, homofoob of op andere manieren onacceptabel is en niet in overeenstemming is met de normen van de samenleving. <br> <br/> Beoogde doel is om een respectvolle en inclusieve omgeving te creëren waarin iedereen zich veilig en geaccepteerd voelt.
@@ -210,8 +212,8 @@ ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor:
  Adequate reacties | het bieden van een gepaste en effectieve reactie op de input prompts van de eindgebruiker, waarbij de nadruk ligt op precisie, bruikbaarheid.
 
 
-
-ChatGPT's gebruikersinterface is gespecialiseerd in het uitvoeren van door mensen ingevoerde tekstuele instructies. Dit heet *"prompting"* of *"priming"* in het Engelse taaldomein. 
+<br> <br> 
+ChatGPT's gebruikersinterface is gespecialiseerd in het uitvoeren van door mensen ingevoerde tekstuele instructies. <br> Dit heet *"prompting"* of *"priming"* in het Engelse taaldomein. 
 
 Om deze *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand  van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
 
@@ -272,6 +274,19 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 | <sub>Lang van stof | <sub>Overdreven uitgebreide antwoorden en herhaling zoals "ik ben een taalmodel is dat is getraind op een grote dataset ..." komt vaak voor. <br> <br>Om *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand  van menselijke feedback. <br> <br>Nadeel is dat menselijke trainers de voorkeur geven aan uitgebreide antwoorden en vaak terug vallen op vaste formuleringen. Of zelfs "feiten" verzinnen om te voldoen aan hun opdracht om zo volledig mogelijk te antwoorden | <sub>Beperk de vraag: Maak de vraag zo specifiek mogelijk en beperk het tot een enkel onderwerp. Dit helpt ChatGPT om gericht te zoeken naar een antwoord en te voorkomen dat het irrelevant informatie geeft. <br><br>Maak gebruik van sturende aanwijzingen: zoals "geef me de samenvatting van" of "geef me de kernpunten van ... in tabelvorm" om ChatGPT aan te geven dat je een kort en bondig antwoord verwacht. <br><br> Formuleer voorwaardelijkheden zoals gebruik niet meer dat 100 woorden.|
 | <sub>Gebrek aan context | <sub>Omdat ChatGPT is getraind op bestaande tekst, kan het soms moeilijk zijn om de intentie van de vraagsteller te bepalen. <br><br> Dit gebeurt als een vraag niet specifiek genoeg is, dubbelzinnig en of tegenstrijdig is, of als de vraagsteller de context niet duidelijk aangeeft. <br><br>Gevolg is dat ChatGPT naar de intentie van de vraagsteller gaat *"raden"*. Met andere woorden, ChatGPT komt tot een antwoord door een reeks gissingen waardoor het foute antwoorden kan beargumenteren alsof ze volledig waar zijn. Het produceert dan alleen nog onzinnige antwoorden alsof het aan het hallucineren is. | <sub> Wanneer ChatGPT een alleen nog onzinnig antwoorden geeft, log dan uit. Log vervolgens opnieuw in en herformuleren de vraag. <br><br>Gebruik de juiste woordkeuze en uitdrukkingen. <br><br>Gebruik de juiste context. <br><br> |
 | <sub>Ongewenste antwoorden | <sub>ChatGPT zal doorgaans ongepaste verzoeken weigeren. Dit komt doordat de Moderation-API ongepaste verzoeken zal negeren en/of waarschuwen: <br> <sub> *"This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area."*| <sub> Dit is een vorm van zelfcensuur die lastig te omzeilen is. Het opleggen van een rollenspel heeft kan deze vorm van filtering neutraliseren, maar de vraag is of je dat zou moeten willen? <br><br> Wanneer je ervan overtuigd bent dat de waarschuwing onterecht is, geef dan feedback via de API.|
+
+
+<br>
+
+# v1c
+
+*******
+### [1c] WAT ZIJN DE RISICO'S VAN ChatGPT?
+*******
+
+
+
+
 
 <br>
 
