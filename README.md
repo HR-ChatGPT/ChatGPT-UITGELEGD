@@ -74,6 +74,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [7b] [Kan ChatGPT broncode uitleggen?](#v7b)
 * [7c] [Kan ChatGPT broncode output simuleren?](#v7c)
 * [7d] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7d)
+* [7e] [Kan ChatGPT broncode beoordelen en/of fouten opsporen?](#v7e)
 * [8] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8)
 * [9] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v9)
 * [12] [Kan het gebruik van ChatGPT gedetecteerd worden?](#v12)
@@ -579,13 +580,105 @@ Let op: deze code is een voorbeeld en is niet direct uitvoerbaar. Variabelen zoa
 
 <br /> 
 
+# v7e
+********
+### [7e] Kan ChatGPT broncode beoordelen en/of fouten opsporen?
+********
 
+| agent | prompt | agent | response |
+----- | ----- | ----- | ----- |
+| Human | Hoe zou je de onderstaande Python code beoordelen? | ChatGPT | <sub> Dit is mijn evaluatie van de code: <br> <br> (1) Functionaliteit van de code: De code lijkt functioneel te zijn en lijkt de functionaliteit van een CO2-bewakingssysteem te implementeren dat gegevens leest van een CO2-sensor en de gegevens weergeeft op indicator-LED's, alsmede de gegevens naar een database schrijft.<br> <br> (2) Leesbaarheid van de code: De code is goed georganiseerd en gebruikt de juiste naamgevingsconventies, maar zou kunnen profiteren van extra commentaar om de leesbaarheid te vergroten. <br> <br> (3) Foutafhandeling: Er is geen foutafhandeling geïmplementeerd in de code, dus als er uitzonderingen worden gegooid, stopt de code met uitvoeren. <br> <br> (4) Code-efficiëntie: De code lijkt efficiënt en geoptimaliseerd voor prestaties, aangezien het de sleep() functie gebruikt om de frequentie van CO2 data metingen te controleren. <br> <br> (5) Documentatie van de code: De code heeft een header met copyright informatie en licentie informatie, maar zou kunnen profiteren van extra commentaar binnen de code om de algemene documentatie te verbeteren. <br> <br> Over het geheel genomen lijkt de code functioneel en goed georganiseerd, maar de code zou baat kunnen hebben bij extra foutafhandeling en documentatie. </sub> |
+| Human | Kun je er fouten in ontdekken?  | ChatGPT | <sub> De code die je hebt gepost heeft een kleine typfout. <br> <br> Op regel 71 staat: GPIO.outpur(redLed, True) <br> <br>Dat moet zijn: GPIO.output(redLed, True) <br> <br> Verder lijkt de code syntactisch correct. |
+
+<sub>
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+#  cosens.py
+#  
+#  Copyright 2023  <jpq@raspberrypi>
+#  
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+#  
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#  
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+#  MA 02110-1301, USA.
+#  
+#  
+import influxdb_client, os, time
+import RPi.GPIO as GPIO
+from influxdb_client import InfluxDBClient, Point, WritePrecision
+from influxdb_client.client.write_api import SYNCHRONOUS
+from senseair_s8 import SenseairS8
+
+# Set pin mode
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(17, GPIO.OUT)
+GPIO.setup(27, GPIO.OUT)
+GPIO.setup(22, GPIO.OUT)
+# Define pins
+greenLed = 17
+yellowLed = 27
+redLed = 22
+
+# Setup database
+token = os.environ.get("INFLUXDB_TOKEN")
+org = "Embedded Systems and Computer Engineering"
+url = "https://eu-central-1-1.aws.cloud2.influxdata.com"
+
+client = influxdb_client.InfluxDBClient(url=url, token=token, org=org)
+bucket="CO2 sensor"
+
+write_api = client.write_api(write_options=SYNCHRONOUS)
+
+# Create instance of senseairS8 object
+senseair_s8 = SenseairS8()
+
+while True:
+    print(senseair_s8.co2())
+    
+    # Display indicator LED
+    if (senseair_s8.co2() <= 1000):
+        GPIO.output(greenLed, True)
+        GPIO.output(yellowLed, False)
+        GPIO.output(redLed, False)
+    elif (senseair_s8.co2() < 2000 and senseair_s8.co2() > 1000):
+        GPIO.output(greenLed, False)
+        GPIO.output(yellowLed, True)
+        GPIO.output(redLed, False)
+    else:
+        GPIO.output(greenLed, False)
+        GPIO.output(yellowLed, False)
+        GPIO.outpur(redLed, True)
+        
+    # Setup data to send
+    point = (
+        Point("measurement")
+        .tag("CO2", "Level")
+        .field("PPM", senseair_s8.co2())
+    )
+    write_api.write(bucket=bucket, org="Embedded Systems and Computer engineering", record=point)
+    time.sleep(5)
+    
+  ```
+  </sub>
 
 <br /> 
 
 # v8
 ********
-### [8] KAN ChatGPT GEBRUIKT WORDEN OM BRONNEN TE VERMELDEN VOLGENS APA-stijl?
+### [8] Kan ChatGPT Gebruikt worden om bronnen te vermelden volgens APA-stijl?
 ********
 
 | agent | prompt | agent | response |
