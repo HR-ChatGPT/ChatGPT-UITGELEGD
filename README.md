@@ -148,11 +148,18 @@ Deze op neuraal netwerk-gebaseerde grootschalige taalmodellen [LLM] zijn gevoed 
 LLMs van het van het type
 -->
 
+
+
+
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. 
 
-ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI.com eind 2022. 
+ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
 
-Deze nieuwe generatie GPT kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
+GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---*  aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
+
+De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen techgiganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Whashington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de risico's van ChatGTP](#v1c).
+
+Deze nieuwe generatie aan GPTs kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
 In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking [NLP] gebaseerde functies van ChatGPT weergegeven.
 
@@ -300,6 +307,27 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 
 
 
+Sharon Goldman schreef in VentureBeat (23 september 2022)  een blog over de risico's van Gen-AI met als titel: <br> 
+*"Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI"*.
+
+<!-- *"AI is getting smarter, but it's still not ready to be unleashed on the world"*.
+--> 
+DeepMind's state-of-the-art chatbot, *Sparrow*, wordt alom geprezen als een belangrijke stap in de richting van het creëren van veiligere, minder bevooroordeelde grootschalig taalmodel [LLM], dankzij de toepassing van door mensen gestuurde reinforcement learning [RL].  Dat wil zeggen, Dparrow heeft opdrachten *leren* uit te voeren aan de hand  van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
+
+DeepMind is een Britse dochteronderneming van het Google-moederbedrijf Alphabet. Zij omschrijven Sparrow als een *"dialoog-agent die het risico op onveilige en ongepaste antwoorden tracht te vermijden "*  De agent is ontworpen om *"met een gebruiker te praten, vragen te beantwoorden en het internet te doorzoeken met behulp van Google wanneer het nuttig is om bewijsmateriaal op te zoeken om zijn antwoorden te onderbouwen."*
+
+DeepMind beschouwt Sparrow als een  *proof-of-concept* dat nog niet klaar is om   *"in de echte wereld"* te worden losgelaten. *"Het is een stap in de richting van het creëren van een veiliger, minder bevooroordeeld, grootschalig taalmodel [LLM] dankzij de toepassing van door mensen gestuurde reinforcement learning [RL]."*
+aldus Geoffrey Irving, een veiligheidsonderzoeker bij DeepMind en hoofdauteur van de paper waarin Sparrow wordt geïntroduceerd.
+
+>"We hebben het systeem niet ingezet omdat we denken dat het veel vooroordelen en andere gebreken heeft." <br> "Ik denk dat de vraag is: hoe weeg je de communicatievoordelen - zoals communiceren met mensen - af tegen de nadelen? <br> Ik ben geneigd te geloven in de veiligheidsbehoeften van het praten met mensen ... Ik denk dat het daar op termijn een hulpmiddel voor is." 
+
+Een van de grootste moeilijkheden met elke conversationele Gen-AI is het instand houden van constuctieve dialogen omdat de *"een gebrek context"* bepalend is voor het verloop ervan. Zie  [Wat zijn de beperkingen van ChatGPT?](#v1b). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
+
+Eugenio Zuccarelli, een Innovation Data Scientist bij CVS Health en onderzoekswetenschapper bij het MIT Media Lab,legt uit dat er nog steeds sprake kan zijn van vooringenomenheid in de *"menselijke lus"* - immers, wat voor de ene persoon beledigend is, is voor de andere misschien niet beledigend. 
+Bovendien, voegde hij eraan toe, kunnen op regels gebaseerde benaderingen strengere regels maken, maar missen ze schaalbaarheid en flexibiliteit. "Het is moeilijk om elke regel die we kunnen bedenken te coderen, vooral naarmate de tijd verstrijkt, kunnen deze veranderen, en het beheer van een systeem op basis van vaste regels zou ons vermogen om op te schalen kunnen belemmeren," zei hij. "Flexibele oplossingen waarbij de regels rechtstreeks door het systeem worden geleerd en in de loop van de tijd automatisch worden aangepast, verdienen de voorkeur." 
+Hij wees er ook op dat een door een persoon of een groep mensen vastgelegde regel misschien niet alle nuances en randgevallen omvat. "De regel zou in de meeste gevallen kunnen kloppen, maar geen rekening houden met zeldzamere en misschien gevoelige situaties," zei hij.
+
+Ook Google-zoekopdrachten zijn misschien niet helemaal nauwkeurige of onbevooroordeelde informatiebronnen, vervolgde Zuccarelli. "Ze zijn vaak een weergave van onze persoonlijke kenmerken en culturele voorkeuren," zei hij. "Ook is het lastig om te bepalen welke een betrouwbare bron is."
 
 
 <br>
@@ -906,6 +934,8 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 
 * <sub> Forsyth, O. (2022, december 20). Generative AI. [Blog]. https://www.antler.co/blog/generative-ai
 
+* <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
+
 * <sub> Hiltzik, M. (2023, januari 20). Robot taxis, hyperloops: A top technologist wages war on tech's hype machine. [Column]. The Los Angeles Times. https://www.latimes.com/business/story/2023-01-20/robot-taxis-hyperloops-a-top-technologist-wages-war-on-techs-hype-machine
 
 * <sub> Ngo, R. (2022). The alignment problem from a deep learning perspective. arXiv preprint. https://doi.org/10.48550/arXiv.2209.00626
@@ -921,6 +951,8 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 * <sub> Sobieszek, A., & Price, T. (2022). Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models. In Minds and Machines (Vol. 32, pp. 341-364). https://doi.org/10.1007/s11023-022-09602-0
 
 * <sub> Thompson, A. D. (March 2022). What's in my AI? A Comprehensive Analysis of Datasets Used to Train GPT-1, GPT-2, GPT-3, GPT-NeoX-20B, Megatron-11B, MT-NLG, and Gopher. https://lifearchitect.ai/whats-in-my-ai-paper/
+
+* <sub> Tiku, N., De Vynck, G., & Oremus, W. (februari, 2023). Big Tech was moving cautiously on AI. Then came ChatGPT. [Technology Blog] The Washington Post. https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/
 
 * <sub> Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In 31st Conference on Advances in Neural Information Processing Systems (NIPS). https://doi.org/10.48550/arXiv.1706.03762 
 </td>
