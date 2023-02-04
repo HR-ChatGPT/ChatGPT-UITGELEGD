@@ -66,6 +66,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [1a] [Wat moet je weten over ChatGPT?](#v1a)
 * [1b] [Wat zijn de beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn de risico's van ChatGPT?](#v1c)
+* [1d] [Staat het gebruik van ChatGPT gelijk aan valsspelen?](#v1d)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
 * [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
 * [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
@@ -758,7 +759,7 @@ OpenAI heeft op 1 februari 2023 een tool vrijgegeven voor het herkennen van door
  Doel is NIET om plagiaat of het gebruik van ChatGTP te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van wetenschappelijke atrikelen, en imposter Chatbots.
 
 
-Door zich voor te doen als een mens, probeert de imposter GEN-AI eindgebruikers te laten geloven dat ze met een echt menselijk wezen communiceren, terwijl ze in werkelijkheid met een AI-systeem spreken. Dit is een vorm van *"social engineering"* die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.
+Door zich voor te doen als een mens, probeert de imposter Gen-AI eindgebruikers te laten geloven dat ze met een echt menselijk wezen communiceren, terwijl ze in werkelijkheid met een AI-systeem spreken. Dit is een vorm van *"social engineering"* die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.
 
 OpenAI.com heeft naar eigen zeggen de classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals de [AI-TEKST-CLASSIFIER](https://platform.openai.com/ai-text-classifier`). De vraag is of eerst een probleem creëren en dan een oplossing zoeken om het probleem op te lossen een goede strategie is?
 
