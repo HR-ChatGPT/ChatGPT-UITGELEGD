@@ -296,6 +296,8 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 | <sub>Ongewenste antwoorden | <sub>ChatGPT zal doorgaans ongepaste verzoeken weigeren. Dit komt doordat de Moderation-API ongepaste verzoeken zal negeren en/of waarschuwen: <br> <sub> *"This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area."*| <sub> Dit is een vorm van zelfcensuur die lastig te omzeilen is. Het opleggen van een rollenspel heeft kan deze vorm van filtering neutraliseren, maar de vraag is of je dat zou moeten willen? <br><br> Wanneer je ervan overtuigd bent dat de waarschuwing onterecht is, geef dan feedback via de API.|
 
 
+
+
 <br>
 
 # v1c
@@ -330,6 +332,14 @@ Eugenio Zuccarelli *---een Innovation Data Scientist bij CVS Health en onderzoek
  Google, dat een deel van de technologie die ten grondslag ligt aan ChatGPT heeft helpen ontwikkelen, heeft onlangs een *"code rood"* afgegeven voor de lancering van AI-producten en een *"groene baan"* voorgesteld om het proces van beoordeling en beperking van potentiële schade te verkorten, aldus een bericht in de [New York Times](https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html). Bij Meta daarentegen, is onlangs (december 2022) een interne memo's opgesteld waarin mederwerkers aandringen op een versneld goedkeuringsproces.
 <br>
 
+OpenAI heeft zichzelf gepositioneerd als een missiegedreven organisatie die zorgdraagt voor veilige AI-technologie, on par met menselijke waarden. Maar in de afgelopen jaren heeft het bedrijf een meer competitieve geest omarmd, die volgens sommige critici ten koste is gegaan van de oorspronkelijke doelstellingen.
+
+Die bezorgdheid groeide afgelopen zomer toen OpenAI zijn DALL-E 2 beeldgenererende software uitbracht, die tekstinstructies omzet in digitale kunstwerken. De app was een hit bij consumenten, maar riep ook lastige vragen op over hoe zulke krachtige tools gebruikt kunnen worden om schade aan te richten. Als het maken van hyperrealistische beelden net zo eenvoudig was als het intikken van een paar woorden, vroegen critici zich af, zouden pornografen en propagandisten dan niet veel plezier beleven aan deze technologie?
+
+De release van DALL-E 2 deed vragen rijzen over hoe de software zou kunnen worden misbruikt. Krediet... DALL-E 2.
+Om deze angsten weg te nemen, heeft OpenAI DALL-E 2 uitgerust met tal van beveiligingen en bepaalde woorden en zinnen geblokkeerd, zoals die met betrekking tot grafisch geweld of naaktheid. Het leerde de bot ook om bepaalde vooroordelen in zijn trainingsgegevens te neutraliseren - zoals ervoor zorgen dat wanneer een gebruiker vroeg om een foto van een C.E.O., de resultaten ook afbeeldingen van vrouwen bevatten.
+Deze ingrepen voorkwamen problemen, maar sommige OpenAI-managers vonden ze hardhandig en paternalistisch, volgens drie mensen met kennis van hun posities. Een van hen was de heer Altman, die heeft gezegd dat hij gelooft dat A.I. chatbots moeten worden gepersonaliseerd naar de smaak van de mensen die ze gebruiken - de ene gebruiker zou kunnen kiezen voor een strenger, meer gezinsvriendelijk model, terwijl een andere een lossere, edgier versie zou kunnen kiezen.
+OpenAI heeft met ChatGPT voor een minder restrictieve aanpak gekozen, waardoor de bot meer vrijheid heeft om zich uit te spreken over gevoelige onderwerpen als politiek, seks en religie. Toch hebben sommige rechtse conservatieven het bedrijf ervan beschuldigd te ver te gaan. "ChatGPT Goes Woke", luidde de kop van een artikel in National Review van vorige maand, waarin werd beweerd dat ChatGPT linkse antwoorden gaf op vragen over onderwerpen als drag queens en de verkiezingen van 2020. (Democraten hebben ook geklaagd over ChatGPT - vooral omdat ze vinden dat A.I. strenger moet worden gereguleerd).
 
 
 <br>
