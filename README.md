@@ -68,7 +68,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [0b] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0b)
 * [1a] [Wat moet je weten over ChatGPT?](#v1a)
 * [1b] [Wat zijn de beperkingen van ChatGPT?](#v1b)
-* [1c] [Wat zijn de risico's van ChatGPT?](#v1c)
+* [1c] [Wat zijn bekende risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1d] [Staat het gebruik van ChatGPT gelijk aan valsspelen?](#v1d)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
 * [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
@@ -303,7 +303,7 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 # v1c
 
 *******
-### [1c] WAT ZIJN DE RISICO'S VAN ChatGPT?
+### [1c] WAT ZIJN BEKENDE RISICO'S & SCHADUWKANTEN VAN ChatGPT?
 *******
 
 
