@@ -124,6 +124,10 @@ Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met al
 
 <br>
 
+ *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. 
+
+ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
+
 
 # v0b
 
