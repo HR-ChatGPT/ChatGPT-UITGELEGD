@@ -957,6 +957,9 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 * <sub> Tiku, N., De Vynck, G., & Oremus, W. (februari, 2023). Big Tech was moving cautiously on AI. Then came ChatGPT. [Technology Blog] The Washington Post. https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/
 
 * <sub> Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In 31st Conference on Advances in Neural Information Processing Systems (NIPS). https://doi.org/10.48550/arXiv.1706.03762 
+
+* <sub> Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). ReAct: Synergizing Reasoning and Acting in Language Models. arXiv preprint. https://doi.org/10.48550/ARXIV.2210.03629
+
 </td>
 </tbody>
 </table>
