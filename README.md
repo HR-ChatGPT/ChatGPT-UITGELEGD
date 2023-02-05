@@ -14,10 +14,11 @@
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
-| 1. Begrijpen wat ChatGPT wel en niet kan doen 
-| 2. Effectieve prompts schrijven
-| 3. Vervolgvragen schrijven
-| 4. Waarschuwing betrouwbaarheid
+| 1. Begrijpen wat ChatGPT wel en niet kan doen
+| 2. Ethische overwegingen bediscussiëren  
+| 3. Effectieve prompts schrijven
+| 4. Vervolgvragen schrijven
+| 5. Waarschuwing betrouwbaarheid
 
 Exemplarisch voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
@@ -179,6 +180,8 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
 <!--
 Deze op neuraal netwerk-gebaseerde grootschalige taalmodellen [LLM] zijn gevoed met enorm grote datasets. 
 LLMs van het van het type
+
+https://platform.openai.com/examples?category=code
 -->
 
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. 
