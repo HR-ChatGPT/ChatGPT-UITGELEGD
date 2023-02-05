@@ -156,7 +156,7 @@ ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld do
 
 GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---*  aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
-De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen techgiganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Whashington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de etische risico's & schaduwkanten van ChatGTP](#v1c).
+De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen techgiganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Whashington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de ethische risico's & schaduwkanten van ChatGTP](#v1c).
 
 Deze nieuwe generatie aan GPTs kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
@@ -292,15 +292,12 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 | <sub>Gebrek aan context | <sub>Omdat ChatGPT is getraind op bestaande tekst, kan het soms moeilijk zijn om de intentie van de vraagsteller te bepalen. <br><br> Dit gebeurt als een vraag niet specifiek genoeg is, dubbelzinnig en of tegenstrijdig is, of als de vraagsteller de context niet duidelijk aangeeft. <br><br>Gevolg is dat ChatGPT naar de intentie van de vraagsteller gaat *"raden"*. Met andere woorden, ChatGPT komt tot een antwoord door een reeks gissingen waardoor het foute antwoorden kan beargumenteren alsof ze volledig waar zijn. Het produceert dan alleen nog onzinnige antwoorden alsof het aan het hallucineren is. | <sub> Wanneer ChatGPT een alleen nog onzinnig antwoorden geeft, log dan uit. Log vervolgens opnieuw in en herformuleren de vraag. <br><br>Gebruik de juiste woordkeuze en uitdrukkingen. <br><br>Gebruik de juiste context. <br><br> |
 | <sub>Ongewenste antwoorden | <sub>ChatGPT zal doorgaans ongepaste verzoeken weigeren. Dit komt doordat de Moderation-API ongepaste verzoeken zal negeren en/of waarschuwen: <br> <sub> *"This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area."*| <sub> Dit is een vorm van zelfcensuur die lastig te omzeilen is. Het opleggen van een rollenspel heeft kan deze vorm van filtering neutraliseren, maar de vraag is of je dat zou moeten willen? <br><br> Wanneer je ervan overtuigd bent dat de waarschuwing onterecht is, geef dan feedback via de API.|
 
-
-
-
 <br>
 
 # v1c
 
 *******
-### [1c] WAT ZIJN BEKENDE RISICO'S & SCHADUWKANTEN VAN ChatGPT?
+### [1c] WAT ZIJN BEKENDE ETHISCHE RISICO'S & SCHADUWKANTEN VAN ChatGPT?
 *******
 
 
