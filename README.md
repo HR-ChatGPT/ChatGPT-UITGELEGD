@@ -67,7 +67,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
 * [0b] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0b)
 * [1a] [Wat moet je weten over ChatGPT?](#v1a)
-* [1b] [Wat zijn de beperkingen van ChatGPT?](#v1b)
+* [1b] [Wat zijn de functionele beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn bekende ethische risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1d] [Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
