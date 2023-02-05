@@ -222,9 +222,6 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking 
 ### [1b] WAT ZIJN DE BEPERKINGEN VAN ChatGPT?
 *******
 
-
-
-
 ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal functies. <br> Deze functies zijn:
 
 | Functie | Beschrijving |
@@ -285,10 +282,10 @@ ChatGPT is extreem gevoelig voor de wijze waarop een vraag geformuleerd wordt. D
 
 Nog problematischer is dat ChatGTP vaak in vreemde gedachten vervalt. Het hallucineert dan schijnbaar overtuigende maar onzinnige antwoorden die weinig met de werkelijkheid te maken hebben. Gebleken is dat de AI zeer zelfverzekerd onjuiste antwoorden geeft over elementaire wiskunde, natuurkunde en basale kennis van de biologie; in een viraal voorbeeld bleef de ChatGPT zichzelf tegenspreken over de vraag of een vis een zoogdier was.
 
-Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een dergelijke AI publiekelijk toegankelijk te maken. Van belang is om te weten hoe je met de beperkingen moet omgaan om ChatGPT verantwoord te kunnen inzetten voor school taken. In de onderstaande tabel zijn de meest voorkomende problemen en mogelijke oplossingen opgesomd.
+Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een dergelijke AI publiekelijk toegankelijk te maken. Van belang is om te weten hoe je met de beperkingen moet omgaan om ChatGPT verantwoord te kunnen inzetten voor school taken. 
 
-<br>
-
+# beperkingen
+#### In de onderstaande tabel zijn de meest voorkomende problemen en mogelijke oplossingen opgesomd.
 
 | Bekende Problemen | Oorzaak | Oplossing |
 |-----------|---------|---------|
@@ -323,7 +320,7 @@ aldus Geoffrey Irving, een veiligheidsonderzoeker bij DeepMind en hoofdauteur va
 
 >We hebben het systeem niet ingezet omdat we denken dat het veel vooroordelen en andere gebreken heeft. <br> Ik denk dat de vraag is: hoe weeg je de communicatievoordelen - zoals communiceren met mensen - af tegen de nadelen? <br> Ik ben geneigd te geloven in de veiligheidsbehoeften van het praten met mensen ... Ik denk dat het daar op termijn een hulpmiddel voor is.
 
-De voornaamste complicerende factor in het toepassen  van conversationele Gen-AI is het instand houden van constuctieve dialogen omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie  [Wat zijn de beperkingen van ChatGPT?](#v1b). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
+De voornaamste complicerende factor in het toepassen  van conversationele Gen-AI is het instand houden van constuctieve dialogen omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie  [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
 
 Eugenio Zuccarelli *---een Innovation Data Scientist bij CVS Health en onderzoekswetenschapper bij het MIT Media Lab---* legt uit dat er nog steeds sprake kan zijn van vooringenomenheid in de *"menselijke lus / human-in-de-loop"* - immers, wat voor de ene persoon beledigend is, is voor de andere misschien niet beledigend. 
 
