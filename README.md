@@ -30,6 +30,8 @@ Om duiding te geven aan de hype rond ChatGPT, is deze repository opgezet; een in
 
 Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden  blijkt uit een een Blog *--- getiteld: [ChatGPT Keeps Imploding Because of Crochet. (Seriously.)](https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite)"---*  in the Daily Beast  (05 februari 2023) van innovatie reporter Katie Notopoulos. Zij beschrijft hoe een groep van 100.000 TikTokkers, die zichzelf de "Crochet Army" noemden, ChatGPT wisten te hacken. Ze ontdekten dat ChatGPT een zwakke plek heeft in het herkennen van de letter "e". Door een eenvoudige prompt te gebruiken, konden ze ChatGPT zo verleiden dat het een reeks onzinnige zinnen produceerde.
 
+Het gebruik van ChatGPT is niet zonder risico's. Het is een AI-technologie die nog in ontwikkeling is. 
+Het zal zeer waarschijnlijk nog jaren duren voordat het vrij van ongwenst taalgebruik, foutloos en met een hoge betrouwheid, op overtuigendwijze  *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. Het zal op korte termijn veelvuldig worden ingezet voor "social engineering"  en "social manipulation" doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen.
 
 <!--
 
