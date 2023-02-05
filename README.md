@@ -26,6 +26,10 @@ Nu ChatGPT een wereldwijde hit is, verkeerd Sam Altman *---chief executive of Op
 >Op Twitter heeft hij geprobeerd de opwinding te temperen door ChatGPT "ongelooflijk beperkt" te noemen en gebruikers te waarschuwen dat "het een vergissing is om er nu op te vertrouwen voor iets belangrijks".
 
 Om duiding te geven aan de hype rond ChatGPT, is deze repository opgezet; een initiatief van het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS). Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository uitsluitend gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van studenten, in combinatie met (2) onderwijstaken van docenten in het hoger onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+
+Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden  blijkt uit een een Blog *--- getiteld: [ChatGPT Keeps Imploding Because of Crochet. (Seriously.)]((https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite))"---*  in the Daily Beast  (05 februari 2023) van innovatie reporter [Katie Notopoulos]. Zij beschrijft hoe een groep van 100.000 TikTokkers, die zichzelf de "Crochet Army" noemden, ChatGPT wisten te hacken. Ze ontdekten dat ChatGPT een zwakke plek heeft in het herkennen van de letter "e". Door een eenvoudige prompt te gebruiken, konden ze ChatGPT zo verleiden dat het een reeks onzinnige zinnen produceerde.
+
+
 <!--
 
 $${\color{blue} \fbox{Deze GitHub repository is een ChatGPT primer met bijsluiter.}}$$
