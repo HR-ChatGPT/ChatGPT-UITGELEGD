@@ -72,7 +72,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
 * [0c] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0c)
 * [1a] [Wat moet je weten over ChatGPT?](#v1a)
-* [1b] [Wat zijn de functionele beperkingen van ChatGPT?](#v1b)
+* [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1e] [Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
@@ -247,7 +247,7 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taal verwerking 
 
 
 *******
-### [1b] WAT ZIJN DE BEPERKINGEN VAN ChatGPT?
+### [1b] WAT ZIJN DE FUNCTIONELE MOGELIJKHEDEN & BEPERKINGEN VAN ChatGPT?
 *******
 
 ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal functies. <br> Deze functies zijn:
