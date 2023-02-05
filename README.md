@@ -80,8 +80,8 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [7c] [Kan ChatGPT broncode output simuleren?](#v7c)
 * [7d] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7d)
 * [7e] [Kan ChatGPT broncode beoordelen en/of fouten opsporen?](#v7e)
-* [8] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8)
-* [9] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v9)
+* [8a] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8a)
+* [8b] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v8b)
 * [12] [Kan het gebruik van ChatGPT gedetecteerd worden?](#v12)
 * [13] [Kun je spreken tegen ChatGPT?](#v13)
 * [14] [Bekende problemen & betrouwbaarheid issues](#v14)
@@ -749,9 +749,9 @@ while True:
 
 <br /> 
 
-# v8
+# v8a
 ********
-### [8] Kan ChatGPT Gebruikt worden om bronnen te vermelden volgens APA-stijl?
+### [8a] Kan ChatGPT Gebruikt worden om bronnen te vermelden volgens APA-stijl?
 ********
 
 | agent | prompt | agent | response |
@@ -792,9 +792,9 @@ while True:
 
 <br /> 
 
-# v9
+# v8b
 ********
-### [9] KAN ChatGPT GEBRUIKT WORDEN OM BRONNEN SAMEN TE VATTEN?
+### [8b] KAN ChatGPT GEBRUIKT WORDEN OM BRONNEN SAMEN TE VATTEN?
 ********
 
 | agent | prompt | agent | response |
@@ -802,7 +802,6 @@ while True:
 | Human | Kun je een synthese geven waarin de overeenkomst wordt beschreven van de bovenstaande 3 bronnen in minder dan 500 woorden? | ChatGPT | De drie bronnen die ik eerder genoemd heb, beschrijven allemaal Deep Learning als een subveld van kunstmatige intelligentie dat zich richt op het ontwikkelen van diepe neurale netwerken. Ze beschrijven hoe Deep Learning in staat is om complexe patronen in grote hoeveelheden data te herkennen en te generaliseren, en hoe het een groeiende belangstelling heeft gekregen in de afgelopen jaren.<br> <br> De bronnen bespreken ook hoe Deep Learning wordt toegepast in diverse gebieden zoals beeldherkenning, spraakherkenning, natuurlijke taalverwerking en andere. Ze benadrukken dat deep learning methoden vaak een betere prestatie geven dan traditionele methoden van machine learning.<br> <br> Ze beschrijven ook de belangrijkste uitdagingen die nog moeten worden overwonnen zoals regulering, interpretabiliteit, en generalisatie.<br> <br> Al de bronnen bespreken de verschillende soorten diepe neurale netwerken die zijn ontwikkeld, zoals feedforward-netwerken, convolutionele netwerken en recurrente netwerken.<br> <br> Al met al, de drie bronnen geven een uitgebreide introductie tot Deep Learning, met nadruk op de principes en technieken van diepe neurale netwerken, de toepassingsgebieden waar het meest effectief is en de uitdagingen die nog moeten worden overwonnen. |
 
 <br /> 
-
 
 # v12
 ********
