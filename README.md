@@ -71,7 +71,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 * [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
 * [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
 * [0c] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0c)
-* [1a] [Wat moet je weten over ChatGPT?](#v1a)
+* [1a] [Wat moet je weten over ChatGPT en waarvoor kan het worden gebruikt?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1e] [Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
@@ -173,7 +173,7 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
 
 
 *******
-### [1a] WAT MOET JE WETEN OVER ChatGPT?
+### [1a] WAT MOET JE WETEN OVER ChatGPT EN WAARVOOR KAN HET WORDEN GEBRUIKT?
 *******
 
 <!--
