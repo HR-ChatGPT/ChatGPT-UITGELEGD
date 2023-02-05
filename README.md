@@ -230,7 +230,7 @@ ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal func
 | Afleiden van de intentie van de eindgebruiker | Wat de eindgebruiker wil bereiken en/of vaststellen wat zijn/haar bedoeling, doel of motivatie is  | 
 | Tegengaan van ongepast taalgebruik | Voorkomen of bestrijden van het gebruik van taal die aanstootgevend, beledigend, kwetsend of discriminerend is. <br> <br /> Denk aan taal die racistisch, seksistisch, homofoob of op andere manieren onacceptabel is en niet in overeenstemming is met de normen van de samenleving. <br> <br/> Beoogde doel is om een respectvolle en inclusieve omgeving te creëren waarin iedereen zich veilig en geaccepteerd voelt.
  | Reduceren van de kans op het genereren van "verzonnen" feiten | Verminderen van de kans op het creëren of verspreiden van onjuiste of niet-geverifieerde informatie. <br > <br> Dit omvat het voorkomen van het opzettelijk verspreiden van verkeerde informatie en het beperken van onbedoelde verspreiding van onjuiste feiten. <br> <br> Het streven is de betrouwbaarheid en authenticiteit van de informatie te verhogen en de verspreiding van valse informatie te voorkomen, wat kan leiden tot verwarring en verkeerde/schadelijke beslissingen.
- Adequate reacties | het bieden van een gepaste en effectieve reactie op de input prompts van de eindgebruiker, waarbij de nadruk ligt op precisie, bruikbaarheid.
+ Adequate reacties | Het bieden van een gepaste en effectieve reactie op de input prompts van de eindgebruiker, waarbij de nadruk ligt op precisie, bruikbaarheid.
 
 
 <br> <br> 
@@ -328,7 +328,7 @@ Eugenio Zuccarelli *---een Innovation Data Scientist bij CVS Health en onderzoek
 >Bovendien, kunnen op regels gebaseerde algoritmen strengere regels creëren, hierdoor missen ze schaalbaarheid en flexibiliteit. Het is moeilijk om elke regel die we kunnen bedenken te coderen, vooral naarmate de tijd verstrijkt, kunnen deze veranderen, en het beheer van een systeem op basis van vaste regels zou ons vermogen om op te schalen kunnen belemmeren."  Bij voorkeur streef je naar Flexibele oplossingen waarbij de regels rechtstreeks door het systeem worden geleerd en in de loop van de tijd automatisch worden aangepast aan de veranderende omstandigheden. Een vastgelegde regel kan niet alle nuances en randgevallen omvatten. De regel zou in de meeste gevallen kunnen kloppen, maar geen rekening houden met zeldzamere en misschien gevoelige situaties. 
 <br> <br> Google-zoekopdrachten zijn misschien niet helemaal nauwkeurige of onbevooroordeelde informatiebronnen, vervolgde Zuccarelli. "Ze zijn vaak een weergave van onze persoonlijke kenmerken en culturele voorkeuren," zei hij. "Ook is het lastig om te bepalen welke een betrouwbare bron is."
 
-
+ Google, dat een deel van de technologie die ten grondslag ligt aan ChatGPT heeft helpen ontwikkelen, heeft onlangs een *"code rood"* afgegeven voor de lancering van AI-producten en een *"groene baan"* voorgesteld om het proces van beoordeling en beperking van potentiële schade te verkorten, aldus een bericht in de [New York Times](https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html). Bij Meta daarentegen, is onlangs (december 2022) een interne memo's opgesteld waarin mederwerkers aandringen op een versneld goedkeuringsproces.
 <br>
 
 
@@ -935,6 +935,8 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 
 * <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
 
+* <sub> Grant, N., & Metz, C. (2022, December 21). A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. [Tecnology Blog] The New York Times. https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html
+
 * <sub> Hiltzik, M. (2023, januari 20). Robot taxis, hyperloops: A top technologist wages war on tech's hype machine. [Column]. The Los Angeles Times. https://www.latimes.com/business/story/2023-01-20/robot-taxis-hyperloops-a-top-technologist-wages-war-on-techs-hype-machine
 
 * <sub> Ngo, R. (2022). The alignment problem from a deep learning perspective. arXiv preprint. https://doi.org/10.48550/arXiv.2209.00626
@@ -944,6 +946,8 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 * <sub> Openai.com (2022, januari 27). Following-instructions-human-feedback [Code repository]. https://github.com/openai/following-instructions-human-feedback.
 
 * <sub> Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., & Ray, A. (2022). <br> Training language models to follow instructions with human feedback. arXiv preprint. https://doi.org/10.48550/arXiv.2203.02155
+
+* <sub> Roose, K. (2023, February 3). How ChatGPT Kicked Off an A.I. Arms Race. Even inside the company, the chatbot’s popularity has come as something of a shock. [Technology Blog: The Shift] The New York Times. https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html
 
 * <sub> Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization (PPO) algorithms. arXiv preprint. https://doi.org/10.48550/arXiv.1707.06347
 
