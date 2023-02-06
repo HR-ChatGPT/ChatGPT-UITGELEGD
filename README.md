@@ -365,7 +365,7 @@ aldus Geoffrey Irving, een veiligheidsonderzoeker bij DeepMind en hoofdauteur va
 
 >We hebben het systeem niet ingezet omdat we denken dat het veel vooroordelen en andere gebreken heeft. <br> Ik denk dat de vraag is: hoe weeg je de communicatievoordelen - zoals communiceren met mensen - af tegen de nadelen? <br> Ik ben geneigd te geloven in de veiligheidsbehoeften van het praten met mensen ... Ik denk dat het daar op termijn een hulpmiddel voor is.
 
-De voornaamste complicerende factor in het toepassen  van conversationele Gen-AI is het instand houden van constuctieve dialogen omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie  [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
+De voornaamste complicerende factor in het toepassen  van conversationele Gen-AI is het instand houden van [constuctieve dialogen](https://arxiv.org/abs/2209.14375) omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie ook [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
 
 Eugenio Zuccarelli *---een Innovation Data Scientist bij CVS Health en onderzoekswetenschapper bij het MIT Media Lab---* legt uit dat er nog steeds sprake kan zijn van vooringenomenheid in de *"menselijke lus / human-in-de-loop"* - immers, wat voor de ene persoon beledigend is, is voor de andere misschien niet beledigend. 
 
