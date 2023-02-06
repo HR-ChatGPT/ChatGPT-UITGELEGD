@@ -33,8 +33,8 @@ Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden  blijkt 
 
 >Door ChatGPT's enorme populariteit is er een stortvloed aan verhalen losgekomen over wat het zoal kan: academische essays schrijven, medische examens afnemen, maaltijden voorbereiden en misschien (op een dag) optreden als advocaat in de rechtszaal. Maar voor elk succesverhaal is er een ander dat het falen ervan belicht: Waarom kan ChatGPT wel een navolgbaar essay schrijven, maar niet een van literaire kwaliteit? Waarom heeft het moeite met sommige soorten logische vragen en geeft het zelfverzekerd onjuiste antwoorden op andere?
 
-Ondanks dat OpenAI goede sier maakt met het vrijtoegankelijk maken van ChatGPT, is het belangrijk om te beseffen dat het een *"work in progress"* is dat nog volop in ontwikkeling is, waarbij de onderliggende AI-technologie grotendeels de *"brainchild"* is van Alphabet *---het moeder bedrijf van Google---* voortgekomen uit de onderzoekslaboratoria van [*"Google Brain"*](https://neurapod.medium.com/google-brain-b68866732fe) en [*"DeepMind"*](https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html).  Dit geldt in mindermate ook voor Meta *---het moederbedrijf van Facebook---* dat sinds 2013 aan de ontwikkeling van [*"FAIR"*](https://engineering.fb.com/2018/12/05/ai-research/fair-fifth-anniversary/) werkt.
-Deze twee bedrijven zijn de grootste spelers in de wereld van kunstmatige intelligentie [AI]. Ze hebben de meeste middelen, ervaring en de meeste data. Toch, hebben zij een andere afweging gemaakt dan OpenAI uit zowel een moreel als een commercieel oogpunt.
+Ondanks dat OpenAI goede sier maakt met het vrijtoegankelijk maken van ChatGPT, is het belangrijk om te weten dat het een *"work in progress"* is dat nog volop in ontwikkeling is, waarbij de onderliggende AI-technologie grotendeels de *"brainchild"* is van Alphabet *---het moeder bedrijf van Google---* voortgekomen uit de onderzoekslaboratoria van [*"Google Brain"* (2011)](https://neurapod.medium.com/google-brain-b68866732fe) en [*"DeepMind"* (2014](https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html).  Dit geldt in mindermate ook voor Meta *---het moederbedrijf van Facebook---* dat sinds 2013 aan de ontwikkeling van [*"FAIR"*](https://engineering.fb.com/2018/12/05/ai-research/fair-fifth-anniversary/) werkt.
+Deze twee bedrijven zijn de meest invloedrijke vernieuwers in de wereld van kunstmatige intelligentie [AI]. Ze beschikken over enorm veel (financiële) middelen, ervaring, werkgemeenschappen en hebben toegang tot zeer grote datasets. Toch, hebben zij een andere afweging gemaakt dan OpenAI uit zowel een moreel als een commercieel oogpunt.
 
 >Yann LeCun zei op Twitter (8 januari 2023) dat Alphabet en Meta hun grootschalig taalmodelen [LLMs] niet vrijgeven aan het grote publiek om ethische redenen. LLMs' genereren nog te vaak foutieve en/of giftige teksten.
 
@@ -970,7 +970,7 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 
 * <sub> Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., & Ray, A. (2022). <br> Training language models to follow instructions with human feedback. arXiv preprint. https://doi.org/10.48550/arXiv.2203.02155
 
-* <sub> Pandey, M. (2023, January 10). Google, Meta, Why NO ChatGPT? [Opinion]. https://analyticsindiamag.com/google-meta-why-no-chatgpt/
+* <sub> Pandey, M. (2023, January 10). Google, Meta, Why NO ChatGPT? [Opinion]. Analytics India Magazine. https://analyticsindiamag.com/google-meta-why-no-chatgpt/
 
 * <sub> Roose, K. (2023, February 3). How ChatGPT Kicked Off an A.I. Arms Race. Even inside the company, the chatbot’s popularity has come as something of a shock. [Technology Blog: The Shift] The New York Times. https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html
 
