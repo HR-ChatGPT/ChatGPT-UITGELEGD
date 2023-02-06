@@ -970,6 +970,8 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 
 * <sub> Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., & Ray, A. (2022). <br> Training language models to follow instructions with human feedback. arXiv preprint. https://doi.org/10.48550/arXiv.2203.02155
 
+* <sub> Pandey, M. (2023, January 10). Google, Meta, Why NO ChatGPT? [Opinion]. https://analyticsindiamag.com/google-meta-why-no-chatgpt/
+
 * <sub> Roose, K. (2023, February 3). How ChatGPT Kicked Off an A.I. Arms Race. Even inside the company, the chatbot’s popularity has come as something of a shock. [Technology Blog: The Shift] The New York Times. https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html
 
 * <sub> Salemans, B. (2023, January 7). ChatGPT: de rapportcijfers [Blog]. Neerlandistiek. Online tijdschrift voor taal- en Letterkunde. https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/
