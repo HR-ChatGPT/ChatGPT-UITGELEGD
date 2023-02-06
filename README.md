@@ -33,8 +33,7 @@ Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden  blijkt 
 
 Door ChatGPT's enorme populariteit is er een stortvloed aan verhalen losgekomen over wat hetT zoal kan: academische essays schrijven, medische examens afnemen, maaltijden voorbereiden en misschien (op een dag) optreden als advocaat in de rechtszaal. Maar voor elk succesverhaal is er een ander dat het falen ervan belicht: Waarom kan ChatGPT wel een navolgbaar essay schrijven, maar niet een van literaire kwaliteit? Waarom heeft het moeite met sommige soorten logische vragen en geeft het zelfverzekerd onjuiste antwoorden op andere?
 
-Het gebruik van ChatGPT is dus niet zonder risico's. Het is een AI-technologie die nog in ontwikkeling is. 
-Het zal zeer waarschijnlijk nog jaren duren voordat het vrij van ongwenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigendwijze  *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. Het zal op korte termijn veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen.
+Het gebruik van ChatGPT is dus niet zonder risico's. Het is een nog jonge AI-technologie dat nog volop in ontwikkeling is. Het zal zeer waarschijnlijk nog jaren duren voordat het vrij van ongwenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigendwijze  *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. Het zal op korte termijn veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen en waarom. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 <!--
 
