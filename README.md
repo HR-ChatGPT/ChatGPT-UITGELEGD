@@ -815,9 +815,7 @@ while True:
   DOI: 10.1038/nature14539
   Citaties: 52,106
 
-  Dit boek is een uitgebreide introductie tot Deep Learning, met een nadruk op de principes en technieken van
-  de diepe neurale netwerken. Het behandelt onderwerpen zoals perceptron-modellen, backpropagation, 
-  regulering, convolutionele netwerken en recurrente netwerken.
+ 
 
 [2] Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural Networks, 61, 85-117. 
   DOI: 10.1016/j.neunet.2014.09.003
