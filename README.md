@@ -23,8 +23,9 @@
 Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
 
-Nu ChatGPT een wereldwijde hit is, verkeerd Sam Altman *---chief executive of OpenAI---* in de opmerkelijke situatie dat hij een hitproduct moet proberen te bagatelliseren. Volgens [*"The New York Times (3 februari 2023)"*](https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html) wordt  gevreesd dat te veel aandacht en rumoer ronddom ChatGPT een regelgevende reactie kan uitlokken of opgeblazen verwachtingen voor toekomstige releases kan creëren. 
->Op Twitter heeft hij geprobeerd de opwinding te temperen door ChatGPT "ongelooflijk beperkt" te noemen en gebruikers te waarschuwen dat "het een vergissing is om er nu op te vertrouwen voor iets belangrijks".
+Nu GPT de nieuwste sensatie in de wereld van kunstmatige intelligentie [AI] is, probeert Sam Altman *---chief executive of OpenAI---*  de effecten ervan te bagatelliseren. Volgens [*"The New York Times (3 februari 2023)"*](https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html) vreest hij dat te veel aandacht en rumoer rondom ChatGPT een regelgevende reactie kan uitlokken vanuit overheden. Of onrealistische verwachtingen bij eindgebruikers  overde functionaleit in toekomstige releases.
+
+>Op Twitter heeft hij geprobeerd de gemoederen wat te bedaren door ChatGPT *"ongelooflijk beperkt"* te noemen en gebruikers te waarschuwen dat *"het een vergissing is om er nu op te vertrouwen voor iets belangrijks".*
 
 Om duiding te geven aan de hype rond ChatGPT, is deze repository opgezet; een initiatief van het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS). Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository uitsluitend gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van studenten, in combinatie met (2) onderwijstaken van docenten in het hoger onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
@@ -937,11 +938,13 @@ De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatG
 <tbody>
 <td align="left">
 
-
+* <sub> Bender, M. (2023, February 04). How Crochet TikTokers Uncovered ChatGPT's Kryptonite. [Innovation Blog] The Daily Beast. https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite
 
 * <sub> van Breda, N. (2022, december 23). ChatGPT: Wat ga je voor ons doen in het onderwijs? [Blog]. <br> https://communities.surf.nl/ai-in-education/artikel/ChatGPT-wat-ga-je-voor-ons-doen-in-het-onderwijs
 
 * <sub> Chan, A. GPT-3 and InstructGPT: technological dystopianism, utopianism, and “Contextual” perspectives in AI ethics and industry. AI Ethics (2022). https://doi.org/10.1007/s43681-022-00148-6
+
+* <sub> dair-ai. Prompt Engineering Guide. [Github Repository] https://github.com/dair-ai/Prompt-Engineering-Guide
 
 * <sub> Finnie-Ansley, J., Denny, P., Becker, B. A., Luxton-Reilly, A., & Prather, J. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. In ACE '22: Australasian Computing Education Conference (pp. 10-19). https://doi.org/10.1145/3511861.3511863
 
