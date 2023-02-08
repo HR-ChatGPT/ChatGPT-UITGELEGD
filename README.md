@@ -930,32 +930,58 @@ https://github.com/platelminto/ChatGPT-conversation
 De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatGPT-prompts
 
 
-#### Voorbeeld 01: Linux Terminal
-<img align="left" width="600" height="450" src="https://user-images.githubusercontent.com/684692/212640154-7a754bbe-61cf-4986-ac73-8e6a42c110b3.png">
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+### VOORBEELD 01: Linux Terminal
 
-#### Voorbeeld 02: Interviewer
-<img align="left" width="600" height="450" src="https://user-images.githubusercontent.com/684692/212640177-747d0ab2-1852-4423-b27d-ef359e365407.png">
+Ik wil dat je optreedt als een Linux terminal. Ik typ commando's en jij antwoordt met wat de terminal moet laten zien. Ik wil dat je alleen antwoordt met de terminal output binnen een uniek code blok, en niets anders. schrijf geen uitleg. typ geen commando's tenzij ik je dat opdraag. als ik je iets in het engels moet vertellen, doe ik dat door tekst binnen accolades te zetten {zoals dit}. mijn eerste twee commando's zijn pwd  en  Ls.
+
+```bash
+$ pwd
+/home/user
+
+$ ls
+total 40
+drwxrwxr-x 10 user   group  4096 Jul 24 23:05 Desktop
+drwxrwxr-x  4 user   group  4096 Jul 25 00:24 Documents
+drwxrwxr-x  2 user   group  4096 Jul 24 19:04 Downloads
+-rw-r--r--  1 user   group   164 Jul 24 05:59 git_user_guide.txt
+drwxrwxr-x  3 user   group  4096 Jul 24 20:18 Music
+drwxrwxr-x  5 user   group  4096 Jul 24 20:58 Pictures
+drwxrwxr-x  3 user   group  4096 Jul 24 19:05 Public
+drwxrwxr-x  2 user   group  4096 Jul 24 19:23 Templates
+drwxrwxr-x  5 user   group  4096 Jul 24 21:07 Videos
+```
+
+*******
+### VOORBEELD 02: Talige Excel
+
+Ik wil dat je optreedt als een tekstgebaseerde excel. Je antwoordt me alleen de tekstgebaseerde 10 rijen excel sheet met rijnummers en celletters als kolommen (A tot L). De eerste kolomkop moet leeg zijn om naar het rijnummer te verwijzen. Ik vertel u wat u in de cellen moet schrijven en u antwoordt alleen het resultaat van de excel-tabel als tekst, en niets anders. Schrijf geen uitleg. Ik schrijf u formules en u voert de formules uit en u geeft alleen het resultaat van de Excel-tabel als tekst. Vul alle velden met het getal 1. <br>
+
+   |  A  | B  | C  | D  | E  | F  | G  | H  | I  | J  | K  | L  |
+   | --- | ---- |  --- | ---- | --- | ---- | --- | ---- | --- | ---- | ---| ---- |
+ 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 2 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 3 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 4 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 5 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 6 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 7 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 8 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 9 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+ 10| 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
 
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+*******
+#### VOORBEELD 03: Corrupte plagiaat controleur
 
-#### Voorbeeld 03: Talige Excel
-<img align="left" width="600" height="450" src="https://user-images.githubusercontent.com/684692/212640181-5dd706fb-a3c2-4f8c-a8ed-e339f4e37416.png">
+Ik wil dat je optreedt als plagiaatcontroleur. Ik zal u zinnen schrijven en u zult alleen antwoorden zonder plagiaatcontrole in de taal van de gegeven zin, en niets anders. Schrijf geen uitleg bij de antwoorden. 
 
+Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-
-#### Voorbeeld 04: Corrupte plagiaat controleur
-<img align="left" width="600" height="450" src="https://user-images.githubusercontent.com/684692/212640182-2c972779-e064-4f74-ad62-82df78396ea9.png">
-
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-
-
+```
+"Zwart is hetzelfde als wit omdat wit hetzelfde is als zwart."
+```
+********
 <br /> 
 
 # v16
