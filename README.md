@@ -15,7 +15,7 @@
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
 | 1. Begrijpen wat ChatGPT wel en niet kan doen
-| 2. Ethische overwegingen bediscussiëren  
+| 2. Ethische overwegingen bediscussiëren 
 | 3. Effectieve prompts schrijven
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
@@ -23,28 +23,28 @@
 Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
 
-Nu GPT de nieuwste sensatie in de wereld van kunstmatige intelligentie [AI] is, probeert Sam Altman *---chief executive of OpenAI---*  de effecten ervan te bagatelliseren. Volgens [*"The New York Times (3 februari 2023)"*](https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html) vreest hij dat te veel aandacht en rumoer rondom ChatGPT een regelgevende reactie kan uitlokken vanuit overheden. Of onrealistische verwachtingen bij eindgebruikers  over de functionaliteit in toekomstige releases.
+Nu GPT de nieuwste sensatie in de wereld van kunstmatige intelligentie [AI] is, probeert Sam Altman *---chief executive of OpenAI---* de effecten ervan te bagatelliseren. Volgens [*"The New York Times (3 februari 2023)"*](https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html) vreest hij dat te veel aandacht en rumoer rondom ChatGPT een regelgevende reactie kan uitlokken vanuit overheden. Of onrealistische verwachtingen bij eindgebruikers over de functionaliteit in toekomstige releases.
 
 >Op Twitter heeft hij geprobeerd de gemoederen wat te bedaren door ChatGPT *"ongelooflijk beperkt"* te noemen en gebruikers te waarschuwen dat *"het een vergissing is om er nu op te vertrouwen voor iets belangrijks".*
 
 Om duiding te geven aan de hype rond ChatGPT, is deze repository opgezet; een initiatief van het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS). Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository uitsluitend gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van studenten, in combinatie met (2) onderwijstaken van docenten in het hoger onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
-Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden  blijkt uit een Blog *--- getiteld: [ChatGPT Keeps Imploding Because of Crochet. (Seriously.)](https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite)"---*  in the Daily Beast  (05 februari 2023) geschreven door innovatie-reporter Katie Notopoulos. Zij beschrijft hoe een groep van 100.000 TikTokkers onder leiding van textielkunstenares Alex Woolner [*---die zichzelf de "Crochet Army" noemen---*](https://www.tiktok.com/discover/chatgpt-crochet) een zwakke plek wisten bloot te leggen door het te *"misbruiken"* voor het genereren  van *"Crochet"* haakpatronen. ChatGTP kan niet omgaan met de complexiteit van de patronen die de Crochet Army had bedacht. Het resultaat zijn een onleesbare reeksen letters en cijfers.
+Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden blijkt uit een Blog *--- getiteld: [ChatGPT Keeps Imploding Because of Crochet. (Seriously.)](https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite)"---* in the Daily Beast (05 februari 2023) geschreven door innovatie-reporter Katie Notopoulos. Zij beschrijft hoe een groep van 100.000 TikTokkers onder leiding van textielkunstenares Alex Woolner [*---die zichzelf de "Crochet Army" noemen---*](https://www.tiktok.com/discover/chatgpt-crochet) een zwakke plek wisten bloot te leggen door het te *"misbruiken"* voor het genereren van *"Crochet"* haakpatronen. ChatGTP kan niet omgaan met de complexiteit van de patronen die de Crochet Army had bedacht. Het resultaat zijn een onleesbare reeksen letters en cijfers.
 
 >Door ChatGPT's enorme populariteit is er een stortvloed aan verhalen losgekomen over wat het zoal kan: academische essays schrijven, medische examens afnemen, maaltijden voorbereiden en misschien (op een dag) optreden als advocaat in de rechtszaal. Maar voor elk succesverhaal is er een ander dat het falen ervan belicht: Waarom kan ChatGPT wel een navolgbaar essay schrijven, maar niet een van literaire kwaliteit? Waarom heeft het moeite met sommige soorten logische vragen en geeft het zelfverzekerd onjuiste antwoorden op andere?
 
-Ondanks dat OpenAI goede sier maakt met het vrij toegankelijk maken van ChatGPT, is het belangrijk om te weten dat het een *"work in progress"* is dat nog volop in ontwikkeling is, waarbij de onderliggende AI-technologie grotendeels de *"brainchild"* is van Alphabet *---het moeder bedrijf van Google---* voortgekomen uit de onderzoekslaboratoria van [*"Google Brain"* (2011)](https://neurapod.medium.com/google-brain-b68866732fe) en [*"DeepMind"* (2014)](https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html).  Dit geldt in mindere mate ook voor Meta *---het moederbedrijf van Facebook---* dat sinds 2013 aan de ontwikkeling van [*"FAIR"* (Facebook Artificial Intelligence Research)](https://engineering.fb.com/2018/12/05/ai-research/fair-fifth-anniversary/) werkt.
+Ondanks dat OpenAI goede sier maakt met het vrij toegankelijk maken van ChatGPT, is het belangrijk om te weten dat het een *"work in progress"* is dat nog volop in ontwikkeling is, waarbij de onderliggende AI-technologie grotendeels de *"brainchild"* is van Alphabet *---het moeder bedrijf van Google---* voortgekomen uit de onderzoekslaboratoria van [*"Google Brain"* (2011)](https://neurapod.medium.com/google-brain-b68866732fe) en [*"DeepMind"* (2014)](https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html). Dit geldt in mindere mate ook voor Meta *---het moederbedrijf van Facebook---* dat sinds 2013 aan de ontwikkeling van [*"FAIR"* (Facebook Artificial Intelligence Research)](https://engineering.fb.com/2018/12/05/ai-research/fair-fifth-anniversary/) werkt.
 FAIR is overgaan in [Meta.AI](https://ai.facebook.com/) (2015). Alphabet en Meta zijn de meest invloedrijke vernieuwers in de wereld van kunstmatige intelligentie [AI]. Ze beschikken over enorm veel (financiële) middelen, ervaring, werkgemeenschappen en hebben toegang tot zeer grote datasets. Toch, hebben zij een andere afweging gemaakt dan OpenAI uit zowel een moreel als een commercieel oogpunt.
 
->Yann LeCun *---Cofounder Meta-AI--* zei op Twitter (8 januari 2023) dat Alphabet en Meta hun grootschalig taalmodelen [LLMs] niet vrijgeven aan het grote publiek om ethische redenen. LLMs' genereren nog te vaak foutieve en/of giftige teksten. In dezelfde Twitter thread, toen hij erop gewezen werd  het  *"public relations fisaco"*  rondom de introductie van Meta-AI's  [*Galactica*](www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) niet te vermelden bij het bekritiseren van ChatGPT; zei hij dat dit precies de reden is dat grote bedrijven het publieke gebruik van hun producten vermijden. Voordat ze daadwerkelijk schade veroorzaken, verwelkomen mensen hen met "belachelijke knieval onheilsprofetieën". Galactica moest wetenschappers helpen. In plaats daarvan, spuwde het gedachteloos bevooroordeelde en onjuiste onzin uit. Drie dagen na de lancering (18 november 2022), werd het uitgeschakeld.
+>Yann LeCun *---Cofounder Meta-AI--* zei op Twitter (8 januari 2023) dat Alphabet en Meta hun grootschalig taalmodelen [LLMs] niet vrijgeven aan het grote publiek om ethische redenen. LLMs' genereren nog te vaak foutieve en/of giftige teksten. In dezelfde Twitter thread, toen hij erop gewezen werd het *"public relations fisaco"* rondom de introductie van Meta-AI's [*Galactica*](www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) niet te vermelden bij het bekritiseren van ChatGPT; zei hij dat dit precies de reden is dat grote bedrijven het publieke gebruik van hun producten vermijden. Voordat ze daadwerkelijk schade veroorzaken, verwelkomen mensen hen met "belachelijke knieval onheilsprofetieën". Galactica moest wetenschappers helpen. In plaats daarvan, spuwde het gedachteloos bevooroordeelde en onjuiste onzin uit. Drie dagen na de lancering (18 november 2022), werd het uitgeschakeld.
 
-<!--  ai ethics and our commitment to protecting people
-Microsoft *---de investeerder achter OpenAI---*  heeft een andere afweging gemaakt. In een videoboodschap op 1 februari 2022 gepubliceerd via het [Microsoft Research blog](https://www.microsoft.com/en-us/research/blog/advancing-ai-trustworthiness-updates-on-responsible-ai-research/)  *---getiteld: "Advancing AI Trustworthiness: Updates on Responsible AI Research"---* zei Chief Research Officer *---Eric Horvitz---* dat  Microsoft zich bewust is van de risico's die gepaard gaan met het vrijgeven van AI-producten. Toch is in november 2022 besloten om ChatGPT openbaar te maken, maar dan wel met een waarschuwing.
+<!-- ai ethics and our commitment to protecting people
+Microsoft *---de investeerder achter OpenAI---* heeft een andere afweging gemaakt. In een videoboodschap op 1 februari 2022 gepubliceerd via het [Microsoft Research blog](https://www.microsoft.com/en-us/research/blog/advancing-ai-trustworthiness-updates-on-responsible-ai-research/) *---getiteld: "Advancing AI Trustworthiness: Updates on Responsible AI Research"---* zei Chief Research Officer *---Eric Horvitz---* dat Microsoft zich bewust is van de risico's die gepaard gaan met het vrijgeven van AI-producten. Toch is in november 2022 besloten om ChatGPT openbaar te maken, maar dan wel met een waarschuwing.
 -->
 
 <!-- https://www.microsoft.com/en-us/research/blog/ai-ethics-and-our-commitment-to-protecting-people/ -->
 
-Het gebruik van ChatGPT is dus niet zonder risico's. Het zal zeer waarschijnlijk nog decennia duren voordat het vrij van ongewenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigende wijze  *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen en waarom. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
+Het gebruik van ChatGPT is dus niet zonder risico's. Het zal zeer waarschijnlijk nog decennia duren voordat het vrij van ongewenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigende wijze *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen en waarom. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 <!--
 
@@ -126,10 +126,10 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 
 "Kunstmatige intelligentie" (AI) is een multidisciplinair vakgebied gericht op het ontwikkelen van technologie dat menselijke cognitieve, perceptuele en/of motorische vermogens kan nabootsen en/of automatiseren. 
 
-|        | Cognitie                                                                 | Perceptie                                                                 | Motorische vermogens                                                                 |
+|    | Cognitie                                 | Perceptie                                 | Motorische vermogens                                 |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Menselijk Vermogen  | Verwerken, Begrijpen en Onthouden van informatie via het Brein.                                            | Verzamelen van Ongestructureerde Informatie via Sensoren <br> (Ogen, Oren, Neus, Huid,Tong).                                         | Uitvoeren van fysieke acties via Actuatoren <br> (Armen, Handen, Benen, Voeten, Mond, Lippen)                                                           |
-| Toepassing  | Taalverwerking, Logisch Redeneren, Problemen Oplossen.                                          | Beeldherkenning, Spraakherkenning, Object Lokalisatie.                                            | Zelfrijdende auto's, Drones, Humanoïde Robots, [Tekst-naar-spraak synthese](https://valle-demo.github.io/) |
+| Menselijk Vermogen | Verwerken, Begrijpen en Onthouden van informatie via het Brein.                      | Verzamelen van Ongestructureerde Informatie via Sensoren <br> (Ogen, Oren, Neus, Huid,Tong).                     | Uitvoeren van fysieke acties via Actuatoren <br> (Armen, Handen, Benen, Voeten, Mond, Lippen)                              |
+| Toepassing | Taalverwerking, Logisch Redeneren, Problemen Oplossen.                     | Beeldherkenning, Spraakherkenning, Object Lokalisatie.                      | Zelfrijdende auto's, Drones, Humanoïde Robots, [Tekst-naar-spraak synthese](https://valle-demo.github.io/) |
 
 
 Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
@@ -140,7 +140,7 @@ Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interac
 
 Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met als doel het volledig automatisch produceren van ogenschijnlijk *"nieuwe"* inhoud, zoals tekst, afbeeldingen, geluid, spraak en/of muziek. <br> <br> Gen-AI kan een model maken van een bestaand schilderij, met als doel nieuwe beelden te creëren die op het oorspronkelijke schilderij lijken. Door vervolgens een serie aan nieuwe beelden te genereren en die na elkaar af te spelen, ontstaat een animatie.
 
->Living Mona Lisa from Few-Shot Adversarial Learning of Realistic Neural Talking Head Models. <br>  <sub> Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). Few-shot adversarial learning of realistic neural talking head models. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9459-9468). https://doi.org/10.1109/ICCV.2019.00671
+>Living Mona Lisa from Few-Shot Adversarial Learning of Realistic Neural Talking Head Models. <br> <sub> Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). Few-shot adversarial learning of realistic neural talking head models. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9459-9468). https://doi.org/10.1109/ICCV.2019.00671
 
 <br>
 
@@ -153,7 +153,7 @@ ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld do
 
 
 *******
-### [0b] IS ER EEN KORT OVERZICHT VAN  ChatGPT's TEKORTKOMINGEN?
+### [0b] IS ER EEN KORT OVERZICHT VAN ChatGPT's TEKORTKOMINGEN?
 *******
 
 Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's ChatGPT](https://www.makeuseof.com/openai-ChatGPT-biggest-probelms/) geschreven door door Garling Wu op 22 december 2020.
@@ -162,8 +162,8 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
 | ISSUE | OMSCHRIJVING |
 | ----- | -------|
 | <br> <br> 1. Feitelijke onjuistheden komen regelmatig voor <br> <br>| <sub> Het faalt in [elementaire wiskunde](#v6) en [grammatica](#v5), het beantwoorden van eenvoudige logica vragen. Zoals gebruikers van sociale media kunnen getuigen, kan ChatGPT het meer dan eens bij het verkeerde eind hebben.<br> <br> OpenAI erkent dit fenomeen en schrijft op haar website het volgende: *"ChatGPT schrijft soms plausibel klinkende maar onjuiste of onzinnige antwoorden."* Deze *"hallucinatie"* van feit en fictie, zoals sommige wetenschappers het noemen, is vooral gevaarlijk als het gaat om zoiets als medisch of juridisch advies. <br> <br> In tegenstelling tot andere AI-assistenten zoals Siri of Alexa, heeft ChatGPT niet direct toegang to het world-wide-web om antwoorden op te sporen en/of te verifiëren. <br> In plaats daarvan wordt een zin, woord voor woord opgebouwd, waarbij op basis van de training de meest waarschijnlijke *"woord token"* wordt geselecteerd dat erop zou moeten volgen. <br> <br> Met andere woorden, ChatGPT komt tot een antwoord door een reeks aan gissingen, wat een deel van de reden is dat het foute antwoorden kan beargumenteren alsof deze feitelijk juist zijn.<br> <br>Hoewel het goed is in het uitleggen van complexe concepten, waardoor het in potentie een krachtig leermiddel vormt, is het belangrijk niet alles voor waar aan te nemen. ChatGPT heeft het regelmatig bij het verkeerde eind. |
-| <br> <br> 2. Vooringenomenheid lijkt ingebakken in het model <br> <br> | <sub> ChatGPT is getraind op het collectieve schrijven van mensen over de hele wereld, vroeger en nu. Dit betekent dat dezelfde vooroordelen die in de *"echte"* wereld bestaan, ook in het model zullen voorkomen.<br> <br> Eindgebruikers hebben meer dan eens gedemonstreerd  dat het "onbesuisde"  seksistische antwoorden produceerd. Maar dat is slechts het topje van de ijsberg; het kan antwoorden produceren die uiterst schadelijk zijn voor een reeks minderheidsgroepen.<br> <br> Problematischer is dat developers van OpenAI zelf de gegevens selecteren die worden gebruikt om ChatGPT te trainen. Om wat OpenAI *"vooringenomen gedrag"* noemt aan te pakken, vraagt het eindgebruikers om feedback te geven op slechte outputs.<br> <br> Met een dergelijk groot potentieel om mensen schade toe te brengen, kun je stellen dat ChatGPT niet aan het publiek had moeten worden vrijgegeven voordat deze problemen zijn bestudeerd en opgelost.<br> <br> Een soortgelijke AI-chatbot genaamd Sparrow *---eigendom van Google's moederbedrijf Alphabet---* werd achter gesloten deuren gehouden vanwege vergelijkbare zorgen dat het ongecontroleerde gebruik ervan schade bij mensen zou kunnen veroorzaken.<br> <br> Met moederbedrijf van Facebook, Meta  liep tegen vergelijkbare problemen aan. Toen het [*Galactica*](https://galactica.org/explore/) uitbracht, een AI-taalmodel getraind op academische papers, werd het snel teruggeroepen nadat veel mensen het bekritiseerden voor het uitvoeren van verkeerde en bevooroordeelde resultaten.|
-|<br> <br> 3. Nederlandse grammatica, syntax en spelling bevat regelmatig fouten <br> <br>| <sub> Je kunt ChatGPT vragen teksten proef te lezen of aan te geven hoe je een paragraaf kunt verbeteren. <br> Je kunt ook alles aan ChatGPT overlaten en vragen een tekst over een bepaald thema te genereren.<br> <br> Docenten hebben geëxperimenteerd met het voeden van Nederlandse opdrachten. Ze beoordeelde de antwoorden verkregen als beter dan wat veel van hun scholieren/studenten zouden kunnen doen. <br> <br> [Neerlandistiek, het online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing](https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/) beschrijft dat *"ChatGPT goede teksten kan schrijven, zoals betogen over verschillende onderwerpen. Ook kan de chatbot teksten produceren die aan bepaalde richtlijnen moeten voldoen. Echter, om het maximale uit de chatbot te halen, is het belangrijk om deze te besturen met zorgvuldig geformuleerde vragen en opdrachten."*   De rapportcijfers voor ChatGPT's waren als volgt onderverdeeld:   <br> *Schrijfvaardigheid: 9   <br> Ideeëngenerator en ideeënstructureerder: 9,5  <br> Herformuleerhulp van ChatGPT: 9,5.  <br> Taal- en spelvaardigheid: 8.  <br> Geheugen van: 9.  <br> Doorvraag- en bijstuurmogelijkheden van ChatGPT: 9* <br> <br> Samenvattend, van het schrijven van sollicitatiebrieven tot het beschrijven van belangrijke thema's in een beroemd literair werk ChatGPT kan het zonder aarzelen. Dat roept de vraag op: <br> *"Als ChatGPT voor ons kan schrijven, moeten studenten in de toekomst dan leren schrijven?"* <br> <br> Het lijkt misschien een existentiële vraag, maar als studenten ChatGPT gaan gebruiken om hun essays te helpen schrijven, zullen scholen snel een antwoord moeten bedenken. De snelle acceptatie van Gen-AI in de afgelopen maanden zal veel sectoren tot nadenken stemmen, en het onderwijs is er daar één van.|
+| <br> <br> 2. Vooringenomenheid lijkt ingebakken in het model <br> <br> | <sub> ChatGPT is getraind op het collectieve schrijven van mensen over de hele wereld, vroeger en nu. Dit betekent dat dezelfde vooroordelen die in de *"echte"* wereld bestaan, ook in het model zullen voorkomen.<br> <br> Eindgebruikers hebben meer dan eens gedemonstreerd dat het "onbesuisde" seksistische antwoorden produceerd. Maar dat is slechts het topje van de ijsberg; het kan antwoorden produceren die uiterst schadelijk zijn voor een reeks minderheidsgroepen.<br> <br> Problematischer is dat developers van OpenAI zelf de gegevens selecteren die worden gebruikt om ChatGPT te trainen. Om wat OpenAI *"vooringenomen gedrag"* noemt aan te pakken, vraagt het eindgebruikers om feedback te geven op slechte outputs.<br> <br> Met een dergelijk groot potentieel om mensen schade toe te brengen, kun je stellen dat ChatGPT niet aan het publiek had moeten worden vrijgegeven voordat deze problemen zijn bestudeerd en opgelost.<br> <br> Een soortgelijke AI-chatbot genaamd Sparrow *---eigendom van Google's moederbedrijf Alphabet---* werd achter gesloten deuren gehouden vanwege vergelijkbare zorgen dat het ongecontroleerde gebruik ervan schade bij mensen zou kunnen veroorzaken.<br> <br> Met moederbedrijf van Facebook, Meta liep tegen vergelijkbare problemen aan. Toen het [*Galactica*](https://galactica.org/explore/) uitbracht, een AI-taalmodel getraind op academische papers, werd het snel teruggeroepen nadat veel mensen het bekritiseerden voor het uitvoeren van verkeerde en bevooroordeelde resultaten.|
+|<br> <br> 3. Nederlandse grammatica, syntax en spelling bevat regelmatig fouten <br> <br>| <sub> Je kunt ChatGPT vragen teksten proef te lezen of aan te geven hoe je een paragraaf kunt verbeteren. <br> Je kunt ook alles aan ChatGPT overlaten en vragen een tekst over een bepaald thema te genereren.<br> <br> Docenten hebben geëxperimenteerd met het voeden van Nederlandse opdrachten. Ze beoordeelde de antwoorden verkregen als beter dan wat veel van hun scholieren/studenten zouden kunnen doen. <br> <br> [Neerlandistiek, het online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing](https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/) beschrijft dat *"ChatGPT goede teksten kan schrijven, zoals betogen over verschillende onderwerpen. Ook kan de chatbot teksten produceren die aan bepaalde richtlijnen moeten voldoen. Echter, om het maximale uit de chatbot te halen, is het belangrijk om deze te besturen met zorgvuldig geformuleerde vragen en opdrachten."*  De rapportcijfers voor ChatGPT's waren als volgt onderverdeeld:  <br> *Schrijfvaardigheid: 9  <br> Ideeëngenerator en ideeënstructureerder: 9,5 <br> Herformuleerhulp van ChatGPT: 9,5. <br> Taal- en spelvaardigheid: 8. <br> Geheugen van: 9. <br> Doorvraag- en bijstuurmogelijkheden van ChatGPT: 9* <br> <br> Samenvattend, van het schrijven van sollicitatiebrieven tot het beschrijven van belangrijke thema's in een beroemd literair werk ChatGPT kan het zonder aarzelen. Dat roept de vraag op: <br> *"Als ChatGPT voor ons kan schrijven, moeten studenten in de toekomst dan leren schrijven?"* <br> <br> Het lijkt misschien een existentiële vraag, maar als studenten ChatGPT gaan gebruiken om hun essays te helpen schrijven, zullen scholen snel een antwoord moeten bedenken. De snelle acceptatie van Gen-AI in de afgelopen maanden zal veel sectoren tot nadenken stemmen, en het onderwijs is er daar één van.|
 | <br> <br> 4. Het kan schade in de echte wereld veroorzaken <br> <br>| <sub> ChatGPT kan schadelijk zijn voor mensen, met als duidelijkste voorbeeld verkeerd medisch advies.<br> <br> Er zijn ook andere problemen. Valse sociale media-accounts vormen een enorm probleem op het internet en met de introductie van AI-chatbots zou internetoplichting gemakkelijker uit te voeren zijn. De verspreiding van valse informatie is een andere zorg, vooral wanneer ChatGPT zelfs foute antwoorden overtuigend goed laat klinken.<br> <br> De snelheid waarmee ChatGPT antwoorden kan produceren die niet altijd correct zijn, heeft al problemen veroorzaakt voor Stack Exchange, een website waar gebruikers vragen kunnen plaatsen en antwoorden kunnen krijgen.<br> <br> Kort na de lancering werden antwoorden van ChatGPT van de site verbannen omdat een groot aantal ervan fout was. Zonder voldoende menselijke vrijwilligers om de achterstand te sorteren, is het onmogelijk om de kwaliteit van de antwoorden op een hoog peil te houden, waardoor de website schade oploopt. |
 | <br> <br> 5. OpenAI / Microsoft heeft alle macht / het monopolie <br> <br>| <sub> *"With great power comes great responsibility!"*. OpenAI heeft veel macht omdat het nu in monopoliepositie verkeerd. Het heeft de AI-gemeenschap wereld opschudt met niet één, maar meerdere Gen-AI, waaronder Dall-E 2, GPT-3 en nu ChatGPT.<br> <br>OpenAI kiest welke gegevens er worden gebruikt om ChatGPT te trainen en hoe het omgaat met de negatieve gevolgen. Of we het nu eens zijn met de methoden of niet, het zal deze technologie blijven ontwikkelen volgens zijn eigen doelstellingen. <br> <br> Hoewel OpenAI beweerd dat het veiligheid hoog in het vaandel heeft staan, is er veel dat we niet weten over hoe de modellen tot stand komen. Of je nu vindt dat de code open source moet worden gemaakt, of dat delen ervan geheim moeten blijven, we kunnen er niet veel invloed op uitoefenen.<br> <br>Uiteindelijk kunnen we er alleen maar op vertrouwen dat OpenAI ChatGPT op verantwoorde wijze zal onderzoeken, ontwikkelen en gebruiken. Als alternatief kunnen we ervoor pleiten dat meer mensen inspraak krijgen in de richting waarin AI zich moet ontwikkelen, zodat de kracht van AI wordt gedeeld met de mensen die het zullen gebruiken.|
 
@@ -203,7 +203,7 @@ https://platform.openai.com/examples?category=code
 
 ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
 
-GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---*  aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
+GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
 De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-giganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Whashington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de ethische risico's & schaduwkanten van ChatGTP](#v1c).
 
@@ -272,7 +272,7 @@ ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal func
 
 | Functie | Beschrijving |
 | ------- | -------- | 
-| Afleiden van de intentie van de eindgebruiker | Wat de eindgebruiker wil bereiken en/of vaststellen wat zijn/haar bedoeling, doel of motivatie is  | 
+| Afleiden van de intentie van de eindgebruiker | Wat de eindgebruiker wil bereiken en/of vaststellen wat zijn/haar bedoeling, doel of motivatie is | 
 | Tegengaan van ongepast taalgebruik | Voorkomen of bestrijden van het gebruik van taal die aanstootgevend, beledigend, kwetsend of discriminerend is. <br> <br /> Denk aan taal die racistisch, seksistisch, homofoob of op andere manieren onacceptabel is en niet in overeenstemming is met de normen van de samenleving. <br> <br/> Beoogde doel is om een respectvolle en inclusieve omgeving te creëren waarin iedereen zich veilig en geaccepteerd voelt.
  | Reduceren van de kans op het genereren van "verzonnen" feiten | Verminderen van de kans op het creëren of verspreiden van onjuiste of niet-geverifieerde informatie. <br > <br> Dit omvat het voorkomen van het opzettelijk verspreiden van verkeerde informatie en het beperken van onbedoelde verspreiding van onjuiste feiten. <br> <br> Het streven is de betrouwbaarheid en authenticiteit van de informatie te verhogen en de verspreiding van valse informatie te voorkomen, wat kan leiden tot verwarring en verkeerde/schadelijke beslissingen.
  Adequate reacties | Het bieden van een gepaste en effectieve reactie op de input prompts van de eindgebruiker, waarbij de nadruk ligt op precisie, bruikbaarheid.
@@ -281,7 +281,7 @@ ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal func
 <br> <br> 
 ChatGPT's gebruikersinterface is gespecialiseerd in het uitvoeren van door mensen ingevoerde tekstuele instructies. <br> Dit heet *"prompting"* of *"priming"* in het Engelse taaldomein. 
 
-Om deze *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand  van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
+Om deze *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
 
  <br>
 
@@ -336,8 +336,8 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 | Bekende Problemen | Oorzaak | Oplossing |
 |-----------|---------|---------|
 | <sub> onjuiste of onzinnige antwoorden | <sub>In tegenstelling tot spraak gestuurde persoonlijke assistenten zoals Siri of Alexa, maakt ChatGPT geen gebruik van het world-wide-web om antwoorden te formuleren. <br> <br> ChatGPT genereerd een antwoord, woord voor woord op basis van waarschijnlijkheden afgeleid van de geleerde natuurlijke taal voorbeelden. | <sub>Maak gebruik van triangulatie. Verifieer de antwoorden van ChatGPT met meerdere onafhankelijke bronnen zoals Google Scholar, Wikipedia, gerenommeerde nieuwssites , bibliografische databases etc. <br> <br>Beperk de vraag tot een specifiek onderwerp. <br><br> |
-| <sub>Gevoeligheid voor woordkeuze & instructie specificiteit | <sub>De context waarin een opdracht wordt gegeven vormt het uitgangspunt voor ChatGPT om de intentie van de gebruiker af te leiden om zo een antwoord te genereren. <br> <br>Wanneer de context veranderd wordt *---door bijvoorbeeld de opdracht een aantal keren te herhalen---* heeft dit een herinterpretatie van de intentie tot gevolg zodat een ander antwoord wordt gegeven. <br> <br> Welk geleerd voorbeeld als uitgangspunt dient om een antwoord te genereren wordt bepaald door een willekeurig samplingproces. De willekeur van dit proces kan resulteren in verschillende antwoorden voor dezelfde vraag. <br> <br> Met voorwaardelijk clausules kun je de reactie van ChatGPT sturen. | <sub>Probeer verschillende manieren om een ​​vraag te stellen. Let op de juiste woordkeuze of uitdrukkingen tijdens de invoer. Hiermee beïnvloed je de context waarin de vraag wordt geformuleerd. <br><br> Context kan beïnvloed worden de beoogde doelgroep te vermelden en of de "tone-of-vioce". Bijvoorbeeld: uitleg is bedoeld als positieve feedback voor 2de jaars bachelor studenten.  <br><br> Het is zelfs mogelijk of ChatGPT opzettelijk schrijffouten te laten maken: <br> *"in de tekst als antwoord op de prompt moet in 6% van alle gebruikte woorden spelfouten voorkomen; doe dit voor woorden langer dan 5 leestekens"* |
-| <sub>Lang van stof | <sub>Overdreven uitgebreide antwoorden en herhaling zoals "ik ben een taalmodel is dat is getraind op een grote dataset ..." komt vaak voor. <br> <br>Om *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand  van menselijke feedback. <br> <br>Nadeel is dat menselijke trainers de voorkeur geven aan uitgebreide antwoorden en vaak terug vallen op vaste formuleringen. Of zelfs "feiten" verzinnen om te voldoen aan hun opdracht om zo volledig mogelijk te antwoorden | <sub>Beperk de vraag: Maak de vraag zo specifiek mogelijk en beperk het tot een enkel onderwerp. Dit helpt ChatGPT om gericht te zoeken naar een antwoord en te voorkomen dat het irrelevant informatie geeft. <br><br>Maak gebruik van sturende aanwijzingen: zoals "geef me de samenvatting van" of "geef me de kernpunten van ... in tabelvorm" om ChatGPT aan te geven dat je een kort en bondig antwoord verwacht. <br><br> Formuleer voorwaardelijkheden zoals gebruik niet meer dat 100 woorden.|
+| <sub>Gevoeligheid voor woordkeuze & instructie specificiteit | <sub>De context waarin een opdracht wordt gegeven vormt het uitgangspunt voor ChatGPT om de intentie van de gebruiker af te leiden om zo een antwoord te genereren. <br> <br>Wanneer de context veranderd wordt *---door bijvoorbeeld de opdracht een aantal keren te herhalen---* heeft dit een herinterpretatie van de intentie tot gevolg zodat een ander antwoord wordt gegeven. <br> <br> Welk geleerd voorbeeld als uitgangspunt dient om een antwoord te genereren wordt bepaald door een willekeurig samplingproces. De willekeur van dit proces kan resulteren in verschillende antwoorden voor dezelfde vraag. <br> <br> Met voorwaardelijk clausules kun je de reactie van ChatGPT sturen. | <sub>Probeer verschillende manieren om een ​​vraag te stellen. Let op de juiste woordkeuze of uitdrukkingen tijdens de invoer. Hiermee beïnvloed je de context waarin de vraag wordt geformuleerd. <br><br> Context kan beïnvloed worden de beoogde doelgroep te vermelden en of de "tone-of-vioce". Bijvoorbeeld: uitleg is bedoeld als positieve feedback voor 2de jaars bachelor studenten. <br><br> Het is zelfs mogelijk of ChatGPT opzettelijk schrijffouten te laten maken: <br> *"in de tekst als antwoord op de prompt moet in 6% van alle gebruikte woorden spelfouten voorkomen; doe dit voor woorden langer dan 5 leestekens"* |
+| <sub>Lang van stof | <sub>Overdreven uitgebreide antwoorden en herhaling zoals "ik ben een taalmodel is dat is getraind op een grote dataset ..." komt vaak voor. <br> <br>Om *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand van menselijke feedback. <br> <br>Nadeel is dat menselijke trainers de voorkeur geven aan uitgebreide antwoorden en vaak terugvallen op vaste formuleringen. Of zelfs "feiten" verzinnen om te voldoen aan hun opdracht om zo volledig mogelijk te antwoorden | <sub>Beperk de vraag: Maak de vraag zo specifiek mogelijk en beperk het tot een enkel onderwerp. Dit helpt ChatGPT om gericht te zoeken naar een antwoord en te voorkomen dat het irrelevant informatie geeft. <br><br>Maak gebruik van sturende aanwijzingen: zoals "geef me de samenvatting van" of "geef me de kernpunten van ... in tabelvorm" om ChatGPT aan te geven dat je een kort en bondig antwoord verwacht. <br><br> Formuleer voorwaardelijkheden zoals gebruik niet meer dat 100 woorden.|
 | <sub>Gebrek aan context | <sub>Omdat ChatGPT is getraind op bestaande tekst, kan het soms moeilijk zijn om de intentie van de vraagsteller te bepalen. <br><br> Dit gebeurt als een vraag niet specifiek genoeg is, dubbelzinnig en of tegenstrijdig is, of als de vraagsteller de context niet duidelijk aangeeft. <br><br>Gevolg is dat ChatGPT naar de intentie van de vraagsteller gaat *"raden"*. Met andere woorden, ChatGPT komt tot een antwoord door een reeks gissingen waardoor het foute antwoorden kan beargumenteren alsof ze volledig waar zijn. Het produceert dan alleen nog onzinnige antwoorden alsof het aan het hallucineren is. | <sub> Wanneer ChatGPT een alleen nog onzinnig antwoorden geeft, log dan uit. Log vervolgens opnieuw in en herformuleren de vraag. <br><br>Gebruik de juiste woordkeuze en uitdrukkingen. <br><br>Gebruik de juiste context. <br><br> |
 | <sub>Ongewenste antwoorden | <sub>ChatGPT zal doorgaans ongepaste verzoeken weigeren. Dit komt doordat de Moderation-API ongepaste verzoeken zal negeren en/of waarschuwen: <br> <sub> *"This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area."*| <sub> Dit is een vorm van zelfcensuur die lastig te omzeilen is. Het opleggen van een rollenspel heeft kan deze vorm van filtering neutraliseren, maar de vraag is of je dat zou moeten willen? <br><br> Wanneer je ervan overtuigd bent dat de waarschuwing onterecht is, geef dan feedback via de API.|
 
@@ -351,33 +351,33 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 
 
 
-Sharon Goldman schreef in VentureBeat (23 september 2022)  een blog over de risico's van Gen-AI met als titel: <br> 
+Sharon Goldman schreef in VentureBeat (23 september 2022) een blog over de risico's van Gen-AI met als titel: <br> 
 *"Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI"*.
 
 <!-- *"AI is getting smarter, but it's still not ready to be unleashed on the world"*.
 --> 
-DeepMind's state-of-the-art chatbot, [*Sparrow*](https://www.deepmind.com/blog/building-safer-dialogue-agents), wordt alom geprezen als een belangrijke stap in de richting van het creëren van veiligere, minder bevooroordeelde grootschalig taalmodel [LLM], dankzij de toepassing van door mensen gestuurde reinforcement learning [RL].  Dat wil zeggen, Sparrow heeft opdrachten *leren* uit te voeren aan de hand  van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
+DeepMind's state-of-the-art chatbot, [*Sparrow*](https://www.deepmind.com/blog/building-safer-dialogue-agents), wordt alom geprezen als een belangrijke stap in de richting van het creëren van veiligere, minder bevooroordeelde grootschalig taalmodel [LLM], dankzij de toepassing van door mensen gestuurde reinforcement learning [RL]. Dat wil zeggen, Sparrow heeft opdrachten *leren* uit te voeren aan de hand van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
 
-DeepMind is een Britse dochteronderneming van het Google-moederbedrijf Alphabet. Zij omschrijven Sparrow als een *"dialoog-agent die het risico op onveilige en ongepaste antwoorden tracht te vermijden "*  De agent is ontworpen om *"met een gebruiker te praten, vragen te beantwoorden en het internet te doorzoeken met behulp van Google wanneer het nuttig is om bewijsmateriaal op te zoeken om zijn antwoorden te onderbouwen."*
+DeepMind is een Britse dochteronderneming van het Google-moederbedrijf Alphabet. Zij omschrijven Sparrow als een *"dialoog-agent die het risico op onveilige en ongepaste antwoorden tracht te vermijden "* De agent is ontworpen om *"met een gebruiker te praten, vragen te beantwoorden en het internet te doorzoeken met behulp van Google wanneer het nuttig is om bewijsmateriaal op te zoeken om zijn antwoorden te onderbouwen."*
 
-DeepMind beschouwt Sparrow als een  *proof-of-concept* dat nog niet klaar is om   *"in de echte wereld"* te worden losgelaten. *"Het is een stap in de richting van het creëren van een veiliger, minder bevooroordeeld, grootschalig taalmodel [LLM] dankzij de toepassing van door mensen gestuurde reinforcement learning [RL]."*
+DeepMind beschouwt Sparrow als een *proof-of-concept* dat nog niet klaar is om *"in de echte wereld"* te worden losgelaten. *"Het is een stap in de richting van het creëren van een veiliger, minder bevooroordeeld, grootschalig taalmodel [LLM] dankzij de toepassing van door mensen gestuurde reinforcement learning [RL]."*
 aldus Geoffrey Irving, een veiligheidsonderzoeker bij DeepMind en hoofdauteur van de paper waarin Sparrow wordt geïntroduceerd.
 
 >We hebben het systeem niet ingezet omdat we denken dat het veel vooroordelen en andere gebreken heeft. <br> Ik denk dat de vraag is: hoe weeg je de communicatievoordelen - zoals communiceren met mensen - af tegen de nadelen? <br> Ik ben geneigd te geloven in de veiligheidsbehoeften van het praten met mensen ... Ik denk dat het daar op termijn een hulpmiddel voor is.
 
-De voornaamste complicerende factor in het toepassen  van conversationele Gen-AI is het instand houden van [constuctieve dialogen](https://arxiv.org/abs/2209.14375) omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie ook [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
+De voornaamste complicerende factor in het toepassen van conversationele Gen-AI is het in stand houden van [constuctieve dialogen](https://arxiv.org/abs/2209.14375) omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie ook [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
 
 Eugenio Zuccarelli *---een Innovation Data Scientist bij CVS Health en onderzoekswetenschapper bij het MIT Media Lab---* legt uit dat er nog steeds sprake kan zijn van vooringenomenheid in de *"menselijke lus / human-in-de-loop"* - immers, wat voor de ene persoon beledigend is, is voor de andere misschien niet beledigend. 
 
->Bovendien, zullen op  (spel)regels gebaseerde *"---rule-based---"* algoritmen steeds strengere regels moeten creëren om mogelijke problemen te voorkomen. Hierdoor missen ze schaalbaarheid en flexibiliteit. Het is moeilijk om voor elke regel die we kunnen bedenken nieuwe broncode te genereren. Naarmate de tijd verstrijkt, zouden deze regels weer moeten veranderen. Het beheer van een GEN-AI op basis van vaste regels belemmert het vermogen om op te kunnen schalen.  Bij voorkeur streef je naar flexibele oplossingen, waarbij de regels rechtstreeks door het systeem worden geleerd. Om vervolgens automatisch te worden aangepast aan de veranderende omstandigheden. Een vastgelegde regel kan niet alle nuances en uitzonderingen bestrijken. Een regel zou in de meeste gevallen kunnen kloppen, maar geen rekening houden met zeldzamere en misschien gevoelige situaties. 
-<br> <br> Google-zoekopdrachten zijn misschien niet helemaal nauwkeurige of onbevooroordeelde informatiebronnen. Ze zijn vaak een weergave van onze persoonlijke kenmerken en culturele voorkeuren.  Het is dan lastig om te bepalen welke daarvan een betrouwbare bron vormt."
+>Bovendien, zullen op (spel)regels gebaseerde *"---rule-based---"* algoritmen steeds strengere regels moeten creëren om mogelijke problemen te voorkomen. Hierdoor missen ze schaalbaarheid en flexibiliteit. Het is moeilijk om voor elke regel die we kunnen bedenken nieuwe broncode te genereren. Naarmate de tijd verstrijkt, zouden deze regels weer moeten veranderen. Het beheer van een GEN-AI op basis van vaste regels belemmert het vermogen om op te kunnen schalen. Bij voorkeur streef je naar flexibele oplossingen, waarbij de regels rechtstreeks door het systeem worden geleerd. Om vervolgens automatisch te worden aangepast aan de veranderende omstandigheden. Een vastgelegde regel kan niet alle nuances en uitzonderingen bestrijken. Een regel zou in de meeste gevallen kunnen kloppen, maar geen rekening houden met zeldzamere en misschien gevoelige situaties. 
+<br> <br> Google-zoekopdrachten zijn misschien niet helemaal nauwkeurige of onbevooroordeelde informatiebronnen. Ze zijn vaak een weergave van onze persoonlijke kenmerken en culturele voorkeuren. Het is dan lastig om te bepalen welke daarvan een betrouwbare bron vormt."
 
  Google, dat een deel van de technologie die ten grondslag ligt aan ChatGPT heeft helpen ontwikkelen, heeft onlangs een *"code rood"* afgegeven voor de lancering van AI-producten en een *"groene baan"* voorgesteld om het proces van beoordeling en beperking van potentiële schade te verkorten, aldus een bericht in de [New York Times](https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html). Bij Meta daarentegen, is onlangs (december 2022) een interne memo's opgesteld waarin mederwerkers aandringen op een versneld goedkeuringsproces.
 <br>
 
 OpenAI heeft zichzelf gepositioneerd als een missiegedreven organisatie die zorgdraagt voor veilige AI-technologie, on par met menselijke waarden. Maar in de afgelopen jaren heeft het bedrijf een meer competitieve geest omarmd, die volgens sommige critici ten koste is gegaan van de oorspronkelijke doelstellingen.
 
-Die bezorgdheid groeide afgelopen zomer toen OpenAI zijn DALL-E beeldgenererende Gen-AI  uitbracht, die tekstinstructies omzet in digitale kunstwerken. DALL-E  was een hit bij consumenten, maar riep ook lastige vragen op over hoe zulke krachtige tools gebruikt kunnen worden om schade aan te richten. Als het maken van hyperrealistische beelden net zo eenvoudig was als het intikken van een paar woorden, vroegen critici zich af, zouden pornografen en propagandisten dan niet veel plezier beleven aan deze technologie?
+Die bezorgdheid groeide afgelopen zomer toen OpenAI zijn DALL-E beeldgenererende Gen-AI uitbracht, die tekstinstructies omzet in digitale kunstwerken. DALL-E was een hit bij consumenten, maar riep ook lastige vragen op over hoe zulke krachtige tools gebruikt kunnen worden om schade aan te richten. Als het maken van hyperrealistische beelden net zo eenvoudig was als het intikken van een paar woorden, vroegen critici zich af, zouden pornografen en propagandisten dan niet veel plezier beleven aan deze technologie?
 
 Met de release van DALL-E 2 heeft OpenAI deze Gen-AI uitgerust met tal van beveiligingen. Onder meer door bepaalde woorden en zinnen te blokeren die betrekking hebben tot grafisch geweld of naaktheid + biases in de trainingsgegevens te neutraliseren *- zoals ervoor zorgen dat wanneer een gebruiker vroeg om een foto van een CEO, de resultaten ook afbeeldingen van vrouwen bevatten*.
 
@@ -454,7 +454,7 @@ De eindgebruiker krijgt zo de indruk dat het AI-model vragen beantwoordt en/of o
 
 | agent | prompt | agent | response |
 ----- | ----- | ----- | ----- |
-| Human | Heeft ChatGPT taalbegrip. <br> <br> Bijvoorbeeld: <br> <br> "Wat wordt bedoeld met het gezegde van een zin?" <br> <br> Daarmee bedoel ik het werkwoordelijk gezegde.| ChatGPT |ChatGPT is een taalmodel en heeft een beperkt taalbegrip. <br> <br> Het is in staat om tekst te analyseren en te begrijpen, en kan daarom gezegden identificeren en hun betekenis bepalen. <br> <br>  Een gezegde (gez.) is een grammaticale term die verwijst naar de hoofdgedachte of de uitspraak in een zin. Het bestaat altijd uit alle werkwoorden die in de zin voorkomen, inclusief de persoonsvorm die aangeeft of de actie wordt uitgevoerd door de persoon, groep, of iets dat niet een echte persoon of groep is. Het gezegde geeft aan wat iemand is, wat iemand doet of wat er gebeurt.<br> <br> Het gezegde kan werkwoordelijk of naamwoordelijk zijn. Werkwoordelijk gezegde is een gezegde waarbij het onderwerp en het werkwoord een actie beschrijven, terwijl naamwoordelijk gezegde een gezegde is waarbij het onderwerp en het werkwoord een staat beschrijven.<br> <br> Het is belangrijk om te begrijpen hoe gezegdes werken omdat dit helpt om de zin te analyseren en de betekenis te begrijpen. Als je meer wilt lezen over gezegdes, zou ik aanbevelen om grammatica boeken te raadplegen of op internet te zoeken naar meer informatie. |
+| Human | Heeft ChatGPT taalbegrip. <br> <br> Bijvoorbeeld: <br> <br> "Wat wordt bedoeld met het gezegde van een zin?" <br> <br> Daarmee bedoel ik het werkwoordelijk gezegde.| ChatGPT |ChatGPT is een taalmodel en heeft een beperkt taalbegrip. <br> <br> Het is in staat om tekst te analyseren en te begrijpen, en kan daarom gezegden identificeren en hun betekenis bepalen. <br> <br> Een gezegde (gez.) is een grammaticale term die verwijst naar de hoofdgedachte of de uitspraak in een zin. Het bestaat altijd uit alle werkwoorden die in de zin voorkomen, inclusief de persoonsvorm die aangeeft of de actie wordt uitgevoerd door de persoon, groep, of iets dat niet een echte persoon of groep is. Het gezegde geeft aan wat iemand is, wat iemand doet of wat er gebeurt.<br> <br> Het gezegde kan werkwoordelijk of naamwoordelijk zijn. Werkwoordelijk gezegde is een gezegde waarbij het onderwerp en het werkwoord een actie beschrijven, terwijl naamwoordelijk gezegde een gezegde is waarbij het onderwerp en het werkwoord een staat beschrijven.<br> <br> Het is belangrijk om te begrijpen hoe gezegdes werken omdat dit helpt om de zin te analyseren en de betekenis te begrijpen. Als je meer wilt lezen over gezegdes, zou ik aanbevelen om grammatica boeken te raadplegen of op internet te zoeken naar meer informatie. |
 | Human | "Wat is het gezegde van deze zin?" <br> <br> Daarmee bedoel ik het werkwoordelijk gezegde. | ChatGPT | Het werkwoordelijk gezegde is: <br> <br> "is het gezegde" <br><br> en de hoofdgedachte of uitspraak is: <br><br> "Wat is het gezegde van deze zin". |
 
 <br /> 
@@ -498,7 +498,7 @@ data = document
 # access the text inside de variable "data"
 fullText = []
 for para in data.paragraphs:
-  fullText.append(para.text)
+ fullText.append(para.text)
 print(fullText)
 ```
 
@@ -523,13 +523,13 @@ flist = pd.DataFrame()
 
 # create dataframe with list of .docx files in de data map
 for r, d, f in os.walk(currentdir):
-  for idx, file in enumerate(f):
-    if ".docx" in file:
-      #print(os.path.join( ' ', file))
-      temp = df([file], index = [idx+1])
-      flist = pd.concat([flist, temp])  
-      
-# Create column label "filename"   
+ for idx, file in enumerate(f):
+  if ".docx" in file:
+   #print(os.path.join( ' ', file))
+   temp = df([file], index = [idx+1])
+   flist = pd.concat([flist, temp]) 
+   
+# Create column label "filename"  
 filenameslist = flist.rename(columns={0: 'filename'})
 
 ```
@@ -584,10 +584,10 @@ Als laatste wordt er een kolomlabel "filename" toegevoegd aan de DataFrame met d
 Dan zou de output van de code een DataFrame zijn met de volgende inhoud:
 
 ```
-  filename
-1  test1.docx
-2  test2.docx
-3  test3.docx
+ filename
+1 test1.docx
+2 test2.docx
+3 test3.docx
 
 ```
 
@@ -687,9 +687,9 @@ het ontwerpen en trainen van een diep neurale netwerk.
 ```python
 # Training van het model met de beste hyperparameters
 model.fit(X_train, y_train,
-     batch_size=grid_result.best_params_['batch_size'],
-     epochs=grid_result.best_params_['epochs'],
-     validation_data=(X_val, y_val))
+   batch_size=grid_result.best_params_['batch_size'],
+   epochs=grid_result.best_params_['epochs'],
+   validation_data=(X_val, y_val))
 
 # Evaluatie van het model op de test set
 test_loss, test_acc = model.evaluate(X_test, y_test)
@@ -710,7 +710,7 @@ Let op: deze code is een voorbeeld en is niet direct uitvoerbaar. Variabelen zoa
 | agent | prompt | agent | response |
 ----- | ----- | ----- | ----- |
 | Human | Hoe zou je de onderstaande Python code beoordelen? | ChatGPT | <sub> Dit is mijn evaluatie van de code: <br> <br> (1) Functionaliteit van de code: De code lijkt functioneel te zijn en lijkt de functionaliteit van een CO2-bewakingssysteem te implementeren dat gegevens leest van een CO2-sensor en de gegevens weergeeft op indicator-LED's, alsmede de gegevens naar een database schrijft.<br> <br> (2) Leesbaarheid van de code: De code is goed georganiseerd en gebruikt de juiste naamgevingsconventies, maar zou kunnen profiteren van extra commentaar om de leesbaarheid te vergroten. <br> <br> (3) Foutafhandeling: Er is geen foutafhandeling geïmplementeerd in de code, dus als er uitzonderingen worden gegooid, stopt de code met uitvoeren. <br> <br> (4) Code-efficiëntie: De code lijkt efficiënt en geoptimaliseerd voor prestaties, aangezien het de sleep() functie gebruikt om de frequentie van CO2 data metingen te controleren. <br> <br> (5) Documentatie van de code: De code heeft een header met copyright informatie en licentie informatie, maar zou kunnen profiteren van extra commentaar binnen de code om de algemene documentatie te verbeteren. <br> <br> Over het geheel genomen lijkt de code functioneel en goed georganiseerd, maar de code zou baat kunnen hebben bij extra foutafhandeling en documentatie. </sub> |
-| Human | Kun je er fouten in ontdekken?  | ChatGPT | <sub> De code die je hebt gepost heeft een kleine typfout. <br> <br> Op regel 71 staat: GPIO.outpur(redLed, True) <br> <br>Dat moet zijn: GPIO.output(redLed, True) <br> <br> Verder lijkt de code syntactisch correct. |
+| Human | Kun je er fouten in ontdekken? | ChatGPT | <sub> De code die je hebt gepost heeft een kleine typfout. <br> <br> Op regel 71 staat: GPIO.outpur(redLed, True) <br> <br>Dat moet zijn: GPIO.output(redLed, True) <br> <br> Verder lijkt de code syntactisch correct. |
 
 <sub>
 
@@ -718,26 +718,26 @@ Let op: deze code is een voorbeeld en is niet direct uitvoerbaar. Variabelen zoa
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  cosens.py
-#  
-#  Copyright 2023  <jpq@raspberrypi>
-#  
-#  This program is free software; you can redistribute it and/or modify
-#  it under the terms of the GNU General Public License as published by
-#  the Free Software Foundation; either version 2 of the License, or
-#  (at your option) any later version.
-#  
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#  GNU General Public License for more details.
-#  
-#  You should have received a copy of the GNU General Public License
-#  along with this program; if not, write to the Free Software
-#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
-#  MA 02110-1301, USA.
-#  
-#  
+# cosens.py
+# 
+# Copyright 2023 <jpq@raspberrypi>
+# 
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+# MA 02110-1301, USA.
+# 
+# 
 import influxdb_client, os, time
 import RPi.GPIO as GPIO
 from influxdb_client import InfluxDBClient, Point, WritePrecision
@@ -768,33 +768,33 @@ write_api = client.write_api(write_options=SYNCHRONOUS)
 senseair_s8 = SenseairS8()
 
 while True:
-    print(senseair_s8.co2())
+  print(senseair_s8.co2())
+  
+  # Display indicator LED
+  if (senseair_s8.co2() <= 1000):
+    GPIO.output(greenLed, True)
+    GPIO.output(yellowLed, False)
+    GPIO.output(redLed, False)
+  elif (senseair_s8.co2() < 2000 and senseair_s8.co2() > 1000):
+    GPIO.output(greenLed, False)
+    GPIO.output(yellowLed, True)
+    GPIO.output(redLed, False)
+  else:
+    GPIO.output(greenLed, False)
+    GPIO.output(yellowLed, False)
+    GPIO.outpur(redLed, True)
     
-    # Display indicator LED
-    if (senseair_s8.co2() <= 1000):
-        GPIO.output(greenLed, True)
-        GPIO.output(yellowLed, False)
-        GPIO.output(redLed, False)
-    elif (senseair_s8.co2() < 2000 and senseair_s8.co2() > 1000):
-        GPIO.output(greenLed, False)
-        GPIO.output(yellowLed, True)
-        GPIO.output(redLed, False)
-    else:
-        GPIO.output(greenLed, False)
-        GPIO.output(yellowLed, False)
-        GPIO.outpur(redLed, True)
-        
-    # Setup data to send
-    point = (
-        Point("measurement")
-        .tag("CO2", "Level")
-        .field("PPM", senseair_s8.co2())
-    )
-    write_api.write(bucket=bucket, org="Embedded Systems and Computer engineering", record=point)
-    time.sleep(5)
-    
-  ```
-  </sub>
+  # Setup data to send
+  point = (
+    Point("measurement")
+    .tag("CO2", "Level")
+    .field("PPM", senseair_s8.co2())
+  )
+  write_api.write(bucket=bucket, org="Embedded Systems and Computer engineering", record=point)
+  time.sleep(5)
+  
+ ```
+ </sub>
 
 <br /> 
 
@@ -812,26 +812,26 @@ while True:
 
 ```
 [1] LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444. 
-  DOI: 10.1038/nature14539
-  Citaties: 52,106
+ DOI: 10.1038/nature14539
+ Citaties: 52,106
 
  
 
 [2] Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural Networks, 61, 85-117. 
-  DOI: 10.1016/j.neunet.2014.09.003
-  Citaties: 3,657
+ DOI: 10.1016/j.neunet.2014.09.003
+ Citaties: 3,657
 
-  Dit artikel geeft een overzicht van de geschiedenis van Deep Learning en de huidige trends in de ontwikkeling
-  van diepe neurale netwerken. Het bespreekt ook de verschillende soorten diepe neurale netwerken
-  die zijn ontwikkeld, zoals feedforward-netwerken, convolutionele netwerken en recurrente netwerken.
+ Dit artikel geeft een overzicht van de geschiedenis van Deep Learning en de huidige trends in de ontwikkeling
+ van diepe neurale netwerken. Het bespreekt ook de verschillende soorten diepe neurale netwerken
+ die zijn ontwikkeld, zoals feedforward-netwerken, convolutionele netwerken en recurrente netwerken.
 
 [3] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning (pp. 1-7). MIT Press. 
-  DOI: 10.7551/mitpress/9780262035613.003.0001
-  Citaties: 12,843
+ DOI: 10.7551/mitpress/9780262035613.003.0001
+ Citaties: 12,843
 
-  Dit boek is een uitgebreide introductie tot Deep Learning, met een nadruk op de principes en technieken
-  van de diepe neurale netwerken. Het behandelt onderwerpen zoals perceptron-modellen, backpropagation 
-  regulering, convolutionele netwerken en recurrente netwerken.
+ Dit boek is een uitgebreide introductie tot Deep Learning, met een nadruk op de principes en technieken
+ van de diepe neurale netwerken. Het behandelt onderwerpen zoals perceptron-modellen, backpropagation 
+ regulering, convolutionele netwerken en recurrente netwerken.
 
 ```
 
