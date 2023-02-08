@@ -5,14 +5,16 @@
 
 ## Context & Doel
 
-Om duiding te geven aan de hype rond ChatGPT, is deze *"Nederlandstalige  "How-To?" repository"* opgesteld met hints en tips voor het verantwoord & effectief gebruik ervan. Dit is een initiatief van het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
+Om duiding te geven aan de hype rond ChatGPT, is deze *"Nederlandstalige  "How-To?" repository"* opgesteld met hints en tips voor het verantwoord & effectief gebruik ervan. Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
 <br /> 
 
 
 <img align="left" width="150" height="270" src="https://user-images.githubusercontent.com/684692/212558117-0445bc99-5ef7-438c-9421-e758f64473da.jpg">
 
-
+<img align="left" width="150" height="270" src=".\QR_CODE_CHATGPT_HR-UITGELEGD.jpg">
 <br>
+
+
 
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen.
 
@@ -105,7 +107,9 @@ Microsoft *---de investeerder achter OpenAI---* heeft een andere afweging gemaak
 
 <!-- https://www.microsoft.com/en-us/research/blog/ai-ethics-and-our-commitment-to-protecting-people/ -->
 
-Het gebruik van ChatGPT is dus niet zonder risico's. Het zal zeer waarschijnlijk nog decennia duren voordat het vrij van ongewenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigende wijze *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen en waarom. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
+Het gebruik van ChatGPT is dus niet zonder risico's. Het zal zeer waarschijnlijk nog decennia duren voordat het vrij van ongewenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigende wijze *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. 
+
+Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen en waarom. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 <!--
 
