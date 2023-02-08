@@ -1,16 +1,19 @@
 # AI's NEW FRONTIER is called Chat-GPT
 
-***********
 
 <img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
-# [PROMETHEUS](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br /> DATA SCIENCE LAB
+## [PROMETHEUS](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br /> DATA SCIENCE LAB
 
 
-***********
 
 
-## Context & Doel
+
+# Context & Doel
+
+Om duiding te geven aan de hype rond ChatGPT, is deze repository opgezet; een initiatief van het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS). 
+
+Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van studenten, in combinatie met (2) onderwijstaken van docenten in het (hoger) onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
@@ -20,7 +23,6 @@
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
 
-<br> 
 
 ***********
 # Overzicht van veel gestelde vragen [ChatGPT FACs]
@@ -33,10 +35,11 @@
 <td align="left">
 <br>
 
+* [0] [Waarom veroorzaakt ChatGTP zoveel onrust?](#v0)
 * [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
 * [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
 * [0c] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0c)
-* [1a] [Wat moet je weten over ChatGPT en waarvoor kan het worden gebruikt?](#v1a)
+* [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1e] [Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
@@ -64,6 +67,14 @@
 
 <br>
 
+# v0
+
+*******
+###
+### [0] WAAROM VEROORZAAKT ChatGTP ZOVEEL ONRUST?  
+
+***********
+
 Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
 
@@ -71,7 +82,7 @@ Nu GPT de nieuwste sensatie in de wereld van kunstmatige intelligentie [AI] is, 
 
 >Op Twitter heeft hij geprobeerd de gemoederen wat te bedaren door ChatGPT *"ongelooflijk beperkt"* te noemen en gebruikers te waarschuwen dat *"het een vergissing is om er nu op te vertrouwen voor iets belangrijks".*
 
-Om duiding te geven aan de hype rond ChatGPT, is deze repository opgezet; een initiatief van het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS). Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository uitsluitend gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van studenten, in combinatie met (2) onderwijstaken van docenten in het hoger onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+
 
 Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden blijkt uit een Blog *--- getiteld: [ChatGPT Keeps Imploding Because of Crochet. (Seriously.)](https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite)"---* in the Daily Beast (05 februari 2023) geschreven door innovatie-reporter Katie Notopoulos. Zij beschrijft hoe een groep van 100.000 TikTokkers onder leiding van textielkunstenares Alex Woolner [*---die zichzelf de "Crochet Army" noemen---*](https://www.tiktok.com/discover/chatgpt-crochet) een zwakke plek wisten bloot te leggen door het te *"misbruiken"* voor het genereren van *"Crochet"* haakpatronen. ChatGTP kan niet omgaan met de complexiteit van de patronen die de Crochet Army had bedacht. Het resultaat zijn een onleesbare reeksen letters en cijfers.
 
@@ -215,7 +226,7 @@ ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld do
 
 GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
-De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-giganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Whashington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de ethische risico's & schaduwkanten van ChatGTP](#v1c).
+De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-giganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de ethische risico's & schaduwkanten van ChatGTP](#v1c).
 
 Deze nieuwe generatie aan GPTs kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
