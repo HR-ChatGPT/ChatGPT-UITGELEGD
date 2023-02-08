@@ -156,7 +156,7 @@ ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld do
 ### [0b] IS ER EEN KORT OVERZICHT VAN ChatGPT's TEKORTKOMINGEN?
 *******
 
-Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's ChatGPT](https://www.makeuseof.com/openai-ChatGPT-biggest-probelms/) geschreven door door Garling Wu op 22 december 2020.
+Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) geschreven door door Garling Wu op 22 december 2020.
 
 
 | ISSUE | OMSCHRIJVING |
