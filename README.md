@@ -123,25 +123,30 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 ### [0a] Wat is "*generatieve kunstmatige intelligentie"* [Gen-AI]?
 *******
 
-### Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
+#### Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
 
 "Kunstmatige intelligentie" (AI) is een multidisciplinair vakgebied gericht op het ontwikkelen van technologie dat menselijke cognitieve, perceptuele en/of motorische vermogens kan nabootsen en/of automatiseren. 
 
 | | Menselijk Vermogen | Toepassing |
 | --- | --- | --- |
-| Cognitie | Verwerken, <br> Begrijpen en Onthouden <br> van informatie via het Brein. | Taalverwerking, <br> Logisch Redeneren, <br> Problemen Oplossen. |
+| Cognitie | Verwerken, Begrijpen en Onthouden <br> van informatie via het Brein. | Spraak, <br> Taalverwerking, <br> Logisch Redeneren, <br> Problemen Oplossen. |
 | Perceptie | Verzamelen van <br> Ongestructureerde Informatie <br> via Sensoren (Ogen, Oren, Neus, Huid,Tong). | Beeldherkenning, <br> Spraakherkenning, <br> Object Lokalisatie. |
 | Motorische vermogens | Uitvoeren van fysieke acties via Actuatoren <br> (Armen, Handen, Benen, Voeten, Mond, Lippen). | Zelfrijdende auto's, <br> Drones, <br> Humanoïde Robots, <br> [Tekst-naar-spraak synthese](https://valle-demo.github.io/) |
 
-<br><br>
+<br>
  
+
+ Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met als doel het volledig automatisch produceren van ogenschijnlijk *"nieuwe"* inhoud, zoals tekst, afbeeldingen, geluid, spraak en/of muziek. <br> <br> Gen-AI kan een model maken van een bestaand schilderij, met als doel nieuwe beelden te creëren die op het oorspronkelijke schilderij lijken. Door vervolgens een serie aan nieuwe beelden te genereren en die na elkaar af te spelen, ontstaat een animatie.
+
+ <br>
+
 <img align="right" width="600" height="300" src="https://user-images.githubusercontent.com/684692/214197393-353c6de7-0089-4fbe-8e59-7c1445a932a9.gif">
 
-Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met als doel het volledig automatisch produceren van ogenschijnlijk *"nieuwe"* inhoud, zoals tekst, afbeeldingen, geluid, spraak en/of muziek. <br> <br> Gen-AI kan een model maken van een bestaand schilderij, met als doel nieuwe beelden te creëren die op het oorspronkelijke schilderij lijken. Door vervolgens een serie aan nieuwe beelden te genereren en die na elkaar af te spelen, ontstaat een animatie.
+
 
 >Living Mona Lisa from Few-Shot Adversarial Learning of Realistic Neural Talking Head Models. <br> <sub> Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). Few-shot adversarial learning of realistic neural talking head models. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9459-9468). https://doi.org/10.1109/ICCV.2019.00671
 
-<br>
+<br><br> <br><br> <br><br> 
 
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. 
 
