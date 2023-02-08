@@ -123,18 +123,17 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 ### [0a] Wat is "*generatieve kunstmatige intelligentie"* [Gen-AI]?
 *******
 
+### Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
 
 "Kunstmatige intelligentie" (AI) is een multidisciplinair vakgebied gericht op het ontwikkelen van technologie dat menselijke cognitieve, perceptuele en/of motorische vermogens kan nabootsen en/of automatiseren. 
 
-|    | Cognitie                                 | Perceptie                                 | Motorische vermogens                                 |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Menselijk Vermogen | Verwerken, Begrijpen en Onthouden van informatie via het Brein.                      | Verzamelen van Ongestructureerde Informatie via Sensoren <br> (Ogen, Oren, Neus, Huid,Tong).                     | Uitvoeren van fysieke acties via Actuatoren <br> (Armen, Handen, Benen, Voeten, Mond, Lippen)                              |
-| Toepassing | Taalverwerking, Logisch Redeneren, Problemen Oplossen.                     | Beeldherkenning, Spraakherkenning, Object Lokalisatie.                      | Zelfrijdende auto's, Drones, Humanoïde Robots, [Tekst-naar-spraak synthese](https://valle-demo.github.io/) |
+| | Menselijk Vermogen | Toepassing |
+| --- | --- | --- |
+| Cognitie | Verwerken, <br> Begrijpen en Onthouden <br> van informatie via het Brein. | Taalverwerking, <br> Logisch Redeneren, <br> Problemen Oplossen. |
+| Perceptie | Verzamelen van <br> Ongestructureerde Informatie <br> via Sensoren (Ogen, Oren, Neus, Huid,Tong). | Beeldherkenning, <br> Spraakherkenning, <br> Object Lokalisatie. |
+| Motorische vermogens | Uitvoeren van fysieke acties via Actuatoren <br> (Armen, Handen, Benen, Voeten, Mond, Lippen). | Zelfrijdende auto's, <br> Drones, <br> Humanoïde Robots, <br> [Tekst-naar-spraak synthese](https://valle-demo.github.io/) |
 
-
-Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
-
-<br>
+<br><br>
  
 <img align="right" width="600" height="300" src="https://user-images.githubusercontent.com/684692/214197393-353c6de7-0089-4fbe-8e59-7c1445a932a9.gif">
 
