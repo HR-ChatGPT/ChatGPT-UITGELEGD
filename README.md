@@ -20,6 +20,50 @@
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
 
+<br> 
+
+***********
+# Overzicht van veel gestelde vragen
+
+***********
+
+<div align="left">
+<table>
+<tbody>
+<td align="left">
+<br>
+
+* [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
+* [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
+* [0c] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0c)
+* [1a] [Wat moet je weten over ChatGPT en waarvoor kan het worden gebruikt?](#v1a)
+* [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
+* [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
+* [1e] [Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
+* [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
+* [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
+* [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
+* [5] [Heeft ChatGPT taalbegrip?](#v5)
+* [6] [Kan ChatGPT logisch redeneren?](#v6)
+* [7a] [Kan ChatGPT broncode schrijven?](#v7a)
+* [7b] [Kan ChatGPT broncode uitleggen?](#v7b)
+* [7c] [Kan ChatGPT broncode output simuleren?](#v7c)
+* [7d] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7d)
+* [7e] [Kan ChatGPT broncode beoordelen en/of fouten opsporen?](#v7e)
+* [8a] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8a)
+* [8b] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v8b)
+* [12] [Kan het gebruik van ChatGPT gedetecteerd worden?](#v12)
+* [13] [Kun je spreken tegen ChatGPT?](#v13)
+* [15] [Prompt voorbeelden](#v15)
+* [16] [Geraadpleegde Bronnen](#v16)
+
+</td>
+</tbody>
+</table>
+</div>
+
+<br>
+
 Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
 
@@ -75,45 +119,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 
 <br><br>
 ************
-# Overzicht van veel gestelde vragen
-***********
 
-<div align="left">
-<table>
-<tbody>
-<td align="left">
-<br>
-
-* [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
-* [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
-* [0c] [Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0c)
-* [1a] [Wat moet je weten over ChatGPT en waarvoor kan het worden gebruikt?](#v1a)
-* [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
-* [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
-* [1e] [Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
-* [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
-* [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
-* [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
-* [5] [Heeft ChatGPT taalbegrip?](#v5)
-* [6] [Kan ChatGPT logisch redeneren?](#v6)
-* [7a] [Kan ChatGPT broncode schrijven?](#v7a)
-* [7b] [Kan ChatGPT broncode uitleggen?](#v7b)
-* [7c] [Kan ChatGPT broncode output simuleren?](#v7c)
-* [7d] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7d)
-* [7e] [Kan ChatGPT broncode beoordelen en/of fouten opsporen?](#v7e)
-* [8a] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8a)
-* [8b] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v8b)
-* [12] [Kan het gebruik van ChatGPT gedetecteerd worden?](#v12)
-* [13] [Kun je spreken tegen ChatGPT?](#v13)
-* [15] [Prompt voorbeelden](#v15)
-* [16] [Geraadpleegde Bronnen](#v16)
-
-</td>
-</tbody>
-</table>
-</div>
-
-<br>
 
 
 # v0a
