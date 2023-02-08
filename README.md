@@ -815,7 +815,9 @@ while True:
  DOI: 10.1038/nature14539
  Citaties: 52,106
 
- 
+Dit review artikel bespreekt Deep Learning: voorwaarden, algoritmes, geavanceerde technieken, toepassingen, etc. 
+Het paper draagt ​​bij aan de kennis over machine learning met behulp van neurale netwerken. 
+Met 52.106 citaties is dit een invloedrijk en veelgelezen artikel.
 
 [2] Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural Networks, 61, 85-117. 
  DOI: 10.1016/j.neunet.2014.09.003
