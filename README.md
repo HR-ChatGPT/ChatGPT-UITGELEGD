@@ -15,7 +15,6 @@ Om duiding te geven aan de hype rond ChatGPT, is deze *"Nederlandstalige  "How-T
 <br>
 
 
-
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen.
 
 <sub> Economist. (2022, june Issue). Artificial intelligence's new frontier. 
@@ -97,7 +96,7 @@ Een illustratief voorbeeld van waar de hype rond ChatGPT toe kan leiden blijkt u
 >Door ChatGPT's enorme populariteit is er een stortvloed aan verhalen losgekomen over wat het zoal kan: academische essays schrijven, medische examens afnemen, maaltijden voorbereiden en misschien (op een dag) optreden als advocaat in de rechtszaal. Maar voor elk succesverhaal is er een ander dat het falen ervan belicht: Waarom kan ChatGPT wel een navolgbaar essay schrijven, maar niet een van literaire kwaliteit? Waarom heeft het moeite met sommige soorten logische vragen en geeft het zelfverzekerd onjuiste antwoorden op andere?
 
 Ondanks dat OpenAI goede sier maakt met het vrij toegankelijk maken van ChatGPT, is het belangrijk om te weten dat het een *"work in progress"* is dat nog volop in ontwikkeling is, waarbij de onderliggende AI-technologie grotendeels de *"brainchild"* is van Alphabet *---het moeder bedrijf van Google---* voortgekomen uit de onderzoekslaboratoria van [*"Google Brain"* (2011)](https://neurapod.medium.com/google-brain-b68866732fe) en [*"DeepMind"* (2014)](https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html). Dit geldt in mindere mate ook voor Meta *---het moederbedrijf van Facebook---* dat sinds 2013 aan de ontwikkeling van [*"FAIR"* (Facebook Artificial Intelligence Research)](https://engineering.fb.com/2018/12/05/ai-research/fair-fifth-anniversary/) werkt.
-FAIR is overgaan in [Meta.AI](https://ai.facebook.com/) (2015). Alphabet en Meta zijn de meest invloedrijke vernieuwers in de wereld van kunstmatige intelligentie [AI]. Ze beschikken over enorm veel (financiële) middelen, ervaring, werkgemeenschappen en hebben toegang tot zeer grote datasets. Toch, hebben zij een andere afweging gemaakt dan OpenAI uit zowel een moreel als een commercieel oogpunt.
+FAIR is overgaan in [Meta.AI](https://ai.facebook.com/) (2015). Alphabet en Meta zijn de meest invloedrijke vernieuwers in de wereld van kunstmatige intelligentie [AI]. Ze beschikken over enorm veel (financiële) middelen, ervaring, werkgemeenschappen en hebben toegang tot zeer grote datasets. Toch, hebben zij een andere afweging gemaakt dan OpenAI uit zowel een moreel als een commercieel *---reputatie schade---* oogpunt.
 
 >Yann LeCun *---Cofounder Meta-AI---* zei op Twitter (8 januari 2023) dat Alphabet en Meta hun grootschalig taalmodelen [LLMs] niet vrijgeven aan het grote publiek om ethische redenen. LLMs' genereren nog te vaak foutieve en/of giftige teksten. In dezelfde Twitter thread, toen hij erop gewezen werd het *"public relations fiasco"* rondom de introductie van Meta-AI's [*Galactica*](www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) niet te vermelden bij het bekritiseren van ChatGPT.  Galactica moest wetenschappers helpen *"academische papers samenvatten, wiskundige problemen oplossen, Wiki-artikelen genereren, wetenschappelijke code schrijven, moleculen en eiwitten annoteren, en nog veel meer"*, in plaats daarvan, spuwde het gedachteloos bevooroordeelde en onjuiste onzin uit. Drie dagen na de lancering (18 november 2022), werd het uitgeschakeld.
 
@@ -225,7 +224,23 @@ GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---da
 
 De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-giganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de ethische risico's & schaduwkanten van ChatGTP](#v1c).
 
-Deze nieuwe generatie aan GPTs kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
+Microsoft heeft de [*nieuwe AI-powered Bing*](https://news.microsoft.com/the-new-Bing/) *---7 februari 2023---*  met veel tamtam vrijgegeven tijdens een evenement op het hoofdkantoor van het bedrijf.  Microsoft mengt GTP Gen-AI met zijn eigen Bing zoekmachine, het beschikt nu over een "Ask me anything?" window waarmee je via de microfoon van je computer of telefoon kunt communiceren. Uitgangspunt is om  menselijke gebruikers te helpen vragen te beantwoorden en met hen te *"chatten"* over elk denkbaar onderwerp. Wanneer je Bing een vraag stelt, produceert het *---naast de gebruikelijke lijst met relevante websites waar je, als het goed is, het antwoord op jouw vraag kunt vinden---* een tekst met een antwoord, maar waar het deze informatie vandaan heeft wordt niet duidelijk. Microsoft wil niet zeggen welke versie van OpenAI's software onder de motorkap van Bing draait, maar het gerucht gaat dat die gebaseerd is op GPT-4, een nog uit te brengen taalmodel, aldus de [*New York Times*](https://www.nytimes.com/2023/02/08/technology/microsoft-bing-openai-artificial-intelligence.html).
+
+Volgens [Time magazine](https://en.wikipedia.org/wiki/Time_(magazine)) zet dit zet de deur open naar een [*chatbot/AI arms-race*](https://time.com/6253984/microsoft-bing-google-ai-race/). Decennialang heeft Alphabet de manier de doorsnee computer/smartphone bezitter het world-wide-web gebruiken gedomineerd: via (1) zoekmachines (Google) en via (2) browsers (Chrome). Door de opkomst van nieuwe, vrijtoegangenrijke Gen-AI technologie zoals Chat-GPT is dit *"Google/Chrome"* monopolie aan het wankelen gebracht.
+
+Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie in verschillende producten. En talloze start-ups bouwen hun eigen generatieve A.I.-producten, de naam voor technologieën die zelf woorden, beelden en andere media genereren.
+
+Google's onthulling van rivaal Bard had woensdag een dure gênante stunt toen bleek dat uit promotiemateriaal bleek dat de chatbot een verkeerd antwoord gaf op een vraag.
+
+<!--
+https://www.microsoft.com/en-us/ai
+https://inspire.microsoft.com/en-US/home
+https://news.microsoft.com/the-new-Bing/
+https://time.com/6253984/microsoft-bing-google-ai-race/
+-->
+
+
+De nieuwe generatie aan GPT-based Gen-AI's kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
 In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [NLP] gebaseerde functies van ChatGPT weergegeven.
 
@@ -1049,4 +1064,3 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 
 <br>
-
