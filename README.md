@@ -216,9 +216,28 @@ LLMs van het van het type
 https://platform.openai.com/examples?category=code
 -->
 
- *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. 
+ *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die gebruik maken van natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
+ Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters.
+
+ LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---* en gebruiken zelf-gesuperviseerd leren [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het volgende token in een zin te voorspellen, gegeven de omringende context. Dit proces wordt steeds herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+
+
+ GPT-3 training data
+| Dataset	#  | tokens	| Proportion within training |
+| ---------- | ------ | -------------------------- |
+Common | Crawl	410 billion | 	60%
+WebText2	| 19 billion	| 22%
+Books1	| 12 billion	| 8%
+Books2	| 55 billion | 	8%
+Wikipedia	| 3 billion	| 3%
+
 
 ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
+ Het is gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
+
+
+
+
 
 GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
@@ -237,6 +256,8 @@ https://www.microsoft.com/en-us/ai
 https://inspire.microsoft.com/en-US/home
 https://news.microsoft.com/the-new-Bing/
 https://time.com/6253984/microsoft-bing-google-ai-race/
+https://www.nvidia.com/en-us/deep-learning-ai/solutions/large-language-models/
+https://www.techopedia.com/definition/34474/self-supervised-learning-ssl
 -->
 
 
