@@ -221,18 +221,18 @@ https://platform.openai.com/examples?category=code
 
 LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---*. Ze gebruiken unsupervised learning algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woord  volgorde in een zin te leren voorspellen, gegeven de omringende woorden. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
-GPT-3, aangekondigd door OpenAI in mei 2020,  was het de eerste LLM  met het vermogen tot begrijpen en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren van een paar voorbeelden en kan ook coderen in onder meer CSS, Markdown, en Python. GPT-3 werd getraind op basis van 499 miljarden woorden (zie onderstaande tabel). 
+GPT-3, aangekondigd door OpenAI in mei 2020,  was het de eerste LLM  met het vermogen tot begrijpen en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. GPT-3 werd getraind op basis van 499 miljarden woorden (zie onderstaande tabel). 
 <br> <br>
 
 
-| Dataset	  | Woorden <br> *Tokens* <br> [Miljard]	| Size <br> [GigaByte] | Proportion [%] <br> within training |
-| ---------- | ------ | ---------- | --------------|
-Common <br> Web Crawl | 	410 | 570	| 60
-Books set1	| 19 	| 50  | 22
-Books set2 	| 12 	| 21  | 8
-Journals <br> pre-print <br> published 	| 55  | 	101  | 8
-Wikipedia	| 3 	| 11.4  | 3
-Total | 499  | 753.4 | 100 |
+| Dataset	  | Woorden <br> *Tokens* <br> [Miljard]	| Size <br> [GigaByte] 
+| ---------- | ------ | ---------- |
+Common <br> Web Crawl | 	410 | 570	
+Books set1	| 19 	| 50  
+Books set2 	| 12 	| 21 
+Journals <br> pre-print <br> published 	| 55  | 	101  
+Wikipedia	| 3 	| 11.4  
+Total | 499  | 753.4 
 
 <br>
 
@@ -249,6 +249,7 @@ De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-gigant
 >Microsoft heeft de [*nieuwe AI-powered Bing*](https://news.microsoft.com/the-new-Bing/) *---7 februari 2023---*  met veel tamtam vrijgegeven tijdens een evenement op het hoofdkantoor van het bedrijf.  Microsoft mengt GTP Gen-AI met zijn eigen Bing zoekmachine, het beschikt nu over een "Ask me anything?" window waarmee je via de microfoon van je computer of telefoon kunt communiceren. Uitgangspunt is om  menselijke gebruikers te helpen vragen te beantwoorden en met hen te *"chatten"* over elk denkbaar onderwerp. Wanneer je Bing een vraag stelt, produceert het *---naast de gebruikelijke lijst met relevante websites waar je, als het goed is, het antwoord op jouw vraag kunt vinden---* een tekst met een antwoord, maar waar het deze informatie vandaan heeft wordt niet duidelijk. Microsoft wil niet zeggen welke versie van OpenAI's software onder de motorkap van Bing draait, maar het gerucht gaat dat die gebaseerd is op GPT-4, een nog uit te brengen taalmodel, aldus de [*New York Times*](https://www.nytimes.com/2023/02/08/technology/microsoft-bing-openai-artificial-intelligence.html).
 
 Volgens [Time Magazine](https://en.wikipedia.org/wiki/Time_(magazine)) zet dit zet de deur open naar een [*chatbot/AI arms-race*](https://time.com/6253984/microsoft-bing-google-ai-race/). Decennialang heeft Alphabet de manier waarop de doorsnee computer/smartphone bezitter "surfen" over het world-wide-web gedomineerd: via (1) zoekmachines (Google) en via (2) browsers (Chrome). Door de opkomst van nieuwe, vrijtoegangenrijke Gen-AI technologie zoals Chat-GPT is dit *"Google/Chrome"* monopolie aan het wankelen gebracht.
+Hierdoor wordt waarschijnlijk het "*gratis-advertentie*" verdien-model losgelaten en verdwijnen zoekmachines achter  een *"Pay-Wall"*.
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie in verschillende producten. En talloze start-ups bouwen hun eigen generatieve A.I.-producten, de naam voor technologieën die zelf woorden, beelden en andere media genereren.
 
