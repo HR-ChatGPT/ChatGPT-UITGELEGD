@@ -225,14 +225,13 @@ GPT-3, aangekondigd door OpenAI in mei 2020,  was het de eerste LLM  met het ver
 <br> <br>
 
 
-| Dataset	  | Woorden <br> *Tokens* <br> [Miljard]	| Size <br> [GigaByte] 
-| ---------- | ------ | ---------- |
-Common <br> Web Crawl | 	410 | 570	
-Books set1	| 19 	| 50  
-Books set2 	| 12 	| 21 
-Journals <br> pre-print <br> published 	| 55  | 	101  
-Wikipedia	| 3 	| 11.4  
-Total | 499  | 753.4 
+| Dataset | Common Web Crawl | Books set1 | Books set2 | Journals <br> pre-print <br> published | Wikipedia | Total 
+|---------|------------------|------------|------------|--------------------------------|-----------|-------
+| Woorden<br>*Tokens*<br>[Miljard] <br> <br>  | 410 | 19 | 12 | 55 | 2 | 498 
+| Size<br>[GigaByte] <br>  <br> | 570 | 50 | 21 | 101 | 11.4 | 753.4
+
+
+
 
 <br>
 
