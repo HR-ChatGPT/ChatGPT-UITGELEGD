@@ -5,15 +5,14 @@
 
 ## Context & Doel
 
-Om duiding te geven aan de hype rond ChatGPT, is deze *"Nederlandstalige  "How-To?" repository"* opgesteld met hints en tips voor het verantwoord & effectief gebruik ervan. Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
-<br /> 
+Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *"Nederlandstalige  "How-To?" repository"* opgesteld met hints en tips voor het verantwoord & effectief gebruik ervan. 
 
+Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
+<br /> <br>
 
 <img align="left" width="150" height="270" src="https://user-images.githubusercontent.com/684692/212558117-0445bc99-5ef7-438c-9421-e758f64473da.jpg">
 
 <img align="left" width="150" height="270" src=".\QR_CODE_CHATGPT_HR-UITGELEGD.jpg">
-<br>
-
 
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen.
 
@@ -21,6 +20,7 @@ Om duiding te geven aan de hype rond ChatGPT, is deze *"Nederlandstalige  "How-T
 [doi:10.1016/S0140-6736(22)62142-4](https://www.economist.com/leaders/2022/06/09/artificial-intelligences-new-frontier) <sub>
 
 
+Volgens een editorial in de  [Gardian (10 februari 2023)](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) maakt het vrijgeven en *"Hypen"* van AI met “nieuwe, revolutionaire functionaliteit en ongekende mogelijkheden“ die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform vendors zoals Microsoft(OpenAI), Alphabet(Google), Meta(Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkvermogen overlaten aan *"alwetende machines"*. Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.org/doi/10.1073/pnas.1922888117) die als het koud wordt, zijn brein laat krimpen om energie te besparen en weer kan laten groeien in de lente. Het is onwaarschijnlijk dat de mensheid een dergelijke overlevingsstrategieën zal vertonen, maar er is een zorgwekkende metaforische parallel. De zorg is dat in de door winst gedreven wedloop om AI in ons dagelijks leven op te nemen, de mens zichzelf kwetsbaar maakt door volledig te vertrouwen op AI-technologie. In de biologie geldt niet voor niets het adagium *"Use It, or Lose It!"*.
 
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijstaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
@@ -248,9 +248,17 @@ De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-gigant
 >Microsoft heeft de [*nieuwe AI-powered Bing*](https://news.microsoft.com/the-new-Bing/) *---7 februari 2023---*  met veel tamtam vrijgegeven tijdens een evenement op het hoofdkantoor van het bedrijf.  Microsoft mengt GTP Gen-AI met zijn eigen Bing zoekmachine, het beschikt nu over een "Ask me anything?" window waarmee je via de microfoon van je computer of telefoon kunt communiceren. Uitgangspunt is om  menselijke gebruikers te helpen vragen te beantwoorden en met hen te *"chatten"* over elk denkbaar onderwerp. Wanneer je Bing een vraag stelt, produceert het *---naast de gebruikelijke lijst met relevante websites waar je, als het goed is, het antwoord op jouw vraag kunt vinden---* een tekst met een antwoord, maar waar het deze informatie vandaan heeft wordt niet duidelijk. Microsoft wil niet zeggen welke versie van OpenAI's software onder de motorkap van Bing draait, maar het gerucht gaat dat die gebaseerd is op GPT-4, een nog uit te brengen taalmodel, aldus de [*New York Times*](https://www.nytimes.com/2023/02/08/technology/microsoft-bing-openai-artificial-intelligence.html).
 
 Volgens [Time Magazine](https://en.wikipedia.org/wiki/Time_(magazine)) zet dit zet de deur open naar een [*chatbot/AI arms-race*](https://time.com/6253984/microsoft-bing-google-ai-race/). Decennialang heeft Alphabet de manier waarop de doorsnee computer/smartphone bezitter "surfen" over het world-wide-web gedomineerd: via (1) zoekmachines (Google) en via (2) browsers (Chrome). Door de opkomst van nieuwe, vrijtoegangenrijke Gen-AI technologie zoals Chat-GPT is dit *"Google/Chrome"* monopolie aan het wankelen gebracht.
-Hierdoor wordt zeer waarschijnlijk het "*gratis-advertentie*" verdien-model losgelaten en verdwijnen zoekmachines achter een *"Pay-Wall"*.
+Hierdoor wordt zeer waarschijnlijk het "*gratis-advertentie*" verdien-model losgelaten en verdwijnen zoekmachines achter een [*"PayWall"*](https://en.wikipedia.org/wiki/Paywall) of [*"Vendor lock-in"*](https://en.wikipedia.org/wiki/Vendor_lock-in). Microsoft lijkt voor de vendor lock-in optie te hebben gekozen; je komt hoger op de wachtlijst voor toegang tot de *"nieuwe Bing"* wanneer je je *"webbrowsing instellingen"* als volgt *"optimaliseert"*:
 
-Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie in verschillende producten. En talloze start-ups bouwen hun eigen generatieve A.I.-producten, de naam voor technologieën die zelf woorden, beelden en andere media genereren.
+* maak Microsoft Edge de "default browser"
+* maak Bing de "default search provider"
+* maak MSN de "default homepage"
+* Voeg Bing.com toe aan de "Taskbar"
+* Voeg Microsoft to aan "recommended sites in Favorites" 
+* maak een desktop "shortcut fot Microfoft Edge"
+
+Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie in verschillende producten.de "default browser"
+
 
 <!--
 Google's onthulling van rivaal Bard had woensdag een dure gênante stunt toen bleek dat uit promotiemateriaal bleek dat de chatbot een verkeerd antwoord gaf op een vraag.
@@ -1049,11 +1057,13 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Forsyth, O. (2022, december 20). Generative AI. [Blog]. https://www.antler.co/blog/generative-ai
 
-* <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
-
 * <sub> Glaese, A., McAleese, N., Trębacz, M., Aslanides, J., Firoiu, V., Ewalds, T., ... & Irving, G. (2022). Improving alignment of dialogue agents via targeted human judgements. arXiv preprint. doi: 10.48550/arxiv.2209.14375. https://arxiv.org/abs/2209.14375
 
+* <sub> Grandoni, D. (2022, November 30). Why this mammal eats its own brain — and why it could matter for you. [Environment Blog] The Washington Post. https://www.washingtonpost.com/climate-environment/2022/11/30/shrews-shrink-regrow-own-brains/
+
 * <sub> Grant, N., & Metz, C. (2022, December 21). A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. [Tecnology Blog] The New York Times. https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html
+
+* <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
 
 * <sub> Heaven, W. D. (2022, November 18). Artificial intelligence: Why Meta’s latest large language model survived only three days online. Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense. [AI Blog] Technology Review. https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
 
