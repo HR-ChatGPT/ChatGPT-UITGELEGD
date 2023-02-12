@@ -219,37 +219,42 @@ https://platform.openai.com/examples?category=code
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die gebruik maken van natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
  Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters.
 
- LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---* en gebruiken zelf-gesuperviseerd leren [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het volgende token in een zin te voorspellen, gegeven de omringende context. Dit proces wordt steeds herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---*. Ze gebruiken unsupervised learning algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woord  volgorde in een zin te leren voorspellen, gegeven de omringende woorden. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+
+GPT-3, aangekondigd door OpenAI in mei 2020,  was het de eerste LLM  met het vermogen tot begrijpen en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren van een paar voorbeelden en kan ook coderen in onder meer CSS, Markdown, en Python. GPT-3 werd getraind op basis van 499 miljarden woorden (zie onderstaande tabel). 
+<br> <br>
 
 
- GPT-3 training data
-| Dataset	#  | tokens	| Proportion within training |
-| ---------- | ------ | -------------------------- |
-Common | Crawl	410 billion | 	60%
-WebText2	| 19 billion	| 22%
-Books1	| 12 billion	| 8%
-Books2	| 55 billion | 	8%
-Wikipedia	| 3 billion	| 3%
+| Dataset	  | Woorden <br> *Tokens* <br> [Miljard]	| Size <br> [GigaByte] | Proportion [%] <br> within training |
+| ---------- | ------ | ---------- | --------------|
+Common <br> Web Crawl | 	410 | 570	| 60
+Books set1	| 19 	| 50  | 22
+Books set2 	| 12 	| 21  | 8
+Journals <br> pre-print <br> published 	| 55  | 	101  | 8
+Wikipedia	| 3 	| 11.4  | 3
+Total | 499  | 753.4 | 100 |
+
+<br>
+
+GTP-3  toont aan dat problemen met kleine, eenvoudige neurale netwerken verdwijnen, en zij krachtiger, generaliseerbaarder en menselijker worden wanneer zij eenvoudigweg zeer groot worden gemaakt & getraind op zeer grote datasets met zeer grote computers. 
+Deze *schaalhypothese* is in lijn met de aanname dat *menselijke intelligentie*  opgebouwd is uit eenvoudige neurale eenheden & leeralgoritmen toegepast op diverse ervaringen op een (momenteel) voor computationele systemen onbereikbare schaal. Naarmate de toenemende computermiddelen het mogelijk maken dergelijke algoritmen op de noodzakelijke schaal uit te voeren, zullen de neurale netwerken functies kunnen vervullen die niet van menselijke intelligentie zijn te onderscheiden.
 
 
-ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
- Het is gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
-
-
-
-
+ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een *GTP-3.5 LLM*, is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
 
 GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
-De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-giganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook [Wat zijn de ethische risico's & schaduwkanten van ChatGTP](#v1c).
+De sterke toename van de aandacht voor ChatGPT leidt tot druk binnen Tech-giganten, waaronder Meta en Google, om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, volgens the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook ["Wat zijn de ethische risico's & schaduwkanten van ChatGTP?"](#v1c)
 
-Microsoft heeft de [*nieuwe AI-powered Bing*](https://news.microsoft.com/the-new-Bing/) *---7 februari 2023---*  met veel tamtam vrijgegeven tijdens een evenement op het hoofdkantoor van het bedrijf.  Microsoft mengt GTP Gen-AI met zijn eigen Bing zoekmachine, het beschikt nu over een "Ask me anything?" window waarmee je via de microfoon van je computer of telefoon kunt communiceren. Uitgangspunt is om  menselijke gebruikers te helpen vragen te beantwoorden en met hen te *"chatten"* over elk denkbaar onderwerp. Wanneer je Bing een vraag stelt, produceert het *---naast de gebruikelijke lijst met relevante websites waar je, als het goed is, het antwoord op jouw vraag kunt vinden---* een tekst met een antwoord, maar waar het deze informatie vandaan heeft wordt niet duidelijk. Microsoft wil niet zeggen welke versie van OpenAI's software onder de motorkap van Bing draait, maar het gerucht gaat dat die gebaseerd is op GPT-4, een nog uit te brengen taalmodel, aldus de [*New York Times*](https://www.nytimes.com/2023/02/08/technology/microsoft-bing-openai-artificial-intelligence.html).
+>Microsoft heeft de [*nieuwe AI-powered Bing*](https://news.microsoft.com/the-new-Bing/) *---7 februari 2023---*  met veel tamtam vrijgegeven tijdens een evenement op het hoofdkantoor van het bedrijf.  Microsoft mengt GTP Gen-AI met zijn eigen Bing zoekmachine, het beschikt nu over een "Ask me anything?" window waarmee je via de microfoon van je computer of telefoon kunt communiceren. Uitgangspunt is om  menselijke gebruikers te helpen vragen te beantwoorden en met hen te *"chatten"* over elk denkbaar onderwerp. Wanneer je Bing een vraag stelt, produceert het *---naast de gebruikelijke lijst met relevante websites waar je, als het goed is, het antwoord op jouw vraag kunt vinden---* een tekst met een antwoord, maar waar het deze informatie vandaan heeft wordt niet duidelijk. Microsoft wil niet zeggen welke versie van OpenAI's software onder de motorkap van Bing draait, maar het gerucht gaat dat die gebaseerd is op GPT-4, een nog uit te brengen taalmodel, aldus de [*New York Times*](https://www.nytimes.com/2023/02/08/technology/microsoft-bing-openai-artificial-intelligence.html).
 
-Volgens [Time magazine](https://en.wikipedia.org/wiki/Time_(magazine)) zet dit zet de deur open naar een [*chatbot/AI arms-race*](https://time.com/6253984/microsoft-bing-google-ai-race/). Decennialang heeft Alphabet de manier de doorsnee computer/smartphone bezitter het world-wide-web gebruiken gedomineerd: via (1) zoekmachines (Google) en via (2) browsers (Chrome). Door de opkomst van nieuwe, vrijtoegangenrijke Gen-AI technologie zoals Chat-GPT is dit *"Google/Chrome"* monopolie aan het wankelen gebracht.
+Volgens [Time Magazine](https://en.wikipedia.org/wiki/Time_(magazine)) zet dit zet de deur open naar een [*chatbot/AI arms-race*](https://time.com/6253984/microsoft-bing-google-ai-race/). Decennialang heeft Alphabet de manier waarop de doorsnee computer/smartphone bezitter "surfen" over het world-wide-web gedomineerd: via (1) zoekmachines (Google) en via (2) browsers (Chrome). Door de opkomst van nieuwe, vrijtoegangenrijke Gen-AI technologie zoals Chat-GPT is dit *"Google/Chrome"* monopolie aan het wankelen gebracht.
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie in verschillende producten. En talloze start-ups bouwen hun eigen generatieve A.I.-producten, de naam voor technologieën die zelf woorden, beelden en andere media genereren.
 
+<!--
 Google's onthulling van rivaal Bard had woensdag een dure gênante stunt toen bleek dat uit promotiemateriaal bleek dat de chatbot een verkeerd antwoord gaf op een vraag.
+--> 
 
 <!--
 https://www.microsoft.com/en-us/ai
@@ -258,9 +263,11 @@ https://news.microsoft.com/the-new-Bing/
 https://time.com/6253984/microsoft-bing-google-ai-race/
 https://www.nvidia.com/en-us/deep-learning-ai/solutions/large-language-models/
 https://www.techopedia.com/definition/34474/self-supervised-learning-ssl
+https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+https://gwern.net/gpt-3
 -->
 
-
+### Overzicht ChatGPT functionaliteit
 De nieuwe generatie aan GPT-based Gen-AI's kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
 In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [NLP] gebaseerde functies van ChatGPT weergegeven.
