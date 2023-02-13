@@ -25,7 +25,7 @@ Volgens een editorial in de  [Gardian (10 februari 2023)](https://www.theguardia
 
 Het is niet ondenkbaar dat als schoolgaande kinderen te veel worden blootgesteld aan AI-gedreven leermiddelen, ze in het hoger onderwijs te kort schieten. Een gevolg kan zijn dat zij een onoverbrugbare achterstand hebben opgelopen in hun cognitieve vermogens zoals probleemoplossend vermogen, begrijpend lezen, opsporen van betrouwbare bronnen en oordeelsvorming.
 
-Een onderliggend, onoplosbaar probleem is dat generatieve-AI *taal agnostisch* is. Door gebruikmaking van *"Machinaal lerende"* algoritmen gaat ChatGPT veelvuldig in de fout met het interpreteren van zinsbouw dan met het vertalen van individuele woorden. Zo is *ontkenning* een linguïstische vaardigheid die nauwelijks verbetert naarmate het onderliggende *"taal-model"* groter en complexer worden. Dergelijke fouten weerspiegelen een fundamentele tekortkoming van generatieve-AI omdat het taalvaardig wordt zonder daadwerkelijk over taalkundige capaciteiten te kunnen beschikken die nodig zijn om taal te kunnen verwerken zoals mensen dat doen. <br> De vraag is dan ook *"Hoe verantwoord is het om de doornsnee internetgebruiker bloot te stellen aan AI met fundamentele gebreken?"*
+Een onderliggend, onoplosbaar probleem is dat op GPT gebaseerde generatieve-AI *taal agnostisch* is. Door gebruikmaking van *"Machinaal lerende"* algoritmen gaat ChatGPT veelvuldig in de fout met het interpreteren van zinsbouw dan met het vertalen van individuele woorden. Zo is *ontkenning* een linguïstische vaardigheid die nauwelijks verbetert naarmate het onderliggende *"taal-model"* groter en complexer worden. Dergelijke fouten weerspiegelen een fundamentele tekortkoming van generatieve-AI omdat het taalvaardig wordt zonder daadwerkelijk over taalkundige capaciteiten te kunnen beschikken die nodig zijn om taal te kunnen verwerken zoals mensen dat doen. <br> De vraag is dan ook *"Hoe verantwoord is het om de doornsnee internetgebruiker bloot te stellen aan AI met fundamentele gebreken?"*
 
 
 Tegelijkertijd zet ChatGPT de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
@@ -48,8 +48,9 @@ Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, 
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijstaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
 # faqs
+***********
 ## Overzicht van veel gestelde vragen [ChatGPT FACs]
-
+***********
 
 <div align="left">
 <table>
