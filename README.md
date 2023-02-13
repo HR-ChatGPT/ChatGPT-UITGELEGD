@@ -5,7 +5,7 @@
 
 ## Context & Doel
 
-Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met hints en tips voor het verantwoord & effectief gebruik ervan. 
+Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan. 
 
 Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
 <br /> <br>
@@ -20,21 +20,22 @@ Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://g
 [doi:10.1016/S0140-6736(22)62142-4](https://www.economist.com/leaders/2022/06/09/artificial-intelligences-new-frontier) <sub>
 
 
-Volgens een editorial in de  [Gardian (10 februari 2023)](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) maakt het vrijgeven en *"Hypen"* van AI met “nieuwe, revolutionaire functionaliteit en ongekende mogelijkheden“ die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform vendors zoals Microsoft(OpenAI), Alphabet(Google), Meta(Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkvermogen overlaten aan *"alwetende machines"*. Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.org/doi/10.1073/pnas.1922888117) die als het koud wordt, zijn brein laat krimpen om energie te besparen en weer kan laten groeien in de lente. Het is onwaarschijnlijk dat de mensheid een dergelijke overlevingsstrategieën zal vertonen, maar er is een zorgwekkende metaforische parallel. De zorg is dat in de door winst gedreven wedloop om AI in ons dagelijks leven op te nemen, de mens zichzelf kwetsbaar maakt door volledig te vertrouwen op AI-technologie. In de biologie geldt niet voor niets het adagium *"Use It, or Lose It!"*. 
+Het publiekelijk openstellen van generatieve-AI zoals ChatGPT (een antwoord-chatbot) en Galactica (een hulpmiddel voor wetenschappelijk schrijven) heeft een oude discussie doen herleven over wat dit betekend voor de gebruikers ervan.
+Volgens een editorial in de  [Gardian (10 februari 2023)](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) maakt het vrijgeven en *"Hypen"* van AI met “nieuwe, revolutionaire functionaliteit en ongekende mogelijkheden“ die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform vendors zoals Microsoft (OpenAI), Alphabet (Google), Meta (Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkvermogen overlaten aan *"alwetende machines"*. Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.org/doi/10.1073/pnas.1922888117) die als het koud wordt, zijn brein laat krimpen om energie te besparen en weer kan laten groeien in de lente. Het is onwaarschijnlijk dat de mensheid een dergelijke overlevingsstrategieën zal vertonen, maar er is een zorgwekkende metaforische parallel. De zorg is dat in de door winst gedreven wedloop om AI in ons dagelijks leven op te nemen, de mens zichzelf kwetsbaar maakt door volledig te vertrouwen op AI-technologie. In de biologie geldt niet voor niets het adagium *"Use It, or Lose It!"*.
 
-Het is niet ondenkbaar dat als schoolgaande kinderen te veel worden blootgesteld aan AI-gedreven leermiddelen, ze in het hoger onderwijs te kort schieten omdat zij een onoverbrugbare achterstand hebben opgelopen in hun cognitieve vermogens zoals probleemoplossend vermogen, begrijpend lezen, opsporen van betrouwbare bronnen en oordeelsvorming.
+Het is niet ondenkbaar dat als schoolgaande kinderen te veel worden blootgesteld aan AI-gedreven leermiddelen, ze in het hoger onderwijs te kort schieten. Een gevolg kan zijn dat zij een onoverbrugbare achterstand hebben opgelopen in hun cognitieve vermogens zoals probleemoplossend vermogen, begrijpend lezen, opsporen van betrouwbare bronnen en oordeelsvorming.
 
-Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
+Een onderliggend fundamenteel probleem is dat generatieve-AI *taal agnostisch* is. Door gebruikmaking van statistische technieken heeft ChatGPT meer moeite met het verwerken van zinsbouw dan met het vertalen van individuele woorden. Zo is *ontkenning* een linguïstische vaardigheid die nauwelijks verbetert naarmate het onderliggende *"taal-model"* groter en complexer worden. Dergelijke fouten weerspiegelen een fundamentele tekortkoming van generatieve-AI omdat het een taalvaardig wordt zonder de inherente taalkundige capaciteiten te bezitten die nodig zijn om taal te kunnen verwerken zoals mensen dat doen. <br> De vraag is dan ook *"Hoe verantwoord is het om de doornsnee internetgebruiker bloot te stellen aan AI met fundamentele gebreken?"*
+
 
 Tegelijkertijd zet ChatGPT de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
 >Ondanks dat ChatGPT's antwoorden veel onvolkomenheden en/of onjuistheden bevatten, lijken ze op het eerste gezicht heel bruikbaar en nuttig. Dus voorlopig is het gebruik van ChatGPT om posts hier op Stack Overflow te maken niet toegestaan.
-
 
 Invloedrijke uitgevers zoals 
 [Springer/Nature](https://www.nature.com/nature/for-authors/initial-submission),  [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#) en het tijdschrift [Science](https://www.science.org/content/page/science-journals-editorial-policies?adobe_mc=MCMID%3D74834065633225336093377662819662455375%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675677764#authorship)
 hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Nature](https://www.nature.com/articles/d41586-023-00107-z) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf)---* waren eind 2022 minder strikt in het uitsluiten ervan.
 
-Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijstaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
@@ -44,6 +45,9 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
 
+Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijstaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+
+# faqs
 ## Overzicht van veel gestelde vragen [ChatGPT FACs]
 
 
