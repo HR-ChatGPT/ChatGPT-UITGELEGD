@@ -26,7 +26,6 @@ Volgens een editorial in de  [Gardian (10 februari 2023)](https://www.theguardia
 >Het is niet ondenkbaar dat als schoolgaande kinderen te veel worden blootgesteld aan AI-gedreven leermiddelen, ze in het hoger onderwijs te kort schieten. Een gevolg kan zijn dat zij een onoverbrugbare achterstand hebben opgelopen in hun cognitieve vermogens zoals probleemoplossend vermogen, begrijpend lezen, opsporen van betrouwbare bronnen en oordeelsvorming.
 
 
-<img align="left" width="600" height="300" src=".\scaling-delusion.jpg">
 
 Het [Wired  IDEAS Blog (09 december 2022) getiteld: *"ChatGPT, Galactica, and the Progress Trap: When large language models fall short, the consequences can be serious. Why is it so hard to acknowledge that?"*](https://www.wired.com/story/large-language-models-critique/)  legt een aantal fundamentele beperkingen bloot van *"taalvaardige-AI"* zoals ChatGPT dat tot stand is gebracht met behulp van "Deep Learning" technieken. Een nagenoeg onoplosbaar probleem is dat ChatGPT *taal agnostisch* is. Door gebruikmaking van *"Machinaal lerende"* algoritmen gaat het veelvuldig in de fout met het interpreteren van zinsbouw, maar is nagenoeg foutloos in het vertalen van individuele woorden. Dergelijke fouten weerspiegelen een fundamentele tekortkoming van GPT-technologie omdat het leert taalvaardig te worden op basis van reeksen aan woordvolgorde zoals die voorkomen in door mensen geschreven en/of gesproken teksten die zijn  ontleend aan het world-wide-web. ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend vermogen dat nodig is om een taal te kunnen verwerken zoals mensen dat zouden doen. Sterker nog, een [invloedrijk paper getiteld: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) benadrukt dat GPT-technologie alle voorkomende hegemonische opvattingen en vooroordelen die schadelijk zijn voor tal van minderheden, woord voor woord vastlegt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. Voorlopig lijkt het erop dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken  als sneeuw voor de zon zullen verdwijnen.
 
@@ -34,6 +33,7 @@ Het [Wired  IDEAS Blog (09 december 2022) getiteld: *"ChatGPT, Galactica, and th
 
 
 <!--
+<img align="left" width="800" height="400" src=".\scaling-delusion.jpg">
  ![Picture1](.\scaling-delusion.jpg) 
 https://gwern.net/scaling-hypothesis
 https://lastweekin.ai/p/the-ai-scaling-hypothesis
