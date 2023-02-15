@@ -260,7 +260,7 @@ ii. Ze generaliseren niet voor andere taken dan waarvoor ze zijn getraind.
 -->
 
 De eerste succesvolle GPT-taalmodellen zijn over een periode van 2 jaar  ontwikkeld: GTP-1 (2018), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door OpenAI. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
-De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/) kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3 werd getraind op basis van 598 miljarden woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883), GPT-2 daarentegen werd gevoed met 45 miljoen  webpagina's. 
+De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/) kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3 werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883).
 
 GTP-3  was het de eerste LLM  met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. 
 
