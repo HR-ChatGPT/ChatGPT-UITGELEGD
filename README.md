@@ -250,7 +250,7 @@ https://platform.openai.com/examples?category=code
  GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die gebruik maken van natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
  Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters.
 
-LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---*. Ze gebruiken unsupervised learning algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised learning algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
 <!--
 Voorafgaand aan de ontwikkeling van GPT-modellen, werden de meeste state-of-the-art taalmodellen getraind voor het uitvoeren van een bepaalde taak zoals sentiment classificatie, chatbot dialogen. met behulp van supervised learning. Modellen onder toezicht hebben echter twee belangrijke beperkingen:
