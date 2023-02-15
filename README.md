@@ -285,7 +285,15 @@ Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had h
 
 <br>
 
-GTP-3  toont aan dat wanneer LLM's zeer groot worden gemaakt & getraind met zeer grote hoeveelheden voorbeeld teksten, in combinatie met een zeer hoge [*"algoritme efficiëntie"*](https://arxiv.org/abs/2005.04305),  menselijker lijken om te gaan met talige-input. Deze *schaalhypothese* is in lijn met de aanname dat *menselijke intelligentie*  opgebouwd is uit eenvoudige neurale eenheden & leeralgoritmen toegepast op diverse ervaringen op een (momenteel) voor computationele systemen onbereikbare schaal. Naarmate de toenemende computermiddelen het mogelijk maken dergelijke algoritmen op de noodzakelijke schaal uit te voeren, zullen de neurale netwerken functies kunnen vervullen die niet van menselijke intelligentie zijn te onderscheiden.
+GTP-3  toont aan dat wanneer LLM's zeer groot worden gemaakt & getraind met zeer grote hoeveelheden voorbeeld teksten, in combinatie met een zeer hoge [*"algoritme efficiëntie"*](https://arxiv.org/abs/2005.04305),  menselijker lijken om te gaan met talige-input. Deze *schaalhypothese* is in lijn met de aanname dat *menselijke intelligentie*  opgebouwd is uit eenvoudige neurale eenheden & leeralgoritmen toegepast op diverse ervaringen op een (momenteel) voor computationele systemen onbereikbare schaal.  Een review paper, getiteld [*"Inductive biases for deep learning of higher-level cognition."*](https://doi.org/10.1098/rspa.2021.0068), omschrijft dit als volgt:
+
+>Een fascinerende hypothese is dat menselijke en dierlijke intelligentie verklaard kan worden door een paar principes (in plaats van een encyclopedische lijst van heuristieken). Als die hypothese juist is, zouden we gemakkelijker onze eigen intelligentie begrijpen en intelligente machines bouwen. Uiteindelijk zullen neurale netwerken [NN] dan functies kunnen vervullen die niet van menselijke intelligentie zijn te onderscheiden.
+
+<!--
+Er zijn  echte veel [aanwijzingen](https://arxiv.org/abs/2206.07682) die in de tegengestelde richting wijzen.
+
+> Emergente eigenschappen van LLM's kunnen niet worden voorspeld door eenvoudigweg de prestaties van kleinere modellen te extrapoleren. Het bestaan van dergelijke opkomende vermogens impliceert dat extra schaalvergroting het scala van vermogens van taalmodellen verder kan uitbreiden.
+--> 
 
 
 ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een *GTP-3.5 LLM*, is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
@@ -324,6 +332,7 @@ https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 https://gwern.net/gpt-3
 https://gwern.net/scaling-hypothesis#blessings-of-scale
 https://towardsdatascience.com/the-fundamentals-of-the-big-o-notation-7fe14210b675
+https://huggingface.co/blog/large-language-models
 -->
 
 ### Overzicht ChatGPT functionaliteit
@@ -1124,6 +1133,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
 
+* <sub> Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
+
 * <sub> Heaven, W. D. (2022, November 18). Artificial intelligence: Why Meta’s latest large language model survived only three days online. Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense. [AI Blog] Technology Review. https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
 
 * <sub> Hernandez, D., & Brown, T. B. (2020). Measuring the algorithmic efficiency of neural networks. arXiv preprint arXiv:2005.04305. https://doi.org/10.48550/ARXIV.2005.04305
@@ -1133,6 +1144,11 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Kenway, J., François, C., Costanza-Chock, S., Raji, I.D., & Buolamwini, J. (2022). Bug bounties for algorithmic harms? Lessons from cybersecurity vulnerability disclosure for algorithmic harms discovery, disclosure, and redress. Algorithmic Justice League, Washington, DC. https://www.ajl.org/bugs
 
 * <sub> Khan, Salman; Naseer, Muzammal; Hayat, Munawar; Zamir, Syed Waqas; Khan, Fahad Shahbaz; and Shah, Mubarak. (2022). "Transformers in Vision: A Survey" ACM Comput. Surv. Vol. 54, No. 10s, pp. 200. https://doi.org/10.1145/3505244
+
+
+* <sub> Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H. & Neubig, G. (2023). Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. ACM Comput. Surv., 55(9), 195. https://doi.org/10.1145/3560815
+
+* <suv> Lu, K., Grover, A., Abbeel, P., & Mordatch, I. (2022). Frozen Pretrained Transformers as Universal Computation Engines. In: Proceedings of the AAAI Conference on Artificial Intelligence, 36(7), 7628-7636. https://doi.org/10.1609/aaai.v36i7.20729
 
 * <sub> Ngo, R. (2022). The alignment problem from a deep learning perspective. arXiv preprint. https://doi.org/10.48550/arXiv.2209.00626
 
@@ -1152,6 +1168,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization (PPO) algorithms. arXiv preprint. https://doi.org/10.48550/arXiv.1707.06347
 
+* <sub> Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). Multitask prompted training enables zero-shot task generalization. arXiv preprint arXiv. https://doi.org/10.48550/arXiv.2110.08207
+
 * <sub> Sobieszek, A., & Price, T. (2022). Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models. In Minds and Machines (Vol. 32, pp. 341-364). https://doi.org/10.1007/s11023-022-09602-0
 
 * <sub> Thompson, A. D. (March 2022). What's in my AI? A Comprehensive Analysis of Datasets Used to Train GPT-1, GPT-2, GPT-3, GPT-NeoX-20B, Megatron-11B, MT-NLG, and Gopher. https://lifearchitect.ai/whats-in-my-ai-paper/
@@ -1162,9 +1180,10 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In 31st Conference on Advances in Neural Information Processing Systems (NIPS). https://doi.org/10.48550/arXiv.1706.03762 
 
+* <sub> Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://openreview.net/forum?id=yzkSU5zdwD
+
 * <sub> Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). ReAct: Synergizing Reasoning and Acting in Language Models. arXiv preprint. https://doi.org/10.48550/ARXIV.2210.03629
 
-* <sub> Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H. & Neubig, G. (2023). Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. ACM Comput. Surv., 55(9), 195. https://doi.org/10.1145/3560815
 
 </td>
 </tbody>
