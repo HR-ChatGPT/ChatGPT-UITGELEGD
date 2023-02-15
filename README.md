@@ -251,17 +251,18 @@ https://platform.openai.com/examples?category=code
 
 LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---*. Ze gebruiken unsupervised learning algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
-De eerste succesvolle GPT-taalmodellen zijn over een periode van 2 jaar  ontwikkeld: GTP-1 (2018), GPT-2 (2019) en GPT-3 (2020) door OpenAI. De grootste stap werd gemaakt met GPT-3, het zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)
-waardoor GPT-3 kon worden getraind op aanzienlijk meer gegevens dan GPT-2, waardoor het een meer diverse kennisbasis kreeg en een breder scala aan taken kon uitvoeren.
+<!--
+Voorafgaand aan de ontwikkeling van GPT-modellen, werden de meeste state-of-the-art taalmodellen getraind voor het uitvoeren van een bepaalde taak zoals sentiment classificatie, chatbot dialogen. met behulp van supervised learning. Modellen onder toezicht hebben echter twee belangrijke beperkingen:
 
+i. Ze hebben een grote hoeveelheid geannoteerde gegevens nodig voor het leren van een bepaalde taak, die vaak niet gemakkelijk beschikbaar is.
 
+ii. Ze generaliseren niet voor andere taken dan waarvoor ze zijn getraind.
+-->
 
-GTP-3  was het de eerste LLM  met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. [GPT-3 werd getraind op basis van 598 miljarden woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883). 
+De eerste succesvolle GPT-taalmodellen zijn over een periode van 2 jaar  ontwikkeld: GTP-1 (2018), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door OpenAI. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
+De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/) kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3 werd getraind op basis van 598 miljarden woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883), GPT-2 daarentegen werd gevoed met 45 miljoen  webpagina's. 
 
-
-
-
-
+GTP-3  was het de eerste LLM  met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. 
 
 <!--
 Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had het opschalen naar GPT-3 naar een omvang van 2x GPT-2  meta-leren tot gevolg 
@@ -271,16 +272,13 @@ Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had h
 
  ![Picture1](.\gpt2-gpt3.png) 
  -->
-<br> <br>
+<br> 
 
 
 | Dataset | Common Web Crawl | Books set1 | Books set2 | Journals <br> pre-print <br> published | Wikipedia | Total 
 |---------|------------------|------------|------------|--------------------------------|-----------|-------
 | Woorden<br>*Tokens*<br>[Miljard] <br> <br>  | 410 | 19 | 12 | 55 | 2 | 498 
 | Size<br>[GigaByte] <br>  <br> | 570 | 50 | 21 | 101 | 11.4 | 753.4
-
-
-
 
 <br>
 
@@ -1141,6 +1139,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Pandey, M. (2023, January 10). Google, Meta, Why NO ChatGPT? [Opinion]. Analytics India Magazine. https://analyticsindiamag.com/google-meta-why-no-chatgpt/
 
+* <sub> Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9. https://github.com/openai/gpt-2
+
 * <sub> Roose, K. (2023, February 3). How ChatGPT Kicked Off an A.I. Arms Race. Even inside the company, the chatbot’s popularity has come as something of a shock. [Technology Blog: The Shift] The New York Times. https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html
 
 * <sub> Salemans, B. (2023, January 7). ChatGPT: de rapportcijfers [Blog]. Neerlandistiek. Online tijdschrift voor taal- en Letterkunde. https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/
@@ -1158,6 +1158,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In 31st Conference on Advances in Neural Information Processing Systems (NIPS). https://doi.org/10.48550/arXiv.1706.03762 
 
 * <sub> Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). ReAct: Synergizing Reasoning and Acting in Language Models. arXiv preprint. https://doi.org/10.48550/ARXIV.2210.03629
+
+* <sub> Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H. & Neubig, G. (2023). Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. ACM Comput. Surv., 55(9), 195. https://doi.org/10.1145/3560815
 
 </td>
 </tbody>
