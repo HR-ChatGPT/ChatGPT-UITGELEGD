@@ -243,18 +243,34 @@ LLMs van het van het type
 https://platform.openai.com/examples?category=code
 -->
 
- *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die gebruik maken van natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
+ *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. 
+ 
+ 
+ GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die gebruik maken van natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
  Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters.
 
 LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia---*. Ze gebruiken unsupervised learning algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
-GPT-3, aangekondigd door OpenAI in mei 2020,  was het de eerste LLM  met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. [GPT-3 werd getraind op basis van 598 miljarden woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883). 
+De eerste succesvolle GPT-taalmodellen zijn over een periode van 2 jaar  ontwikkeld: GTP-1 (2018), GPT-2 (2019) en GPT-3 (2020) door OpenAI. De grootste stap werd gemaakt met GPT-3, het zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)
+waardoor GPT-3 kon worden getraind op aanzienlijk meer gegevens dan GPT-2, waardoor het een meer diverse kennisbasis kreeg en een breder scala aan taken kon uitvoeren.
 
+
+
+GTP-3  was het de eerste LLM  met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. [GPT-3 werd getraind op basis van 598 miljarden woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883). 
+
+
+
+
+
+
+<!--
 Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had het opschalen naar GPT-3 naar een omvang van 2x GPT-2  meta-leren tot gevolg 
 
  voordelen van schaal zich voordoen zoals voorspeld door OpenAI. Deze voordelen waren niet alleen het leren van meer feiten en tekst dan GPT-2, maar kwalitatief verschillend en nog verrassender in het tonen van meta-leren: terwijl GPT-2 leerde hoe gewone natuurlijke taaltaken zoals tekstsamenvattingen te doen, leerde GPT-3 in plaats daarvan hoe aanwijzingen op te volgen en nieuwe taken te leren van een paar voorbeelden. (Als gevolg daarvan zijn de output en interactie van GPT-3 fascinerender en menselijker dan die van GPT-2).
 
-Vertaald met www.DeepL.com/Translator (gratis versie)
+
+ ![Picture1](.\gpt2-gpt3.png) 
+ -->
 <br> <br>
 
 
@@ -1106,6 +1122,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
 
 * <sub> Heaven, W. D. (2022, November 18). Artificial intelligence: Why Meta’s latest large language model survived only three days online. Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense. [AI Blog] Technology Review. https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
+
+* <sub> Hernandez, D., & Brown, T. B. (2020). Measuring the algorithmic efficiency of neural networks. arXiv preprint arXiv:2005.04305. https://doi.org/10.48550/ARXIV.2005.04305
 
 * <sub> Hiltzik, M. (2023, januari 20). Robot taxis, hyperloops: A top technologist wages war on tech's hype machine. [Column]. The Los Angeles Times. https://www.latimes.com/business/story/2023-01-20/robot-taxis-hyperloops-a-top-technologist-wages-war-on-techs-hype-machine
 
