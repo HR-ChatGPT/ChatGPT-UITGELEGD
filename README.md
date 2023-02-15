@@ -246,6 +246,7 @@ https://platform.openai.com/examples?category=code
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. Engelstalig blogs met gedetailleerde en kwalitatief hoogwaardige uitleg over de onstaandgeschiedenis en de werking van GPT's zijn na te lezen via :
  * https://towardsdatascience.com/gpt-3-explained-19e5f2bd3288
  * https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
+ * https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
  
  GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die gebruik maken van natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
  Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters.
@@ -320,6 +321,8 @@ https://www.nvidia.com/en-us/deep-learning-ai/solutions/large-language-models/
 https://www.techopedia.com/definition/34474/self-supervised-learning-ssl
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 https://gwern.net/gpt-3
+https://gwern.net/scaling-hypothesis#blessings-of-scale
+https://towardsdatascience.com/the-fundamentals-of-the-big-o-notation-7fe14210b675
 -->
 
 ### Overzicht ChatGPT functionaliteit
