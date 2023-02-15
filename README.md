@@ -224,6 +224,7 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
 ### [0c] WAT IS NODIG OM EEN GEN-AI ZOALS ChatGPT TE BOUWEN?
 *******
 
+https://techcrunch.com/2023/01/25/when-it-comes-to-large-language-models-should-you-build-or-buy/
 
 
 <br>
