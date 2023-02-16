@@ -343,7 +343,7 @@ https://huggingface.co/blog/large-language-models
 ### Overzicht ChatGPT functionaliteit
 De nieuwe generatie aan GPT-based Gen-AI's kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
-In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [NLP] gebaseerde functies van ChatGPT weergegeven.
+In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [NLP] gebaseerde functies van ChatGPT weergegeven. zie ook 
 
 | <sub>NLP functie</sub> | <sub>Omschrijving</sub> | <sub>Toepassingen</sub> |
 | --- | --- | --- |
@@ -1043,8 +1043,12 @@ https://github.com/platelminto/ChatGPT-conversation
 ********
 ### [15] PROMPT VOORBEELDEN
 ********
-De onderstaande voorbeelden zijn ontleend aan https://github.com/f/awesome-ChatGPT-prompts
+De onderstaande voorbeelden zijn ontleend aan 
+* https://github.com/f/awesome-ChatGPT-prompts
 
+<!--
+* https://chatgpt.getlaunchlist.com/
+-->
 
 
 ### VOORBEELD 01: Linux Terminal
