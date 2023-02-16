@@ -1048,6 +1048,7 @@ De onderstaande voorbeelden zijn ontleend aan
 
 <!--
 * https://chatgpt.getlaunchlist.com/
+* https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html
 -->
 
 
