@@ -133,6 +133,11 @@ Microsoft *---de investeerder achter OpenAI---* heeft een andere afweging gemaak
 
 <!-- https://www.microsoft.com/en-us/research/blog/ai-ethics-and-our-commitment-to-protecting-people/ -->
 
+
+Grote taalmodellen zoals GTP's kunnen worden *"gevraagd"*  *---in het Engels heet dit "prompting"---* om een reeks taken op het gebied van natuurlijke taalverwerking (NLP) uit te voeren, gegeven enkele voorbeelden van de taak als invoer. In een paper getiteld: [*"Training language models to follow instructions with human feedback"*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) vertonen LLM's echter vaak onbedoeld gedrag, zoals het verzinnen van feiten, het genereren van bevooroordeelde of giftige tekst, of het simpelweg niet opvolgen van prompts. Dit komt omdat de *"taalmodelleringsdoelstelling"  ---het voorspellen van de volgende woord/token op een webpagina van het internet---*  verschilt van  *"prompting" ---de instructies van de gebruiker hulpvaardig en veilig opvolgen---*. Het voorkomen van dit onbedoelde gedrag is vooral belangrijk voor taalmodellen die in honderden toepassingen worden ingezet en gebruikt.
+
+
+
 Het gebruik van ChatGPT is dus niet zonder risico's. Het zal zeer waarschijnlijk nog decennia duren voordat het vrij van ongewenst taalgebruik, foutloos en met een hoge betrouwbaarheid, op overtuigende wijze *"spontane"* gesprekken kan voeren met mensen die woord voor woord feitelijk juist zijn. 
 
 Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Het is daarom belangrijk om te begrijpen wat ChatGPT wel en niet kan doen en waarom. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
