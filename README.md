@@ -1148,7 +1148,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H. & Neubig, G. (2023). Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. ACM Comput. Surv., 55(9), 195. https://doi.org/10.1145/3560815
 
-* <suv> Lu, K., Grover, A., Abbeel, P., & Mordatch, I. (2022). Frozen Pretrained Transformers as Universal Computation Engines. In: Proceedings of the AAAI Conference on Artificial Intelligence, 36(7), 7628-7636. https://doi.org/10.1609/aaai.v36i7.20729
+* <sub> Lu, K., Grover, A., Abbeel, P., & Mordatch, I. (2022). Frozen Pretrained Transformers as Universal Computation Engines. In: Proceedings of the AAAI Conference on Artificial Intelligence, 36(7), 7628-7636. https://doi.org/10.1609/aaai.v36i7.20729
 
 * <sub> Ngo, R. (2022). The alignment problem from a deep learning perspective. arXiv preprint. https://doi.org/10.48550/arXiv.2209.00626
 
