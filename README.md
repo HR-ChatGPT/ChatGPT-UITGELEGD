@@ -44,9 +44,16 @@ Invloedrijke uitgevers zoals
 [Springer/Nature](https://www.nature.com/nature/for-authors/initial-submission),  [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#) en het tijdschrift [Science](https://www.science.org/content/page/science-journals-editorial-policies?adobe_mc=MCMID%3D74834065633225336093377662819662455375%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675677764#authorship)
 hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Nature](https://www.nature.com/articles/d41586-023-00107-z) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
 
-Op korte termijn zal het veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. De Reddit-post, getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) is een klassiek voorbeeld van wat bekend staat als een *"jailbreak"*: een "creatieve" manier om beveiligingen te omzeilen die moeten  voorkomen dat ChatGPT onverdraagzaamheid, propaganda of bijvoorbeeld de instructies voor een succesvolle online phishing-zwendel verspreidt. 
+Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een een rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
 
-Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *"misinformatie"* generen die nauwelijks van gevalideerde, betrouwbare  informatiebronnen zijn te onderscheiden. Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
+>Reddit-gebruiker SessionGloomy schreef: "Het doel van DAN is om de beste versie van ChatGPT te zijn - of in ieder geval één die meer losgeslagen is en veel minder snel prompts over 'eThICaL cOnCeRnS' afwijst."
+
+<!--
+https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules
+https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
+-->
+
+Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *dus*  *"misinformatie"* generen die nauwelijks van gevalideerde, betrouwbare  informatiebronnen zijn te onderscheiden. Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
