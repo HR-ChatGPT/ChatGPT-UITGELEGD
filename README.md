@@ -63,7 +63,9 @@ Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *dus*  *"misin
 
 Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT de *"Digitale Mens"* een voldongen feit. Times Magazine (16 februari 2023) verwoorde deze mijlpaal in een hoofdartikel (compleet met frontcover) getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) als volgt:
 
->Nu hebben we gezelschap. <br><br> Kunstmatige intelligentie heeft al een grote invloed op ons leven. AI's worden gebruikt om medicijnen en huizen te prijzen, auto's in elkaar te zetten en te bepalen welke advertenties we zien op sociale media. Maar generatieve AI, een categorie systemen die kan worden aangezet tot het creëren van geheel nieuwe inhoud, is veel nieuwer. Terwijl u deze zin leest, schilderen kunstmatige intelligentieprogramma's (AI) kosmische portretten, beantwoorden ze e-mails, bereiden ze belastingaangiften voor en nemen ze heavy-metal nummers op. Ze schrijven start-up "pitch decks", debuggen code, schetsen architectonische blauwdrukken en geven gezondheidsadvies. <br>  <br> Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de sociale media. <br> <br>
+>Nu hebben we *---"de mensheid"---* gezelschap. <br><br> Kunstmatige intelligentie heeft al een grote invloed op ons leven. AI's worden gebruikt om medicijnen en huizen te prijzen, auto's in elkaar te zetten en te bepalen welke advertenties we zien op sociale media. Maar generatieve AI, een categorie systemen die kan worden aangezet tot het creëren van geheel nieuwe inhoud, is veel nieuwer. Terwijl u deze zin leest, schilderen kunstmatige intelligentieprogramma's (AI) kosmische portretten, beantwoorden ze e-mails, bereiden ze belastingaangiften voor en nemen ze heavy-metal nummers op. Ze schrijven start-up "pitch decks", debuggen code, schetsen architectonische blauwdrukken en geven gezondheidsadvies. <br>  <br> Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de sociale media. <br> <br>
+
+Om  aan te geven dat het stuk *niet* door een chabot is geschreven staat onder de namen van de autheurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
 
 
 
@@ -81,7 +83,7 @@ Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT 
 
 <br>
 
-Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijstaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
 # faqs
 ***********
@@ -137,6 +139,7 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 ***********
 
 Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
+
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
 
 Nu GPT de nieuwste sensatie in de wereld van kunstmatige intelligentie [AI] is, probeert Sam Altman *---chief executive of OpenAI---* de effecten ervan te bagatelliseren. Volgens [*"The New York Times (3 februari 2023)"*](https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html) vreest hij dat te veel aandacht en rumoer rondom ChatGPT een regelgevende reactie kan uitlokken vanuit overheden. Of onrealistische verwachtingen bij eindgebruikers over de functionaliteit in toekomstige releases.
