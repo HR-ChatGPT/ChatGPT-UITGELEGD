@@ -195,6 +195,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 ### [0a] Wat is "*generatieve kunstmatige intelligentie"* [Gen-AI]?
 *******
 
+De onderstaande tekst is deels ontleed aan het *Times Magazine* artikel getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/).
 #### Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
 
 "Kunstmatige intelligentie" (AI) is een multidisciplinair vakgebied gericht op het ontwikkelen van technologie dat menselijke cognitieve, perceptuele en/of motorische vermogens kan nabootsen en/of automatiseren. 
@@ -207,13 +208,11 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 
 <br>
  
-
  Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met als doel het volledig automatisch produceren van ogenschijnlijk *"nieuwe"* inhoud, zoals tekst, afbeeldingen, geluid, spraak en/of muziek. <br> <br> Gen-AI kan een "deep learning" [DL] model creëren van een bestaand schilderij, met als doel nieuwe beelden te creëren die op het oorspronkelijke schilderij lijken. Door vervolgens een serie aan nieuwe beelden te genereren en die na elkaar af te spelen, ontstaat een animatie.
 
  <br>
 
 <img align="right" width="600" height="300" src="https://user-images.githubusercontent.com/684692/214197393-353c6de7-0089-4fbe-8e59-7c1445a932a9.gif">
-
 
 >Living Mona Lisa from Few-Shot Adversarial Learning of Realistic Neural Talking Head Models. <br> <sub> Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). Few-shot adversarial learning of realistic neural talking head models. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9459-9468). https://doi.org/10.1109/ICCV.2019.00671
 
@@ -221,16 +220,18 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
 
-
 Echter het gebruik van ChatGPT is niet zonder risico's. GPT's vertonen namelijk dezelfde problemen als het gebruik van sociale-media door grote groepen eindgebruikers. Onderzoekslaboratoria hebben Gen-AI jarenlang achter gesloten deuren gehouden, terwijl ze de gevaren ervan bestudeerden, van verkeerde informatie en haatzaaien tot het ongewild creëren van een sneeuwbaleffect van geopolitieke crises.
 
 Deze terughoudendheid  komt deels voort uit de onvoorspelbaarheid van neurale netwerk [NN] architectuur, het computationele paradigma waarop de  deep learning [DL] is gebaseerd. In plaats van de traditionele aanpak van computerprogrammering, die uitgaat van precieze reeksen instructies die voorspelbare resultaten opleveren, leren neurale netwerken [NN] zichzelf effectief om patronen in de datasets te herkennen waarmee ze getraind worden (zie [Wat moet je weten overGen-AI zoals ChatGPT](#v1a)).
 
 De eerste generatie talige Gen-AI's bleken pijnlijk gevoelig voor het napraten van de vooroordelen in hun trainingsgegevens: ze spuwden verkeerde informatie en haatzaaiende taal. Toen Microsoft in 2016 zijn [chatbot Tay](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist) onthulde, duurde het minder dan 24 uur voordat giftige, haatzaaiende, racistische tweets  uitspuwde. De ontwikkeling van Gen-AI's kwam pas echt in een stroomversnelling vanaf 2017. Aangezwengeld door enkele cruciale doorbraken in het ontwerp van neurale netwerken zoals *transformers*, *auto-encoders* en *diffusion*, de toenemende beschikbaarheid van gegevens en de bereidheid van technologiebedrijven om te betalen voor gigantische hoeveelheden rekenkracht. Maar de zwakke plekken bleven, en de geschiedenis van beschamende AI-struikelblokken maakte veel bedrijven, waaronder Alphabet, Meta en OpenAI, terughoudend om hun meest geavanceerde GEN-AI modellen openbaar te maken. 
 
-De Londense startup genaamd *Stability AI*, maakte korte metten met deze prudente handelswijze door hun tekst-naar-beeld-tool, *Stable Diffusion ---een samenwerking met de start-up Runway---*, vrij beschikbaar te stellen voor iedereen die het wilde uitproberen. De ontstaansgeschiedenis van *diffusion*  *---een Gen-AI gebaseerd op generative adversarial networks, kortweg [GANs]---* is in detail beschreven door TechCrunch in een blog getiteld: [*"A brief history of diffusion, the tech at the heart of modern image-generating AI"*](https://techcrunch.com/2022/12/22/a-brief-history-of-diffusion-the-tech-at-the-heart-of-modern-image-generating-ai/). Stable Diffusion werd al snel een internet hype.  "Het schokte OpenAI en Google, want nu was de wereld in staat om tools te gebruiken die zij hadden afgeschermd. Het zette alles in een stroomversnelling."
+In april 2022 kondigde OpenAI Dall-E 2 aan, een tekst-naar-beeld AI-model dat fotorealistische beelden kon genereren. Maar in eerste instantie beperkte OpenAI de vrijgave tot een wachtlijst van "vertrouwde" gebruikers, wiens gebruik zou helpen om *"de vooroordelen die DALL-E heeft geërfd van zijn trainingsgegevens te begrijpen en aan te pakken".* De Londense startup genaamd *Stability AI*, maakte korte metten met deze prudente handelswijze door hun tekst-naar-beeld-tool, *Stable Diffusion ---een samenwerking met de start-up Runway---*, vrij beschikbaar te stellen voor iedereen die het wilde uitproberen. De ontstaansgeschiedenis van *diffusion*  *---een Gen-AI gebaseerd op generative adversarial networks, kortweg [GANs]---* is in detail beschreven door TechCrunch in een blog getiteld: [*"A brief history of diffusion, the tech at the heart of modern image-generating AI"*](https://techcrunch.com/2022/12/22/a-brief-history-of-diffusion-the-tech-at-the-heart-of-modern-image-generating-ai/). Stable Diffusion werd al snel een internet hype.  
 
+Volgens  [Time Magazine](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) bracht dit Alphabet en OpenAI in rep & roer, want nu was *"iedereen"* in staat om Gen-AI tools te gebruiken die zij zo *"zorgvuldig"* hadden afgeschermd. 
 
+>OpenAI volgde dan ook snel door het afgeschermde Dall-E 2 publiekelijk beschikbaar te stellen. Vervolgens gaf het in november ChatGPT vrij voor het publiek, naar verluidt om de dreigende concurrentie voor te zijn. OpenAI CEO Sam Altman benadrukte in interviews dat hoe meer mensen AI-programma's gebruikten, hoe sneller ze zouden verbeteren. <br> <br>
+In februari 2023 kondigde Google plannen aan om zijn ChatGPT-rivaal Bard uit te brengen, en volgens de New York Times zei het tijdens een presentatie dat het het risiconiveau dat het bereid is te nemen bij het uitbrengen van tools op basis van AI-technologie zal "herijken". En in het recente kwartaalgesprek van Meta verklaarde CEO Mark Zuckerberg dat hij ernaar streeft dat het bedrijf "een leider wordt in generatieve AI".
 
 # v0b
 
