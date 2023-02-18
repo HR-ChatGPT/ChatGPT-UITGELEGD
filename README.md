@@ -215,7 +215,7 @@ De onderstaande tekst is deels ontleed aan het *Times Magazine* artikel getiteld
 
 >Living Mona Lisa from Few-Shot Adversarial Learning of Realistic Neural Talking Head Models. <br> <sub> Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). Few-shot adversarial learning of realistic neural talking head models. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9459-9468). https://doi.org/10.1109/ICCV.2019.00671
 
-<br><br> <br><br> 
+<br><br>
 
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. GTPs maken gebruik van op neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn automaten die natuurlijke taal kunnen verwerken & genereren [NLP]. ChatGPT is de meest geavanceerde GPT die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. 
 
@@ -230,7 +230,7 @@ In april 2022 kondigde OpenAI Dall-E 2 aan, een tekst-naar-beeld AI-model dat fo
 Volgens  [Time Magazine](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) bracht dit Alphabet en OpenAI in rep & roer, want nu was *"iedereen"* in staat om Gen-AI tools te gebruiken die zij zo *"zorgvuldig"* hadden afgeschermd. 
 
 >OpenAI volgde dan ook snel door het afgeschermde Dall-E 2 publiekelijk beschikbaar te stellen. Vervolgens gaf het in november ChatGPT vrij voor het publiek, naar verluidt om de dreigende concurrentie voor te zijn. OpenAI CEO Sam Altman benadrukte in interviews dat hoe meer mensen AI-programma's gebruikten, hoe sneller ze zouden verbeteren. <br> <br>
-In februari 2023 kondigde Google plannen aan om zijn ChatGPT-rivaal Bard uit te brengen, en volgens de New York Times zei het tijdens een presentatie dat het het risiconiveau dat het bereid is te nemen bij het uitbrengen van tools op basis van AI-technologie zal "herijken". En in het recente kwartaalgesprek van Meta verklaarde CEO Mark Zuckerberg dat hij ernaar streeft dat het bedrijf "een leider wordt in generatieve AI".
+In februari 2023 kondigde Alphabet aan om zijn ChatGPT-rivaal Bard uit te brengen. En in het recente kwartaalgesprek van Meta verklaarde CEO Mark Zuckerberg dat hij ernaar streeft dat het bedrijf "een leider wordt in generatieve AI".
 
 # v0b
 
