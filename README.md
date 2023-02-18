@@ -205,8 +205,6 @@ De onderstaande tekst is deels ontleed aan het *Times Magazine* artikel getiteld
 | Perceptie | Verzamelen van <br> Ongestructureerde Informatie <br> via Sensoren (Ogen, Oren, Neus, Huid,Tong). | Beeldherkenning, <br> Spraakherkenning, <br> Object Lokalisatie. |
 | Motorische vermogens | Uitvoeren van fysieke acties via Actuatoren <br> (Armen, Handen, Benen, Voeten, Mond, Lippen). | Zelfrijdende auto's, <br> Drones, <br> Humanoïde Robots, <br> [Tekst-naar-spraak synthese](https://valle-demo.github.io/) |
 
-<br>
-
 #### Voorbeelden van menselijke vermogens in de vorm van AI toepassingen zijn interactief uit te proberen via de [World-Wide-Web AI Safari](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647).
  
  Generatieve AI [Gen-AI] is een *"digitale content generende technologie"* met als doel het volledig automatisch produceren van ogenschijnlijk *"nieuwe"* inhoud, zoals tekst, afbeeldingen, geluid, spraak en/of muziek. <br> <br> Gen-AI kan een "deep learning" [DL] model creëren van een bestaand schilderij, met als doel nieuwe beelden te creëren die op het oorspronkelijke schilderij lijken. Door vervolgens een serie aan nieuwe beelden te genereren en die na elkaar af te spelen, ontstaat een animatie.
