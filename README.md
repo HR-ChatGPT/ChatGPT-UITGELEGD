@@ -266,6 +266,9 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
 ### [0c] MOET IK ME ZORGEN MAKEN OVER ChatGPT TECHNOLOGIE?
 *******
 
+
+
+
 Gezien alle berichtgeving in korte tijd rondom Gen-AI *---ChatGPT in het bijzonder---* (zie [Wat is Generatieve Kunstmatige Intelligentie?](#v0a)) is het begrijpelijk dat mensen verontrust & overweldigd zijn. Net zoals social media ons gedrag en cultuur sterk hebben beïnvloed zal Gen-AI een blijvende impact op ons doen en laten hebben. 
 Op basis van uitspraken van *"AI-experts"* over de *"ChatGPT Hype"* volgen hier een paar uitgangspunten die kunnen helpen om de recente ontwikkeling te kunnen duiden en als startpunt kunnen dienen om Gen-AI verantwoord te kunnen gebruiken.
 
@@ -275,7 +278,7 @@ Op basis van uitspraken van *"AI-experts"* over de *"ChatGPT Hype"* volgen hier 
 >Timnit Gebru *---AI-ethicus & Oprichter van Distributed Artificial Intelligence Research Institute (DAIR)---* <br> 
 *Ik denk dat we echt doodsbang moeten zijn voor dit hele gebeuren. <br> "verondersteld wordt dat ChatGPT leerde schrijven door miljoenen geschriften op het internet te bestuderen." <br> Helaas, geloof het of niet, niet alles op het internet is waar! <br> Het werd niet geleerd om te begrijpen wat feit is, wat fictie is, of iets dergelijks. <br> Het papegaait gewoon terug wat er op het internet stond.*
 
-Het van belang om te weten dat Gen-AI *---zoals ChatGPT en Bard---*  [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) zij. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het interpreteren van zinsbouw, maar is nagenoeg foutloos in het vertalen van individuele woorden. Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van GPT-technologie omdat het leert taalvaardig te worden op basis van reeksen aan woordvolgorde zoals die voorkomen in door mensen geschreven en/of gesproken teksten die zijn  ontleend aan het world-wide-web. ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend vermogen dat nodig is om een taal te kunnen verwerken zoals mensen dat zouden doen. Sterker nog, een [invloedrijk paper getiteld: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) benadrukt dat GPT-technologie alle voorkomende hegemonische opvattingen en vooroordelen die schadelijk zijn voor tal van minderheden, woord voor woord vastlegt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. Voorlopig lijkt het erop dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken  als sneeuw voor de zon zullen verdwijnen.
+Het is van belang om te weten dat Gen-AI *---zoals ChatGPT en Bard---*  [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) zij. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het interpreteren van zinsbouw, maar is nagenoeg foutloos in het vertalen van individuele woorden. Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van GPT-technologie omdat het leert taalvaardig te worden op basis van reeksen aan woordvolgorde zoals die voorkomen in door mensen geschreven en/of gesproken teksten die zijn  ontleend aan het world-wide-web. ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend vermogen dat nodig is om een taal te kunnen verwerken zoals mensen dat zouden doen. Sterker nog, een [invloedrijk paper getiteld: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) benadrukt dat GPT-technologie alle voorkomende hegemonische opvattingen en vooroordelen die schadelijk zijn voor tal van minderheden, woord voor woord vastlegt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. Voorlopig lijkt het erop dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken  als sneeuw voor de zon zullen verdwijnen.
 
 Dus reden tot zorg is er wel omdat Gen-AI in haar huidige vorm een "Work-Progress" is, dat nog veel te wensen overlaat. 
 Zie:  ["Is er een kort overzicht van ChatGPT's tekortkomingen?"](v0b) Maar dit laat onverlet dat het betrouwbaar kan worden ingezet voor specifieke functies waarbij het *"Talige & probleemoplossend vermogen"* *---zoals het vertalen teksten en of verbeteren van spelfouten---* een ondergeschikte rol speelt. Zie: [*"Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"*](#v1b)
@@ -290,6 +293,18 @@ Maar dit is nog maar het begin. <br> <br> Volgens sommigen stevenen we in de kom
 <br> <br> Voorlopig is het het beste om vertrouwd te raken met deze systemen, hoe ze werken en wat ze wel en niet kunnen. Kennis is krachtiger dan informatie, zelfs terabytes ervan, en dat is een voordeel dat we allemaal nog steeds hebben ten opzichte van AI. Voorlopig althans.*
 
 
+[3] Tenderde , in een AIM blog door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
+
+>*Iemand heeft ChatGPT en Bing AI onlangs een gesprek laten voeren. Prompt na prompt leerden de chatbots over elkaar, en zijn nu beste maatjes! <br> <br> Ondertussen deed zich in 2017 een soortgelijk incident voor toen twee chatbots van Facebook in hun eigen taal met elkaar begonnen te praten, en moesten worden uitgeschakeld. <br> <br> Hetzelfde jaar beweerde Google dat zijn Translate tool de mogelijkheid had om zijn eigen taal te genereren. Ook OpenAI beweert dat AI inderdaad kan worden aangemoedigd zijn eigen taal te creëren. 
+
+Deze anekdotische beschrijvingen  doen de vraag rijzen: *"Zijn Gen-AI echt in staat om hun eigen taal te creëren iets waar mensen te dom voor zijn om te begrijpen?"* We zijn nu op een punt in de ontwikkelingsgeschiedenis van AI-technologie beland waar de "de mens" nog kan bepalen of we deze weg willen bewandelen  of dat we "paal en perk" gaan stellen aan de handelingsvrijheid van Gen-AI.  Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Things" [IoT] en haar industriële variant Cyber Physical Systems [CPS], waarbij we hebben toegestaan dat "dingen" onderling met elkaar kunnen communiceren zonder tussen komst van de mens *--- human-in-the-Loop--*. Gevolg is het onstaan van de zogenammde "Data-deluge" 
+
+<!--
+https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/
+
+And then there's the problem of deliberate misinformation. Experts worry that people will use ChatGPT to flood social media with phony articles that sound professional, or bury Congress with "grassroots" letters that sound authentic.
+
+-->
 <br>
 <br>
 
