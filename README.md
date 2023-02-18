@@ -14,7 +14,7 @@ Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://g
 
 <img align="left" width="150" height="270" src=".\QR_CODE_CHATGPT_HR-UITGELEGD.jpg">
 
->Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. Of toch niet??!!! Voorlopig is het een *"work-in-progress"*.
+>Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. Of toch niet??!!! <br> Voorlopig is het een *"work-in-progress"*.
 
 <sub> Economist. (2022, juni Issue). Artificial intelligence's new frontier. 
 [doi:10.1016/S0140-6736(22)62142-4](https://www.economist.com/leaders/2022/06/09/artificial-intelligences-new-frontier) <sub>
@@ -67,6 +67,8 @@ Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT 
 
 Om  aan te geven dat het Times artikel *niet* door een chatbot is geschreven staat onder de namen van de auteurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
 
+Was tot enkele jaren geleden de U.S. en Europe nog in een hevige strijd verwikkeld voor AI-dominantie met China
+
 
 
 <br> 
@@ -100,7 +102,8 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 *  [0] [Waarom veroorzaakt ChatGTP zoveel onrust?](#v0)
 * [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
 * [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
-* [0c] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0c)
+* [0c] [+Moet ik me zorgen maken over ChatGPT technologie?](#v0c)
+* [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
@@ -259,7 +262,42 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
 
 
 *******
-### [0c] WAT IS NODIG OM EEN GEN-AI ZOALS ChatGPT TE BOUWEN?
+### [0c] MOET IK ME ZORGEN MAKEN OVER ChatGPT TECHNOLOGIE?
+*******
+
+Gezien alle berichtgeving in korte tijd rondom Gen-AI *---ChatGPT in het bijzonder---* (zie [Wat is Generatieve Kunstmatige Intelligentie?](#v0a)) is het begrijpelijk dat mensen verontrust & overweldigd zijn. Net zoals social media ons gedrag en cultuur sterk hebben beïnvloed zal Gen-AI een blijvende impact op ons doen en laten hebben. 
+Op basis van uitspraken van *"AI-experts"* over de *"ChatGPT Hype"* volgen hier een paar uitgangspunten die kunnen helpen om de recente ontwikkeling te kunnen duiden en als startpunt kunnen dienen om Gen-AI verantwoord te kunnen gebruiken.
+
+
+[1] Ten eerste *"er is geen reden tot paniek"* ondanks alarmerende uitspraken door AI-specialisten.
+
+>Timnit Gebru *---AI-ethicus & Oprichter van Distributed Artificial Intelligence Research Institute (DAIR)---* <br> 
+*Ik denk dat we echt doodsbang moeten zijn voor dit hele gebeuren. <br> "verondersteld wordt dat ChatGPT leerde schrijven door miljoenen geschriften op het internet te bestuderen." <br> Helaas, geloof het of niet, niet alles op het internet is waar! <br> Het werd niet geleerd om te begrijpen wat feit is, wat fictie is, of iets dergelijks. <br> Het papegaait gewoon terug wat er op het internet stond.*
+
+Het van belang om te weten dat Gen-AI *---zoals ChatGPT en Bard---*  [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) zij. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het interpreteren van zinsbouw, maar is nagenoeg foutloos in het vertalen van individuele woorden. Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van GPT-technologie omdat het leert taalvaardig te worden op basis van reeksen aan woordvolgorde zoals die voorkomen in door mensen geschreven en/of gesproken teksten die zijn  ontleend aan het world-wide-web. ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend vermogen dat nodig is om een taal te kunnen verwerken zoals mensen dat zouden doen. Sterker nog, een [invloedrijk paper getiteld: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) benadrukt dat GPT-technologie alle voorkomende hegemonische opvattingen en vooroordelen die schadelijk zijn voor tal van minderheden, woord voor woord vastlegt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. Voorlopig lijkt het erop dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken  als sneeuw voor de zon zullen verdwijnen.
+
+Dus reden tot zorg is er wel omdat Gen-AI in haar huidige vorm een "Work-Progress" is, dat nog veel te wensen overlaat. 
+Zie:  ["Is er een kort overzicht van ChatGPT's tekortkomingen?"](v0b) Maar dit laat onverlet dat het betrouwbaar kan worden ingezet voor specifieke functies waarbij het "Talige & probleem oplossend" vermogen *---zoals het vertalen teksten en of verbeteren van spelfouten---* een ondergeschikte rol speelt. Zie: [*"Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"*](#v1b)
+
+[2] Ten tweede, Gen-AI beschikken niet of nauwelijks over *"creatief vermogen."* Gen-AI zijn juist ontworpen om mensen te inspireren. Eric Mack *---CNET Editor ---* formuleerde dit in zijn blog getiteld: [*"Generative AI Tools Like ChatGPT and Dall-E Are Everywhere: What You Need to Know. The revolution will be generated by artificial intelligence. Perhaps."*](https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/)
+
+
+
+>Natuurlijk kunnen er manieren zijn om AI zodanig te manipuleren dat het zelf creatiever wordt, bijvoorbeeld door het te vragen specifiek nieuwe inhoud te genereren op basis van zwakkere associaties die het vindt in trainingsgegevens. Dit zou een manier kunnen zijn om menselijke creativiteit te simuleren met behulp van wiskunde en code. Maar iedereen die wel eens een creatieve doorbraak of een eurekamoment onder de douche heeft gehad, zal je vertellen dat het vaak uit het niets lijkt te komen. 
+We begrijpen onze creativiteit zelf nog niet, dus kunnen we die nog niet vertalen in een code die een machine kan begrijpen en proberen na te bootsen. En dan hebben we het nog niet eens over menselijke emoties, vele zintuiglijke ervaringen of veel van de basisfuncties van de hersenen die de wetenschap nog steeds niet goed begrijpt. 
+Maar dit is nog maar het begin. Volgens sommigen stevenen we in de komende tien of twee jaar af op kunstmatige algemene intelligentie - dat zou een systeem zijn dat echt dezelfde capaciteiten heeft als een mens op een niet te onderscheiden manier. Voor de goede orde: andere deskundigen denken dat dit nog lang niet zal gebeuren, als het al ooit gebeurt. 
+Voorlopig is het het beste om vertrouwd te raken met deze systemen, hoe ze werken en wat ze wel en niet kunnen. Kennis is krachtiger dan informatie, zelfs terabytes ervan, en dat is een voordeel dat we allemaal nog steeds hebben ten opzichte van AI. Voorlopig althans.
+
+
+<br>
+<br>
+
+
+# v0d
+
+
+*******
+### [0d] WAT IS NODIG OM EEN GEN-AI ZOALS ChatGPT TE BOUWEN?
 *******
 
 https://techcrunch.com/2023/01/25/when-it-comes-to-large-language-models-should-you-build-or-buy/
