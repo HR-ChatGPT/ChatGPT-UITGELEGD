@@ -65,7 +65,7 @@ Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT 
 
 >Nu hebben we *---"de mensheid"---* gezelschap. <br><br> Kunstmatige intelligentie heeft al een grote invloed op ons leven. AI's worden gebruikt om medicijnen en huizen te prijzen, auto's in elkaar te zetten en te bepalen welke advertenties we zien op sociale media. Maar generatieve AI, een categorie systemen die kan worden aangezet tot het creëren van geheel nieuwe inhoud, is veel nieuwer. Terwijl u deze zin leest, schilderen kunstmatige intelligentieprogramma's (AI) kosmische portretten, beantwoorden ze e-mails, bereiden ze belastingaangiften voor en nemen ze heavy-metal nummers op. Ze schrijven start-up "pitch decks", debuggen code, schetsen architectonische blauwdrukken en geven gezondheidsadvies. <br>  <br> Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de opkomst van sociale media. <br> <br>
 
-Om  aan te geven dat het stuk *niet* door een chabot is geschreven staat onder de namen van de autheurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
+Om  aan te geven dat het Times artikel *niet* door een chatbot is geschreven staat onder de namen van de auteurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
 
 
 
