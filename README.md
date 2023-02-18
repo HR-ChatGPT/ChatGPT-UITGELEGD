@@ -283,10 +283,10 @@ Zie:  ["Is er een kort overzicht van ChatGPT's tekortkomingen?"](v0b) Maar dit l
 
 
 
->Natuurlijk kunnen er manieren zijn om AI zodanig te manipuleren dat het zelf creatiever wordt, bijvoorbeeld door het te vragen specifiek nieuwe inhoud te genereren op basis van zwakkere associaties die het vindt in trainingsgegevens. Dit zou een manier kunnen zijn om menselijke creativiteit te simuleren met behulp van wiskunde en code. Maar iedereen die wel eens een creatieve doorbraak of een eurekamoment onder de douche heeft gehad, zal je vertellen dat het vaak uit het niets lijkt te komen. 
+>*Natuurlijk kunnen er manieren zijn om AI zodanig te manipuleren dat het zelf creatiever wordt, bijvoorbeeld door het te vragen specifiek nieuwe inhoud te genereren op basis van zwakkere associaties die het vindt in trainingsgegevens. Dit zou een manier kunnen zijn om menselijke creativiteit te simuleren met behulp van wiskunde en code. <br> <br> Maar iedereen die wel eens een creatieve doorbraak of een eurekamoment onder de douche heeft gehad, zal je vertellen dat het vaak uit het niets lijkt te komen. 
 We begrijpen onze creativiteit zelf nog niet, dus kunnen we die nog niet vertalen in een code die een machine kan begrijpen en proberen na te bootsen. En dan hebben we het nog niet eens over menselijke emoties, vele zintuiglijke ervaringen of veel van de basisfuncties van de hersenen die de wetenschap nog steeds niet goed begrijpt. 
-Maar dit is nog maar het begin. Volgens sommigen stevenen we in de komende tien of twee jaar af op kunstmatige algemene intelligentie - dat zou een systeem zijn dat echt dezelfde capaciteiten heeft als een mens op een niet te onderscheiden manier. Voor de goede orde: andere deskundigen denken dat dit nog lang niet zal gebeuren, als het al ooit gebeurt. 
-Voorlopig is het het beste om vertrouwd te raken met deze systemen, hoe ze werken en wat ze wel en niet kunnen. Kennis is krachtiger dan informatie, zelfs terabytes ervan, en dat is een voordeel dat we allemaal nog steeds hebben ten opzichte van AI. Voorlopig althans.
+Maar dit is nog maar het begin. <br> <br> Volgens sommigen stevenen we in de komende tien of twee jaar af op kunstmatige algemene intelligentie - dat zou een systeem zijn dat echt dezelfde capaciteiten heeft als een mens op een niet te onderscheiden manier. Voor de goede orde: andere deskundigen denken dat dit nog lang niet zal gebeuren, als het al ooit gebeurt. 
+<br> <br> Voorlopig is het het beste om vertrouwd te raken met deze systemen, hoe ze werken en wat ze wel en niet kunnen. Kennis is krachtiger dan informatie, zelfs terabytes ervan, en dat is een voordeel dat we allemaal nog steeds hebben ten opzichte van AI. Voorlopig althans.*
 
 
 <br>
