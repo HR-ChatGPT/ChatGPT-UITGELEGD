@@ -36,7 +36,6 @@ https://lastweekin.ai/p/the-ai-scaling-hypothesis
 
 >ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media, de verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.
 
-
 Tegelijkertijd zet generatieve-AI de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
 >Ondanks dat ChatGPT's antwoorden veel onvolkomenheden en/of onjuistheden bevatten, lijken ze op het eerste gezicht heel bruikbaar en nuttig. Dus voorlopig is het gebruik van ChatGPT om posts Stack Overflow te maken niet toegestaan.
 
@@ -108,8 +107,8 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
-* [1e] [+Maakt ChatGPT "valsspelen" makkelijker en is het te detecteren?](#v1d)
-* [1f] [+Kun je ChatGPT opvoeren als co-auteur?](#v1f)
+* [1d] [+Maakt ChatGPT "valsspelen" makkelijker en is het te detecteren?](#v1d)
+* [1e] [+Kun je ChatGPT opvoeren als co-auteur?](#v1e)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
 * [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
 * [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
@@ -628,7 +627,7 @@ https://seo.ai/blog/chatgpt-detector-tools
 
 -->
 
-Plagiaat is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
+[Plagiaat](https://nl.wikipedia.org/wiki/Plagiaat) *---"het overnemen van stukken, gedachten, redeneringen van anderen en deze laten doorgaan voor eigen werk"---* is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
 
 Darren Hick *---professor filosofie---* was een van de eerste docent die via sociale media meldde dat hij een student betrapt had op het gebruik van ChatGPT. In een Facebook-post beschrijft hij enkele van de rode vlaggen die hij opmerkte:
 
@@ -686,21 +685,34 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 
 ### OUTCOME https://platform.openai.com/ai-text-classifier:
 
-
-
- 
  ![Picture1](https://user-images.githubusercontent.com/684692/216188287-0a7d6820-63c4-4e3b-b036-e5562c3f410d.png)
 
 
 
-
+### Gen-AI detectoren zijn *"nog"* niet betrouwbaar *"genoeg"* en eenvoudig te omzeilen
 
 
 <br>
 
+
+# v1e
+
+*******
+### [1e] KUN JE ChatGPT OPVOEREN ALS CO-AUTEUR? #  
+*******
+
+
+Het gebruik van *"Talige"* Gen-AI zet de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
+>Ondanks dat ChatGPT's antwoorden veel onvolkomenheden en/of onjuistheden bevatten, lijken ze op het eerste gezicht heel bruikbaar en nuttig. Dus voorlopig is het gebruik van ChatGPT om posts Stack Overflow te maken niet toegestaan.
+
+Invloedrijke uitgevers zoals 
+[Springer/Nature](https://www.nature.com/nature/for-authors/initial-submission),  [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#) en het tijdschrift [Science](https://www.science.org/content/page/science-journals-editorial-policies?adobe_mc=MCMID%3D74834065633225336093377662819662455375%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675677764#authorship)
+hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Nature](https://www.nature.com/articles/d41586-023-00107-z) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
+
+
 # v2
 ********
-### [2] HOE GEEF IK EEN OPDRACHT AAN ChatGPT? #link2
+### [2] HOE GEEF IK EEN OPDRACHT AAN ChatGPT? 
 
 ********
 
