@@ -297,7 +297,7 @@ Maar dit is nog maar het begin. <br> <br> Volgens sommigen stevenen we in de kom
 
 >*Iemand heeft ChatGPT en Bing AI onlangs een gesprek laten voeren. Prompt na prompt leerden de chatbots over elkaar, en zijn nu beste maatjes! <br> <br> Ondertussen deed zich in 2017 een soortgelijk incident voor toen twee chatbots van Facebook in hun eigen taal met elkaar begonnen te praten, en moesten worden uitgeschakeld. <br> <br> Hetzelfde jaar beweerde Google dat zijn Translate tool de mogelijkheid had om zijn eigen taal te genereren. Ook OpenAI beweert dat AI inderdaad kan worden aangemoedigd zijn eigen taal te creëren. 
 
-Deze anekdotische beschrijvingen  doen de vraag rijzen: *"Zijn Gen-AI echt in staat om hun eigen taal te creëren iets waar mensen te dom voor zijn om te begrijpen?"* We zijn nu op een punt in de ontwikkelingsgeschiedenis van AI-technologie beland waar de "de mens" nog kan bepalen of we deze weg willen bewandelen  of dat we "paal en perk" gaan stellen aan de handelingsvrijheid van Gen-AI.  Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Things" [IoT] en haar industriële variant Cyber Physical Systems [CPS], waarbij we hebben toegestaan dat "dingen" onderling met elkaar kunnen communiceren zonder tussen komst van de mens *--- human-in-the-Loop--*. Gevolg is het ontstaan van de zogenaamde "Data-deluge" 
+Deze anekdotische beschrijvingen doen de vraag rijzen: *"Zijn Gen-AI echt in staat om hun eigen taal te creëren iets waar mensen te dom voor zijn om te begrijpen?"* We zijn nu op een punt in de ontwikkelingsgeschiedenis van AI-technologie beland waar de "de mens" nog kan bepalen of we deze weg willen bewandelen  of dat we "paal en perk" gaan stellen aan de handelingsvrijheid van Gen-AI.  Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Things" [IoT] en haar industriële variant Cyber Physical Systems [CPS] zo rond 2010, waarbij we hebben toegestaan dat "dingen" onderling met elkaar kunnen communiceren zonder tussen komst van de mens *--- human-in-the-Loop--*. Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126/science.1200970): De toename van de hoeveelheid digitaal beschikbare ongestructureerde/ruwe data overstijgt de totale hoeveelheid aan beschikbare “computer” rekenkracht. Sinds 2019 is er wereldwijd meer digitale data wordt geproduceerd dan analoge data. Daarmee is de mensheid in 2023 met de komst van ChatGPT defacto een [*"Society of Algorithms"*](https://doi.org/10.1146/annurev-soc-090820-020800) geworden. 
 
 <!--
 https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/
@@ -1212,6 +1212,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. In Proceedings of the 34th International Conference on Neural Information Processing Systems (NIPS'20), Vancouver, BC, Canada, p. 159–184. Curran Associates Inc. https://doi.org/10.1145/3505244
 
+* <sub> Burrell, J., & Fourcade, M. (2021). The society of algorithms. Annual Review of Sociology, 47, 213-237. https://doi.org/10.1146/annurev-soc-090820-020800
+
 * <sub> Chan, A. GPT-3 and InstructGPT: technological dystopianism, utopianism, and “Contextual” perspectives in AI ethics and industry. AI Ethics (2022). https://doi.org/10.1007/s43681-022-00148-6
 
 * <sub> Costanza-Chock, S., Raji, I.D., Buolamwini, J. (2022). Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1571–1583). Association for Computing Machinery. https://doi.org/10.1145/3531146.3533213
@@ -1235,6 +1237,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Heaven, W. D. (2022, November 18). Artificial intelligence: Why Meta’s latest large language model survived only three days online. Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense. [AI Blog] Technology Review. https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
 
 * <sub> Hernandez, D., & Brown, T. B. (2020). Measuring the algorithmic efficiency of neural networks. arXiv preprint arXiv:2005.04305. https://doi.org/10.48550/ARXIV.2005.04305
+
+* <sub> Hilbert, M., & López, P. (2011). The world’s technological capacity to store, communicate, and compute information. science, 332(6025), 60-65. https://doi.org/10.1126/science.1200970
 
 * <sub> Hiltzik, M. (2023, januari 20). Robot taxis, hyperloops: A top technologist wages war on tech's hype machine. [Column]. The Los Angeles Times. https://www.latimes.com/business/story/2023-01-20/robot-taxis-hyperloops-a-top-technologist-wages-war-on-techs-hype-machine
 
