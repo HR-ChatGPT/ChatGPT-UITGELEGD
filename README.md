@@ -1090,7 +1090,7 @@ OpenAI heeft op 1 februari 2023 een tool vrijgegeven voor het herkennen van door
 
  Het is een classificator om onderscheid te maken tussen door (1) mensen geschreven tekst en door (2) Gen-AI gegenereerde tekst. 
  
- Doel is NIET om plagiaat of het gebruik van ChatGTP te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van wetenschappelijke papers, en imposter Chatbots.
+ Doel is NIET om plagiaat of het gebruik van ChatGTP te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven te falsificeren. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van wetenschappelijke papers, en imposter Chatbots.
 
 
 >*Door zich voor te doen als een mens, probeert de imposter Gen-AI eindgebruikers te laten geloven dat ze met een echt menselijk wezen communiceren, terwijl ze in werkelijkheid met een AI-systeem spreken. Dit is een vorm van *"social engineering"* die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.*
