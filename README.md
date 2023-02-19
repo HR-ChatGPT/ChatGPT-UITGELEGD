@@ -1103,7 +1103,9 @@ De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans
 Sind januari 2023 zijn er enkele tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 | URL | tool name | LLM
 ---- | ---- | ---
-https://gptzero.me/ | GPTzero | GTP2
+https://gptzero.me/ | GPTzero | GTP-2
+https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
+https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GTP-2
 
 Probleem met deze tools is dat ze zijn gebaseerd op een onderliggende taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de tekstlengte. Menselijk gegenereerde tekst kan afwisselend wel en niet door een AI lijken te zijn gegenereerd, terwijl AI-teksten veel minder variantie vertonen zijn.
 
