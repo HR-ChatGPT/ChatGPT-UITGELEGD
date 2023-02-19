@@ -41,7 +41,7 @@ Tegelijkertijd zet generatieve-AI de deur open naar *"co-creatie"* van zowel bro
 
 Invloedrijke uitgevers zoals 
 [Springer/Nature](https://www.nature.com/nature/for-authors/initial-submission),  [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#) en het tijdschrift [Science](https://www.science.org/content/page/science-journals-editorial-policies?adobe_mc=MCMID%3D74834065633225336093377662819662455375%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675677764#authorship)
-hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Nature](https://www.nature.com/articles/d41586-023-00107-z) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
+hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Plos Digital Health](https://doi.org/10.1371/journal.pdig.0000198) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
 
 
 Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een een rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
@@ -700,22 +700,24 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 *******
 ### [1e] KUN JE ChatGPT OPVOEREN ALS CO-AUTEUR?
 *******
-De onderstaande tekst is deels gebaseerd op een news-item (18 januari 2023) afkomstig uit het gerenommeerde, Brits wetenschappelijk tijdschrift *Nature* met als title: [*"ChatGPT listed as author on research papers: many scientists disapprove
-At least four articles credit the AI tool as a co-author, as publishers scramble to regulate its use."*](https://www.nature.com/articles/d41586-023-00107-z)
+De onderstaande tekst is deels gebaseerd op een news-item (18 januari 2023) afkomstig uit het gerenommeerde, Brits wetenschappelijk tijdschrift *Nature* getiteld: <br> *"ChatGPT listed as author on research papers: many scientists disapprove. 
+<br> At least four articles credit the AI tool as a co-author, as publishers scramble to regulate its use."*
+
+>Uitgevers en preprint servers waarmee het Nature news team contact opnam, zijn het erover eens dat AI's zoals ChatGPT niet voldoen aan de criteria voor een auteur van een studie, omdat zij geen verantwoordelijkheid kunnen nemen voor de inhoud en integriteit van wetenschappelijke papers. Maar sommige uitgevers zeggen dat de bijdrage van een AI aan het schrijven van papers kan worden erkend in andere secties dan de auteurslijst. <br> <br> Het nieuwsteam van Nature is redactioneel onafhankelijk van het tijdschriftenteam en de uitgever, Springer Nature. <br> Stokel-Walker, C. (2023) ChatGPT listed as author on research papers: many scientists disapprove. Nature. Nature 613, 620-621 (2023)https://doi.org/10.1038/d41586-023-00107-z
 
 Het gebruik van *"Talige"* Gen-AI zet de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
 >Ondanks dat ChatGPT's antwoorden veel onvolkomenheden en/of onjuistheden bevatten, lijken ze op het eerste gezicht heel bruikbaar en nuttig. Dus voorlopig is het gebruik van ChatGPT om posts Stack Overflow te maken niet toegestaan.
 
 Invloedrijke uitgevers zoals 
 [Springer/Nature](https://www.nature.com/nature/for-authors/initial-submission),  [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#) en het tijdschrift [Science](https://www.science.org/content/page/science-journals-editorial-policies?adobe_mc=MCMID%3D74834065633225336093377662819662455375%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675677764#authorship)
-hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Nature](https://www.nature.com/articles/d41586-023-00107-z) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
+hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Plos Digital Health](https://doi.org/10.1371/journal.pdig.0000198) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
 
 
 Momenteel (19 februari 2023) levert de zoekopdracht *"author:"ChatGPT"* in [Goolge Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&oq=author) een 3-tal *"peer-reviewed"* referenties op. 
 
 * <sub> King, M. R., & chatGPT. (2023). A Conversation on Artificial Intelligence, Chatbots, and Plagiarism in Higher Education. Cellular and Molecular Bioengineering, 1-2. https://link.springer.com/article/10.1007/s12195-022-00754-8
 
-* <sub> Kung TH, Cheatham M, Medenilla A, Sillos C, De Leon L, Elepaño C, et al. (2023) Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. PLOS Digit Health 2(2): e0000198. https://doi.org/10.1371/journal.pdig.0000198  (first published as medRXiv preprint: https://doi.org/10.1101/2022.12.19.22283643)
+* <sub> Kung TH, Cheatham M, Medenilla A, Sillos C, De Leon L, Elepaño C, et al. (2023) Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. PLOS Digital Health 2(2): e0000198. https://doi.org/10.1371/journal.pdig.0000198  (first published as medRXiv preprint: https://doi.org/10.1101/2022.12.19.22283643)
 
 * <sub> ChatGPT, & Zhavoronkov, A. (2022). Rapamycin in the context of Pascal’s Wager: generative pre-trained transformer perspective. Oncoscience, 9, 82. https://doi.org/10.18632%2Foncoscience.571
 
