@@ -1104,6 +1104,7 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
 Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
+Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools).
 
 | URL | tool name | LLM
 ---- | ---- | ---
