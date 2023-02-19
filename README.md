@@ -1123,20 +1123,16 @@ Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om
 * Bij online communicatie zouden platforms deze detectie kunnen gebruiken om de verspreiding van door AI gegenereerde desinformatie of spam te voorkomen.
 * In de journalistiek en de media zouden factcheckers en redacteuren deze detectie kunnen gebruiken om door AI gegenereerde inhoud te identificeren en te labelen en ervoor te zorgen dat lezers de bron kennen.
 
+### Gen-AI detectoren zijn "nog" niet betrouwbaar
 
-
-
-Probleem met deze tools is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt werd om ChatGPT te kunnen bouwen is GPT-3.5, en deze is niet vrijbeschikhaar (zie: [*"Wat moet je weten over ChatGPT en warvoor kan het worden gebruikt?"*](#v1a))
+Probleem met de huidige geberatie aan *"Gen-AI detectie tools"*  is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt werd om ChatGPT te kunnen bouwen is GPT-3.5, en deze is niet vrijbeschikhaar (zie: [*"Wat moet je weten over ChatGPT en warvoor kan het worden gebruikt?"*](#v1a)).
 Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de tekstlengte. Menselijk gegenereerde tekst kan afwisselend wel en niet door een AI lijken te zijn gegenereerd, terwijl AI-teksten veel minder variantie vertonen zijn.
-
 
 OpenAI heeft op 1 februari 2023 een [*AI classifier* tool](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) vrijgegeven voor het herkennen van door Gen-AI gegenereerde teksten. Het is een classificator om onderscheid te maken tussen door (1) mensen geschreven tekst en door (2) Gen-AI gegenereerde tekst. De tool in online te gebruiken via: https://openai-openai-detector.hf.space/.
  
  Doel is NIET om plagiaat of het gebruik van ChatGTP als zodanig te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven te falsificeren. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van essays en wetenschappelijke papers, en imposter Chatbots.
 
 >*Door zich voor te doen als een mens, probeert de imposter Gen-AI eindgebruikers te doen laten geloven dat ze daadwerkelijk met een mens communiceren, terwijl ze  meteen AI-systeem van doen hebben. Dit is een vorm van [*"social engineering"*](https://en.wikipedia.org/wiki/Social_engineering_(security)) die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.*
-
-
 
 OpenAI.com heeft naar eigen zeggen de classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals de [AI-TEKST-CLASSIFIER](https://platform.openai.com/ai-text-classifier`). De vraag is of eerst een probleem creëren en dan een oplossing zoeken om het probleem op te lossen een goede strategie is?
 
