@@ -1082,6 +1082,9 @@ Met 52.106 citaties is dit een invloedrijk en veelgelezen artikel.
 ********
 ### [12] KAN HET GEBRUIK VAN ChatGPT GEDETECTEERD WORDEN?
 ********
+
+Plagiaat is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is, [*"Content Similarity Detection" [CSD] software*](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web. ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
+
 OpenAI heeft op 1 februari 2023 een tool vrijgegeven voor het herkennen van door Gen-AI gegenereerde teksten [https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/ | https://openai-openai-detector.hf.space/] 
 
 
