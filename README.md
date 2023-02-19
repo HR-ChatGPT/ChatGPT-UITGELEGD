@@ -1126,7 +1126,7 @@ Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om
 
 
 
-Probleem met deze tools is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt wordt voor ChatGPT is GPT-3.5, en deze is niet vrijbeschikhaar (zie )
+Probleem met deze tools is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt werd om ChatGPT te kunnen bouwen is GPT-3.5, en deze is niet vrijbeschikhaar (zie: [*"Wat moet je weten over ChatGPT en warvoor kan het worden gebruikt?"*](#v1a))
 Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de tekstlengte. Menselijk gegenereerde tekst kan afwisselend wel en niet door een AI lijken te zijn gegenereerd, terwijl AI-teksten veel minder variantie vertonen zijn.
 
 
