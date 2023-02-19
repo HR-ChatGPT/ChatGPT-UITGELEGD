@@ -1089,6 +1089,9 @@ BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/articl
 https://uproxx.com/technology/chat-gpt-plagiarism-is-blowing-up-academia-the-unexpected-solution/
 https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier
 https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.
+
+https://seo.ai/blog/chatgpt-detector-tools
+
 -->
 
 Plagiaat is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
@@ -1100,12 +1103,17 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
-Sind januari 2023 zijn er enkele tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
+Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 | URL | tool name | LLM
 ---- | ---- | ---
 https://gptzero.me/ | GPTzero | GTP-2
 https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
 https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GTP-2
+https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
+https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
+https://corrector.app/ai-content-detector/ | Corrector | ???
+https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
+https://huggingface.co/roberta-base-openai-detector | Roberta-Base-Openai-Detector | GTP-2
 
 Probleem met deze tools is dat ze zijn gebaseerd op een onderliggende taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de tekstlengte. Menselijk gegenereerde tekst kan afwisselend wel en niet door een AI lijken te zijn gegenereerd, terwijl AI-teksten veel minder variantie vertonen zijn.
 
