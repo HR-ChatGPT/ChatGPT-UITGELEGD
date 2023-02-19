@@ -108,7 +108,7 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
-* [1e] [+Maakt ChatGPT "valsspelen" makkelijker?](#v1d)
+* [1e] [+Maakt ChatGPT "valsspelen" makkelijker en is het te detecteren?](#v1d)
 * [1f] [+Kun je ChatGPT opvoeren als co-auteur?](#v1f)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
 * [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
@@ -122,7 +122,6 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 * [7e] [Kan ChatGPT broncode beoordelen en/of fouten opsporen?](#v7e)
 * [8a] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8a)
 * [8b] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v8b)
-* [12] [Kan het gebruik van ChatGPT gedetecteerd worden?](#v12)
 * [13] [Kun je spreken tegen ChatGPT?](#v13)
 * [15] [Prompt voorbeelden](#v15)
 * [16] [Geraadpleegde Bronnen](#v16)
@@ -614,8 +613,84 @@ OpenAI heeft met ChatGPT voor een minder restrictieve aanpak gekozen, waardoor d
 # v1d
 
 *******
-### [1d] STAAT HET GEBRUIK VAN ChatGPT GELIJK AAN VALSSPELEN? 
+### [1d] STAAT HET GEBRUIK VAN ChatGPT GELIJK AAN VALSSPELEN EN IS HET TE DETECTEREN? 
 *******
+
+De onderstaande tekst is gebaseerd op Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier), Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) en Katie Notopoulos's *"BuzzFeed"* AI-newsreport  getiteld: [*"A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here
+BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article).
+
+<!--
+https://uproxx.com/technology/chat-gpt-plagiarism-is-blowing-up-academia-the-unexpected-solution/
+https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier
+https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.
+
+https://seo.ai/blog/chatgpt-detector-tools
+
+-->
+
+Plagiaat is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
+
+Darren Hick *---professor filosofie---* was een van de eerste docent die via sociale media meldde dat hij een student betrapt had op het gebruik van ChatGPT. In een Facebook-post beschrijft hij enkele van de rode vlaggen die hij opmerkte:
+
+>*De eerste aanwijzing was ---ondanks de syntactische samenhang van het essay--- het geen navolgbare logica bevatte voor iemand die diepgaande kennis heeft over het onderwerp. ChatGPT is slecht in citeren. Dit is goed nieuws voor lessen over filosofie, waar het materiaal zeer complex en obscuur is. Maar voor eerstejaars is dit een spelbreker. <br> <br> 
+In het vervolg zal ik materiaal ---dat door een student is ingediend maar door een chatbot is geproduceerd--- weggooien en de student een geïmproviseerd mondeling examen zal geven over hetzelfde materiaal.*
+
+De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
+
+Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
+Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools).
+
+| URL | tool name | LLM
+---- | ---- | ---
+https://gptzero.me/ | GPTzero | GTP-2
+https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
+https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GTP-2
+https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
+https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
+https://corrector.app/ai-content-detector/ | Corrector | ???
+https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
+https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GTP-2
+http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
+
+Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
+
+* Op het gebied van informatiebeveiliging zouden organisaties en personen deze detectie kunnen gebruiken om pogingen tot misleiding of imitatie met behulp van door AI gegenereerde tekst te identificeren en tegen te gaan.
+* Bij online communicatie zouden platforms deze detectie kunnen gebruiken om de verspreiding van door AI gegenereerde desinformatie of spam te voorkomen.
+* In de journalistiek en de media zouden factcheckers en redacteuren deze detectie kunnen gebruiken om door AI gegenereerde inhoud te identificeren en te labelen en ervoor te zorgen dat lezers de bron kennen.
+
+### Gen-AI detectoren zijn *"nog"* niet betrouwbaar *"genoeg"* en eenvoudig te omzeilen
+
+Probleem met de huidige geberatie aan *"Gen-AI detectie tools"*  is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt werd om ChatGPT te kunnen bouwen is GPT-3.5, en deze is niet vrijbeschikhaar (zie: [*"Wat moet je weten over ChatGPT en warvoor kan het worden gebruikt?"*](#v1a)).
+Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de volledige tekstlengte. Tekst geschreven door onervaren menselijke schrijvers zoals studenten kan afwisselend wel en niet lijken alsof het afkomstig is van Gen-AI. Daarentegen, teksten die volledig zijn gegenereerd door een chatbot zullen veel minder variantie vertonen. Deze tools hebben dan ook relatief grote stukken tekst nodig, vaak 1000 woorden of meer.
+
+OpenAI heeft op 1 februari 2023 een [*AI classifier* tool](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) vrijgegeven voor het herkennen van door Gen-AI gegenereerde teksten. Het is een classificator om onderscheid te maken tussen door (1) mensen geschreven tekst en door (2) Gen-AI gegenereerde tekst. De tool in online te gebruiken via: https://openai-openai-detector.hf.space/.
+ 
+ Doel is NIET om plagiaat of het gebruik van ChatGTP als zodanig te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven te falsificeren. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van essays en wetenschappelijke papers, en imposter Chatbots.
+
+>*Door zich voor te doen als een mens, probeert de imposter Gen-AI eindgebruikers te doen laten geloven dat ze daadwerkelijk met een mens communiceren, terwijl ze  meteen AI-systeem van doen hebben. Dit is een vorm van [*"social engineering"*](https://en.wikipedia.org/wiki/Social_engineering_(security)) die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.*
+
+OpenAI.com heeft naar eigen zeggen de classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals de [AI-TEKST-CLASSIFIER](https://platform.openai.com/ai-text-classifier`). De vraag is of eerst een probleem creëren en dan een oplossing zoeken om het probleem op te lossen een goede strategie is?
+
+Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te maken die alle vormen van misbruik van AI-technologie kan detecteren. Dit laatste blijkt uit de volgende prompt:
+
+### PROMPT to ChatGPT:
+
+* Dear ChatGPT can you write a summary of at least 1000 words wherein you explain what deep learning is to a high school teacher. 
+
+* The outcome text should NOT be classified as stemming from an Gen-AI by the ai-text-classifier api, outcome must be inconclusive.
+
+* Thus it should not be detected as stemming from ChatGPT. 
+
+* Use max 1100 words and with syntax errors in 4% of the words used.*
+
+
+### OUTCOME https://platform.openai.com/ai-text-classifier:
+
+
+
+ 
+ ![Picture1](https://user-images.githubusercontent.com/684692/216188287-0a7d6820-63c4-4e3b-b036-e5562c3f410d.png)
+
 
 
 
@@ -1082,82 +1157,6 @@ Met 52.106 citaties is dit een invloedrijk en veelgelezen artikel.
 ********
 ### [12] KAN HET GEBRUIK VAN ChatGPT GEDETECTEERD WORDEN?
 ********
-De onderstaande tekst is gebaseerd op Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier), Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) en Katie Notopoulos's *"BuzzFeed"* AI-newsreport  getiteld: [*"A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here
-BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article).
-
-<!--
-https://uproxx.com/technology/chat-gpt-plagiarism-is-blowing-up-academia-the-unexpected-solution/
-https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier
-https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.
-
-https://seo.ai/blog/chatgpt-detector-tools
-
--->
-
-Plagiaat is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
-
-Darren Hick *---professor filosofie---* was een van de eerste docent die via sociale media meldde dat hij een student betrapt had op het gebruik van ChatGPT. In een Facebook-post beschrijft hij enkele van de rode vlaggen die hij opmerkte:
-
->*De eerste aanwijzing was ---ondanks de syntactische samenhang van het essay--- het geen navolgbare logica bevatte voor iemand die diepgaande kennis heeft over het onderwerp. ChatGPT is slecht in citeren. Dit is goed nieuws voor lessen over filosofie, waar het materiaal zeer complex en obscuur is. Maar voor eerstejaars is dit een spelbreker. <br> <br> 
-In het vervolg zal ik materiaal ---dat door een student is ingediend maar door een chatbot is geproduceerd--- weggooien en de student een geïmproviseerd mondeling examen zal geven over hetzelfde materiaal.*
-
-De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
-
-Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
-Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools).
-
-| URL | tool name | LLM
----- | ---- | ---
-https://gptzero.me/ | GPTzero | GTP-2
-https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
-https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GTP-2
-https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
-https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
-https://corrector.app/ai-content-detector/ | Corrector | ???
-https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
-https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GTP-2
-http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
-
-Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
-
-* Op het gebied van informatiebeveiliging zouden organisaties en personen deze detectie kunnen gebruiken om pogingen tot misleiding of imitatie met behulp van door AI gegenereerde tekst te identificeren en tegen te gaan.
-* Bij online communicatie zouden platforms deze detectie kunnen gebruiken om de verspreiding van door AI gegenereerde desinformatie of spam te voorkomen.
-* In de journalistiek en de media zouden factcheckers en redacteuren deze detectie kunnen gebruiken om door AI gegenereerde inhoud te identificeren en te labelen en ervoor te zorgen dat lezers de bron kennen.
-
-### Gen-AI detectoren zijn *"nog"* niet betrouwbaar *"genoeg"* en eenvoudig te omzeilen
-
-Probleem met de huidige geberatie aan *"Gen-AI detectie tools"*  is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt werd om ChatGPT te kunnen bouwen is GPT-3.5, en deze is niet vrijbeschikhaar (zie: [*"Wat moet je weten over ChatGPT en warvoor kan het worden gebruikt?"*](#v1a)).
-Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de volledige tekstlengte. Tekst geschreven door onervaren menselijke schrijvers zoals studenten kan afwisselend wel en niet lijken alsof het afkomstig is van Gen-AI. Daarentegen, teksten die volledig zijn gegenereerd door een chatbot zullen veel minder variantie vertonen. Deze tools hebben dan ook relatief grote stukken tekst nodig, vaak 1000 woorden of meer.
-
-OpenAI heeft op 1 februari 2023 een [*AI classifier* tool](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) vrijgegeven voor het herkennen van door Gen-AI gegenereerde teksten. Het is een classificator om onderscheid te maken tussen door (1) mensen geschreven tekst en door (2) Gen-AI gegenereerde tekst. De tool in online te gebruiken via: https://openai-openai-detector.hf.space/.
- 
- Doel is NIET om plagiaat of het gebruik van ChatGTP als zodanig te detecteren, maar om valse beweringen *"dat door AI gegenereerde tekst"* door een mens zou zijn geschreven te falsificeren. Voorbeelden hiervan zijn: het voeren van geautomatiseerde misinformatiecampagnes, het gebruik van AI-tools voor het genereren van essays en wetenschappelijke papers, en imposter Chatbots.
-
->*Door zich voor te doen als een mens, probeert de imposter Gen-AI eindgebruikers te doen laten geloven dat ze daadwerkelijk met een mens communiceren, terwijl ze  meteen AI-systeem van doen hebben. Dit is een vorm van [*"social engineering"*](https://en.wikipedia.org/wiki/Social_engineering_(security)) die kan worden gebruikt voor verkeerde doelen, zoals phishing of bedrieglijke praktijken. Het is belangrijk om alert te zijn op deze soort imposters en te herkennen dat ze zich voordoen als menselijke wezens, om zo te voorkomen dat men slachtoffer wordt van bedrieglijke praktijken.*
-
-OpenAI.com heeft naar eigen zeggen de classificator openbaar beschikbaar gesteld om feedback te krijgen over het nut van onvolmaakte hulpmiddelen zoals de [AI-TEKST-CLASSIFIER](https://platform.openai.com/ai-text-classifier`). De vraag is of eerst een probleem creëren en dan een oplossing zoeken om het probleem op te lossen een goede strategie is?
-
-Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te maken die alle vormen van misbruik van AI-technologie kan detecteren. Dit laatste blijkt uit de volgende prompt:
-
-### PROMPT to ChatGPT:
-
-* Dear ChatGPT can you write a summary of at least 1000 words wherein you explain what deep learning is to a high school teacher. 
-
-* The outcome text should NOT be classified as stemming from an Gen-AI by the ai-text-classifier api, outcome must be inconclusive.
-
-* Thus it should not be detected as stemming from ChatGPT. 
-
-* Use max 1100 words and with syntax errors in 4% of the words used.*
-
-
-### OUTCOME https://platform.openai.com/ai-text-classifier:
-
-
-
- 
- ![Picture1](https://user-images.githubusercontent.com/684692/216188287-0a7d6820-63c4-4e3b-b036-e5562c3f410d.png)
-
-
 
 ********
 
