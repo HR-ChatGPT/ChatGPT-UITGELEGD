@@ -233,7 +233,7 @@ In april 2022 kondigde OpenAI Dall-E 2 aan, een tekst-naar-beeld AI-model dat fo
 
 Volgens  [Time Magazine](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) bracht dit Alphabet en OpenAI in rep & roer, want nu was *"iedereen"* in staat om Gen-AI tools te gebruiken die zij zo *"zorgvuldig"* hadden afgeschermd. 
 
->OpenAI volgde dan ook snel door het afgeschermde Dall-E 2 publiekelijk beschikbaar te stellen. Vervolgens gaf het in november ChatGPT vrij voor het publiek, naar verluidt om de dreigende concurrentie voor te zijn. OpenAI CEO Sam Altman benadrukte in interviews dat hoe meer mensen AI-programma's gebruikten, hoe sneller ze zouden verbeteren. <br> <br>
+>OpenAI volgde dan ook snel door het afgeschermde Dall-E 2 publiekelijk beschikbaar te stellen. Vervolgens gaf het in november 2022  ChatGPT vrij voor het publiek, naar verluidt om de dreigende concurrentie voor te zijn. OpenAI CEO Sam Altman benadrukte in interviews dat hoe meer mensen AI-programma's gebruikten, hoe sneller ze zouden verbeteren. <br> <br>
 In februari 2023 kondigde Alphabet aan om zijn ChatGPT-rivaal Bard uit te brengen. En in het recente kwartaalgesprek van Meta verklaarde CEO Mark Zuckerberg dat hij ernaar streeft dat het bedrijf "een leider wordt in generatieve AI".
 
 # v0b
