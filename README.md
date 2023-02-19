@@ -66,6 +66,16 @@ Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT 
 
 Om  aan te geven dat het Times artikel *niet* door een chatbot is geschreven staat onder de namen van de auteurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
 
+Was tot 2020 de "AI-arms race" vooral een strijd tussen de U.S. en China zoals blijkt uit  [*"State of AI report 2020."*](https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0):
+> Het Amerikaanse AI-ecosysteem wordt vooral gevoed door buitenlands talent en de bijdrage van in China opgeleide onderzoekers aan publicaties van wereldklasse is substantieel.
+
+Inmiddels lijken de US *---evenals Europa---* China voorbij te zijn gestreefd. Zo schrijft *Zeyi Yang* in het *"MIT Technology Review"*  AI-Blog (15 februari 2023) getiteld: [*"Inside the ChatGPT race in China:*](https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/)
+
+> Een Chinees ChatGPT-alternatief komt er niet zomaar - ook al willen veel bedrijven dat u dat denkt.
+<br> <br> De meeste mensen die ChatGPT in China aan den lijve hebben ondervonden, hebben er toegang toe gekregen via VPN's of betaalde oplossingen - slimme ondernemers hebben bijvoorbeeld OpenAI-accounts verhuurd of ChatGPT-vragen gesteld namens kopers, voor een paar dollar per 20 vragen. Maar nog meer mensen zien de resultaten via screenshots en korte sociale video's met de antwoorden van ChatGPT, die deze week de Chinese sociale media hebben overspoeld. De hype wordt gedreven door een mix van opwinding en FOMO.
+
+Het voornaamste obstakel van Gen-AI ontwikkeling is niet zozeer met huidige politieke klimaat, maar eerder de recente export beperking op geavanceerde GPU's naar China. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote taalmodellen, zoals die van ChatGPT, te trainen en uit te voeren.
+
 <!--
 Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd verwikkeld voor AI-dominantie met China
 --> 
