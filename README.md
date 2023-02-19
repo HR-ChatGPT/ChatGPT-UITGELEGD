@@ -711,14 +711,33 @@ Invloedrijke uitgevers zoals
 [Springer/Nature](https://www.nature.com/nature/for-authors/initial-submission),  [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#) en het tijdschrift [Science](https://www.science.org/content/page/science-journals-editorial-policies?adobe_mc=MCMID%3D74834065633225336093377662819662455375%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675677764#authorship)
 hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Plos Digital Health](https://doi.org/10.1371/journal.pdig.0000198) en [medRxiv](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
 
+>Holden Thorp *---hoofd van Science Family for Journals---* verklaarde dat het gebruik van door AI-gegenereerde teksten zonder de juiste citaten kan worden beschouwd als plagiaat, en dat geen enkele publicatie dit mag accepteren.
 
-Momenteel (19 februari 2023) levert de zoekopdracht *"author:"ChatGPT"* in [Goolge Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&oq=author) een 3-tal *"peer-reviewed"* referenties op. 
+### Momenteel (19 februari 2023) levert de zoekopdracht *"author:"ChatGPT"* in [Goolge Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&oq=author) een 3-tal *"peer-reviewed"* referenties op. 
 
 * <sub> King, M. R., & chatGPT. (2023). A Conversation on Artificial Intelligence, Chatbots, and Plagiarism in Higher Education. Cellular and Molecular Bioengineering, 1-2. https://link.springer.com/article/10.1007/s12195-022-00754-8
 
 * <sub> Kung TH, Cheatham M, Medenilla A, Sillos C, De Leon L, Elepaño C, et al. (2023) Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. PLOS Digital Health 2(2): e0000198. https://doi.org/10.1371/journal.pdig.0000198  (first published as medRXiv preprint: https://doi.org/10.1101/2022.12.19.22283643)
 
+
+>Richard Sever, de medeoprichter van Cold Spring Harbor Laboratory Press in New York, zei dat het team achter de repository en bioRxiv aan het bespreken is of het crediteren van AI-tools zoals ChatGPT moet worden gebruikt bij het schrijven van onderzoek. Hij zegt dat conventies zouden kunnen veranderen. Hij verteld  dat de formele rol van een auteur van een wetenschappelijk manuscript moeten onderscheiden van het meer algemene begrip van een auteur als de schrijver van een paper. Auteurs nemen de juridische verantwoordelijkheid voor hun werk op zich, dus moeten alleen "personen" worden vermeld. <br> <br> Mensen kunnen proberen het stiekem te doen, zoals bij MedRxiv is gebeurd, net zoals mensen fictieve personen, huisdieren, enz. hebben vermeld. Als auteurs op tijdschriftartikelen in het verleden, is dat een controlekwestie in plaats van een beleidskwestie.
+
+>Steinn Sigurdsson *---wetenschappelijk directeur aan de Pennsylvania State University, University Park---* zegt dat het bestuur van de natuurwetenschappelijke preprint servers arXiv interne besprekingen heeft gevoerd en het eens begint te worden over een strategie voor het gebruik van generatieve AI's. Hij is het erover eens dat software-instrumenten geen auteurs van inzendingen kunnen zijn, deels omdat zij niet kunnen instemmen met gebruiksvoorwaarden. Sigurdsson zegt dat hij niet weet of er arXiv preprints zijn waarin ChatGPT als co-auteur wordt genoemd. Hij stelt ook dat er nieuwe richtlijnen voor auteurs worden ontwikkeld.
+
 * <sub> ChatGPT, & Zhavoronkov, A. (2022). Rapamycin in the context of Pascal’s Wager: generative pre-trained transformer perspective. Oncoscience, 9, 82. https://doi.org/10.18632%2Foncoscience.571
+
+>Alex Zhavoronkov is de directeur van Insilico Medicine. Insilico Medicine is een AI-aangedreven bedrijf in Hong Kong. Hij refereerde naar ChatGPT als co-auteur van een artikel dat vorige maand in Oncoscience werd gepubliceerd. Hij zegt dat zijn bedrijf meer dan 80 artikelen heeft gepubliceerd met behulp van generatieve AI-tools: *"We zijn niet nieuw op dit gebied."*
+
+### De onderstaande peer-reviewed papers worden in  Google Scholar niet (meer) opgevoerd met ChatGPT als co-auteur. Of met een alternatieve Gen-AI 
+
+* <sub> O’Connor, S., & ChatGpt. (2023). Open artificial intelligence platforms in nursing education: Tools for academic progress or abuse? Nurse Education in Practice, 66, 103537. https://doi.org/https://doi.org/10.1016/j.nepr.2022.103537 
+
+>In  *"Nurse Education in Practice"* wordt ChatGPT gecrediteerd als co-auteur naast Siobhan O'Connor, een Britse onderzoeker op het gebied van gezondheidstechnologie. Roger Watson, hoofdredacteur van het tijdschrift, beweert dat deze vermelding onjuist was en binnenkort zal worden gecorrigeerd. Hij zegt dat het mijn vergissing was, aangezien redactionele artikelen onder een ander beheersysteem vallen dan originele *"Research Papers"*.
+
+* <sub> GPT-3, G., Thunström, A., Osmanovic, & Steingrimsson, S. (2022). Can GPT-3 write an academic paper on itself, with minimal human input? https://hal.science/hal-03701250
+
+>Almira Osmanovic Thunstrom *---een neurobioloog aan het Sahlgrenska University Hospital, Göteborg---* zei dat het artikel mede is geschreven door een oudere chatbot genaamd GPT-3. Het is geplaatst op de Franse preprint server HAL juni 2022. Het zal binnenkort worden gepubliceerd in peer-reviewed tijdschriften. Na beoordeling van het artikel wees één tijdschrift het af. Een tweede accepteerde echter het artikel met GPT-3 als auteur. Ze herschreef het artikel om te voldoen aan de verzoeken van de recensenten.
+
 
 # v2
 ********
