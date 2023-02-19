@@ -1104,6 +1104,7 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
 Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
+
 | URL | tool name | LLM
 ---- | ---- | ---
 https://gptzero.me/ | GPTzero | GTP-2
@@ -1114,8 +1115,19 @@ https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes |
 https://corrector.app/ai-content-detector/ | Corrector | ???
 https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
 https://huggingface.co/roberta-base-openai-detector | Roberta-Base-Openai-Detector | GTP-2
+http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
 
-Probleem met deze tools is dat ze zijn gebaseerd op een onderliggende taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de tekstlengte. Menselijk gegenereerde tekst kan afwisselend wel en niet door een AI lijken te zijn gegenereerd, terwijl AI-teksten veel minder variantie vertonen zijn.
+Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien, in plaats van te vertrouwen op door AI gegenereerde inhoud, maar ook voor tal van andere toepassingsdomeinen, zoals:
+
+* Op het gebied van informatiebeveiliging zouden organisaties en personen deze detectie kunnen gebruiken om pogingen tot misleiding of imitatie met behulp van door AI gegenereerde tekst te identificeren en tegen te gaan.
+* Bij online communicatie zouden platforms deze detectie kunnen gebruiken om de verspreiding van door AI gegenereerde desinformatie of spam te voorkomen.
+* In de journalistiek en de media zouden factcheckers en redacteuren deze detectie kunnen gebruiken om door AI gegenereerde inhoud te identificeren en te labelen en ervoor te zorgen dat lezers de bron kennen.
+
+
+
+
+Probleem met deze tools is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt wordt voor ChatGPT is GPT-3.5, en deze is niet vrijbeschikhaar (zie )
+Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de tekstlengte. Menselijk gegenereerde tekst kan afwisselend wel en niet door een AI lijken te zijn gegenereerd, terwijl AI-teksten veel minder variantie vertonen zijn.
 
 
 OpenAI heeft op 1 februari 2023 een [*AI classifier* tool](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) vrijgegeven voor het herkennen van door Gen-AI gegenereerde teksten. Het is een classificator om onderscheid te maken tussen door (1) mensen geschreven tekst en door (2) Gen-AI gegenereerde tekst. De tool in online te gebruiken via: https://openai-openai-detector.hf.space/.
