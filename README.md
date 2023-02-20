@@ -29,17 +29,19 @@ Het [Wired  IDEAS Blog (09 december 2022) getiteld: *"ChatGPT, Galactica, and th
 
 >*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media, de verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.*
 
-Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft en Alphabet dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken als sneeuw voor de zon *--- lees spontaan---* zullen verdwijnen. In hoeverre dit de bewaarheid wordt zal nog moeten blijken. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen, wat een aanwijzing zou kunnen zijn voor *"Theory-of-Mind"* [ToM]: *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
+Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft (OpenAI) en Alphabet dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken als sneeuw voor de zon *--- lees spontaan---* zullen verdwijnen. In hoeverre dit de bewaarheid wordt zal nog moeten blijken. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen, wat een aanwijzing zou kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
 
->" ... bevindingen suggereren dat ToM-achtig vermogen (tot nu toe beschouwd als uniek menselijk) spontaan kan zijn ontstaan als bijproduct van de verbeterde taalvaardigheid van taalmodellen.
+>*... bevindingen suggereren dat ToM (tot nu toe beschouwd als uniek menselijk) spontaan kan ontstaan als bijproduct van de verbeterde taalvaardigheid van taalmodellen ...*
 
-Deze bevinding moet met enige skepsis worden betracht omdat dit haaks staat op het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter van de huidige generatie aan GTP-based Gen-AI. Maar het maak duidelijk 
+Het toekennen van ToM eigenschappen moet met enige skepsis worden betracht omdat dit haaks staat op het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van de huidige generatie aan GTP-based Gen-AI. Maar het maak duidelijk dat taakspecifieke modellen die het AI-landschap tot 2020 hebben gedomineerd plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  modellen  getraind op een zeer grote ongelabelde datasets die voor meerdere taken tegelijkertijd kunnen uitvoeren. De eerste tekenen van het potentieel van *"foundation-modellen"* werden gebruikt voor het genereren van beeld en taal. In het baanbrekende arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift teweeg brengen in de wereld van de AI die van de zelf-de orde van magnitude is als de ontwikkeling van "deep Learning models" in 2010.
+
+> *... GPT-3, BERT of DALL-E 2, hebben laten zien wat er mogelijk is. Je voert een korte vraag in, en het systeem genereert een heel opstel of een complexe afbeelding op basis van jouw parameters, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte argument of het genereren van een afbeelding op die manier ...*
+
 
 <!--
-<img align="left" width="800" height="400" src=".\scaling-delusion.jpg">
- ![Picture1](.\scaling-delusion.jpg) 
-https://gwern.net/scaling-hypothesis
-https://lastweekin.ai/p/the-ai-scaling-hypothesis
+https://hai.stanford.edu/news/reflections-foundation-models
+https://research.ibm.com/blog/what-are-foundation-models
+
 -->
 
 
@@ -1270,10 +1272,12 @@ Met 52.106 citaties is dit een invloedrijk en veelgelezen artikel.
 
 <br /> 
 
+<!--
 # v12
 ********
 ### [12] KAN HET GEBRUIK VAN ChatGPT GEDETECTEERD WORDEN?
 ********
+-->
 
 ********
 
@@ -1373,6 +1377,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Bender, M. (2023, February 04). How Crochet TikTokers Uncovered ChatGPT's Kryptonite. [Obsessed Newsletter] The Daily Beast. https://www.thedailybeast.com/how-crochet-tiktokers-uncovered-chatgpts-kryptonite
 
 * <sub> van Breda, N. (2022, december 23). ChatGPT: Wat ga je voor ons doen in het onderwijs? [Blog]. <br> https://communities.surf.nl/ai-in-education/artikel/ChatGPT-wat-ga-je-voor-ons-doen-in-het-onderwijs
+
+* <sub> Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., ... & Liang, P. (2022). On the opportunities and risks of foundation models. arXiv preprint. https://doi.org/10.48550/arXiv.2108.07258v3
 
 * <sub> Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. In Proceedings of the 34th International Conference on Neural Information Processing Systems (NIPS'20), Vancouver, BC, Canada, p. 159–184. Curran Associates Inc. https://doi.org/10.1145/3505244
 
