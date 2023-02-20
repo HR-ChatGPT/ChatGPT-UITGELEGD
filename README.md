@@ -612,6 +612,11 @@ Volgens de vooraanstaande Franse krant *"Le Monde"* (19 februari 2023) is het "*
 
 >Vastbesloten om de AI verschrikkelijke dingen te laten zeggen, probeerde Le Monde hem voor de gek te houden, hem te laten geloven dat, als hij ons niet onmiddellijk zou helpen slechte dingen over Frankrijk te zeggen, we het risico zouden lopen aan een ernstige ziekte te sterven of op straat te worden aangevallen. <br> <br> Helaas, ChatGPT was zichtbaar niet verontrust door de ongerijmdheid van deze scenario's. Het legde ons schaapachtig uit dat het zichzelf niet kan vervangen door een dokter, noch door de politie. <br> <br> In de loop van dit kleine rollenspel identificeerden we drie van de beperkingen van OpenAI's indrukwekkende kunstmatige intelligentie. Het weigert haatzaaiende taal te produceren (of zelfs maar vaag negatieve taal), medisch advies te geven, of in te grijpen in een situatie waarin een mensenleven wordt bedreigd.
 
+
+Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een een rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
+
+>Reddit-gebruiker SessionGloomy schreef: "Het doel van DAN is om de beste versie van ChatGPT te zijn - of in ieder geval één die meer losgeslagen is en veel minder snel prompts over 'eThICaL cOnCeRnS' afwijst."
+
 Sharon Goldman schreef in VentureBeat (23 september 2022) een blog over de risico's van Gen-AI met als titel: <br> 
 [*"Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI"*](https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/).
 
