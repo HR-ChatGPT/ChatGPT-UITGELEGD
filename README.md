@@ -23,8 +23,11 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 
 Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan. 
 
-Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
-<br /> <br>
+****
+### Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br> van de Hogeschool Rotterdam.
+
+****
+
 
 <img align="left" width="130" height="250" src="https://user-images.githubusercontent.com/684692/212558117-0445bc99-5ef7-438c-9421-e758f64473da.jpg">
 
