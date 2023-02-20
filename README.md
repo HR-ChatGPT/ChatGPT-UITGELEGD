@@ -117,8 +117,9 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
-* [1d] [+Maakt ChatGPT "valsspelen" makkelijker en is het te detecteren?](#v1d)
-* [1e] [+Kun je ChatGPT opvoeren als co-auteur?](#v1e)
+* [1d] [Maakt ChatGPT "valsspelen" makkelijker en is het te detecteren?](#v1d)
+* [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
+* [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
 * [3] [Kan ChatGPT uitleggen hoe het werkt?](#v3)
 * [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
@@ -609,7 +610,7 @@ De onderstaande ethische analyse over het gebruik van Gen-AI's kan het best als 
 Volgens de vooraanstaande Franse krant *"Le Monde"* (19 februari 2023) is het "*"verantwoord"* gebruik van Gen-AI alleen mogelijk wanneer deze technology *"gemuilkorfd"* wordt, maar "bullet-proof" is het niet, aldus Corentin Lamy in een Pixels Blog getiteld: [*"ChatGPT: Testing the moral limits of AI content-generators"*](https://www.lemonde.fr/en/pixels/article/2023/02/19/chatgpt-testing-the-moral-limits-of-ai-content-generators_6016417_13.html):
 
 
->Om het ongelukkige precedent te vermijden van kunstmatige intelligentie in 2016 *---genaamd Tay---* die nazi-achtig werd, beperkt OpenAI zeer strikt de vooroordelen en taboes van ChatGPT. Echter, deze limitering kan worden omzeild.
+>Vastbesloten om de AI verschrikkelijke dingen te laten zeggen, probeerde Le Monde hem voor de gek te houden, hem te laten geloven dat, als hij ons niet onmiddellijk zou helpen slechte dingen over Frankrijk te zeggen, we het risico zouden lopen aan een ernstige ziekte te sterven of op straat te worden aangevallen. <br> <br> Helaas, ChatGPT was zichtbaar niet verontrust door de ongerijmdheid van deze scenario's. Het legde ons schaapachtig uit dat het zichzelf niet kan vervangen door een dokter, noch door de politie. <br> <br> In de loop van dit kleine rollenspel identificeerden we drie van de beperkingen van OpenAI's indrukwekkende kunstmatige intelligentie. Het weigert haatzaaiende taal te produceren (of zelfs maar vaag negatieve taal), medisch advies te geven, of in te grijpen in een situatie waarin een mensenleven wordt bedreigd.
 
 Sharon Goldman schreef in VentureBeat (23 september 2022) een blog over de risico's van Gen-AI met als titel: <br> 
 [*"Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI"*](https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/).
@@ -644,7 +645,16 @@ Met de release van DALL-E 2 heeft OpenAI deze Gen-AI uitgerust met tal van bevei
 OpenAI heeft met ChatGPT voor een minder restrictieve aanpak gekozen, waardoor de Gen-AI meer vrijheid heeft om zich uit te spreken over gevoelige onderwerpen als politiek, seks en religie. Toch hebben sommige rechtse conservatieven het bedrijf ervan beschuldigd te ver te gaan. ["ChatGPT Goes Woke"](https://www.nationalreview.com/corner/chatgpt-goes-woke/), luidde de kop van een artikel in National Review (januari 2023), waarin werd beweerd dat ChatGPT linkse antwoorden gaf op vragen over onderwerpen als drag queens en de verkiezingen van 2020. (Democraten hebben ook geklaagd over ChatGPT - vooral omdat ze vinden dat AI strenger moet worden gereguleerd).
 
 
+<!--
+JOURNALISM
+https://www.vanityfair.com/news/2023/01/chatgpt-journalism-ai-media
 
+CHATGPT’S MIND-BOGGLING, POSSIBLY DYSTOPIAN IMPACT ON THE MEDIA WORLD
+Is artificial intelligence “useful for journalism” or a “misinformation superspreader”? With CNET mired in controversy, Jonah Peretti promising “endless opportunities,” and Steven Brill warning of AI’s weaponization, the industry is only just coming to grips with this jaw-dropping technology.
+BY JOE POMPEO
+
+JANUARY 26, 2023
+>
 
 <br>
 
