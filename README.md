@@ -13,8 +13,7 @@
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
 
-Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](#facs).
-
+Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](#faqs).
 
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
