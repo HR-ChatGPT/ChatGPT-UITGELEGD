@@ -602,14 +602,21 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 ### [1c] WAT ZIJN ETHISCHE RISICO'S & SCHADUWKANTEN VAN ChatGPT?
 *******
 
+De onderstaande ethische analyse over het gebruik van Gen-AI's kan het best als volgt worden samengevat:
 
+> *"Gen-AI wordt slimmer, maar is nog niet klaar om op de wereld losgelaten te worden."*
+
+Volgens de vooraanstaande Franse krant *"Le Monde"* (19 februari 2023) is het "*"verantwoord"* gebruik van Gen-AI alleen mogelijk wanneer deze technology *"gemuilkorfd"* wordt, maar "bullet-proof" is het niet, aldus Corentin Lamy in een Pixels Blog getiteld: [*"ChatGPT: Testing the moral limits of AI content-generators"*](https://www.lemonde.fr/en/pixels/article/2023/02/19/chatgpt-testing-the-moral-limits-of-ai-content-generators_6016417_13.html):
+
+
+>Om het ongelukkige precedent te vermijden van kunstmatige intelligentie in 2016 *---genaamd Tay---* die nazi-achtig werd, beperkt OpenAI zeer strikt de vooroordelen en taboes van ChatGPT. Echter, deze limitering kan worden omzeild.
 
 Sharon Goldman schreef in VentureBeat (23 september 2022) een blog over de risico's van Gen-AI met als titel: <br> 
-*"Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI"*.
+[*"Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI"*](https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/).
 
 <!-- *"AI is getting smarter, but it's still not ready to be unleashed on the world"*.
 --> 
-DeepMind's state-of-the-art chatbot, [*Sparrow*](https://www.deepmind.com/blog/building-safer-dialogue-agents), wordt alom geprezen als een belangrijke stap in de richting van het creëren van veiligere, minder bevooroordeelde grootschalig taalmodel [LLM], dankzij de toepassing van door mensen gestuurde reinforcement learning [RL]. Dat wil zeggen, Sparrow heeft opdrachten *leren* uit te voeren aan de hand van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
+>DeepMind's state-of-the-art chatbot, [*Sparrow*](https://www.deepmind.com/blog/building-safer-dialogue-agents), wordt alom geprezen als een belangrijke stap in de richting van het creëren van veiligere, minder bevooroordeelde grootschalig taalmodel [LLM], dankzij de toepassing van door mensen gestuurde reinforcement learning [RL]. Dat wil zeggen, Sparrow heeft opdrachten *leren* uit te voeren aan de hand van menselijke feedback. Deze methodiek van *"belonend leren onder toezicht"* [RLHF] is een van de meest toegepaste AI-algoritme voor het trainen van robots. Belonend leren onder toezicht is in dit geval een methodiek die aanstuurt op het belonen *--reinforcing--* van goed gedrag op basis van *"menselijke"* feedback in de vorm van natuurlijke taal.
 
 DeepMind is een Britse dochteronderneming van het Google-moederbedrijf Alphabet. Zij omschrijven Sparrow als een *"dialoog-agent die het risico op onveilige en ongepaste antwoorden tracht te vermijden "* De agent is ontworpen om *"met een gebruiker te praten, vragen te beantwoorden en het internet te doorzoeken met behulp van Google wanneer het nuttig is om bewijsmateriaal op te zoeken om zijn antwoorden te onderbouwen."*
 
@@ -635,6 +642,9 @@ Die bezorgdheid groeide afgelopen zomer toen OpenAI zijn DALL-E beeld genererend
 Met de release van DALL-E 2 heeft OpenAI deze Gen-AI uitgerust met tal van beveiligingen. Onder meer door bepaalde woorden en zinnen te blokkeren die betrekking hebben tot grafisch geweld of naaktheid + biases in de trainingsgegevens te neutraliseren *- zoals ervoor zorgen dat wanneer een gebruiker vroeg om een foto van een CEO, de resultaten ook afbeeldingen van vrouwen bevatten*.
 
 OpenAI heeft met ChatGPT voor een minder restrictieve aanpak gekozen, waardoor de Gen-AI meer vrijheid heeft om zich uit te spreken over gevoelige onderwerpen als politiek, seks en religie. Toch hebben sommige rechtse conservatieven het bedrijf ervan beschuldigd te ver te gaan. ["ChatGPT Goes Woke"](https://www.nationalreview.com/corner/chatgpt-goes-woke/), luidde de kop van een artikel in National Review (januari 2023), waarin werd beweerd dat ChatGPT linkse antwoorden gaf op vragen over onderwerpen als drag queens en de verkiezingen van 2020. (Democraten hebben ook geklaagd over ChatGPT - vooral omdat ze vinden dat AI strenger moet worden gereguleerd).
+
+
+
 
 <br>
 
@@ -725,8 +735,8 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 
  ![Picture1](https://user-images.githubusercontent.com/684692/216188287-0a7d6820-63c4-4e3b-b036-e5562c3f410d.png)
 
-
-<!-- Blockchain ledger to 
+<!--
+### Blockchain ledger to 
 --> 
 
 
