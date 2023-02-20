@@ -644,8 +644,17 @@ OpenAI heeft met ChatGPT voor een minder restrictieve aanpak gekozen, waardoor d
 ### [1d] STAAT HET GEBRUIK VAN ChatGPT GELIJK AAN VALSSPELEN EN IS HET TE DETECTEREN? 
 *******
 
-De onderstaande tekst is gebaseerd op Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier), Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) en Katie Notopoulos's *"BuzzFeed"* AI-newsreport  getiteld: [*"A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here
-BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article).
+De onderstaande tekst is gebaseerd op:
+
+* Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
+
+* Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) 
+
+* Katie Notopoulos's *"BuzzFeed"* AI-newsreport  getiteld: [*"A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article)
+
+* Jessica Stewart's *" My Modern Met"*  technologie blog getiteld: ["*Noam Chomsky Says ChatGPT Is a Form of “High-Tech Plagiarism”*"](https://mymodernmet.com/noam-chomsky-chat-gpt/)
+
+>“I don’t think [ChatGPT] has anything to do with education,” Chomsky tells interviewer Thijmen Sprakel of EduKitchen. “I think it’s undermining it. ChatGPT is basically high-tech plagiarism.” The challenge for educators, according to Chomsky, is to create interest in the topics that they teach so that students will be motivated to learn, rather than trying to avoid doing the work.
 
 <!--
 https://uproxx.com/technology/chat-gpt-plagiarism-is-blowing-up-academia-the-unexpected-solution/
