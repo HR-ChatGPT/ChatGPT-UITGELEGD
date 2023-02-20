@@ -322,10 +322,6 @@ https://gwern.net/scaling-hypothesis
 https://lastweekin.ai/p/the-ai-scaling-hypothesis
 -->
 
-
- 
- 
-
 [4] Ten vierde , in een AIM blog door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
 >*Iemand heeft ChatGPT en Bing AI onlangs een gesprek laten voeren. Prompt na prompt leerden de chatbots over elkaar, en zijn nu beste maatjes! <br> <br> Ondertussen deed zich in 2017 een soortgelijk incident voor toen twee chatbots van Facebook in hun eigen taal met elkaar begonnen te praten, en moesten worden uitgeschakeld. <br> <br> Hetzelfde jaar beweerde Google dat zijn Translate tool de mogelijkheid had om zijn eigen taal te genereren. Ook OpenAI beweert dat AI inderdaad kan worden aangemoedigd zijn eigen taal te creëren. 
@@ -338,8 +334,7 @@ Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Thin
 
 Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126/science.1200970): De toename van de hoeveelheid digitaal beschikbare ongestructureerde/ruwe data overstijgt de totale hoeveelheid aan beschikbare “computer” rekenkracht. Sinds 2019 wordt wereldwijd meer digitale data geproduceerd dan analoge data. Daarmee is de mensheid in 2023 met de komst van ChatGPT defacto een [*"Society of Algorithms"*](https://doi.org/10.1146/annurev-soc-090820-020800) geworden. 
 
-
-[4] Ten vierde, Gen-AI's kunnen als tool dienen om de "Data-Deluge" paradox  te doorbreken.
+De vraag is dan ook; *"Kunnen Gen-AI's  als tool dienen om de "Data-Deluge" paradox  te doorbreken?"
 
 
 [5] 
