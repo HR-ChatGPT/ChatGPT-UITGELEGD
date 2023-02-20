@@ -5,8 +5,6 @@
 
 ## Context & Doel
 
-<br> 
-
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
 | 1. Begrijpen wat ChatGPT wel en niet kan doen
@@ -15,9 +13,8 @@
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
 
-Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](vfacs).
+Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](#facs).
 
-<br>
 
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
