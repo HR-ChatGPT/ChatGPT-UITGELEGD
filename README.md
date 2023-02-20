@@ -5,6 +5,22 @@
 
 ## Context & Doel
 
+<br> 
+
+| Leer hoe ChatGPT betrouwbaar te gebruiken |
+|-----|
+| 1. Begrijpen wat ChatGPT wel en niet kan doen
+| 2. Ethische overwegingen bediscussiëren 
+| 3. Effectieve prompts schrijven
+| 4. Vervolgvragen schrijven
+| 5. Waarschuwing betrouwbaarheid
+
+Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](vfacs).
+
+<br>
+
+Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+
 Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan. 
 
 Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) van de Hogeschool Rotterdam.
@@ -33,7 +49,7 @@ Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft (OpenAI) en Al
 
 >*... bevindingen suggereren dat ToM (tot nu toe beschouwd als uniek menselijk) spontaan kan ontstaan als bijproduct van de verbeterde taalvaardigheid van taalmodellen ...*
 
-Het toekennen van ToM eigenschappen moet met enige skepsis worden betracht omdat dit haaks staat op het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van de huidige generatie aan GTP-based Gen-AI. Maar het maak duidelijk dat taakspecifieke modellen die het AI-landschap tot 2020 hebben gedomineerd plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  modellen  getraind op een zeer grote ongelabelde datasets die voor meerdere taken tegelijkertijd kunnen uitvoeren. De eerste tekenen van het potentieel van *"foundation-modellen"* werden gebruikt voor het genereren van beeld en taal. In het baanbrekende arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift teweeg brengen in de wereld van de AI die van de zelf-de orde van magnitude is als de ontwikkeling van "deep Learning models" in 2010.
+Het toekennen van ToM eigenschappen moet met enige skepsis worden betracht omdat dit haaks staat op het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van de huidige generatie aan GTP-based Gen-AI. Maar het maak duidelijk dat taakspecifieke modellen die het AI-landschap tot 2020 hebben gedomineerd plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  modellen  getraind op een zeer grote ongelabelde datasets die voor meerdere taken tegelijkertijd kunnen uitvoeren. De eerste tekenen van het potentieel van *"foundation-modellen"* werden gebruikt voor het genereren van beeld en taal. In het baanbrekende arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* in de vorm van generatieve-AI [Gen-AI] een paradigm-shift teweeg brengen in de wereld van de AI die van de zelfde orde van magnitude is als de ontwikkeling van "deep Learning models" als destijds in 2010.
 
 > *... GPT-3, BERT of DALL-E 2, hebben laten zien wat er mogelijk is. Je voert een korte vraag in, en het systeem genereert een heel opstel of een complexe afbeelding op basis van jouw parameters, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte argument of het genereren van een afbeelding op die manier ...*
 
@@ -45,7 +61,7 @@ https://research.ibm.com/blog/what-are-foundation-models
 -->
 
 
-Tegelijkertijd zet generatieve-AI de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
+Tegelijkertijd zet generatieve-AI [Gen-AI] de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
 >Ondanks dat ChatGPT's antwoorden veel onvolkomenheden en/of onjuistheden bevatten, lijken ze op het eerste gezicht heel bruikbaar en nuttig. Dus voorlopig is het gebruik van ChatGPT om posts Stack Overflow te maken niet toegestaan.
 
 Invloedrijke uitgevers zoals 
@@ -85,23 +101,6 @@ Het voornaamste obstakel van Gen-AI ontwikkeling in China is niet zozeer met hui
 <!--
 Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd verwikkeld voor AI-dominantie met China
 --> 
-
-
-<br> 
-
-
-
-| Leer hoe ChatGPT betrouwbaar te gebruiken |
-|-----|
-| 1. Begrijpen wat ChatGPT wel en niet kan doen
-| 2. Ethische overwegingen bediscussiëren 
-| 3. Effectieve prompts schrijven
-| 4. Vervolgvragen schrijven
-| 5. Waarschuwing betrouwbaarheid
-
-<br>
-
-Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
 # faqs
 ***********
