@@ -691,7 +691,6 @@ De onderstaande tekst is gebaseerd op:
 
 * Armin Alimardani & Emma A. Jane's artikel in *"The Conversation"* getiteld: ["*We pitted ChatGPT against tools for detecting AI-written text, and the results are troubling*"](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774)
 
-
 * Jessica Stewart's *" My Modern Met"*  technologie blog getiteld: ["*Noam Chomsky Says ChatGPT Is a Form of “High-Tech Plagiarism”*"](https://mymodernmet.com/noam-chomsky-chat-gpt/)
 
 >“I don’t think [ChatGPT] has anything to do with education,” Chomsky tells interviewer Thijmen Sprakel of EduKitchen. “I think it’s undermining it. ChatGPT is basically high-tech plagiarism.” The challenge for educators, according to Chomsky, is to create interest in the topics that they teach so that students will be motivated to learn, rather than trying to avoid doing the work.
@@ -772,6 +771,15 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 ### Blockchain ledger to 
 --> 
 ### Tools die detectie van Gen-AI gebruik tegen gaan
+
+#### Waarom cheats delen voor AI Content Detectors?
+De onderstaande tekst is gebaseerd op Christoph C. Cemper AI Cheats Blog:  [*"How to trick AI Content Detectors."*](https://www.linkresearchtools.com/blog/ai-content-detector-cheats/)
+
+Het misleiden van AI-detectietools is relatief gemakkelijk, dus wordt dit zeer waarschijnlijk ook door studenten toegepast.
+Universiteiten en hogescholen hebben een begrijpelijke verantwoordelijkheid voor het creëren van een *"level playing field"* om na te gaan hoe ze bedrogen *"kunnen"* worden. 
+<!-- 
+Ze moeten weten hoe studenten de kwaliteitscontrole van hun inhoud en de Gen-AI detectietools die ze gebruiken kunnen bedriegen. Sommige trucs worden al "als goud" verhandeld in besloten internet marketing clubs of weggegeven als een "Get Rich with ChatGPT"-geheim, maar sommige van deze methoden zijn meer dan 20 jaar oude SEO-tactieken.
+--> 
 
 | URL | tool name | omschrijving
 ---- | ---- | ---
