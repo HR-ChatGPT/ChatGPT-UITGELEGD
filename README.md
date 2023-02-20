@@ -689,6 +689,9 @@ De onderstaande tekst is gebaseerd op:
 
 * Katie Notopoulos's *"BuzzFeed"* AI-newsreport  getiteld: [*"A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article)
 
+* Armin Alimardani & Emma A. Jane's artikel in *"The Conversation"* getiteld: ["*We pitted ChatGPT against tools for detecting AI-written text, and the results are troubling*"](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774)
+
+
 * Jessica Stewart's *" My Modern Met"*  technologie blog getiteld: ["*Noam Chomsky Says ChatGPT Is a Form of “High-Tech Plagiarism”*"](https://mymodernmet.com/noam-chomsky-chat-gpt/)
 
 >“I don’t think [ChatGPT] has anything to do with education,” Chomsky tells interviewer Thijmen Sprakel of EduKitchen. “I think it’s undermining it. ChatGPT is basically high-tech plagiarism.” The challenge for educators, according to Chomsky, is to create interest in the topics that they teach so that students will be motivated to learn, rather than trying to avoid doing the work.
