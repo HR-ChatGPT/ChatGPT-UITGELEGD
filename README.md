@@ -715,7 +715,7 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
 Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
-Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools).
+Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
 
 | URL | tool name | LLM
 ---- | ---- | ---
@@ -728,6 +728,9 @@ https://corrector.app/ai-content-detector/ | Corrector | ???
 https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
 https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GTP-2
 http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
+https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
+
+
 
 Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
 
@@ -768,7 +771,11 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 <!--
 ### Blockchain ledger to 
 --> 
+### Tools die detectie van Gen-AI gebruik tegen gaan
 
+| URL | tool name | omschrijving
+---- | ---- | ---
+https://www.gptminus1.com/ | GPT-Minus1 | Fool GPT by randomly replacing words with synonyms in your text. Try it out
 
 <br>
 
