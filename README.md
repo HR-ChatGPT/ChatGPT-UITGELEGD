@@ -64,9 +64,6 @@ https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
 
 Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *dus*  *"misinformatie"* generen die nauwelijks van gevalideerde, betrouwbare  informatiebronnen zijn te onderscheiden. Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
-<br>
-
-
 <img align="right" width="400" height="600" src=".\TimeCover_March_2023.jpg">
 
 Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT de *"Digitale Mens"* een voldongen feit. Times Magazine (16 februari 2023) verwoorde deze mijlpaal in een hoofdartikel (compleet met frontcover) getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) als volgt:
