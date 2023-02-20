@@ -74,7 +74,7 @@ Inmiddels lijken de US *---evenals Europa---* China voorbij te zijn gestreefd. Z
 > Een Chinees ChatGPT-alternatief komt er niet zomaar - ook al willen veel bedrijven dat u dat denkt.
 <br> <br> De meeste mensen die ChatGPT in China aan den lijve hebben ondervonden, hebben er toegang toe gekregen via VPN's of betaalde oplossingen - slimme ondernemers hebben bijvoorbeeld OpenAI-accounts verhuurd of ChatGPT-vragen gesteld namens kopers, voor een paar dollar per 20 vragen. Maar nog meer mensen zien de resultaten via screenshots en korte sociale video's met de antwoorden van ChatGPT, die deze week de Chinese sociale media hebben overspoeld. De hype wordt gedreven door een mix van opwinding en FOMO.
 
-Het voornaamste obstakel van Gen-AI ontwikkeling is niet zozeer met huidige politieke klimaat, maar eerder de recente export beperking op geavanceerde GPU's naar China. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote taalmodellen, zoals die van ChatGPT, te trainen en uit te voeren.
+Het voornaamste obstakel van Gen-AI ontwikkeling in China is niet zozeer met huidige politieke klimaat en de daarmee gepaard gaande censuur, maar eerder de recente export beperking op geavanceerde GPU's. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote taalmodellen, zoals die van ChatGPT, te kunnen trainen, testen, valideren en onderzoeken.
 
 <!--
 Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd verwikkeld voor AI-dominantie met China
@@ -369,13 +369,19 @@ LLMs van het van het type
 https://platform.openai.com/examples?category=code
 -->
 
- *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. Engelstalig blogs met gedetailleerde en kwalitatief hoogwaardige uitleg over de onstaandgeschiedenis en de werking van GPT's zijn na te lezen via :
+ *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. Engelstalig blogs met gedetailleerde en kwalitatief hoogwaardige uitleg over de ontstaansgeschiedenis en de werking van GPT's zijn na te lezen via :
  * https://towardsdatascience.com/gpt-3-explained-19e5f2bd3288
  * https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
  * https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
  
  GTPs maken gebruik van op  neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
- Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters.
+ Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters en worden ook wel [*"foundation models"*](https://en.wikipedia.org/wiki/Foundation_models) genoemd.
+
+<!--
+Een arXiv-rapport uit 2021 somde de mogelijkheden van stichtingsmodellen op met betrekking tot "taal, visie, robotica, redeneren en menselijke interactie", technische principes, zoals "modelarchitecturen, opleidingsprocedures, gegevens, systemen, veiligheid, evaluatie en theorie", hun toepassingen, bijvoorbeeld in recht, gezondheidszorg en onderwijs en hun potentiële impact op de samenleving, waaronder "ongelijkheid, misbruik, economische en milieu-impact, juridische en ethische overwegingen".[8].
+
+Een artikel over stichtingsmodellen in The Economist merkt op dat "sommigen zich zorgen maken dat de achteloze verspreiding van de technologie de economische en politieke macht verder zal concentreren".[12]
+-->
 
 LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL]algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
@@ -631,7 +637,7 @@ aldus Geoffrey Irving, een veiligheidsonderzoeker bij DeepMind en hoofdauteur va
 
 >We hebben het systeem niet ingezet omdat we denken dat het veel vooroordelen en andere gebreken heeft. <br> Ik denk dat de vraag is: hoe weeg je de communicatievoordelen - zoals communiceren met mensen - af tegen de nadelen? <br> Ik ben geneigd te geloven in de veiligheidsbehoeften van het praten met mensen ... Ik denk dat het daar op termijn een hulpmiddel voor is.
 
-De voornaamste complicerende factor in het toepassen van conversationele Gen-AI is het in stand houden van [constuctieve dialogen](https://arxiv.org/abs/2209.14375) omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie ook [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
+De voornaamste complicerende factor in het toepassen van conversationele Gen-AI is het in stand houden van [constructieve dialogen](https://arxiv.org/abs/2209.14375) omdat het *"gebrek aan context"* bepalend is voor het verloop ervan. Zie ook [Wat zijn de beperkingen van ChatGPT?](#beperkingen). Het is een van de grootste uitdagingen voor de ontwikkeling van een veilige en betrouwbare conversational agent.
 
 Eugenio Zuccarelli *---een Innovation Data Scientist bij CVS Health en onderzoekswetenschapper bij het MIT Media Lab---* legt uit dat er nog steeds sprake kan zijn van vooringenomenheid in de *"menselijke lus / human-in-de-loop"* - immers, wat voor de ene persoon beledigend is, is voor de andere misschien niet beledigend. 
 
