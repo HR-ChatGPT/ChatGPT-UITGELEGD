@@ -48,7 +48,7 @@ Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.
 
 Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van GPT-technologie omdat het ogenschijnlijk *"taalvaardig"* lijkt te worden op basis van enorme hoeveelheden tekst afkomstig van het world-wide-web. ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend vermogen dat nodig is om een taal te kunnen verwerken zoals mensen dat zouden doen. De keerzijde hiervan is dat GPT-technologie alle dominante opvattingen en vooroordelen die schadelijk zijn voor tal van minderheden, woord voor woord in zich herbergt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. 
 
->*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media <br> De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.*
+>*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media. <br> De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.*
 
 <!--
 https://doi.org/10.48550/arxiv.2009.07118
