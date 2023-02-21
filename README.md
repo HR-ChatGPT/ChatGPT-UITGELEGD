@@ -46,7 +46,7 @@ Het [Wired  IDEAS Blog (09 december 2022) getiteld: *"ChatGPT, Galactica, and th
 
 <!--
 Yes, that is another paper that shows that small language models can be effective for few-shot learning, which refers to the ability of a model to learn from a small amount of data. The paper "It's not just size that matters: Small language models are also few-shot learners" by Schick and Schütze (2021) found that small language models with fewer parameters can achieve similar or even better performance than larger models on few-shot learning tasks.
-
+ 
 The authors argue that small models can be more effective for few-shot learning because they are less prone to overfitting and can better capture the most relevant information from a small dataset. They also propose a method for training small models on few-shot tasks, called "Pattern-Exploiting Training" (PET), which involves training the model on a large set of small tasks to improve its ability to generalize to new tasks.
 
 Overall, this paper adds to the growing body of research showing that small language models can be just as effective as large models, especially when optimized for specific tasks and trained on diverse datasets.
@@ -1461,11 +1461,13 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Roose, K. (2023, February 3). How ChatGPT Kicked Off an A.I. Arms Race. Even inside the company, the chatbot’s popularity has come as something of a shock. [Technology Blog: The Shift] The New York Times. https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html
 
+* <sub> Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). Multitask prompted training enables zero-shot task generalization. arXiv preprint arXiv. https://doi.org/10.48550/arXiv.2110.08207
+
 * <sub> Salemans, B. (2023, January 7). ChatGPT: de rapportcijfers [Blog]. Neerlandistiek. Online tijdschrift voor taal- en Letterkunde. https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/
 
 * <sub> Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization (PPO) algorithms. arXiv preprint. https://doi.org/10.48550/arXiv.1707.06347
 
-* <sub> Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). Multitask prompted training enables zero-shot task generalization. arXiv preprint arXiv. https://doi.org/10.48550/arXiv.2110.08207
+* <sub> Schick, T., & Schütze, H. (2020). It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. arXiv preprint arXiv:2009.07118. https://doi.org/10.48550/ARXIV.2009.07118
 
 * <sub> Shors, T. J., Anderson, M. L., Curlik, D. M., 2nd, & Nokia, M. S. (2012). Use it or lose it: how neurogenesis keeps the brain fit for learning. Behavioural brain research, 227(2), 450–458. https://doi.org/10.1016/j.bbr.2011.04.023
 
