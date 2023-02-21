@@ -44,7 +44,17 @@ Het [Wired  IDEAS Blog (09 december 2022) getiteld: *"ChatGPT, Galactica, and th
 
 >*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media, de verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.*
 
-Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft (OpenAI) en Alphabet dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken als sneeuw voor de zon *--- lees spontaan---* zullen verdwijnen. In hoeverre dit de bewaarheid wordt zal nog moeten blijken. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen, wat een aanwijzing zou kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
+<!--
+Yes, that is another paper that shows that small language models can be effective for few-shot learning, which refers to the ability of a model to learn from a small amount of data. The paper "It's not just size that matters: Small language models are also few-shot learners" by Schick and Schütze (2021) found that small language models with fewer parameters can achieve similar or even better performance than larger models on few-shot learning tasks.
+
+The authors argue that small models can be more effective for few-shot learning because they are less prone to overfitting and can better capture the most relevant information from a small dataset. They also propose a method for training small models on few-shot tasks, called "Pattern-Exploiting Training" (PET), which involves training the model on a large set of small tasks to improve its ability to generalize to new tasks.
+
+Overall, this paper adds to the growing body of research showing that small language models can be just as effective as large models, especially when optimized for specific tasks and trained on diverse datasets.
+-->
+
+
+
+Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft (OpenAI) en Alphabet dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken als sneeuw voor de zon *--- lees spontaan---* zullen verdwijnen. Of dit daadwerkelijk het geval is zal moeten blijken. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen, wat een aanwijzing zou kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
 
 >*... bevindingen suggereren dat ToM (tot nu toe beschouwd als uniek menselijk) spontaan kan ontstaan als bijproduct van de verbeterde taalvaardigheid van taalmodellen ...*
 
