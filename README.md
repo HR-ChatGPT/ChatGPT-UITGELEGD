@@ -15,9 +15,10 @@
 
 Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](#faqs).
 
-Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader---* en risico factoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van BKE (Basis Kwalificatie Onderwijs) en SKE (Senior Kwalificatie Onderwijs) assessment in het hoger onderwijs.
+Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
 
-Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan. 
+Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan in het hoger onderwijs. 
 
 ****
 ### Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br> van de Hogeschool Rotterdam.
@@ -145,7 +146,10 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 * [0a] [Wat is generatieve kunstmatige intelligentie [Gen-AI]?](#v0a)
 * [0b] [Is er een kort overzicht van ChatGPT's tekortkomingen?](#v0b) 
 * [0c] [+Moet ik me zorgen maken over ChatGPT technologie?](#v0c)
+<!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
+-->
+[0d] [+Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?](#v0d)
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
@@ -380,10 +384,20 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 
 
 *******
-### [0d] WAT IS NODIG OM EEN GEN-AI ZOALS ChatGPT TE BOUWEN?
+### [0d] Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?
 *******
 
-https://techcrunch.com/2023/01/25/when-it-comes-to-large-language-models-should-you-build-or-buy/
+Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
+
+Hoewel het begrip "foundation models" nieuw is *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---, omvat het onder meer grote taalmodellen zoals BERT of GPT-3 en computervisiemodellen zoals CLIP.
+Dergelijke machinaal lerende [ML] technologieën zijn in potentie "zeer" ontwrichtend [Bender et al., 2021](https://doi.org/10.1145/3442188.3445922), het gebruik ervan in het onderwijsdomein is bijzonder beladen.
+
+
+
+<!--
+Risks of AI Foundation Models in Education
+https://doi.org/10.48550/arXiv.2110.10024
+-->
 
 
 <br>
@@ -1343,6 +1357,7 @@ https://github.com/platelminto/ChatGPT-conversation
 ********
 De onderstaande voorbeelden zijn ontleend aan 
 * https://github.com/f/awesome-ChatGPT-prompts
+* https://flowgpt.com/
 
 <!--
 * https://chatgpt.getlaunchlist.com/
