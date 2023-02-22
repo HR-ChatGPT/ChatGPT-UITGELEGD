@@ -123,7 +123,7 @@ Inmiddels lijken de US *---evenals Europa---* China voorbij te zijn gestreefd. Z
 >*Een Chinees ChatGPT-alternatief komt er niet zomaar - ook al willen veel bedrijven dat u dat denkt.
 <br> Degene die ChatGPT in China aan den lijve hebben ondervonden, hebben er toegang toe gekregen via VPN's... <br> Het merendeel ziet de resultaten via screenshots en korte sociale video's met de antwoorden van ChatGPT, <br> die deze week de Chinese sociale media hebben overspoeld. <br> De hype wordt gedreven door een mix van opwinding en FOMO.*
 
-Het voornaamste obstakel van Gen-AI ontwikkeling in China is niet zozeer met huidige politieke klimaat en de daarmee gepaard gaande censuur, maar eerder de recente exportbeperking op geavanceerde GPU's. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote taalmodellen, zoals die van ChatGPT, te kunnen trainen, testen, valideren en onderzoeken.
+De Chinese Gen-AI ontwikkeling wordt  niet zozeer belemmert door het huidige politieke klimaat en de daarmee gepaard gaande censuur, maar veel meer door de recente exportbeperking op geavanceerde GPU's. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote GPT-gedreven taalmodellen, te kunnen trainen, testen, valideren en onderzoeken.
 
 <!--
 Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd verwikkeld voor AI-dominantie met China
