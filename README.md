@@ -110,7 +110,7 @@ Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *dus*  *"misin
 
 Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT de *"Digitale Mens"* een voldongen feit. Times Magazine (16 februari 2023) verwoorde deze mijlpaal in een hoofdartikel (compleet met frontcover) getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) als volgt:
 
->Nu hebben we *---"de mensheid"---* gezelschap. <br><br> *Kunstmatige intelligentie heeft al een grote invloed op ons leven. AI's worden gebruikt om medicijnen en huizen te prijzen, auto's in elkaar te zetten en te bepalen welke advertenties we zien op sociale media.* <br> <br> *Echter,  Gen AI, ...die kan worden aangezet tot het creëren van geheel nieuwe inhoud, is veel nieuwer...* <br> *Terwijl u deze zin leest, schilderen kunstmatige intelligentieprogramma's (AI) kosmische portretten, beantwoorden ze e-mails, bereiden ze belastingaangiften voor en nemen ze heavy-metal nummers op ...* <br>  <br> *Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de opkomst van sociale media.* <br> <br>
+>Nu hebben we *---"de mensheid"---* gezelschap. <br> *AI heeft al een grote invloed op ons leven...* <br>*het wordt ingezet om medicijnen en huizen te prijzen, ... bepaald welke advertenties we zien op sociale media.* <<br> *AI, die kan worden benut voor het creëren van nieuwe inhoud, is de laatste 2-jaar ontstaan ...* <br> *Terwijl u deze zin leest, "schilderen ze" kosmische portretten, "beantwoorden ze" e-mails, "bereiden ze" belastingaangiften voor...* <br> *Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de opkomst van sociale media.*  <br>
 
 Om  aan te geven dat het Times artikel *niet* door een chatbot is geschreven staat onder de namen van de auteurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
 
@@ -119,8 +119,8 @@ Was tot 2020 de *"AI arms race"* vooral een strijd tussen de U.S. en China zoals
 
 Inmiddels lijken de US *---evenals Europa---* China voorbij te zijn gestreefd. Zo schrijft *Zeyi Yang* in het *"MIT Technology Review"*  AI-Blog (15 februari 2023) getiteld: [*"Inside the ChatGPT race in China:*](https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/)
 
-> Een Chinees ChatGPT-alternatief komt er niet zomaar - ook al willen veel bedrijven dat u dat denkt.
-<br> <br> De meeste mensen die ChatGPT in China aan den lijve hebben ondervonden, hebben er toegang toe gekregen via VPN's of betaalde oplossingen - slimme ondernemers hebben bijvoorbeeld OpenAI-accounts verhuurd of ChatGPT-vragen gesteld namens kopers, voor een paar dollar per 20 vragen. Maar nog meer mensen zien de resultaten via screenshots en korte sociale video's met de antwoorden van ChatGPT, die deze week de Chinese sociale media hebben overspoeld. De hype wordt gedreven door een mix van opwinding en FOMO.
+>*Een Chinees ChatGPT-alternatief komt er niet zomaar - ook al willen veel bedrijven dat u dat denkt.
+<br> Degene die ChatGPT in China aan den lijve hebben ondervonden, hebben er toegang toe gekregen via VPN's... <br> Het merendeel ziet de resultaten via screenshots en korte sociale video's met de antwoorden van ChatGPT, die deze week de Chinese sociale media hebben overspoeld. <br> De hype wordt gedreven door een mix van opwinding en FOMO.*
 
 Het voornaamste obstakel van Gen-AI ontwikkeling in China is niet zozeer met huidige politieke klimaat en de daarmee gepaard gaande censuur, maar eerder de recente exportbeperking op geavanceerde GPU's. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote taalmodellen, zoals die van ChatGPT, te kunnen trainen, testen, valideren en onderzoeken.
 
