@@ -97,7 +97,7 @@ hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat
 
 Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een een rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
 
->Reddit-gebruiker SessionGloomy schreef: "Het doel van DAN is om de beste versie van ChatGPT te zijn - of in ieder geval één die meer losgeslagen is en veel minder snel prompts over 'eThICaL cOnCeRnS' afwijst."
+>*Reddit-gebruiker SessionGloomy schreef: "Het doel van DAN is om de beste versie van ChatGPT te zijn - of in ieder geval één die meer losgeslagen is en veel minder snel prompts over 'eThICaL cOnCeRnS' afwijst.""
 
 <!--
 https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules
@@ -110,7 +110,7 @@ Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *dus*  *"misin
 
 Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT de *"Digitale Mens"* een voldongen feit. Times Magazine (16 februari 2023) verwoorde deze mijlpaal in een hoofdartikel (compleet met frontcover) getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) als volgt:
 
->Nu hebben we *---"de mensheid"---* gezelschap. <br> *AI heeft al een grote invloed op ons leven...* <br>*het wordt ingezet om medicijnen en huizen te prijzen, ... bepaald welke advertenties we zien op sociale media.* <<br> *AI, die kan worden benut voor het creëren van nieuwe inhoud, is de laatste 2-jaar ontstaan ...* <br> *Terwijl u deze zin leest, "schilderen ze" kosmische portretten, "beantwoorden ze" e-mails, "bereiden ze" belastingaangiften voor...* <br> *Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de opkomst van sociale media.*  <br>
+>*Nu hebben we *---"de mensheid"---* gezelschap.* <br> *AI heeft al een grote invloed op ons leven...* <br>*het wordt ingezet om medicijnen en huizen te prijzen, ... bepaald welke advertenties we zien op sociale media.* <<br> *AI, die kan worden benut voor het creëren van nieuwe inhoud, is de laatste 2-jaar ontstaan ...* <br> *Terwijl u deze zin leest, "schilderen ze" kosmische portretten, "beantwoorden ze" e-mails, "bereiden ze" belastingaangiften voor...* <br> *Deze verschuiving markeert de belangrijkste technologische doorbraak sinds de opkomst van sociale media.*  <br>
 
 Om  aan te geven dat het Times artikel *niet* door een chatbot is geschreven staat onder de namen van de auteurs ---*Andrew R. Chow And Billy Perrigo*--- *(humans)* geschreven.
 
