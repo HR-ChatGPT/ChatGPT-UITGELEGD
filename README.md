@@ -149,7 +149,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 <!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 -->
-[0d] [+Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?](#v0d)
+* [0d] [+Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?](#v0d)
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
