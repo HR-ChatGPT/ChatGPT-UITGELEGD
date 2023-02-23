@@ -36,8 +36,9 @@ Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederla
 [doi:10.1016/S0140-6736(22)62142-4](https://www.economist.com/leaders/2022/06/09/artificial-intelligences-new-frontier) <sub>
 
 
-Het publiekelijk beschikbaar stellen van generatieve-AI [Gen-AI] zoals [ChatGPT](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) *---een antwoord-chatbot gebaseerd op het *"pre-trained model"* GPT-3---* en [Galactica ](https://doi.org/10.48550/arXiv.2211.09085) *---een hulpmiddel voor wetenschappelijk schrijven---* heeft het debat doen herleven over wat dit betekent voor onderwijsinstellingen.
-Volgens een editorial in de [Gardian](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) (10 februari 2023) maakt het vrijgeven en *"Hypen"* van Gen-AI met *“nieuwe, revolutionaire functionaliteit“* die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform vendors zoals Microsoft (OpenAI), Alphabet (Google), Meta (Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkvermogen overlaten aan *"alwetende machines"*. 
+Het publiekelijk beschikbaar stellen van generatieve-AI [Gen-AI] zoals [ChatGPT](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) *---een antwoord-chatbot gebaseerd op het *"pre-trained model"* GPT-3---* en [Galactica ](https://doi.org/10.48550/arXiv.2211.09085) *---een chatbot voor het schrijven van wetenschappelijk papers---* heeft het debat doen herleven over wat dit betekent voor onderwijsinstellingen.
+
+Volgens een editorial in de [Gardian](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) (10 februari 2023) maakt het vrijgeven en *"Hypen"* van Gen-AI met *“nieuwe, revolutionaire functionaliteit“* die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform vendors zoals Microsoft (OpenAI), Alphabet (Google), Meta (Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkvermogen overlaten aan *"alwetende machines"*. ”. De suggestie van Microsoft alsof ChatGPT een demo is van OpenAI, is een vorm van “down playing” om de publiek opinie te bespelen als zou het gaan om een ongevaarlijk stuk speelgoed. Niet is minder waar.
 
 Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.org/doi/10.1073/pnas.1922888117) die als het koud wordt, zijn brein laat krimpen om energie te besparen. Het is onwaarschijnlijk dat de mensheid een dergelijke overlevingsstrategieën zal vertonen, maar er is een alarmerende metaforische parallel. Deze door winst gedreven wedloop om AI in ons dagelijks leven te integreren, wordt de mens kwetsbaar door volledig te vertrouwen op AI-technologie. In de biologie geldt niet voor niets het aloude adagium [*"Use It, or Lose It!"*](https://doi.org/10.1016/j.bbr.2011.04.023).
 
@@ -107,6 +108,8 @@ https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
 
 Het gebruik van ChatGPT zal een stortvloed aan nieuwe chatbots en *dus*  *"misinformatie"* generen die nauwelijks van gevalideerde, betrouwbare  informatiebronnen zijn te onderscheiden. Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
+
+<!-- 
 <img align="right" width="400" height="600" src=".\TimeCover_March_2023.jpg">
 
 Waar de zelfrijdende auto nog op zich laat wachten, is met de komst van ChatGPT de *"Digitale Mens"* een voldongen feit. Times Magazine (16 februari 2023) verwoorde deze mijlpaal in een hoofdartikel (compleet met frontcover) getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/) als volgt:
@@ -125,6 +128,9 @@ Inmiddels lijken de US *---evenals Europa---* China voorbij te zijn gestreefd. Z
 <br> Degene die ChatGPT in China aan den lijve hebben ondervonden, hebben er toegang toe gekregen via VPN's... <br> Het merendeel ziet de resultaten via screenshots en korte sociale video's met de antwoorden van ChatGPT, <br> die deze week de Chinese sociale media hebben overspoeld. <br> De hype wordt gedreven door een mix van opwinding en FOMO.*
 
 De Chinese Gen-AI ontwikkeling wordt  niet zozeer belemmert door het huidige politieke klimaat en de daarmee gepaard gaande censuur, maar veel meer door de recente exportbeperking op geavanceerde GPU's. Dit beperkt de rekencapaciteit van Chinese bedrijven om grote GPT-gedreven taalmodellen, te kunnen trainen.
+-->
+
+
 
 <!--
 Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd verwikkeld voor AI-dominantie met China
