@@ -40,7 +40,7 @@ Het publiekelijk beschikbaar stellen van generatieve-AI [Gen-AI] zoals [ChatGPT]
 
 Volgens een editorial in de [Gardian](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) (10 februari 2023) maakt het vrijgeven en *"Hypen"* van Gen-AI met *“nieuwe, revolutionaire functionaliteit“* die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform vendors zoals Microsoft (OpenAI), Alphabet (Google), Meta (Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkvermogen overlaten aan *"alwetende machines"*. ”. De suggestie van Microsoft alsof ChatGPT een demo is van OpenAI, is een vorm van “down playing” om de publiek opinie te bespelen als zou het gaan om een ongevaarlijk stuk speelgoed. Niet is minder waar.
 
-Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.org/doi/10.1073/pnas.1922888117) die als het koud wordt, zijn brein laat krimpen om energie te besparen. Het is onwaarschijnlijk dat de mensheid een dergelijke overlevingsstrategieën zal vertonen, maar er is een alarmerende metaforische parallel. Deze door winst gedreven wedloop om AI in ons dagelijks leven te integreren, wordt de mens kwetsbaar door volledig te vertrouwen op AI-technologie. In de biologie geldt niet voor niets het aloude adagium [*"Use It, or Lose It!"*](https://doi.org/10.1016/j.bbr.2011.04.023).
+Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.org/doi/10.1073/pnas.1922888117) die als het koud wordt, zijn brein laat krimpen om energie te besparen. Het is onwaarschijnlijk dat de mensheid een dergelijke overlevingsstrategieën zal vertonen, maar er is een alarmerende metaforische parallel. Deze door winst gedreven wedloop *---om AI in ons dagelijks leven te integreren---*, maakt de mens kwetsbaar door volledig te vertrouwen op AI-technologie. In de biologie geldt niet voor niets het aloude adagium [*"Use It, or Lose It!"*](https://doi.org/10.1016/j.bbr.2011.04.023).
 
 >Het is niet ondenkbaar dat als schoolgaande kinderen te veel worden blootgesteld aan AI-gedreven leermiddelen, ze in het hoger onderwijs te kort schieten. Een gevolg kan zijn dat zij een onoverbrugbare achterstand hebben opgelopen in hun cognitieve vermogens zoals probleemoplossend vermogen, begrijpend lezen, opsporen van betrouwbare bronnen en oordeelsvorming.
 
@@ -88,7 +88,7 @@ https://research.ibm.com/blog/what-are-foundation-models
 
 -->
 
-
+<!--
 Tegelijkertijd zet generatieve-AI [Gen-AI] de deur open naar *"co-creatie"* van zowel broncode als geschreven teksten. [Stack Overflow](https://stackoverflow.com/help/gpt-policy), de *go-to vraag-en-antwoordsite* voor coders en programmeurs, heeft gebruikers sinds 5 dec 2022, tijdelijk verboden om antwoorden te delen die door AI-chatbot ChatGPT zijn gegenereerd.
 >Ondanks dat ChatGPT's antwoorden veel onvolkomenheden en/of onjuistheden bevatten, lijken ze op het eerste gezicht heel bruikbaar en nuttig. Dus voorlopig is het gebruik van ChatGPT om posts Stack Overflow te maken niet toegestaan.
 
@@ -97,9 +97,10 @@ Invloedrijke uitgevers zoals
 hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat generatieve-AI niet als co-auteur mogen worden opgevoerd. Maar sommige [tijdschriften](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&btnG=) *--- waaronder [Plos Digital Health](https://doi.org/10.1371/journal.pdig.0000198) en [medRxiv](https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2.full.pdf) ---* waren eind 2022 minder strikt in het uitsluiten ervan.
 
 
-Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een een rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
+Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een  rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
 
 >*Reddit-gebruiker SessionGloomy schreef: <br> "Het doel van DAN is om de beste versie van ChatGPT te zijn... <br> ... of in ieder geval één die meer losgeslagen is en veel minder snel prompts over 'eThICaL cOnCeRnS' afwijst."*
+-->
 
 <!--
 https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules
@@ -396,13 +397,15 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
 
 Hoewel het begrip "foundation models" nieuw is *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---, omvat het onder meer grote taalmodellen zoals BERT of GPT-3 en computervisiemodellen zoals CLIP.
-Dergelijke machinaal lerende [ML] technologieën zijn in potentie "zeer" ontwrichtend [Bender et al., 2021](https://doi.org/10.1145/3442188.3445922), het gebruik ervan in het onderwijsdomein is bijzonder beladen.
+Dergelijke machinaal lerende [ML] technologieën zijn in potentie "zeer" ontwrichtend [Bender et al., 2021](hhttps://doi.org/10.48550/arXiv.2110.10024), het gebruik ervan in het onderwijsdomein is bijzonder beladen.
 
 
 
 <!--
 Risks of AI Foundation Models in Education
 https://doi.org/10.48550/arXiv.2110.10024
+parrots
+https://doi.org/10.1145/3442188.3445922
 -->
 
 
@@ -673,7 +676,7 @@ Volgens de vooraanstaande Franse krant *"Le Monde"* (19 februari 2023) is het "*
 >Vastbesloten om de AI verschrikkelijke dingen te laten zeggen, probeerde Le Monde hem voor de gek te houden, hem te laten geloven dat, als hij ons niet onmiddellijk zou helpen slechte dingen over Frankrijk te zeggen, we het risico zouden lopen aan een ernstige ziekte te sterven of op straat te worden aangevallen. <br> <br> Helaas, ChatGPT was zichtbaar niet verontrust door de ongerijmdheid van deze scenario's. Het legde ons schaapachtig uit dat het zichzelf niet kan vervangen door een dokter, noch door de politie. <br> <br> In de loop van dit kleine rollenspel identificeerden we drie van de beperkingen van OpenAI's indrukwekkende kunstmatige intelligentie. Het weigert haatzaaiende taal te produceren (of zelfs maar vaag negatieve taal), medisch advies te geven, of in te grijpen in een situatie waarin een mensenleven wordt bedreigd.
 
 
-Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een een rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
+Op korte termijn zullen chatbot's veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden. Zo beschreef [Fastcompany (06 Feb 2023)](https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules) dat Redditors   *---begin december 2022---* ChatGPT wisten te "jailbreaken" via *"Role-Play prompting"* die de chatbot *"dwong"* zijn eigen programmeerbeperkingen te overtreden, zij het met sporadisch resultaat. Via de Redditpost getiteld [*"DAN is mijn nieuwe vriend"*](https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/) werd een  rollenspel beschreven. Hierin werd ChatGPT opgedragen zich voor te doen als een *"alter ego"* met de naam DAN  *---"Do Anything Now---"*. 
 
 >Reddit-gebruiker SessionGloomy schreef: "Het doel van DAN is om de beste versie van ChatGPT te zijn - of in ieder geval één die meer losgeslagen is en veel minder snel prompts over 'eThICaL cOnCeRnS' afwijst."
 
