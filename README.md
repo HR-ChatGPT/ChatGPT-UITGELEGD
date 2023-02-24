@@ -120,7 +120,7 @@ Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld v
 
  Het is dus zaak dat onderwijsinstellingen regie nemen over de ontwikkeling en inzet van AI-gedreven leermiddelen. 
  Met andere woorden *“Zijn hogescholen voldoende voorbereid op de opmars van foundation models?”*
- Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data te verkopen of in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige GEN-AI.
+ Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige GEN-AI.
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 
