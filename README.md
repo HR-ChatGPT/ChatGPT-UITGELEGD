@@ -21,7 +21,7 @@ Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederla
 
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. 
 
-Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader---* en risicofactoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van BKE (Basis Kwalificatie Examineren) en SKE (Senior Kwalificatie Examineren) assessment in het hoger onderwijs.
+Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader---* en risicofactoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van [BKE](https://link.springer.com/book/10.1007/978-90-368-0933-7) (Basis Kwalificatie Examineren) en [SKE](https://www.utwente.nl/en/examination-board/Expertise_SKE/verantwoord-toetsen-expertgroep-bke-ske.pdf) (Senior Kwalificatie Examineren) assessment in het hoger onderwijs.
 
 Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 
