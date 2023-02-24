@@ -84,9 +84,11 @@ Toch is het verwachting dat deze tekortkomingen maar van tijdelijk aard zullen z
 
 >*... ToM ---tot nu toe beschouwd als uniek menselijk--- kan spontaan ontstaan als emergente eigenschap van het opschalen van taalmodellen ...*
 
-Het toekennen van ToM eigenschappen moet met enige scepsis worden betracht. Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van ChatGPT. Maar het maak duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---few shot learning---* op basis van slechts paar voorbeelden.  In een veel geciteerd arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift hebben veroorzaakt die van dezelfde orde van magnitude is als de ontwikkeling van *"deep Learning models"* in 2010.
+Het toekennen van ToM eigenschappen moet met enige scepsis worden betracht. 
+Dat wil zeggen, [emergentie](https://doi.org/10.1207/s15327000em0101_4) kenmerkt zich door “het ontstaan van nieuwe en samenhangende structuren, patronen en eigenschappen tijdens het proces van zelforganisatie in complexe systemen”. 
+Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van ChatGPT. Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  In een veel geciteerd arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift hebben veroorzaakt die van dezelfde orde van magnitude is als de ontwikkeling van *"deep Learning models"* in 2010.
 
-> *... GPT-3, BERT, Midjourney of DALL-E 2, hebben laten zien wat er mogelijk is. Je voert een korte vraag in, en het systeem genereert een heel opstel of een complexe afbeelding op basis van jouw parameters, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte argument of het genereren van een afbeelding op die manier ...*
+> *... "Few-shot learning models": GPT-3, BERT, Midjourney of DALL-E 2, hebben laten zien wat er mogelijk is. Je voert een korte vraag in, en het systeem genereert een heel opstel of een complexe afbeelding op basis van jouw parameters, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte argument of het genereren van een afbeelding op die manier ...*
 
 
 <!--
@@ -1479,6 +1481,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Grant, N., & Metz, C. (2022, December 21). A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. [Tecnology Blog] The New York Times. https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html
 
 * <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
+
+* Jeffrey Goldstein (1999) Emergence as a Construct: History and Issues, Emergence, 1:1, 49-72, https://doi.org/10.1207/s15327000em0101_4
 
 * <sub> Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
 
