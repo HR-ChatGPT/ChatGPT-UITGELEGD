@@ -43,7 +43,7 @@ Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 [doi:10.1016/S0140-6736(22)62142-4](https://www.economist.com/leaders/2022/06/09/artificial-intelligences-new-frontier) <sub>
 
 
-Het publiekelijk beschikbaar stellen van generatieve-AI [Gen-AI] zoals [ChatGPT](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) *---een antwoord-chatbot gebaseerd op het *"pre-trained model"* GPT-3---* en [Galactica ](https://doi.org/10.48550/arXiv.2211.09085) *---een chatbot voor het schrijven van wetenschappelijk papers---* heeft het debat doen herleven over wat dit betekent voor onderwijsinstellingen.
+Het publiekelijk beschikbaar stellen van generatieve-AI [Gen-AI], zoals [ChatGPT](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) *---een antwoord-chatbot gebaseerd op het *"pre-trained model"* GPT-3---* en [Galactica ](https://doi.org/10.48550/arXiv.2211.09085) *---een chatbot voor het schrijven van wetenschappelijk papers---*, heeft het debat doen herleven over wat dit betekent voor onderwijsinstellingen.
 
 Volgens een editorial in de [Gardian](https://www.theguardian.com/commentisfree/2023/feb/10/the-guardian-view-on-chatgpt-search-exploiting-wishful-thinking) (10 februari 2023) maakt het vrijgeven en *"Hypen"* van Gen-AI met *“nieuwe, revolutionaire functionaliteit“* die onze manier van werken *"volledig zal veranderen"* deel uit van een commerciële strategie van digitale-platform *"vendors"* zoals Microsoft (OpenAI), Alphabet (Google), Meta (Facebook). Het doel is om gebruikers zover te krijgen dat ze hun denkend vermogen overdragen aan *"alwetende machines"*. De suggestie van Microsoft dat ChatGPT *"slechts"* een demo is van het onderzoekslab [OpenAI LP](https://en.wikipedia.org/wiki/OpenAI), is een vorm van “down playing” om de publieke opinie te bespelen alsof het zou gaan om een ongevaarlijk stuk speelgoed. Niet is minder waar.
 
@@ -80,7 +80,7 @@ https://doi.org/10.34133/2022/9847630
 
 -->
 
-Toch is het verwachting dat deze tekortkomingen maar van tijdelijk aard zullen zijn. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen. Dit zou een aanwijzing kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
+Toch is het de verwachting dat deze tekortkomingen maar van tijdelijk aard zullen zijn. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen. Dit zou een aanwijzing kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
 
 >*... ToM ---tot nu toe beschouwd als uniek menselijk--- kan spontaan ontstaan als emergente eigenschap van het opschalen van taalmodellen ...*
 
@@ -116,11 +116,11 @@ https://www.fastcompany.com/90845689/chatgpt-dan-jailbreak-violence-reddit-rules
 https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
 -->
 
-Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketing doeleinden.  Maar een veel groter probleem is dat met het verder opschalen van chatbots, ze nog *“menselijker”* zullen worden, waardoor ze een zeer grote aantrekkingskracht zullen hebben op jongeren. In de nabije toekomst valt dus niet uit te sluiten dat studenten hun *“mentale autonomie”* verliezen door het veelvuldig gebruik van AI-technologie. Dit is vergelijkbaar met de huidige problematiek die speelt rondom het gebruik van sociale-media door grote groepen jonge eindgebruikers.
+Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketingdoeleinden.  Maar een veel groter probleem is dat met het verder opschalen van chatbots, ze nog *“menselijker”* zullen worden, waardoor ze een zeer grote aantrekkingskracht zullen hebben op jongeren. In de nabije toekomst valt dus niet uit te sluiten dat studenten hun *“mentale autonomie”* verliezen door het veelvuldig gebruik van AI-technologie. Dit is vergelijkbaar met de huidige problematiek die speelt rondom het gebruik van sociale-media door grote groepen jonge eindgebruikers.
 
  Het is dus zaak dat onderwijsinstellingen regie nemen over de ontwikkeling en inzet van AI-gedreven leermiddelen. 
  Met andere woorden *“Zijn hogescholen voldoende voorbereid op de opmars van foundation models?”*
- Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige GEN-AI.
+ Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets, die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige GEN-AI.
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 
