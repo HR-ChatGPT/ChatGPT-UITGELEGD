@@ -5,6 +5,8 @@
 
 ## Context & Doel
 
+
+
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
 | 1. Begrijpen wat ChatGPT wel en niet kan doen
@@ -12,13 +14,18 @@
 | 3. Effectieve prompts schrijven
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
-
-Zie [Overzicht van veel gestelde vragen [ChatGPT FACs]](#faqs).
-
-Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader---* en risico factoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van BKE (Basis Kwalificatie Onderwijs) en SKE (Senior Kwalificatie Onderwijs) assessment in het hoger onderwijs.
-Er zullen ook regelmatig updates volgen over nieuwe ontwikkelingen.
+| 6. Overzicht van veel gestelde vragen [[ChatGPT FACs]](#faqs).
 
 Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan in het hoger onderwijs. 
+
+
+Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. 
+
+Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader---* en risico factoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van BKE (Basis Kwalificatie Onderwijs) en SKE (Senior Kwalificatie Onderwijs) assessment in het hoger onderwijs.
+
+Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
+
+
 
 ****
 ### Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br> van de Hogeschool Rotterdam.
