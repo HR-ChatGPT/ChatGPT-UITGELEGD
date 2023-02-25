@@ -5,7 +5,11 @@
 
 ## Context & Doel
 
-
+<!--
+SEO
+FACS = Frequently Asked Questions & Concerns
+https://www.gerbengvandijk.nl/chatgpt-prompts-seo/
+-->
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
@@ -746,7 +750,14 @@ JANUARY 26, 2023
 ### [1d] STAAT HET GEBRUIK VAN ChatGPT GELIJK AAN VALSSPELEN EN IS HET TE DETECTEREN? 
 *******
 
-De onderstaande tekst is gebaseerd op:
+<!--
+Hogescholen en universiteiten in Nederland zoeken naar manieren om aan te kunnen tonen dat studenten het programma ChatGPT hebben gebruikt, blijkt uit een rondgang van het ANP. Instellingen zeggen dat teksten laten schrijven door het programma aangemerkt kan worden als fraude, maar het is nog lastig om het gebruik van ChatGPT te bewijzen.
+
+De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog niet breed ingezet door onderwijsinstellingen. De 
+
+"We maken op instellingsniveau op dit moment geen gebruik van dergelijke software omdat de resultaten (nog) niet betrouwbaar genoeg zijn", is de reactie van Universiteit van Leiden. Daarnaast noemt de universiteit een mogelijke schending van auteursrecht (als de auteur geen toestemming heeft gegeven) en schending van privacy (als het een werk betreft waar persoonsgegevens in staan) als redenen om de tools zoals ChatZero niet te gebruiken.
+
+--->
 
 * Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 
@@ -856,6 +867,9 @@ https://www.gptminus1.com/ | GPT-Minus1 | Fool GPT by randomly replacing words w
 | URL | onderwijsinstelling  | omschrijving
 ---- | ---- | ---
 https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
+https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
+https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
+https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
 <br>
 
 
