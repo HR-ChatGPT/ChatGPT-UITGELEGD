@@ -870,6 +870,7 @@ https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-stu
 https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
 https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
 https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
+https://umcgresearch.org/w/chatgpt | UMCG | ChatGPT: AI voor schrijfopdrachten
 <br>
 
 
