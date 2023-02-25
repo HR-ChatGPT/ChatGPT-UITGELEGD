@@ -22,14 +22,13 @@ https://www.gerbengvandijk.nl/chatgpt-prompts-seo/
 
 Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan in het hoger onderwijs. 
 
-
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. 
 
 Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader + richtlijnen---* en risicofactoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van [BKE](https://link.springer.com/book/10.1007/978-90-368-0933-7) (Basis Kwalificatie Examineren) en [SKE](https://www.utwente.nl/en/examination-board/Expertise_SKE/verantwoord-toetsen-expertgroep-bke-ske.pdf) (Senior Kwalificatie Examineren) assessment in het hoger onderwijs.
 
 Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 
-
+>Disclaimer: deze tekst is door het gebruik van gezond verstand  tot stand gekomen. <br> Artificiële intelligentie is gebruikt ter verificatie van de gebruikte bronnen.
 
 *****
 ### Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br> van de Hogeschool Rotterdam.
@@ -870,7 +869,7 @@ https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-stu
 https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
 https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
 https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
-https://umcgresearch.org/w/chatgpt | UMCG | ChatGPT: AI voor schrijfopdrachten
+https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
 <br>
 
 
