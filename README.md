@@ -850,6 +850,12 @@ Ze moeten weten hoe studenten de kwaliteitscontrole van hun inhoud en de Gen-AI 
 ---- | ---- | ---
 https://www.gptminus1.com/ | GPT-Minus1 | Fool GPT by randomly replacing words with synonyms in your text. Try it out
 
+
+### Beleid ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen en Universiteiten 
+
+| URL | onderwijsinstelling  | omschrijving
+---- | ---- | ---
+https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
 <br>
 
 
