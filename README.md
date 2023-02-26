@@ -863,13 +863,14 @@ https://www.gptminus1.com/ | GPT-Minus1 | Fool GPT by randomly replacing words w
 
 ### Beleid ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen en Universiteiten 
 
-| URL | onderwijsinstelling  | omschrijving
+| URL | (onderwijs)instelling  | omschrijving
 ---- | ---- | ---
 https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
 https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
 https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
 https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
 https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
+https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek | ChatGPT: de rapportcijfers
 <br>
 
 
