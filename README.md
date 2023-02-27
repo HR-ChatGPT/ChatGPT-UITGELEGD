@@ -1494,6 +1494,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Dair-ai. Prompt Engineering Guide. [Github Repository] https://github.com/dair-ai/Prompt-Engineering-Guide
 
+* <sub> DeSilva, J. M., Traniello, J. F. A., Claxton, A. G., & Fannin, L. D. (2021). When and Why Did Human Brains Decrease in Size? A New Change-Point Analysis and Insights From Brain Evolution in Ants [Original Research]. Frontiers in Ecology and Evolution, 9. https://doi.org/10.3389/fevo.2021.742639 
+
 * <sub> Finnie-Ansley, J., Denny, P., Becker, B. A., Luxton-Reilly, A., & Prather, J. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. In ACE '22: Australasian Computing Education Conference (pp. 10-19). https://doi.org/10.1145/3511861.3511863
 
 * <sub> Forsyth, O. (2022, december 20). Generative AI. [Blog]. https://www.antler.co/blog/generative-ai
@@ -1567,6 +1569,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Wooldridge, M. (2022). What is missing from contemporary AI? The world. Intelligent Computing, 2022. https://doi.org/10.34133/2022/9847630.
 
 * <sub> Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). ReAct: Synergizing Reasoning and Acting in Language Models. arXiv preprint. https://doi.org/10.48550/ARXIV.2210.03629
+
+* <sub> Zador, A., Escola, S., Richards, B., Ölveczky, B., Bengio, Y., Boahen, ... &  Tsao, D. (2022). Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolution. https://doi.org/10.48550/ARXIV.2210.08340
 
 
 </td>
