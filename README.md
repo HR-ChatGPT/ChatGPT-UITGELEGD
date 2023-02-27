@@ -411,7 +411,7 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 
 
 *******
-### [0d] Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?
+### [0d] Heeft ChatGPT Taalbegrip? | Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?
 *******
 
 Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
@@ -421,12 +421,19 @@ Dergelijke machinaal lerende [ML] technologieën zijn in potentie "zeer" ontwric
 
 Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor broosheid en niet menselijke
 fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal
-parameters en de omvang van de trainingscorpora worden opgeschaald [82], heeft sommigen in het veld doen beweren dat
-LLM - misschien in een multimodale versie - zal leiden tot intelligentie en begrip op menselijk niveau,
-bij voldoende grote netwerken en trainingsdatasets. Er is een nieuwe AI-mantra ontstaan: "Schaal is
-alles wat je nodig hebt."
+parameters en de omvang van de trainingscorpora worden opgeschaald, heeft sommigen in het veld doen beweren dat
+LLM - misschien in een multimodale versie - zal leiden tot intelligentie en begrip op menselijk niveau, 
+bij voldoende grote netwerken en trainingsdatasets. Er is een nieuwe AI-mantra ontstaan: *"Schaal is alles wat je nodig hebt."*
 
-Vertaald met www.DeepL.com/Translator (gratis versie)
+*"Taalvaardige"* Gen-AI worden getest op basis van maatstaven (benchmarks) zoals:
+*"algemeen taalbegrip," "natuurlijke taal inferentie", "begrijpend lezen", "gezond verstand redeneren"*, 
+enzovoort. Dit geeft een onderliggende aanname weer dat *"probleem oplossend vermogen"* vereist is om goed te presteren op *"Talige"* taken.  Maar vereisen deze taken daadwerkelijk een dergelijk begrip nodig? Niet noodzakelijkerwijs! 
+
+<!-- Neem als voorbeeld één zo'n benchmark,
+de Argument Reasoning Comprehension Task [36]. In elk taakvoorbeeld wordt een natuurlijke taal
+"argument" gegeven, samen met twee verklaringen; de taak is te bepalen welke verklaring
+consistent is met het argument. Hier is een voorbeeld uit de dataset:
+-->
 
 * Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
 
