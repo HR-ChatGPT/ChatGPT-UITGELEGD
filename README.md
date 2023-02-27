@@ -8,7 +8,8 @@
 <!--
 SEO
 FACS = Frequently Asked Questions & Concerns
-https://www.gerbengvandijk.nl/chatgpt-prompts-seo/
+Nederlandstalig ChatGPT FAQ Cheat Sheet
+A beginners guide to ChatGPT
 -->
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
@@ -24,7 +25,9 @@ Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederla
 
 Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze repository voornamelijk gebruiksmogelijkheden besproken die relevant zijn voor (1) het leerproces van scholieren/studenten, in combinatie met (2) onderwijs-/onderzoektaken van docenten in het (hoger)onderwijs. 
 
-Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader + richtlijnen---* en risicofactoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van [BKE](https://link.springer.com/book/10.1007/978-90-368-0933-7) (Basis Kwalificatie Examineren) en [SKE](https://www.utwente.nl/en/examination-board/Expertise_SKE/verantwoord-toetsen-expertgroep-bke-ske.pdf) (Senior Kwalificatie Examineren) assessment in het hoger onderwijs.
+Een belangrijke vraag is of ChatGPT een *"tool"* is die de docent kan helpen bij het beoordelen van studenten.
+
+Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader + richtlijnen---* en risicofactoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van [BKE](https://link.springer.com/book/10.1007/978-90-368-0933-7) (Basis Kwalificatie Examineren) en [SKE](https://www.utwente.nl/en/examination-board/Expertise_SKE/verantwoord-toetsen-expertgroep-bke-ske.pdf) (Senior Kwalificatie Examineren) assessment in het hoger onderwijs. Een belangrijke vraag is: [*" Vormen Foundation models een betrouwbare tool die docenten kan helpen bij het beoordelen van studenten?"*](#v0d)
 
 Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 
@@ -173,7 +176,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 <!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 -->
-* [0d] [+Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?](#v0d)
+* [0d] [+Kan ChatGPT taal begrijpen zoals mensen? <br> Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?](#v0d)
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
@@ -416,7 +419,20 @@ Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021]
 Hoewel het begrip "foundation models" nieuw is *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---, omvat het onder meer grote taalmodellen zoals BERT of GPT-3 en computervisiemodellen zoals CLIP.
 Dergelijke machinaal lerende [ML] technologieën zijn in potentie "zeer" ontwrichtend [Bender et al., 2021](hhttps://doi.org/10.48550/arXiv.2110.10024), het gebruik ervan in het onderwijsdomein is bijzonder beladen.
 
+Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor broosheid en niet menselijke
+fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal
+parameters en de omvang van de trainingscorpora worden opgeschaald [82], heeft sommigen in het veld doen beweren dat
+LLM - misschien in een multimodale versie - zal leiden tot intelligentie en begrip op menselijk niveau,
+bij voldoende grote netwerken en trainingsdatasets. Er is een nieuwe AI-mantra ontstaan: "Schaal is
+alles wat je nodig hebt."
 
+Vertaald met www.DeepL.com/Translator (gratis versie)
+
+* Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
+
+* Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117 
+
+* Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://doi.org/10.48550/arXiv.2206.07682
 
 <!--
 Risks of AI Foundation Models in Education
@@ -1482,7 +1498,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., ... & Liang, P. (2022). On the opportunities and risks of foundation models. arXiv preprint. https://doi.org/10.48550/arXiv.2108.07258v3
 
-* <sub> Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. In Proceedings of the 34th International Conference on Neural Information Processing Systems (NIPS'20), Vancouver, BC, Canada, p. 159–184. Curran Associates Inc. https://doi.org/10.1145/3505244
+* <sub> Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. In Advances in Neural Information Processing Systems, H. Larochelle, M. Ranzato, R. Hadsell, M. F. Balcan, and H. Lin (Eds.), Vol. 33, 1877-1901. Curran Associates, Inc. https://doi.org/10.48550/arXiv.2005.14165
 
 * <sub> Buckingham Shum, S., Ferguson, R., Martinez-Maldonado, R., & Pardo, A. (2021). Risks of AI Foundation Models in Education. Journal of Learning Analytics, 8(2), 23-36. https://doi.org/10.18608/jla.2021.82.3
 
@@ -1530,6 +1546,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Lu, K., Grover, A., Abbeel, P., & Mordatch, I. (2022). Frozen Pretrained Transformers as Universal Computation Engines. In: Proceedings of the AAAI Conference on Artificial Intelligence, 36(7), 7628-7636. https://doi.org/10.1609/aaai.v36i7.20729
 
+* <sub> Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
+
 * <sub> Ngo, R. (2022). The alignment problem from a deep learning perspective. arXiv preprint. https://doi.org/10.48550/arXiv.2209.00626
 
 * <sub> Openai.com (2022, januari 27). Instruction Following [Blog]. https://openai.com/blog/instruction-following/
@@ -1550,7 +1568,9 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization (PPO) algorithms. arXiv preprint. https://doi.org/10.48550/arXiv.1707.06347
 
-* <sub> Schick, T., & Schütze, H. (2020). It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. arXiv preprint arXiv:2009.07118. https://doi.org/10.48550/ARXIV.2009.07118
+* <sub> Schick, T., & Schütze, H. (2020). It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. arXiv preprint  https://doi.org/10.48550/ARXIV.2009.07118
+
+* <sub> Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117 
 
 * <sub> Shors, T. J., Anderson, M. L., Curlik, D. M., 2nd, & Nokia, M. S. (2012). Use it or lose it: how neurogenesis keeps the brain fit for learning. Behavioural brain research, 227(2), 450–458. https://doi.org/10.1016/j.bbr.2011.04.023
 
@@ -1570,7 +1590,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). ReAct: Synergizing Reasoning and Acting in Language Models. arXiv preprint. https://doi.org/10.48550/ARXIV.2210.03629
 
-* <sub> Zador, A., Escola, S., Richards, B., Ölveczky, B., Bengio, Y., Boahen, ... &  Tsao, D. (2022). Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolution. https://doi.org/10.48550/ARXIV.2210.08340
+* <sub> Zador, A., Escola, S., Richards, B., Ölveczky, B., Bengio, Y., Boahen, ... &  Tsao, D. (2022). Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolution. arXiv preprint https://doi.org/10.48550/ARXIV.2210.08340
 
 
 </td>
