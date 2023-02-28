@@ -1583,7 +1583,9 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Schick, T., & Schütze, H. (2020). It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. arXiv preprint  https://doi.org/10.48550/ARXIV.2009.07118
 
-* <sub> Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117 
+* <sub> Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117
+
+* <sub> Sheikh, H., Prins, C., & Schrijvers, E. (Eds.). (2023). Mission AI. The New System Technology. WRR, Scientific Council for Government Policy. Springer. https://doi.org/https://doi.org/10.1007/978-3-031-21448-6. 
 
 * <sub> Shors, T. J., Anderson, M. L., Curlik, D. M., 2nd, & Nokia, M. S. (2012). Use it or lose it: how neurogenesis keeps the brain fit for learning. Behavioural brain research, 227(2), 450–458. https://doi.org/10.1016/j.bbr.2011.04.023
 
