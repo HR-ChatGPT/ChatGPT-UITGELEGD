@@ -1054,6 +1054,8 @@ print(fullText)
 ### [7b] Kan ChatGPT gebruikt worden om code uit te leggen?
 ********
 
+Zie ook: - [golergka/advent-of-code-2022-with-chat-gpt](https://github.com/golergka/advent-of-code-2022-with-chat-gpt/blob/master/day_1/README.md) 
+
 | agent | prompt | agent | response |
 ----- | ----- | ----- | ----- |
 | Human | Kun je de onderstaande code uitleggen en voorzien van extra commentaar zodat een beginnende Python-coder de werking ervan kan begrijpen? | ChatGPT | Zie onderstaande tekst voor uitleg van de code door ChatGPT |
@@ -1424,13 +1426,22 @@ https://github.com/platelminto/ChatGPT-conversation
 ********
 ### [15] PROMPT VOORBEELDEN
 ********
-De onderstaande voorbeelden zijn ontleend aan 
-* https://github.com/f/awesome-ChatGPT-prompts
-* https://flowgpt.com/
+De onderstaande voorbeelden zijn ontleend aan:
+
+| bron/ URL |
+| ------- |
+| https://github.com/f/awesome-ChatGPT-prompts
+| https://flowgpt.com/
+| [List of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
+| https://github.com/openai/openai-cookbook
+| [The ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
+| https://github.com/cedrickchee/chatgpt-universe
+
 
 <!--
 * https://chatgpt.getlaunchlist.com/
 * https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html
+===> https://github.com/cedrickchee/chatgpt-universe
 -->
 
 
