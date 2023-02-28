@@ -441,6 +441,8 @@ consistent is met het argument. Hier is een voorbeeld uit de dataset:
 
 * Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://doi.org/10.48550/arXiv.2206.07682
 
+* Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
+
 <!--
 Risks of AI Foundation Models in Education
 https://doi.org/10.48550/arXiv.2110.10024
