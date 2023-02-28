@@ -472,6 +472,7 @@ https://platform.openai.com/examples?category=code
  * https://towardsdatascience.com/gpt-3-explained-19e5f2bd3288
  * https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
  * https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
+ * https://www.assemblyai.com/blog/how-chatgpt-actually-works/
  
  GTPs maken gebruik van op  neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
  Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters en worden ook wel [*"foundation models"*](https://en.wikipedia.org/wiki/Foundation_models) genoemd.
