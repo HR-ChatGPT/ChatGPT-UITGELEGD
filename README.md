@@ -467,7 +467,7 @@ LLMs van het van het type
 
 https://platform.openai.com/examples?category=code
 -->
-
+### Overzicht ontstaansgeschiedenis van conversationele agenten
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. Engelstalig blogs met gedetailleerde en kwalitatief hoogwaardige uitleg over de ontstaansgeschiedenis en de werking van GPT's zijn na te lezen via :
  * https://towardsdatascience.com/gpt-3-explained-19e5f2bd3288
  * https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
@@ -483,7 +483,7 @@ Een arXiv-rapport uit 2021 somde de mogelijkheden van stichtingsmodellen op met 
 Een artikel over stichtingsmodellen in The Economist merkt op dat "sommigen zich zorgen maken dat de achteloze verspreiding van de technologie de economische en politieke macht verder zal concentreren".[12]
 -->
 
-LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL]algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl) om het woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL] algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl), om de woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
 <!--
 Voorafgaand aan de ontwikkeling van GPT-modellen, werden de meeste state-of-the-art taalmodellen getraind voor het uitvoeren van een bepaalde taak zoals sentiment classificatie, chatbot dialogen. met behulp van supervised learning. Modellen onder toezicht hebben echter twee belangrijke beperkingen:
