@@ -492,6 +492,8 @@ i. Ze hebben een grote hoeveelheid geannoteerde gegevens nodig voor het leren va
 ii. Ze generaliseren niet voor andere taken dan waarvoor ze zijn getraind.
 -->
 
+GPT's zijn echter niet de eerste in hun soort. [BERT](https://doi.org/10.48550/arXiv.1810.04805) (Bidirectional encoder Representations from Transformers), ontwikkeld door Google in 2018, was het eerste zeer succesvolle op transformatoren gebaseerde taalmodel.
+
 De eerste succesvolle GPT-taalmodellen zijn over een periode van 2 jaar  ontwikkeld: GTP-1 (2018), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door OpenAI. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
 De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/) kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3 werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel)](https://dl.acm.org/doi/abs/10.5555/3495724.3495883).
 
@@ -1532,6 +1534,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> DeSilva, J. M., Traniello, J. F. A., Claxton, A. G., & Fannin, L. D. (2021). When and Why Did Human Brains Decrease in Size? A New Change-Point Analysis and Insights From Brain Evolution in Ants [Original Research]. Frontiers in Ecology and Evolution, 9. https://doi.org/10.3389/fevo.2021.742639 
 
+*Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint https://doi.org/10.48550/arXiv.1810.04805
+
 * <sub> Finnie-Ansley, J., Denny, P., Becker, B. A., Luxton-Reilly, A., & Prather, J. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. In ACE '22: Australasian Computing Education Conference (pp. 10-19). https://doi.org/10.1145/3511861.3511863
 
 * <sub> Forsyth, O. (2022, december 20). Generative AI. [Blog]. https://www.antler.co/blog/generative-ai
@@ -1590,7 +1594,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Salemans, B. (2023, January 7). ChatGPT: de rapportcijfers [Blog]. Neerlandistiek. Online tijdschrift voor taal- en Letterkunde. https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/
 
-* <sub> Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization (PPO) algorithms. arXiv preprint. https://doi.org/10.48550/arXiv.1707.06347
+* <sub> Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization (PPO) algorithms. arXiv preprint. https://doi.org/10.48550/arXiv.1707.06347 | https://openai.com/research/openai-baselines-ppo
 
 * <sub> Schick, T., & Schütze, H. (2020). It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. arXiv preprint  https://doi.org/10.48550/ARXIV.2009.07118
 
