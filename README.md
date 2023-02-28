@@ -1533,7 +1533,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
 
-* Jeffrey Goldstein (1999) Emergence as a Construct: History and Issues, Emergence, 1:1, 49-72, https://doi.org/10.1207/s15327000em0101_4
+* <sub> Jeffrey Goldstein (1999) Emergence as a Construct: History and Issues, Emergence, 1:1, 49-72, https://doi.org/10.1207/s15327000em0101_4
 
 * <sub> Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
 
