@@ -661,6 +661,15 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [
 ### [1b] WAT ZIJN DE FUNCTIONELE MOGELIJKHEDEN & BEPERKINGEN VAN ChatGPT?
 *******
 
+<!--
+
+www.ai.nl/en/artificial-intelligence/openai-debuts-instructgpt-a-language-model-based-on-gpt-3-that-aims-to-align-with-human-intent/
+https://www.assemblyai.com/blog/how-chatgpt-actually-works/
+
+-->
+
+
+
 ChatGPT's interactie met de eindgebruiker is geoptimaliseerd voor een 4-tal functies. <br> Deze functies zijn:
 
 | Functie | Beschrijving |
@@ -745,6 +754,19 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 | <sub>Lang van stof | <sub>Overdreven uitgebreide antwoorden en herhaling zoals "ik ben een taalmodel is dat is getraind op een grote dataset ..." komt vaak voor. <br> <br>Om *"Chat-achtige"* interactie met eindgebruikers mogelijk te maken is ChatGPT aangepast op basis van menselijk toezicht. Dat wil zeggen, het heeft opdrachten *leren* uit te voeren aan de hand van menselijke feedback. <br> <br>Nadeel is dat menselijke trainers de voorkeur geven aan uitgebreide antwoorden en vaak terugvallen op vaste formuleringen. Of zelfs "feiten" verzinnen om te voldoen aan hun opdracht om zo volledig mogelijk te antwoorden | <sub>Beperk de vraag: Maak de vraag zo specifiek mogelijk en beperk het tot een enkel onderwerp. Dit helpt ChatGPT om gericht te zoeken naar een antwoord en te voorkomen dat het irrelevant informatie geeft. <br><br>Maak gebruik van sturende aanwijzingen: zoals "geef me de samenvatting van" of "geef me de kernpunten van ... in tabelvorm" om ChatGPT aan te geven dat je een kort en bondig antwoord verwacht. <br><br> Formuleer eisen *---voorwaarden---*  zoals gebruik niet meer dat 100 woorden.|
 | <sub>Gebrek aan context | <sub>Omdat ChatGPT is getraind op bestaande tekst, kan het soms moeilijk zijn om de intentie van de vraagsteller te bepalen. <br><br> Dit gebeurt als een vraag niet specifiek genoeg is, dubbelzinnig en of tegenstrijdig is, of als de vraagsteller de context niet duidelijk aangeeft. <br><br>Gevolg is dat ChatGPT naar de intentie van de vraagsteller gaat *"raden"*. Met andere woorden, ChatGPT komt tot een antwoord door een reeks gissingen waardoor het foute antwoorden kan beargumenteren alsof ze volledig waar zijn. Het produceert dan alleen nog onzinnige antwoorden alsof het aan het hallucineren is. | <sub> Wanneer ChatGPT een alleen nog onzinnig antwoorden geeft, log dan uit. Log vervolgens opnieuw in en herformuleren de vraag. <br><br>Gebruik de juiste woordkeuze en uitdrukkingen. <br><br>Gebruik de juiste context. <br><br> |
 | <sub>Ongewenste antwoorden | <sub>ChatGPT zal doorgaans ongepaste verzoeken weigeren. Dit komt doordat de Moderation-API ongepaste verzoeken zal negeren en/of waarschuwen: <br> <sub> *"This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area."*| <sub> Dit is een vorm van zelfcensuur die lastig te omzeilen is. Het opleggen van een rollenspel heeft kan deze vorm van filtering neutraliseren, maar de vraag is of je dat zou moeten willen? <br><br> Wanneer je ervan overtuigd bent dat de waarschuwing onterecht is, geef dan feedback via de API.|
+
+<br>
+
+
+#### Geselecteerde referenties voor verder lezen
+* [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
+* Het meest relevante artikel m.b.t.  de menselijke feetback is [*"Training language models to follow instructions with human feedback"*](https://doi.org/10.48550/arXiv.2203.02155), dat in feite een model met de naam InstructGPT beschrijft, door OpenAI aangeduid als een *"sibling model"* van ChatGPT.
+* [Anthropic  *---AI-startup van voormalige OpenAI-leden---*](https://en.wikipedia.org/wiki/Anthropic) publiceerde een gedetailleerde studie [*---"Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"---*](https://doi.org/10.48550/arXiv.2204.05862) over de effectiviteit van menselijke feedback  voor het finetunen van taalmodellen om op te treden als behulpzame en onschadelijke assistenten.
+* Het paper [*---"Learning to summarize from Human Feedback"---*](https://doi.org/10.48550/arXiv.2009.01325k) beschrijft human-feedback in de context van tekstsamenvatting.
+* [*---"Deep reinforcement learning from human preferences"---*](https://doi.org/10.48550/arXiv.1706.03741) was eerste paper  waarin menselijke feedback incombinatie met *---Reinforces Learning"---* werd gebruikt, in de context van *Atari games*.
+* Alternatieven voor OpenAI's RLHF methodiek zijn voorgesteld door Meta's DeepMind in [*Sparrow: "Improving alignment of dialogue agents via targeted human judgements"*](https://arxiv.org/abs/2209.14375) en [*GopherCite: "Teaching language models to support answers with verified quotes"*](https://doi.org/10.48550/arXiv.2203.11147) papers.
+* Een doorwrochten bespreking van het *"Alignment probleem"* uit 2021 m.b.t. taalmodellen is getiteld [*"A General Language Assistant as a Laboratory for Alignment"*](https://doi.org/10.48550/arXiv.2112.00861). Een uitstekende samenvatting hiervan is geschreven door Sam Ringer getiteld: ["A Summary Of Anthropic's First Paper"](https://www.lesswrong.com/posts/oBpebs5j5ngs3EXr5/a-summary-of-anthropic-s-first-paper-3?ref=news-tutorials-ai-research).
+* Github repository van Anthropic voor de code van het Alignment probleem: https://github.com/anthropics/hh-rlhf?ref=news-tutorials-ai-research.
 
 <br>
 
