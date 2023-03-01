@@ -175,7 +175,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 <!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 -->
-* [0d] [+Hoe ga je als docent om met ChatGPT?](#v0d)
+* [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten??](#v0d)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -417,8 +417,26 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 
 
 *******
-### [0d] Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
+### [0d] IS ER EEN ChatGPT *"CODE-OF-CONDUCT"* en/of RICHTLIJN VOOR HBO DOCENTEN?
+<!--
+Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
+-->
 *******
+
+
+### Beleid & richtlijnen ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen, Universiteiten  en kennisinstellingen 
+
+| URL | (onderwijs)instelling  | omschrijving
+---- | ---- | ---
+https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
+https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
+https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
+https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
+https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
+https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek | ChatGPT: de rapportcijfers
+https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
+https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
+<br>
 
 Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
 
@@ -898,8 +916,6 @@ http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
 
 
-
-
 Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
 
 * Op het gebied van informatiebeveiliging zouden organisaties en personen deze detectie kunnen gebruiken om pogingen tot misleiding of imitatie met behulp van door AI gegenereerde tekst te identificeren en tegen te gaan.
@@ -954,19 +970,6 @@ Ze moeten weten hoe studenten de kwaliteitscontrole van hun inhoud en de Gen-AI 
 ---- | ---- | ---
 https://www.gptminus1.com/ | GPT-Minus1 | Fool GPT by randomly replacing words with synonyms in your text. Try it out
 
-
-### Beleid & richtlijnen ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen, Universiteiten  en kennisinstellingen 
-
-| URL | (onderwijs)instelling  | omschrijving
----- | ---- | ---
-https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
-https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
-https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
-https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
-https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
-https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek | ChatGPT: de rapportcijfers
-https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
-https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
 <br>
 
 
