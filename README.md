@@ -442,13 +442,15 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 
 | (onderwijs)instelling  | omschrijving | URL |
 | ---- | ---- | --- |
-| Radboud <br> Universiteit [RU] | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student |
+| Radboud <br> Universiteit [RU] | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> <br>|
 | Universiteit <br> Leiden [UL] | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos |
 | Universiteit <br>  Utrecht [UU] |Gebruik van AI voor schrijfopdrachten | <sub> https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten |
-| Hogeschool <br> Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat | <sub> https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat |
 | Universiteit <br> Groningen [UMCG] | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT | <sub> https://umcgresearch.org/w/chatgpt |
 | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers | <sub> https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ |
 | Vrije <br> Universiteit [VU] | Hoe ga je als docent om met ChatGPT? | <sub> https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt |
+| Universiteit <br> van Amsterdam [UvA] | ChatGPT in de Wetenschap | <sub> https://www.uva.nl/content/nieuws/nieuwsberichten/2023/02/chatgpt-in-de-wetenschap-5-aandachtspunten.html
+| Technische Universiteit <br> Eindhoven [TU/e] | Wat betekent Chatbot GPT voor het onderwijs? | <sub> https://www.cursor.tue.nl/achtergrond/2023/januari/week-3/wat-betekent-chatbot-gpt-voor-het-onderwijs/
+| (Technische) Universiteit <br> Twente [UT] | Ontwikkelingen rond ChatGPT | <sub> https://www.utwente.nl/onderwijs/student-services/actueel/nieuws/2023/2/463644/ontwikkelingen-rond-chatgpt <br> https://www.utwente.nl/en/learning-teaching/ <br> https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat <br> https://www.utoday.nl/news/72477/ut-onderzoekt-plagiaatregeling-door-komst-chatgptLearning%20%26%20Teaching%20Now/2023/1/415972/the-reality-of-artificiality#chatgpt
 | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs | <sub>https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ |
 
 <br>
