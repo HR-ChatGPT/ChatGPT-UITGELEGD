@@ -424,8 +424,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 *******
 
 
-### Beleid & richtlijnen ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen, Universiteiten  en kennisinstellingen 
-
+#### Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs
 | URL | (onderwijs)instelling  | omschrijving
 ---- | ---- | ---
 https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
@@ -433,11 +432,12 @@ https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatg
 https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
 https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
 https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
-https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek | ChatGPT: de rapportcijfers
+https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers
 https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
 https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
 <br>
 
+### Wat betekend de opmars Grensverleggende AI-technologieën *---Foundation Modellen---* in de vorm van ChatGPT voor HBO-docenten?
 Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
 
 Hoewel het begrip "foundation models" nieuw is *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---, omvat het onder meer grote taalmodellen zoals BERT of GPT-3 en computervisiemodellen zoals CLIP.
