@@ -401,7 +401,7 @@ Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Thin
 
 Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126/science.1200970): De toename van de hoeveelheid digitaal beschikbare ongestructureerde/ruwe data overstijgt de totale hoeveelheid aan beschikbare “computer” rekenkracht. Sinds 2019 wordt wereldwijd meer digitale data geproduceerd dan analoge data. Daarmee is de mensheid in 2023 met de komst van ChatGPT defacto een [*"Society of Algorithms"*](https://doi.org/10.1146/annurev-soc-090820-020800) geworden. 
 
->*De vraag is dan ook; *"Kunnen Gen-AI's  als tool dienen om de "Data-Deluge" paradox  te doorbreken?"*
+>De vraag is dan ook; *"Kunnen Gen-AI's  als tool dienen om de "Data-Deluge" paradox  te doorbreken?"*
 
 <!--
 https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/
