@@ -423,7 +423,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 -->
 *******
 
-<!-->
+<!--
 #### Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs
 | URL | (onderwijs)instelling  | omschrijving
 ---- | ---- | ---
