@@ -508,7 +508,7 @@ De eerste succesvolle [GPT-taalmodellen](https://openai.com/research/language-un
 De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over [175 miljard parameters](https://doi.org/10.48550/arXiv.2005.14165) *---in combinatie met een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)---* kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel). 
 
 De GTP-3  serie is het eerste commercieel geëxploiteerde neurale netwerk [NN] met het  vermogen tot verwerken en genereren van natuurlijke taal [NLP]. GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. Het is beschikbaar via https://platform.openai.com/playground.
-Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI *"reinforcement learning from human feedback"* [RLHF]. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om de modellen te belonen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord.
+Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI *"reinforcement learning from human feedback"* [RLHF]. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om de modellen te belonen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor meer gedetaileerde uitleg zie ["Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"](#v1b)
 
 
 OpenAI houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) en *"Unsupervised fine-tuning on a large corpus of text"*.
@@ -712,10 +712,23 @@ Voorbeeld03 : hoe het dient reageren op een prompt
 
 <br>
 
+<!-- ####
+De taalmodellen zoals GPT-3 blijken het giftige taalgebruik van het internet te over te nemen. Dit maakt ze vatbaar voor racistisch en vrouwonvriendelijk uitingen. Nu het elimineren van vooroordelen een belangrijk onderwerp wordt in de AI-wereld, pakt OpenAI deze uitdaging aan met de introductie van [*InstructGPT*](https://openai.com/research/instruction-following). OpenAI LD doet dit door InstructGPT als standaardmodel te maken voor gebruikers van hun [playground](https://platform.openai.com/playground), een dienst die gebruikers toegang geeft tot de taalmodellen. OpenAI zegt dat GPT-3 beschikbaar blijft, maar raadt het gebruik ervan af.
+
+
+
+Deze afstemmingstechniek pakt het probleem van schuttingtaal of verkeerde informatie in datasets anders aan dan eerdere methoden, zoals het uitfilteren van beledigende taal. De filtermethode leidde tot verminderde prestaties, terwijl de afstemmingsmethode de prestaties behoudt die GPT-3 tot het taalmodel bij uitstek maken voor een aantal AI-gebruikscases.
+
+-->
+
+<!--
+https://openai.com/research/instruction-following
+https://openai.com/research/learning-from-human-preferences
+-->
 
 Het resultaat is een Gen-AI dat in staat is om een gesprek aan te gaan die eindgebruikers de indruk geeft te praten met een helpdeskmedewerker met kennis van zaken.
 
-Een probleem is dat "belonend leren onder toezicht" [RLHF] nadelige effecten heeft voor de benutting van het onderliggende taalmodel. Dit komt doordat de ideale reactie van ChatGPT niet bepaald wordt wat deze Gen-AI aan natuurlijke taal voorbeelden heeft opgeslagen, maar van wat de menselijke demonstrateur weet. Hierdoor is het mogelijk dat ChatGPT een antwoord geeft dat niet overeenkomt met wat het aan feitelijk juiste informatie heeft opgeslagen.
+Een probleem is dat *"belonend leren onder toezicht"* [RLHF] nadelige effecten heeft voor de benutting van het onderliggende taalmodel. Dit komt doordat de ideale reactie van ChatGPT niet bepaald wordt wat deze Gen-AI aan natuurlijke taal voorbeelden heeft opgeslagen, maar van wat de menselijke demonstrateur weet. Hierdoor is het mogelijk dat ChatGPT een antwoord geeft dat niet overeenkomt met wat het aan feitelijk juiste informatie heeft opgeslagen.
 
 ChatGPT is extreem gevoelig voor de wijze waarop een vraag geformuleerd wordt. Dit kan leiden tot het negeren van bepaalde aanwijzingen in de opdracht. Bij één formulering van een vraag kan het beweren niet over de gevraagde informatie te beschikken, maar bij een kleine herformulering correct antwoorden.
 
@@ -1083,6 +1096,9 @@ for para in data.paragraphs:
  fullText.append(para.text)
 print(fullText)
 ```
+ 
+ Zie ook: https://medium.com/@mr.tarik098/how-to-use-chatgpt-to-automate-web-scraping-2112bd6bf0a2
+
 
 ********
 # v7b
@@ -1643,6 +1659,12 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Thompson, A. D. (March 2022). What's in my AI? A Comprehensive Analysis of Datasets Used to Train GPT-1, GPT-2, GPT-3, GPT-NeoX-20B, Megatron-11B, MT-NLG, and Gopher. https://lifearchitect.ai/whats-in-my-ai-paper/
 
 * <sub> Tiku, N., De Vynck, G., & Oremus, W. (februari, 2023). Big Tech was moving cautiously on AI. Then came ChatGPT. [Technology Blog] The Washington Post. https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/
+
+* <sub> Tay, Y., Tran, V. Q., Dehghani, M., Ni, J., Bahri, D., Mehta, H., ... & Metzler, D. (2022). Transformer memory as a differentiable search index. arXiv preprint https://doi.org/10.48550/arXiv.2202.06991
+
+<!--
+https://github.com/jerryjliu/gpt_index
+-->
 
 * <sub> Taylor, R., Kardas, M., Cucurull, G., Scialom, T., Hartshorn, A., Saravia, E., ... & Stojnic, R. (2022). Galactica: A large language model for science. arXiv preprint arXiv:2211.09085. https://doi.org/10.48550/arXiv.2211.09085
 
