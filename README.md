@@ -703,8 +703,7 @@ ChatGPT is extreem gevoelig voor de wijze waarop een vraag geformuleerd wordt. D
 Nog problematischer is dat ChatGTP vaak in vreemde gedachten vervalt. Het hallucineert dan schijnbaar overtuigende maar onzinnige antwoorden die weinig met de werkelijkheid te maken hebben. Gebleken is dat de AI zeer zelfverzekerd onjuiste antwoorden geeft over elementaire wiskunde, natuurkunde en basale kennis van de biologie; in een viraal voorbeeld bleef de ChatGPT zichzelf tegenspreken over de vraag of een vis een zoogdier was.
 
 Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een dergelijke AI publiekelijk toegankelijk te maken. Van belang is om te weten hoe je met de beperkingen moet omgaan om ChatGPT verantwoord te kunnen inzetten voor school taken (zie [Ethische risico's en Schaduwkanten van ChatGPT](#v1c)). 
-
-# beperkingen
+### Beperkingen
 #### In de onderstaande tabel zijn de meest voorkomende problemen en mogelijke oplossingen opgesomd.
 
 | Bekende Problemen | Oorzaak | Oplossing |
