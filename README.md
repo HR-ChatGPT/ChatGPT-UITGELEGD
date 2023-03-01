@@ -442,7 +442,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 
 | (onderwijs)instelling  | omschrijving | URL |
 | ---- | ---- | --- |
-| RU  | Chat GPT: what does this mean for you as a student? | ,sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student |
+| RU  | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student |
 | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos |
 | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten | <sub> https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten |
 | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat | <sub> https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat |
