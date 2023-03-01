@@ -410,7 +410,7 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 
 
 *******
-### [0d] Heeft ChatGPT Taalbegrip? | Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?
+### [0d] Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 *******
 
 Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
@@ -910,6 +910,7 @@ https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Ut
 https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
 https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
 https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek | ChatGPT: de rapportcijfers
+https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
 <br>
 
 
