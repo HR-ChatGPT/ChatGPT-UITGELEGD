@@ -453,16 +453,17 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 
 <br>
 
-#### Wat betekend de opmars Grensverleggende AI-diensten *---Foundation Modellen---* in de vorm van ChatGPT voor HBO-docenten?
-Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
 
-Hoewel het begrip "foundation models" nieuw is *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---, omvat het onder meer grote taalmodellen zoals BERT of GPT-3 en computervisiemodellen zoals CLIP.
-Dergelijke machinaal lerende [ML] technologieën zijn in potentie "zeer" ontwrichtend [Bender et al., 2021](hhttps://doi.org/10.48550/arXiv.2110.10024), het gebruik ervan in het onderwijsdomein is bijzonder beladen.
+<!--
+*---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---
+--> 
 
-Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor broosheid en niet menselijke
-fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal
-parameters en de omvang van de trainingscorpora worden opgeschaald, heeft sommigen in het veld doen beweren dat
-LLM - misschien in een multimodale versie - zal leiden tot intelligentie en begrip op menselijk niveau, 
+#### Wat betekend het openstellen van Grensverleggende AI-diensten in de vorm van ChatGPT & Bing voor HBO-docenten?
+
+Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart, BERT, Bing, BLOOM, ChatGPT, CLIP, LAMDA, DALL-E 2, Galactica, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
+
+
+Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor "onbedoelde" fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de trainingscorpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, 
 bij voldoende grote netwerken en trainingsdatasets. Er is een nieuwe AI-mantra ontstaan: *"Schaal is alles wat je nodig hebt."*
 
 *"Taalvaardige"* Gen-AI worden getest op basis van maatstaven (benchmarks) zoals:
