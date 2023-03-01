@@ -427,14 +427,14 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 #### Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs
 | URL | (onderwijs)instelling  | omschrijving
 ---- | ---- | ---
-https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
-https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
-https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
-https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
-https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
-https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers
-https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
-https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
+<sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student | RU  | Chat GPT: what does this mean for you as a student?
+<sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos | Leiden | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risicos !
+<sub> https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten | Utoday Magazine Utrecht | AI gebruikt voor schrijfopdrachten
+<sub> https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat | Utrecht | Chatrobot over AI in het hoger onderwijs kan leiden tot plagiaat
+<sub> https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
+<sub> https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers
+<sub> https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
+<sub> https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
 <br>
 
 #### Wat betekend de opmars Grensverleggende AI-diensten *---Foundation Modellen---* in de vorm van ChatGPT voor HBO-docenten?
