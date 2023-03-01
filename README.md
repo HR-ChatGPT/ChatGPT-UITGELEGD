@@ -542,7 +542,7 @@ Er zijn  echte veel [aanwijzingen](https://arxiv.org/abs/2206.07682) die in de t
 --> 
 
 
-ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een [*GTP-3.5 LLM*](https://platform.openai.com/docs/model-index-for-researchers/models-referred-to-as-gpt-3-5), is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
+ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI LD---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een [*GTP-3.5 LLM*](https://platform.openai.com/docs/model-index-for-researchers/models-referred-to-as-gpt-3-5), is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
 
 GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
