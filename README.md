@@ -437,7 +437,7 @@ https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU |
 https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
 <br>
 
-### Wat betekend de opmars Grensverleggende AI-technologieën *---Foundation Modellen---* in de vorm van ChatGPT voor HBO-docenten?
+#### Wat betekend de opmars Grensverleggende AI-diensten *---Foundation Modellen---* in de vorm van ChatGPT voor HBO-docenten?
 Als we de auteurs van het invloedrijke Stanford-rapport [Bommasani et al., 2021](https://doi.org/10.48550/arXiv.2108.07258) over de mogelijkheden en risico's van *"foundation models"* voor waar aannemen, betekend deze state-of-the-art AI-technologie een paradigmaverschuiving voor het hoger onderwijs. 
 
 Hoewel het begrip "foundation models" nieuw is *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---, omvat het onder meer grote taalmodellen zoals BERT of GPT-3 en computervisiemodellen zoals CLIP.
