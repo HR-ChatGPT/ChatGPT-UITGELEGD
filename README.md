@@ -437,6 +437,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 <sub> https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
 <br>
 -->
+
 #### Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs
 
 | (onderwijs)instelling  | omschrijving | URL |
