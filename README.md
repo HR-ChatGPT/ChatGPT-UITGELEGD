@@ -467,14 +467,14 @@ LLMs van het van het type
 
 https://platform.openai.com/examples?category=code
 -->
-### Overzicht ontstaansgeschiedenis van conversationele agenten
+### Overzicht ontstaansgeschiedenis van op transformer gebaseerde conversationele agenten
  *"Generative Pre-trained Transformers"* [GPTs] zijn anno 2023 de meest dominante verschijningsvorm van Gen-AI. Engelstalig blogs met gedetailleerde en kwalitatief hoogwaardige uitleg over de ontstaansgeschiedenis en de werking van GPT's zijn na te lezen via :
  * https://towardsdatascience.com/gpt-3-explained-19e5f2bd3288
  * https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
  * https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
  * https://www.assemblyai.com/blog/how-chatgpt-actually-works/
  
- GTPs maken gebruik van op  neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] algoritmen. Het zijn grootschalig taalmodellen [LLM] die natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
+ GTPs maken gebruik van op  neurale netwerk [NN] architectuur gebaseerde "machinaal Lerende" [ML] [transformer](https://doi.org/10.48550/arXiv.1706.03762) algoritmen. Het zijn grootschalig taalmodellen [LLM] die natuurlijke taal kunnen verwerken & genereren via [NLP] AI-technologie.
  Het predicaat *"grootschalig"* verwijst naar het aantal waarden (parameters) die het neural netwerk kan kan veranderen terwijl het leert. GPT LLM's beschikken over honderden miljarden parameters en worden ook wel [*"foundation models"*](https://en.wikipedia.org/wiki/Foundation_models) genoemd.
 
 <!--
@@ -483,7 +483,7 @@ Een arXiv-rapport uit 2021 somde de mogelijkheden van stichtingsmodellen op met 
 Een artikel over stichtingsmodellen in The Economist merkt op dat "sommigen zich zorgen maken dat de achteloze verspreiding van de technologie de economische en politieke macht verder zal concentreren".[12]
 -->
 
-LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL] algoritmen [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl), om de woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL] algoritmen ---Self-Supervised Learning [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl)---, om de woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
 <!--
 Voorafgaand aan de ontwikkeling van GPT-modellen, werden de meeste state-of-the-art taalmodellen getraind voor het uitvoeren van een bepaalde taak zoals sentiment classificatie, chatbot dialogen. met behulp van supervised learning. Modellen onder toezicht hebben echter twee belangrijke beperkingen:
@@ -493,14 +493,27 @@ i. Ze hebben een grote hoeveelheid geannoteerde gegevens nodig voor het leren va
 ii. Ze generaliseren niet voor andere taken dan waarvoor ze zijn getraind.
 -->
 
-GPT's zijn echter niet de eerste in hun soort. [BERT](https://doi.org/10.48550/arXiv.1810.04805) (Bidirectional encoder Representations from Transformers), ontwikkeld door Google in 2018, was het eerste zeer succesvolle op transformatoren gebaseerde taalmodel.
+GPT's zijn echter niet in hun soort. [BERT](https://doi.org/10.48550/arXiv.1810.04805) (Bidirectional Encoder Representations from Transformers), ontwikkeld door Google Research in 2018, was het eerste zeer succesvolle op transformatoren gebaseerde taalmodel. Op 9 december 2019 werd gemeld dat BERT door [Google Search](https://www.blog.google/products/search/search-language-understanding-bert/) was overgenomen voor meer dan 70 talen. Volgens [Search Engine Land](https://searchengineland.com/google-bert-used-on-almost-every-english-query-342193) werd eind 2020 bijna elke Engelstalige zoekopdracht verwerkt door een BERT-model.
 
-De eerste succesvolle GPT-taalmodellen zijn over een periode van 2 jaar  ontwikkeld: GTP-1 (2018), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door OpenAI. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
-De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over [175 miljard parameters](https://doi.org/10.48550/arXiv.2005.14165) *---in combinatie met een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)---* kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel). De volgende stap ---*volgens het DataCamp Blog:* [*"Everything We Know About GPT-4"*](https://www.datacamp.com/blog/what-we-know-gpt4)---  is het trainen van GPT-4, op basis van 280??? parameters.
+De eerste succesvolle [GPT-taalmodellen](https://openai.com/research/language-unsupervised) zijn over een periode van 2 jaar  ontwikkeld: GTP-1 [(2018)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.princeton.edu/courses/archive/spring20/cos598C/lectures/lec4-pretraining.pdf), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door [OpenAI LP](https://openai.com/blog/openai-lp) dat is opgericht in 2015 als non-profit organisatie. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
+De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over [175 miljard parameters](https://doi.org/10.48550/arXiv.2005.14165) *---in combinatie met een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)---* kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel). 
 
-GTP-3  was het de eerste LLM  met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. 
+De GTP-3  serie bevatte de eerste LLM met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. Het is beschikbaar via https://platform.openai.com/playground.
 
+OpenAI houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) en *"Unsupervised fine-tuning on a large corpus of text"*.
 <!--
+https://github.com/balakreshnan/Samples2022/blob/main/openai/chatopenai.md
+Models referred to as "GPT 3.5"
+GPT-3.5 series is a series of models that was trained on a blend of text and code from before Q4 2021. The following models are in the GPT-3.5 series:
+
+code-davinci-002 is a base model, so good for pure code-completion tasks
+text-davinci-002 is an InstructGPT model based on code-davinci-002
+text-davinci-003 is an improvement on text-davinci-002
+
+De volgende stap ---*volgens het DataCamp Blog:* [*"Everything We Know About GPT-4"*](https://www.datacamp.com/blog/what-we-know-gpt4)---  is het trainen van GPT-4, op basis van 280??? parameters.
+
+https://medium.datadriveninvestor.com/openai-quietly-released-gpt-3-5-heres-what-you-can-do-with-it-4dee22aea438
+
 Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had het opschalen naar GPT-3 naar een omvang van 2x GPT-2  meta-leren tot gevolg 
 
  voordelen van schaal zich voordoen zoals voorspeld door OpenAI. Deze voordelen waren niet alleen het leren van meer feiten en tekst dan GPT-2, maar kwalitatief verschillend en nog verrassender in het tonen van meta-leren: terwijl GPT-2 leerde hoe gewone natuurlijke taaltaken zoals tekstsamenvattingen te doen, leerde GPT-3 in plaats daarvan hoe aanwijzingen op te volgen en nieuwe taken te leren van een paar voorbeelden. (Als gevolg daarvan zijn de output en interactie van GPT-3 fascinerender en menselijker dan die van GPT-2).
@@ -529,7 +542,7 @@ Er zijn  echte veel [aanwijzingen](https://arxiv.org/abs/2206.07682) die in de t
 --> 
 
 
-ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een *GTP-3.5 LLM*, is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
+ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een [*GTP-3.5 LLM*](https://platform.openai.com/docs/model-index-for-researchers/models-referred-to-as-gpt-3-5), is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "conversationele agenten" die publiekelijk beschikbaar is gesteld door OpenAI.
 
 GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
 
