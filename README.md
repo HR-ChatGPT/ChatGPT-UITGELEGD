@@ -489,7 +489,7 @@ Een arXiv-rapport uit 2021 somde de mogelijkheden van stichtingsmodellen op met 
 Een artikel over stichtingsmodellen in The Economist merkt op dat "sommigen zich zorgen maken dat de achteloze verspreiding van de technologie de economische en politieke macht verder zal concentreren".[12]
 -->
 
-LLM's worden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL] algoritmen ---Self-Supervised Learning [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl)---, om de woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
+
 
 <!--
 Voorafgaand aan de ontwikkeling van GPT-modellen, werden de meeste state-of-the-art taalmodellen getraind voor het uitvoeren van een bepaalde taak zoals sentiment classificatie, chatbot dialogen. met behulp van supervised learning. Modellen onder toezicht hebben echter twee belangrijke beperkingen:
@@ -499,14 +499,26 @@ i. Ze hebben een grote hoeveelheid geannoteerde gegevens nodig voor het leren va
 ii. Ze generaliseren niet voor andere taken dan waarvoor ze zijn getraind.
 -->
 
-GPT's zijn echter niet in hun soort. [BERT](https://doi.org/10.48550/arXiv.1810.04805) (Bidirectional Encoder Representations from Transformers), ontwikkeld door Google Research in 2018, was het eerste zeer succesvolle op transformatoren gebaseerde taalmodel. Op 9 december 2019 werd gemeld dat BERT door [Google Search](https://www.blog.google/products/search/search-language-understanding-bert/) was overgenomen voor meer dan 70 talen. Volgens [Search Engine Land](https://searchengineland.com/google-bert-used-on-almost-every-english-query-342193) werd eind 2020 bijna elke Engelstalige zoekopdracht verwerkt door een BERT-model.
+GPT's zijn echter niet de eerste LLM's in hun soort. [BERT](https://doi.org/10.48550/arXiv.1810.04805) (Bidirectional Encoder Representations from Transformers), ontwikkeld door Google Research in 2018, was het eerste zeer succesvolle op transformatoren gebaseerde taalmodel. Op 9 december 2019 werd gemeld dat BERT door [Google Search](https://www.blog.google/products/search/search-language-understanding-bert/) was overgenomen voor meer dan 70 talen. Volgens [Search Engine Land](https://searchengineland.com/google-bert-used-on-almost-every-english-query-342193) werd eind 2020 bijna elke Engelstalige zoekopdracht verwerkt door een BERT-model.
+
+De eerste generatie LLM's werden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL] algoritmen ---Self-Supervised Learning [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl)---, om de woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
 De eerste succesvolle [GPT-taalmodellen](https://openai.com/research/language-unsupervised) zijn over een periode van 2 jaar  ontwikkeld: GTP-1 [(2018)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.princeton.edu/courses/archive/spring20/cos598C/lectures/lec4-pretraining.pdf), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door [OpenAI LP](https://openai.com/blog/openai-lp) dat is opgericht in 2015 als non-profit organisatie. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
+
 De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over [175 miljard parameters](https://doi.org/10.48550/arXiv.2005.14165) *---in combinatie met een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)---* kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel). 
 
-De GTP-3  serie bevatte de eerste LLM met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. Het is beschikbaar via https://platform.openai.com/playground.
+De GTP-3  serie is het eerste commercieel geëxploiteerde neurale netwerk [NN] met het  vermogen tot verwerken en genereren van natuurlijke taal [NLP]. GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. Het is beschikbaar via https://platform.openai.com/playground.
+Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI *"reinforcement learning from human feedback"* [RLHF]. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om de modellen te belonen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord.
+
 
 OpenAI houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) en *"Unsupervised fine-tuning on a large corpus of text"*.
+
+<!-- ###############################################################
+Vergeleken met GPT-3 zijn de nieuwe InstructGPT-modellen beter in het volgen van instructies in het Engels, minder geneigd om verkeerde informatie te produceren, en ten minste iets minder geneigd om giftige resultaten te produceren. 
+
+Om GPT-3 modellen om te zetten in InstructGPT modellen, ontwierp OpenAI een procedure in drie stappen. Eerst wordt het model verfijnd. Ten tweede wordt een beloningsmodel (RM) gebouwd. Ten derde wordt het Supervised Fine-Tuning (SFT) model genomen en verder verfijnd met behulp van reinforcement learning.
+-->
+
 <!--
 https://github.com/balakreshnan/Samples2022/blob/main/openai/chatopenai.md
 Models referred to as "GPT 3.5"
