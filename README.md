@@ -175,11 +175,18 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 <!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 -->
-* [0d] [+Kan ChatGPT taal begrijpen zoals mensen? <br> Is gebruik van ChatGPT door docenten schadelijk voor het hoger onderwijs?](#v0d)
+* [0d] [+Hoe ga je als docent om met ChatGPT?](#v0d)
+<!--
+Hoe ga je als docent om met ChatGPT?
+Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
+Wat betekent ChatGPT voor docenten en studenten in het hbo?
+Hoe ChatGPT jouw werk als docent makkelijker maakt
+https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/
+-->
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
 * [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
-* [1d] [Maakt ChatGPT "valsspelen" makkelijker en is het te detecteren?](#v1d)
+* [1d] [Maakt ChatGPT *"valsspelen"* makkelijker en is het te detecteren?](#v1d)
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
 * [2] [Hoe geef je een opdracht aan ChatGPT?](#v2)
@@ -845,6 +852,7 @@ https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detec
 
 
 
+
 Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
 
 * Op het gebied van informatiebeveiliging zouden organisaties en personen deze detectie kunnen gebruiken om pogingen tot misleiding of imitatie met behulp van door AI gegenereerde tekst te identificeren en tegen te gaan.
@@ -900,7 +908,7 @@ Ze moeten weten hoe studenten de kwaliteitscontrole van hun inhoud en de Gen-AI 
 https://www.gptminus1.com/ | GPT-Minus1 | Fool GPT by randomly replacing words with synonyms in your text. Try it out
 
 
-### Beleid ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen en Universiteiten 
+### Beleid & richtlijnen ten aanzien van het inzetten van Gen-AI zoals geformuleerd door Nedelandse Hogescholen, Universiteiten  en kennisinstellingen 
 
 | URL | (onderwijs)instelling  | omschrijving
 ---- | ---- | ---
@@ -911,6 +919,7 @@ https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-le
 https://umcgresearch.org/w/chatgpt | UMCG | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT
 https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ | Neerlandistiek | ChatGPT: de rapportcijfers
 https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt | VU | Hoe ga je als docent om met ChatGPT?
+https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs
 <br>
 
 
