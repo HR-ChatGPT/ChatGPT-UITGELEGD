@@ -444,7 +444,8 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 | ---- | ---- | --- |
 | Radboud <br> Universiteit [RU] | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> <br>|
 | Universiteit <br> Leiden [UL] | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos |
-| Universiteit <br>  Utrecht [UU] |Gebruik van AI voor schrijfopdrachten | <sub> https://www.uu.nl/nieuws/ai-gebruikt-voor-schrijfopdrachten <br> https://www.uu.nl/in-de-media/geesteswetenschappers-over-chatgpt-en-de-morele-kwesties-van-ai|
+| Hogeschool <br> Utrecht | ChatGPT: Een vloek of zegen? | <sub>  https://husite.nl/digitalehu/chatgpt-een-vloek-of-zegen/
+| Universiteit <br>  Utrecht [UU] |Gebruik van AI voor schrijfopdrachten | <sub> https://www.uu.nl/onderwijs/onderwijsadvies-training/publicaties/tips-voor-leerkrachten-en-docenten/geef-studenten-korte-schrijfopdrachten <br> https://www.uu.nl/in-de-media/geesteswetenschappers-over-chatgpt-en-de-morele-kwesties-van-ai <br> https://www.uu.nl/onderwijs/onderwijsadvies-training/kennisdossiers/kennisdossier-hoger-onderwijs/waar-is-chatgpt-toe-in-staat-en-wat-zijn-de-beperkingen|
 | Universiteit <br> Groningen [UMCG] | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT | <sub> https://umcgresearch.org/w/chatgpt |
 | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers | <sub> https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ |
 | Vrije <br> Universiteit [VU] | Hoe ga je als docent om met ChatGPT? | <sub> https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt |
@@ -479,6 +480,7 @@ de Argument Reasoning Comprehension Task [36]. In elk taakvoorbeeld wordt een na
 "argument" gegeven, samen met twee verklaringen; de taak is te bepalen welke verklaring
 consistent is met het argument. Hier is een voorbeeld uit de dataset:
 -->
+
 
 * Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
 
