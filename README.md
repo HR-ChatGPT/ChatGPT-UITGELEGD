@@ -485,7 +485,24 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 -->
 *******
 
-Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart, BERT, Bing, BLOOM, ChatGPT, CLIP, LAMDA, DALL-E 2, Galactica, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
+Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart(LaMDA), BERT, Bing, BLOOM, ChatGPT(instructGPT), Galactica, Sparrow, Med-PaLM, CLIP, DALL-E 2, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
+
+<!--
+https://www.tradealgo.com/news/artificial-mind-chatbots-compete-for-dominance-in-these-ai-wars
+GPT-3
+ChatGPT
+Bing
+LaMDA
+Bard
+Sparrow
+Med-PaLM
+Claude
+Ernie Bot
+Mu Dao 2.0
+Galactica
+Open Assistant
+BLOOM
+-->
 
 
 Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor *"onbedoelde"* fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de training corpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, 
@@ -514,13 +531,18 @@ van fysieke ervaring, zoiets creëren als de rijke, op concepten gebaseerde ment
 
 ### Wat gebeurt er als je een tekstuele opdracht/prompt aan een LLM toewijst?
 
+<!--
+https://github.com/dair-ai/Prompt-Engineering-Guide
+-->
 Opdrachten geven aan een LLM om een tekst te genereren, is hetzelfde als het geven van een prompt aan een *"denkbeeldige notulist"*.
-<br> We onderscheiden drie soorten prompts:
+<br> We onderscheiden drie soorten prompts (zie ook [Kan ChatGPT broncode schrijven?](#v7a)):
 | Type prompt | beschrijving | Voorbeeld |
 |------|------|------|
 Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* voorbeelden te geven <br> <br> het model zal dan moeten *"raden"* waarnaar je precies naar refereert| *"Geef een tabel met alle bacheloropleidingen van de hogeschool Rotterdam per instituut."* |
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert| Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
 Few-shot | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
+
+
 
 
 
@@ -1235,10 +1257,11 @@ Vertaald met www.DeepL.com/Translator (gratis versie)
 
 #### Geselecteerde referenties voor verder lezen:
 
- * https://medium.com/@mr.tarik098/how-to-use-chatgpt-to-automate-web-scraping-2112bd6bf0a2
- * https://microsoft.github.io/prompt-engineering/
- * https://medium.com/codex/github-copilot-is-a-game-changer-cd0a2bbe6de8
+* https://medium.com/@mr.tarik098/how-to-use-chatgpt-to-automate-web-scraping-2112bd6bf0a2
+* https://microsoft.github.io/prompt-engineering/
+* https://medium.com/codex/github-copilot-is-a-game-changer-cd0a2bbe6de8
 * https://medium.com/codex/what-is-github-copilot-6c3e99ba7c41
+* https://github.com/dair-ai/Prompt-Engineering-Guide
 
 
 ********
