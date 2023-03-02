@@ -760,7 +760,7 @@ Voorbeeld01 : aan een Biologie student
 Voorbeeld02 : Een paard is een viervoetig zoogdier ...
 Voorbeeld03 : Het door de mens vervaardigde antwoord
 Voorbeeld03 : fungeert als instructief voorbeeld voor het model
-Voorbeeld03 : hoe het dient reageren op een prompt
+Voorbeeld03 : hoe het dient te reageren op een prompt
 
 ```
 
