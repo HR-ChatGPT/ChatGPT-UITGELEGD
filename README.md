@@ -507,6 +507,7 @@ de Argument Reasoning Comprehension Task [36]. In elk taakvoorbeeld wordt een na
 consistent is met het argument. Hier is een voorbeeld uit de dataset:
 -->
 
+#### Geselecteerde referenties voor verder lezen:
 
 * Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
 
@@ -1179,7 +1180,14 @@ for para in data.paragraphs:
 print(fullText)
 ```
  
- Zie ook: https://medium.com/@mr.tarik098/how-to-use-chatgpt-to-automate-web-scraping-2112bd6bf0a2
+Microsoft heeft op Github een Blog geschreven hoe je met OpenAI's [Codex](https://en.wikipedia.org/wiki/OpenAI_Codex) broncode kunt laten genereren via een techniek die [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering) heet. 
+Een prompt is een tekstsequentie zoals een zin of een blok code. Het gebruik van prompts om output te verkrijgen vindt zijn oorsprong bij mensen. Net zoals je mensen een onderwerp voor een essay kunt aanreiken, kun je verbazingwekkend genoeg een AI-model aan de hand van prompts een output laten genereren op basis van een taak die je in gedachten hebt.
+
+
+#### Geselecteerde referenties voor verder lezen:
+
+ * https://medium.com/@mr.tarik098/how-to-use-chatgpt-to-automate-web-scraping-2112bd6bf0a2
+ * https://microsoft.github.io/prompt-engineering/
 
 
 ********
