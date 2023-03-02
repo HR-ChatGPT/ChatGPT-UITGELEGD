@@ -195,7 +195,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [4] [Kan ChatGPT uitleggen hoe het te gebruiken?](#v4)
 * [5] [Heeft ChatGPT taalbegrip?](#v5)
 * [6] [Kan ChatGPT logisch redeneren?](#v6)
-* [7a] [Kan ChatGPT broncode schrijven?](#v7a)
+* [7a] [+Kan ChatGPT broncode schrijven?](#v7a)
 * [7b] [Kan ChatGPT broncode uitleggen?](#v7b)
 * [7c] [Kan ChatGPT broncode output simuleren?](#v7c)
 * [7d] [Kan ChatGPT een "Deep Learning" lessenreeks bedenken?](#v7d)
@@ -1183,11 +1183,17 @@ print(fullText)
 Microsoft heeft op Github een Blog geschreven hoe je met OpenAI's [Codex](https://en.wikipedia.org/wiki/OpenAI_Codex) broncode kunt laten genereren via een techniek die [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering) heet. 
 Een prompt is een tekstsequentie zoals een zin of een blok code. Het gebruik van prompts om output te verkrijgen vindt zijn oorsprong bij mensen. Net zoals je mensen een onderwerp voor een essay kunt aanreiken, kun je verbazingwekkend genoeg een AI-model aan de hand van prompts een output laten genereren op basis van een taak die je in gedachten hebt.
 
+OpenAI Codex is een Gen-AI ontwikkeld door OpenAI LD. Het wordt gebruikt voor Microsoft's GitHub Copilot, een tool voor het automatisch aanvullen van broncode; speciaal ontwikkeld voor IDE's, zoals Visual Studio Code, JetBrains suite  en Neovim. Codex is gebaseerd op GPT-3-model, maar dan verfijnd voor het genereren van broncode.
+
+Vertaald met www.DeepL.com/Translator (gratis versie)
+
 
 #### Geselecteerde referenties voor verder lezen:
 
  * https://medium.com/@mr.tarik098/how-to-use-chatgpt-to-automate-web-scraping-2112bd6bf0a2
  * https://microsoft.github.io/prompt-engineering/
+ * https://medium.com/codex/github-copilot-is-a-game-changer-cd0a2bbe6de8
+* https://medium.com/codex/what-is-github-copilot-6c3e99ba7c41
 
 
 ********
