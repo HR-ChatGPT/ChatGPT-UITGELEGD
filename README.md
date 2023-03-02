@@ -478,16 +478,20 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 *******
 ### [0e] KAN ChatGPT BENUT WORDEN ALS BEOORDELINGSINSTRUMENT VOOR HET HOGER ONDERWIJS?
 
-
+<!--
+https://dobf1k6cxlizq.cloudfront.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kb2JmMWs2Y3hsaXpxLmNsb3VkZnJvbnQubmV0LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzgzNzAzOTl9fX1dfQ__&Signature=q-vaaTJhA~QlwZfHSwtwas7oVXVzReN5HMQCAgBVIA45GJ3qUW7lmdeOzcVAKltcwNobFCk3UPI9o5P7aNWozub1659LlqeEDVQ5uEDMlWH1gr2a-rA6WRSaBEVHo6ufh-iCsVFFAzItGWlwinVKZXNGs0OCed3JV2Apxex83p3-V1mPgvS2EY~29DmjYEH5p89vzYzjyi8cLQC7jDnjTOd9-XAc5LaXWBXqvJPQPjV~8tr0FHh-A01CPJMljzKV1mz-ij4U7j82ySsPCCbcqwAz5knIBRE774N9ABnI6hcGijDgAL3K8AWOXg8h6kLaAQrSGYhlPrOuhYbAWbFlCQ__&Key-Pair-Id=K231VYXPC1TA1R
+-->
 <!--
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 #### Wat betekend het openstellen van Grensverleggende AI-diensten in de vorm van ChatGPT & Bing voor HBO-docenten?
 -->
 *******
 
-Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart(LaMDA), BERT, Bing, BLOOM, ChatGPT(instructGPT), Galactica, Sparrow, Med-PaLM, CLIP, DALL-E 2, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
+Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart(LaMDA), BERT, Bing, BLOOM, ChatGPT(instructGPT), Galactica, Sparrow, LLaMA, Med-PaLM, CLIP, DALL-E 2, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
 
 <!--
+https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model
+https://analyticsindiamag.com/meta-launches-new-llm-llama-which-outperforms-gpt-3-at-a-fraction-of-the-size/
 https://www.tradealgo.com/news/artificial-mind-chatbots-compete-for-dominance-in-these-ai-wars
 GPT-3
 ChatGPT
@@ -543,8 +547,17 @@ One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het mode
 Few-shot | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
 
-
-
+```mermaid
+stateDiagram-v2
+    prompt --> information01
+    prompt --> information02
+    prompt --> information03
+   information01 -->integration
+   information02 -->integration
+   information03 -->integration
+   integration --> knowledge
+   knowledge --> answer
+```
 
 <!--
 | Instituut | Opleidingen |
@@ -573,6 +586,7 @@ de Argument Reasoning Comprehension Task [36]. In elk taakvoorbeeld wordt een na
 "argument" gegeven, samen met twee verklaringen; de taak is te bepalen welke verklaring
 consistent is met het argument. Hier is een voorbeeld uit de dataset:
 -->
+
 
 #### Geselecteerde referenties voor verder lezen:
 
