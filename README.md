@@ -488,7 +488,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart, BERT, Bing, BLOOM, ChatGPT, CLIP, LAMDA, DALL-E 2, Galactica, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
 
 
-Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor "onbedoelde" fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de training corpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, 
+Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor *"onbedoelde"* fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de training corpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, 
 bij voldoende grote netwerken en training datasets. Er is een nieuwe AI-mantra ontstaan: *"Schaal is alles wat je nodig hebt."*
 
 *"Taalvaardige"* Gen-AI worden getest op basis van maatstaven (benchmarks) zoals:
@@ -500,6 +500,49 @@ bij voldoende grote netwerken en training datasets. Er is een nieuwe AI-mantra o
 enzovoort. 
 
 Dit geeft een onderliggende aanname weer dat *"probleem oplossend vermogen"* vereist is om goed te presteren op *"Talige"* taken.  Maar vereisen deze taken daadwerkelijk een dergelijk begrip nodig? Niet noodzakelijkerwijs! 
+Om te begrijpen wat er gebeurt, moeten we eerst begrijpen wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
+<!--
+De kernvragen van het debat over begrip in LLM's zijn de volgende:
+(1) Is spreken van begrip in dergelijke systemen gewoon een categoriefout, waarbij associaties tussen taaltokens worden verward met associaties tussen tokens en fysieke, sociale of mentale ervaring? Kortom, is het zo dat deze modellen niet het soort dingen zijn en nooit zullen zijn die kunnen begrijpen? Of omgekeerd, 
+(2) creëren deze systemen (of zullen hun opvolgers in de nabije toekomst) daadwerkelijk, zelfs bij afwezigheid...
+van fysieke ervaring, zoiets creëren als de rijke, op concepten gebaseerde mentale modellen die centraal staan in het menselijk begrip, en, zo ja, creëert het schalen van deze modellen steeds betere concepten? Of 
+(3) Als deze systemen zulke concepten niet creëren, kunnen hun onvoorstelbaar grote systemen van statistische correlaties dan vaardigheden voortbrengen die functioneel gelijkwaardig zijn aan menselijk begrip? Of, inderdaad, die nieuwe vormen van hogere-orde logica mogelijk maken waartoe de mens geen toegang heeft? En heeft het dan nog zin om zulke correlaties "onecht" te noemen of de resulterende oplossingen "sluiproutes"? En heeft het zin om het gedrag van de systemen niet te zien als "bekwaamheid zonder begrip" maar als een nieuwe, niet-menselijke vorm van begrip? Deze vragen behoren niet langer tot het domein van abstracte filosofische discussies, maar raken aan zeer reële zorgen over de mogelijkheden, robuustheid, veiligheid en ethiek van AI-systemen die in toenemende mate een rol spelen in het dagelijks leven van mensen. leven.
+-->
+
+
+
+
+### Wat gebeurt er als je een tekstuele opdracht/prompt aan een LLM toewijst?
+
+Opdrachten aan een LLM om een tekst te genereren, is hetzelfde als het geven van een prompt aan een *"denkbeeldige notulist"*.
+<br> We onderscheiden drie soorten prompts:
+| Type prompt | beschrijving | Voorbeeld |
+|------|------|------|
+Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* voorbeelden te geven | *"Geef een tabel met alle bacheloropleidingen van de hogeschool Rotterdam per instituut."* |
+One-shot | genereer een uitkomst op basis van één voorbeeld | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT)  |
+few-shot | genereer een uitkomst op basis van een beperkt aantal voorbeelden | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML)|
+
+<!--
+| Instituut | Opleidingen |
+| --- | --- |
+| Instituut voor Communicatie, Media en IT | Bedrijfskunde MER, Business IT & Management, Communication and Multimedia Design, Creative Media and Game Technologies, Informatica, Technische Informatica |
+| Instituut voor Gezondheidszorg | Biologie en Medisch Laboratoriumonderzoek, Ergotherapie, Fysiotherapie, HBO-Verpleegkunde, Logopedie, Medisch Hulpverlener, Mondzorgkunde, Oefentherapie Mensendieck, Verloskunde |
+| Instituut voor de Gebouwde Omgeving | Bouwkunde, Built Environment, Civiele Techniek, Ruimtelijke Ordening en Planologie, Vastgoed en Makelaardij, Watermanagement |
+| Instituut voor Sociale Opleidingen | Culturele en Maatschappelijke Vorming, HRM, Integrale Veiligheid, Pedagogiek, Sociaal Juridische Dienstverlening, Sociaal Werk, Toegepaste Psychologie |
+| Instituut voor Lerarenopleidingen | Leraar Basisonderwijs (PABO), Leraar Technisch Beroepsonderwijs, Leraar Voortgezet Onderwijs en Onderwijsmanagement |
+| Rotterdam Academy | Bedrijfskunde, Commercieel Management, Finance & Control, Human Resource Management, International Business and Languages, Logistics Management, Technische Bedrijfskunde |
+| Willem de Kooning Academie | Animation, Audiovisuele Media, Autonome Beeldende Kunst, Communication in Creative Industries, Illustration, Lifestyle Transformation Design, Photography, Spatial Design, Advertising |
+| Rotterdam Business School | Bedrijfskunde, Business Administration (Engelstalig), Business IT & Management, Finance & Accounting, Human Resource Management (Engelstalig), International Business (Engelstalig), Marketing Management (Engelstalig), Tourism Management |
+
+-->
+
+
+<!--
+https://microsoft.github.io/prompt-engineering/
+https://analyticsindiamag.com/how-do-zero-shot-one-shot-and-few-shot-learning-differ/
+https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/#:~:text=Zero%2Dshot%20prompting%20is%20where,usually%20between%20two%20and%20five.
+Je begint  met aan te geven wat je wilt dat het LLM moet doen. Een zeer effectieve manier om een LLM te *"vertellen"* wat je wilt is het voorbeelden te laten zien. Dan zal het  zijn uitvoer af te stemmen op wat jij wilt. Als u Codex een langere prompt geeft met het bovenstaande voorbeeld, dan noemt zijn voltooiing de argumenten precies zoals in het voorbeeld dat u gaf
+-->
 
 <!-- Neem als voorbeeld één zo'n benchmark,
 de Argument Reasoning Comprehension Task [36]. In elk taakvoorbeeld wordt een natuurlijke taal
