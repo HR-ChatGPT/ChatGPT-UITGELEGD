@@ -555,7 +555,7 @@ stateDiagram-v2
    information01 -->integration
    information02 -->integration
    information03 -->integration
-   integration --> knowledge
+   integration --> "external knowledge"
    knowledge --> answer
 ```
 
