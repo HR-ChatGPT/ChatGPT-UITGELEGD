@@ -514,13 +514,15 @@ van fysieke ervaring, zoiets creëren als de rijke, op concepten gebaseerde ment
 
 ### Wat gebeurt er als je een tekstuele opdracht/prompt aan een LLM toewijst?
 
-Opdrachten aan een LLM om een tekst te genereren, is hetzelfde als het geven van een prompt aan een *"denkbeeldige notulist"*.
+Opdrachten geven aan een LLM om een tekst te genereren, is hetzelfde als het geven van een prompt aan een *"denkbeeldige notulist"*.
 <br> We onderscheiden drie soorten prompts:
 | Type prompt | beschrijving | Voorbeeld |
 |------|------|------|
-Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* voorbeelden te geven | *"Geef een tabel met alle bacheloropleidingen van de hogeschool Rotterdam per instituut."* |
-One-shot | genereer een uitkomst op basis van één voorbeeld | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT)  |
-few-shot | genereer een uitkomst op basis van een beperkt aantal voorbeelden | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML)|
+Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* voorbeelden te geven <br> <br> het model zal dan moeten *"raden"*  naar je precies naar refereert| *"Geef een tabel met alle bacheloropleidingen van de hogeschool Rotterdam per instituut."* |
+One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert| Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
+few-shot | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel nauwkeuriger en betrouwbaarder tekst genereren | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
+
+
 
 <!--
 | Instituut | Opleidingen |
