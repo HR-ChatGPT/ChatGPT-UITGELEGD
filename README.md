@@ -556,6 +556,7 @@ stateDiagram-v2
    information02 --> integration
    information03 --> integration
    integration --> knowledge
+   knowledge --> answer
 ```
 
 <!--
