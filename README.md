@@ -552,11 +552,10 @@ stateDiagram-v2
     prompt --> information01
     prompt --> information02
     prompt --> information03
-   information01 -->integration
-   information02 -->integration
-   information03 -->integration
-   integration --> "external knowledge"
-   knowledge --> answer
+   information01 --> integration
+   information02 --> integration
+   information03 --> integration
+   integration --> knowledge
 ```
 
 <!--
