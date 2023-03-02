@@ -444,9 +444,11 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 | ---- | ---- | --- |
 | Radboud <br> Universiteit [RU] | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> <br>|
 | Universiteit <br> Leiden [UL] | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos |
+| Hogeschool <br> van Amsterdam [HvA] | HvA omarmt ChatGPT met aandacht voor kansen én risico’s| <sub> https://www.hva.nl/appliedai/chat/gpt.html <br> https://www.hva.nl/content/nieuws/nieuwsberichten/2023/01/hoe-moeten-docenten-in-het-hbo-omgaan-met-chatgpt.html|
 | Hogeschool <br> Arnhem & Nijmegen  [HAN] | Handreiking ChatGPT & Toetsing | <sub> https://www.han.nl/artikelen/2023/01/het-onderwijs-en-chatgpt/ <br> https://www.han.nl/onderwijsondersteuning/leren-werken-met-ict/artificial-intelligence/HAN-Handreiking-ChatGPT-en-toetsing.pdf 
-| Hogeschool <br> Rotterdam [HR]| ChatGPT: vriend of vijand? | <sub> https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/chatgpt-vriend-of-vijand/ <br> https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD
-| Hogeschool <br> Utrecht [HU]| ChatGPT: Een vloek of zegen? | <sub>  https://husite.nl/digitalehu/chatgpt-een-vloek-of-zegen/ <br> https://husite.nl/digitalehu/wp-content/uploads/sites/244/2023/01/ChatGPT-handreiking.pdf|
+| Hogeschool <br> Rotterdam [HR]| ChatGPT: vriend of vijand? | <sub> https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/chatgpt-vriend-of-vijand/ <br> https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD <br> https://profielen.hr.nl/2023/chatgpt-brengt-ook-hogeschool-rotterdam-in-rep-en-roer-geniaal-en-lastig/
+| Hogeschool <br> Utrecht [HU]| ChatGPT: Een vloek of zegen? | <sub>  https://husite.nl/digitalehu/chatgpt-een-vloek-of-zegen/ <br> https://husite.nl/digitalehu/wp-content/uploads/sites/244/2023/01/ChatGPT-handreiking.pdf <br> https://husite.nl/toetsing-nieuw/handreiking-chatgpt-en-toetsing/|
+| Saxion  | Leren in tijden van ChatGPT | <sub> https://www.saxion.nl/nieuws/2023/02/leren-in-tijden-van-chatgpt-een-debat-over-de-impact-van-ai
 | Universiteit <br>  Utrecht [UU] |Gebruik van AI voor schrijfopdrachten | <sub> https://www.uu.nl/onderwijs/onderwijsadvies-training/publicaties/tips-voor-leerkrachten-en-docenten/geef-studenten-korte-schrijfopdrachten <br> https://www.uu.nl/in-de-media/geesteswetenschappers-over-chatgpt-en-de-morele-kwesties-van-ai <br> https://www.uu.nl/onderwijs/onderwijsadvies-training/kennisdossiers/kennisdossier-hoger-onderwijs/waar-is-chatgpt-toe-in-staat-en-wat-zijn-de-beperkingen|
 | Universiteit <br> Groningen [UMCG] | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT | <sub> https://umcgresearch.org/w/chatgpt |
 | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers | <sub> https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ |
@@ -940,6 +942,14 @@ https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detect
 http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
 
+Inmiddels is er ook een [Nederlandstalige tool](https://bron.fontys.nl/studenten-ontwikkelen-een-chatgpt-detector/) in de maak. Het is een initiatief van Fontys Hogeschool in samenwerking met [OpenMaze](https://openmaze.io/).
+
+>Doel is dat een docent straks de dialoog kan aangaan met een scholier of student over de tekst die zij via een ChatGPT hebben laten fabriceren. “Zodat je op een andere manier hun kennis kan valideren. Dan gaat het dus niet om het checken van een jaartal of een naam, maar of de leerling of student de achterliggende kennis ook echt heeft.” Zeg maar, het verschil tussen multiple choice en open vragen? “Ja, precies. En dan is er eigenlijk zelfs sprake van een veel efficiëntere toetsing.”
+
+<!---
+https://openmaze.io/ | ChatGPT Detectore | ???
+https://bron.fontys.nl/studenten-ontwikkelen-een-chatgpt-detector/
+>
 
 Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
 
