@@ -176,7 +176,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 -->
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten??](#v0d)
-* [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?](#v0e)
+* [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -476,7 +476,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 
 # v0e
 *******
-### [0e] KAN ChatGPT BENUT WORDEN ALS BEOORDELINGSINSTRUMENT VOOR HET HOGER ONDERWIJS?
+### [0e] KAN ChatGPT BENUT WORDEN ALS BEOORDELINGSINSTRUMENT?
 
 <!--
 https://dobf1k6cxlizq.cloudfront.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kb2JmMWs2Y3hsaXpxLmNsb3VkZnJvbnQubmV0LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzgzNzAzOTl9fX1dfQ__&Signature=q-vaaTJhA~QlwZfHSwtwas7oVXVzReN5HMQCAgBVIA45GJ3qUW7lmdeOzcVAKltcwNobFCk3UPI9o5P7aNWozub1659LlqeEDVQ5uEDMlWH1gr2a-rA6WRSaBEVHo6ufh-iCsVFFAzItGWlwinVKZXNGs0OCed3JV2Apxex83p3-V1mPgvS2EY~29DmjYEH5p89vzYzjyi8cLQC7jDnjTOd9-XAc5LaXWBXqvJPQPjV~8tr0FHh-A01CPJMljzKV1mz-ij4U7j82ySsPCCbcqwAz5knIBRE774N9ABnI6hcGijDgAL3K8AWOXg8h6kLaAQrSGYhlPrOuhYbAWbFlCQ__&Key-Pair-Id=K231VYXPC1TA1R
