@@ -514,11 +514,11 @@ bij voldoende grote netwerken en training datasets. Er is een nieuwe AI-mantra o
 
 *"Taalvaardige"* Gen-AI worden getest op basis van maatstaven (benchmarks) zoals:
 
-* *"algemeen taalbegrip",*
-* *"natuurlijke taal inferentie",*
-* *"begrijpend lezen",*
-* *"gezond verstand redeneren",*
-enzovoort. 
+* *"algemeen taalbegrip"*
+* *"natuurlijke taal inferentie"*
+* *"begrijpend lezen"*
+* *"gezond verstand redeneren"*
+
 
 Dit geeft een onderliggende aanname weer dat *"probleem oplossend vermogen"* vereist is om goed te presteren op *"Talige"* taken.  <br> Maar vereisen deze taken daadwerkelijk een dergelijk begrip nodig? 
 
@@ -1006,6 +1006,8 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 --->
 
+#### Referenties op basis waarvan de onderstaand antwoord is opgesteld:
+
 * Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 
 * Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) 
@@ -1013,6 +1015,8 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 * Katie Notopoulos's *"BuzzFeed"* AI-newsreport  getiteld: [*"A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here BuzzFeed News would like to thank ChatGPT"*](https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article)
 
 * Armin Alimardani & Emma A. Jane's artikel in *"The Conversation"* getiteld: ["*We pitted ChatGPT against tools for detecting AI-written text, and the results are troubling*"](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774)
+
+* Clark, E., August, T., Serrano, S., Haduong, N., Gururangan, S., & Smith, N. A. (2021). All that's' human'is not gold: Evaluating human evaluation of generated text. arXiv preprint https://doi.org/10.48550/arXiv.2107.00061
 
 * Jessica Stewart's *" My Modern Met"*  technologie blog getiteld: ["*Noam Chomsky Says ChatGPT Is a Form of “High-Tech Plagiarism”*"](https://mymodernmet.com/noam-chomsky-chat-gpt/)
 
@@ -1029,15 +1033,21 @@ https://seo.ai/blog/chatgpt-detector-tools
 
 [Plagiaat](https://nl.wikipedia.org/wiki/Plagiaat) *---"het overnemen van stukken, gedachten, redeneringen van anderen en deze laten doorgaan voor eigen werk"---* is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
 
-Darren Hick *---professor filosofie---* was een van de eerste docent die via sociale media meldde dat hij een student betrapt had op het gebruik van ChatGPT. In een Facebook-post beschrijft hij enkele van de rode vlaggen die hij opmerkte:
+Darren Hick *---professor filosofie---* was een van de eerste docenten die via sociale media meldde dat hij een student betrapt had op het gebruik van ChatGPT. In een Facebook-post beschrijft hij enkele van de rode vlaggen die hij opmerkte:
 
 >*De eerste aanwijzing was ---ondanks de syntactische samenhang van het essay--- het geen navolgbare logica bevatte voor iemand die diepgaande kennis heeft over het onderwerp. ChatGPT is slecht in citeren. Dit is goed nieuws voor lessen over filosofie, waar het materiaal zeer complex en obscuur is. Maar voor eerstejaars is dit een spelbreker. <br> <br> 
 In het vervolg zal ik materiaal ---dat door een student is ingediend maar door een chatbot is geproduceerd--- weggooien en de student een geïmproviseerd mondeling examen zal geven over hetzelfde materiaal.*
 
+Mensen zijn overigens niet veel beter. In een paper getiteld: [*"All that's' human'is not gold: Evaluating human evaluation of generated text."*](https://doi.org/10.48550/arXiv.2107.00061) laat zien dat er al een aantal jaren menselijke beoordelaars worden ingezet die de kwaliteit van door AI gegenereerde teksten ranken. Het blijkt dat de ongeoefende beoordelaars niet in staat zijn om het verschil betrouwbaar te kunnen inschatten tussen menselijk geschreven en door AI gegenereerde teksten.
+
+>*"We voeren een onderzoek uit naar het vermogen van niet-deskundigen om onderscheid te kunnen maken tussen menselijke en
+machinaal geschreven tekst (GPT2 en GPT3) in drie domeinen (verhalen, nieuwsartikelen en
+recepten). We vinden dat ---zonder training--- beoordelaars geen onderscheid kunnen maken tussen GPT3 en door mensen geschreven tekst.
+
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
-Sind januari 2023 zijn er tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
-Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
+Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
+Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + <br> [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
 
 | URL | tool name | LLM
 ---- | ---- | ---
@@ -1055,6 +1065,8 @@ https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detec
 Inmiddels is er ook een [Nederlandstalige tool](https://bron.fontys.nl/studenten-ontwikkelen-een-chatgpt-detector/) in de maak. Het is een initiatief van Fontys Hogeschool in samenwerking met [OpenMaze](https://openmaze.io/).
 
 >Doel is dat een docent straks de dialoog kan aangaan met een scholier of student over de tekst die zij via een ChatGPT hebben laten fabriceren. “Zodat je op een andere manier hun kennis kan valideren. Dan gaat het dus niet om het checken van een jaartal of een naam, maar of de leerling of student de achterliggende kennis ook echt heeft.” Zeg maar, het verschil tussen multiple choice en open vragen? “Ja, precies. En dan is er eigenlijk zelfs sprake van een veel efficiëntere toetsing.”
+
+"*
 
 <!---
 https://openmaze.io/ | ChatGPT Detectore | ???
