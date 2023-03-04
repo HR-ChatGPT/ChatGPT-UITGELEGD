@@ -555,11 +555,14 @@ stateDiagram-v2
     prompt --> information01
     prompt --> information02
     prompt --> information03
-   information01 --> integration
-   information02 --> integration
-   information03 --> integration
-   integration --> knowledge
-   knowledge --> answer
+   information01 -->integration
+   information02 -->integration
+   information03 -->integration
+   integration --> external_knowledge
+   external_knowledge --> answer
+   internal_knowledge --> answer
+   internal_knowledge --> external_knowledge
+   external_knowledge --> internal_knowledge
 ```
 
 <!--
