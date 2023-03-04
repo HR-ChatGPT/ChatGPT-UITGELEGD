@@ -547,6 +547,8 @@ Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* 
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert| Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
 Few-shot | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
+Door gebruik te maken van *"Few-shot prompting"* wordt het model gestuurd om de juiste woorden te gebruiken in de juiste context. Dit is een belangrijke stap in het proces van het creëren van de gewenste uitkomst. Het model is instaat om alle aangeleverde voorbeelden te samen te voegen en deze nieuwe *"kennis"* te gebruiken om de juiste woorden te kiezen door deze te vergelijken met de woorden die het model al kent.
+
 
 ```mermaid
 stateDiagram-v2
