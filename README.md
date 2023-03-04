@@ -1038,6 +1038,8 @@ Darren Hick *---professor filosofie---* was een van de eerste docenten die via s
 >*De eerste aanwijzing was ---ondanks de syntactische samenhang van het essay--- het geen navolgbare logica bevatte voor iemand die diepgaande kennis heeft over het onderwerp. ChatGPT is slecht in citeren. Dit is goed nieuws voor lessen over filosofie, waar het materiaal zeer complex en obscuur is. Maar voor eerstejaars is dit een spelbreker. <br> <br> 
 In het vervolg zal ik materiaal ---dat door een student is ingediend maar door een chatbot is geproduceerd--- weggooien en de student een geïmproviseerd mondeling examen zal geven over hetzelfde materiaal.*
 
+#### Overzicht Gen-AI detectoren
+
 Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + <br> [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
 
@@ -1070,7 +1072,7 @@ Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om
 * Bij online communicatie zouden platforms deze detectie kunnen gebruiken om de verspreiding van door AI gegenereerde desinformatie of spam te voorkomen.
 * In de journalistiek en de media zouden factcheckers en redacteuren deze detectie kunnen gebruiken om door AI gegenereerde inhoud te identificeren en te labelen en ervoor te zorgen dat lezers de bron kennen.
 
-### Gen-AI detectoren zijn *"nog"* niet betrouwbaar *"genoeg"* en eenvoudig te omzeilen
+#### Gen-AI detectoren zijn *"nog"* niet betrouwbaar *"genoeg"* en eenvoudig te omzeilen
 
 Probleem met de huidige generatie aan *"Gen-AI detectie tools"*  is dat ze zijn gebaseerd op een *"verouderd"* onderliggend taal-model [LLM](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) zoals GPT-2 in het geval van de chatbot ChatGPT. Het LLM dat gebruikt werd om ChatGPT te kunnen bouwen is GPT-3.5, en deze is niet vrijbeschikhaar (zie: [*"Wat moet je weten over ChatGPT en warvoor kan het worden gebruikt?"*](#v1a)).
 Wanneer iemand tekst invoert, doorloopt de tool een oudere versie van het desbetreffende LLM. Op basis hiervan wordt berekend hoe waarschijnlijk het is dat de ingevoerde tekst door een Gen-AI is geproduceerd en hoeveel deze waarschijnlijkheid varieert over de volledige tekstlengte. Tekst geschreven door onervaren menselijke schrijvers zoals studenten kan afwisselend wel en niet lijken alsof het afkomstig is van Gen-AI. Daarentegen, teksten die volledig zijn gegenereerd door een chatbot zullen veel minder variantie vertonen. Deze tools hebben dan ook relatief grote stukken tekst nodig, vaak 1000 woorden of meer.
@@ -1106,9 +1108,9 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 
 Mensen zijn overigens niet veel beter. In een paper getiteld: [*"All that's' human'is not gold: Evaluating human evaluation of generated text."*](https://doi.org/10.48550/arXiv.2107.00061) laat zien dat er al een aantal jaren menselijke beoordelaars worden ingezet die de kwaliteit van door AI gegenereerde teksten ranken. Het blijkt dat de ongeoefende beoordelaars niet in staat zijn om het verschil betrouwbaar te kunnen inschatten tussen menselijk geschreven en door AI gegenereerde teksten.
 
->*"We voeren een onderzoek uit naar het vermogen van niet-deskundigen om onderscheid te kunnen maken tussen menselijke en
+> *"We voeren een onderzoek uit naar het vermogen van niet-deskundigen om onderscheid te kunnen maken tussen menselijke en
 machinaal geschreven tekst (GPT2 en GPT3) in drie domeinen (verhalen, nieuwsartikelen en
-recepten). We vinden dat ---zonder training--- beoordelaars geen onderscheid kunnen maken tussen GPT3 en door mensen geschreven tekst.
+recepten). We vinden dat ---zonder training--- beoordelaars geen onderscheid kunnen maken tussen GPT3 en door mensen geschreven tekst.*
 
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
