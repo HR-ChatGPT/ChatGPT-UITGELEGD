@@ -1114,9 +1114,8 @@ recepten). We vinden dat ---zonder training--- beoordelaars geen onderscheid kun
 
 De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
 
-#### Tools die detectie van Gen-AI gebruik tegen gaan
 
-#### Waarom cheats delen voor AI Content Detectors?
+#### Waarom cheats delen om *"AI Content Detectors"* te misleiden?
 De onderstaande tekst is gebaseerd op Christoph C. Cemper AI Cheats Blog:  [*"How to trick AI Content Detectors."*](https://www.linkresearchtools.com/blog/ai-content-detector-cheats/)
 
 Het misleiden van AI-detectietools is relatief gemakkelijk, dus wordt dit zeer waarschijnlijk ook door studenten toegepast.
