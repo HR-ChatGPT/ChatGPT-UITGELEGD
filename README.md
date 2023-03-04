@@ -1038,14 +1038,6 @@ Darren Hick *---professor filosofie---* was een van de eerste docenten die via s
 >*De eerste aanwijzing was ---ondanks de syntactische samenhang van het essay--- het geen navolgbare logica bevatte voor iemand die diepgaande kennis heeft over het onderwerp. ChatGPT is slecht in citeren. Dit is goed nieuws voor lessen over filosofie, waar het materiaal zeer complex en obscuur is. Maar voor eerstejaars is dit een spelbreker. <br> <br> 
 In het vervolg zal ik materiaal ---dat door een student is ingediend maar door een chatbot is geproduceerd--- weggooien en de student een geïmproviseerd mondeling examen zal geven over hetzelfde materiaal.*
 
-Mensen zijn overigens niet veel beter. In een paper getiteld: [*"All that's' human'is not gold: Evaluating human evaluation of generated text."*](https://doi.org/10.48550/arXiv.2107.00061) laat zien dat er al een aantal jaren menselijke beoordelaars worden ingezet die de kwaliteit van door AI gegenereerde teksten ranken. Het blijkt dat de ongeoefende beoordelaars niet in staat zijn om het verschil betrouwbaar te kunnen inschatten tussen menselijk geschreven en door AI gegenereerde teksten.
-
->*"We voeren een onderzoek uit naar het vermogen van niet-deskundigen om onderscheid te kunnen maken tussen menselijke en
-machinaal geschreven tekst (GPT2 en GPT3) in drie domeinen (verhalen, nieuwsartikelen en
-recepten). We vinden dat ---zonder training--- beoordelaars geen onderscheid kunnen maken tussen GPT3 en door mensen geschreven tekst.
-
-De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
-
 Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + <br> [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
 
@@ -1066,12 +1058,11 @@ Inmiddels is er ook een [Nederlandstalige tool](https://bron.fontys.nl/studenten
 
 >Doel is dat een docent straks de dialoog kan aangaan met een scholier of student over de tekst die zij via een ChatGPT hebben laten fabriceren. “Zodat je op een andere manier hun kennis kan valideren. Dan gaat het dus niet om het checken van een jaartal of een naam, maar of de leerling of student de achterliggende kennis ook echt heeft.” Zeg maar, het verschil tussen multiple choice en open vragen? “Ja, precies. En dan is er eigenlijk zelfs sprake van een veel efficiëntere toetsing.”
 
-"*
 
 <!---
 https://openmaze.io/ | ChatGPT Detectore | ???
 https://bron.fontys.nl/studenten-ontwikkelen-een-chatgpt-detector/
->
+-->
 
 Deze tools zijn niet alleen van belang voor docenten en onderwijsinstellingen om ervoor te zorgen dat studenten hun vaardigheden en kennis gebruiken om opdrachten en examens te voltooien *---in plaats van te vertrouwen op door AI gegenereerde inhoud---*, maar ook voor tal van andere toepassingsdomeinen, zoals:
 
@@ -1094,7 +1085,7 @@ OpenAI.com heeft naar eigen zeggen de classificator openbaar beschikbaar gesteld
 
 Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te maken die alle vormen van misbruik van AI-technologie kan detecteren. Dit laatste blijkt uit de volgende prompt:
 
-### PROMPT to ChatGPT:
+#### PROMPT to ChatGPT:
 
 * Dear ChatGPT can you write a summary of at least 1000 words wherein you explain what deep learning is to a high school teacher. 
 
@@ -1105,14 +1096,23 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 * Use max 1100 words and with syntax errors in 4% of the words used.*
 
 
-### OUTCOME https://platform.openai.com/ai-text-classifier:
+#### OUTCOME https://platform.openai.com/ai-text-classifier:
 
  ![Picture1](https://user-images.githubusercontent.com/684692/216188287-0a7d6820-63c4-4e3b-b036-e5562c3f410d.png)
 
 <!--
 ### Blockchain ledger to 
 --> 
-### Tools die detectie van Gen-AI gebruik tegen gaan
+
+Mensen zijn overigens niet veel beter. In een paper getiteld: [*"All that's' human'is not gold: Evaluating human evaluation of generated text."*](https://doi.org/10.48550/arXiv.2107.00061) laat zien dat er al een aantal jaren menselijke beoordelaars worden ingezet die de kwaliteit van door AI gegenereerde teksten ranken. Het blijkt dat de ongeoefende beoordelaars niet in staat zijn om het verschil betrouwbaar te kunnen inschatten tussen menselijk geschreven en door AI gegenereerde teksten.
+
+>*"We voeren een onderzoek uit naar het vermogen van niet-deskundigen om onderscheid te kunnen maken tussen menselijke en
+machinaal geschreven tekst (GPT2 en GPT3) in drie domeinen (verhalen, nieuwsartikelen en
+recepten). We vinden dat ---zonder training--- beoordelaars geen onderscheid kunnen maken tussen GPT3 en door mensen geschreven tekst.
+
+De meest effectieve remedie om het gebruik van Gen-AI tegen te gaan  *---althans voor nu---* is om de stekker eruit te trekken en  studenten dwingen hun werk mondeling te laten toelichten.
+
+#### Tools die detectie van Gen-AI gebruik tegen gaan
 
 #### Waarom cheats delen voor AI Content Detectors?
 De onderstaande tekst is gebaseerd op Christoph C. Cemper AI Cheats Blog:  [*"How to trick AI Content Detectors."*](https://www.linkresearchtools.com/blog/ai-content-detector-cheats/)
