@@ -977,6 +977,12 @@ Met de release van DALL-E 2 heeft OpenAI deze Gen-AI uitgerust met tal van bevei
 
 OpenAI heeft met ChatGPT voor een minder restrictieve aanpak gekozen, waardoor de Gen-AI meer vrijheid heeft om zich uit te spreken over gevoelige onderwerpen als politiek, seks en religie. Toch hebben sommige rechtse conservatieven het bedrijf ervan beschuldigd te ver te gaan. ["ChatGPT Goes Woke"](https://www.nationalreview.com/corner/chatgpt-goes-woke/), luidde de kop van een artikel in National Review (januari 2023), waarin werd beweerd dat ChatGPT linkse antwoorden gaf op vragen over onderwerpen als drag queens en de verkiezingen van 2020. (Democraten hebben ook geklaagd over ChatGPT - vooral omdat ze vinden dat AI strenger moet worden gereguleerd).
 
+FastCompany schreef in een blog van 01 maart 2023 [*---getiteld: "6 things to know about OpenAI’s Mira Murati, the most interesting person in tech right now"---*](https://www.fastcompany.com/90855799/6-things-to-know-about-openais-mira-murati-the-most-interesting-person-in-tech-right-now?partner=rss) het volgende over *Mira Murati ---Chief Technology OpenAI---* verantwoordelijk voor het vrijgeven van ChatGPT:
+
+>*" Mira Murati is een de meest invloedrijke voorstanders van publiek testen met Gen-AI.
+Terwijl Google zijn AI-onderzoek grotendeels in een laboratorium heeft ondergebracht en de mogelijkheden van Baidu's Ernie chatbot (uit China) nog grotendeels onbekend zijn, zijn de producten van OpenAI breed beschikbaar."*
+
+<br>
 
 <!--
 JOURNALISM
