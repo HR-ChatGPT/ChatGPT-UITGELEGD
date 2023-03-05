@@ -177,7 +177,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 -->
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten??](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
-* [0f] [+Voldoet ChatGPT aan Europese Richtlijnen?](#v0f)
+* [0f] [+Voldoet ChatGPT aan Europese AI-Regelgeving?](#v0f)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -632,7 +632,7 @@ ChatGPT heeft recente Europese *---de Europese Commissie, het Europees Parlement
 Het addertje onder het gras? ChatGPT, is een vorm van *"Talige"* Generatieve-AI. Het kan worden benut voor talloze zeer uiteenlopende positive of negatieve doeleinden: *"Mensen kunnen er liedjes, romans en gedichten mee schrijven, maar ook computercode, beleidsnota's, nepnieuws-berichten of, zoals een Colombiaanse rechter heeft toegegeven, gerechtelijke uitspraken."* 
 
 ChatGPT heeft de EU-instellingen er toe aangezet hun ontwerpplannen te herschrijven. 
-Zij zullen de details van een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *--Microsoft, Alphabet en Meta, de ontwikkelingen angstvallig in de gaten.
+Zij zullen de details van een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *---Microsoft, Alphabet en Meta---* de ontwikkelingen angstvallig in de gaten.
 
 
 <!-- Het zelfde geldt voor *"Beeldende"* Gen-AI die instaat zijn om zowel cartoons  als ook "Fake"" foto's van politici tegenereen, wat de vrees voor desinformatie aanwakkert.
