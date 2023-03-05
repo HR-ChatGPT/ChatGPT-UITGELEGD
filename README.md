@@ -177,7 +177,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 -->
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten??](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
-* [0f] [+Voldoet ChatGPT aan de Eropeese AI-verordening/Richtlijn AI-aansprakelijkheid?](#v0f)
+* [0f] [+Voldoet ChatGPT aan Europese Richtlijnen?](#v0f)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -531,9 +531,6 @@ van fysieke ervaring, zoiets creëren als de rijke, op concepten gebaseerde ment
 (3) Als deze systemen zulke concepten niet creëren, kunnen hun onvoorstelbaar grote systemen van statistische correlaties dan vaardigheden voortbrengen die functioneel gelijkwaardig zijn aan menselijk begrip? Of, inderdaad, die nieuwe vormen van hogere-orde logica mogelijk maken waartoe de mens geen toegang heeft? En heeft het dan nog zin om zulke correlaties "onecht" te noemen of de resulterende oplossingen "sluiproutes"? En heeft het zin om het gedrag van de systemen niet te zien als "bekwaamheid zonder begrip" maar als een nieuwe, niet-menselijke vorm van begrip? Deze vragen behoren niet langer tot het domein van abstracte filosofische discussies, maar raken aan zeer reële zorgen over de mogelijkheden, robuustheid, veiligheid en ethiek van AI-systemen die in toenemende mate een rol spelen in het dagelijks leven van mensen. leven.
 -->
 
-
-
-
 ### Wat gebeurt er als je een tekstuele opdracht/prompt aan een LLM toewijst?
 
 <!--
@@ -613,6 +610,40 @@ https://doi.org/10.1145/3442188.3445922
 
 
 <br>
+
+
+# v0f
+
+*******
+### [1f] VOLDOET ChatGPT AAN DE EUROPESE AI-REGELGEVING?
+*******
+De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/).
+
+>*"Europe’s original plan to bring AI under control is no match for the technology’s new, shiny chatbot application."*
+
+Op 12 april 2021 heeft de Europese Commissie een voorstel gedaan voor een *"Artificial Intelligence Act", om zo betrouwbare kunstmatige intelligentie te garanderen. 
+
+>European AI Act <br>
+*De "Artificial Intelligence Act (AI-Act)" is een voorstel voor regulatie die tot doel heeft een gemeenschappelijk regelgevend en juridisch kader voor AI in te voeren. Het toepassingsgebied omvat alle sectoren (behalve militaire) en alle soorten kunstmatige intelligentie. Als productregelgeving verleent het voorstel geen rechten aan personen, maar regelt het de aanbieders van kunstmatige intelligentiesystemen en entiteiten die er beroepshalve gebruik van maken.*
+
+
+ChatGPT heeft recente Europese *---de Europese Commissie, het Europees Parlement en de Raad van Europa---*  inspanningen om AI te reguleren, overhoop gehaald. De verordening, die eind 2021 door de EU-Commissie werd voorgesteld, was bedoeld om bepaalde AI-toepassingen zoals sociale scoring, manipulatie en sommige gevallen van gezichtsherkenning onder toezicht te stellen of zelfs te verbieden. Uitgangspunt is om  specifieke toepassingen van AI aan te merken met labels zoals  "hoog risico", waardoor ontwikkelaars zich zouden moeten houden aan strengere eisen op het gebied van transparantie, veiligheid en menselijk toezicht.
+
+Het addertje onder het gras? ChatGPT, is een vorm van *"Talige"* Generatieve-AI. Het kan worden benut voor talloze zeer uiteenlopende positive of negatieve doeleinden: *"Mensen kunnen er liedjes, romans en gedichten mee schrijven, maar ook computercode, beleidsnota's, nepnieuws-berichten of, zoals een Colombiaanse rechter heeft toegegeven, gerechtelijke uitspraken."* 
+
+ChatGPT heeft de EU-instellingen er toe aangezet hun ontwerpplannen te herschrijven. 
+Zij zullen de details van een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *--Microsoft, Alphabet en Meta, de ontwikkelingen angstvallig in de gaten.
+
+
+<!-- Het zelfde geldt voor *"Beeldende"* Gen-AI die instaat zijn om zowel cartoons  als ook "Fake"" foto's van politici tegenereen, wat de vrees voor desinformatie aanwakkert.
+
+
+In één geval bedreigde de nieuwe Bing-zoekmachine met de technologie van ChatGPT een onderzoeker met "hacken" en "ruïneren". In een ander geval hyperseksuele foto's van Aziatische vrouwen in een AI-app genaamd Lensa.
+"Deze systemen hebben geen ethisch begrip van de wereld, hebben geen besef van waarheid en zijn niet betrouwbaar," zei Gary Marcus, een AI-expert en uitgesproken criticus.
+Deze AI's "zijn als motoren. Het zijn zeer krachtige motoren en algoritmen die een heleboel dingen kunnen doen en die zelf nog geen doel hebben", aldus Dragoș Tudorache, een liberale Roemeense wetgever die samen met de Italiaanse socialistische wetgever Brando Benifei de AI-wet door het Europees Parlement moet loodsen.
+De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te herschrijven. De EU-Raad, die de nationale hoofdsteden vertegenwoordigt, keurde in december zijn versie van de ontwerp-AI-wet goed, die de Commissie zou belasten met het vaststellen van eisen op het gebied van cyberbeveiliging, transparantie en risicobeheer voor AI's voor algemeen gebruik.
+-->
+
 
 
 # v1a
@@ -1182,40 +1213,6 @@ hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat
 
 
 <br>
-
-
-# v1f
-
-*******
-### [1f] VOLDOET ChatGPT AAN DE EUROPESE AI-REGELGEVING?
-*******
-De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/).
-
->*"Europe’s original plan to bring AI under control is no match for the technology’s new, shiny chatbot application."*
-
-Op 12 april 2021 heeft de Europese Commissie een voorstel gedaan voor een *"Artificial Intelligence Act", om zo betrouwbare kunstmatige intelligentie te garanderen. 
-
->European AI Act <br>
-*De "Artificial Intelligence Act (AI-Act)" is een voorstel voor regulatie die tot doel heeft een gemeenschappelijk regelgevend en juridisch kader voor AI in te voeren. Het toepassingsgebied omvat alle sectoren (behalve militaire) en alle soorten kunstmatige intelligentie. Als productregelgeving verleent het voorstel geen rechten aan personen, maar regelt het de aanbieders van kunstmatige intelligentiesystemen en entiteiten die er beroepshalve gebruik van maken.*
-
-
-ChatGPT heeft recente Europese *---de Europese Commissie, het Europees Parlement en de Raad van Europa---*  inspanningen om AI te reguleren, overhoop gehaald. De verordening, die eind 2021 door de EU-Commissie werd voorgesteld, was bedoeld om bepaalde AI-toepassingen zoals sociale scoring, manipulatie en sommige gevallen van gezichtsherkenning onder toezicht te stellen of zelfs te verbieden. Uitgangspunt is om  specifieke toepassingen van AI aan te merken met labels zoals  "hoog risico", waardoor ontwikkelaars zich zouden moeten houden aan strengere eisen op het gebied van transparantie, veiligheid en menselijk toezicht.
-
-Het addertje onder het gras? ChatGPT, is een vorm van *"Talige"* Generatieve-AI. Het kan worden benut voor talloze zeer uiteenlopende positive of negatieve doeleinden: *"Mensen kunnen er liedjes, romans en gedichten mee schrijven, maar ook computercode, beleidsnota's, nepnieuws-berichten of, zoals een Colombiaanse rechter heeft toegegeven, gerechtelijke uitspraken."* 
-
-ChatGPT heeft de EU-instellingen er toe aangezet hun ontwerpplannen te herschrijven. 
-Zij zullen de details van een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *--Microsoft, Alphabet en Meta, de ontwikkelingen angstvallig in de gaten.
-
-
-<!-- Het zelfde geldt voor *"Beeldende"* Gen-AI die instaat zijn om zowel cartoons  als ook "Fake"" foto's van politici tegenereen, wat de vrees voor desinformatie aanwakkert.
-
-
-In één geval bedreigde de nieuwe Bing-zoekmachine met de technologie van ChatGPT een onderzoeker met "hacken" en "ruïneren". In een ander geval hyperseksuele foto's van Aziatische vrouwen in een AI-app genaamd Lensa.
-"Deze systemen hebben geen ethisch begrip van de wereld, hebben geen besef van waarheid en zijn niet betrouwbaar," zei Gary Marcus, een AI-expert en uitgesproken criticus.
-Deze AI's "zijn als motoren. Het zijn zeer krachtige motoren en algoritmen die een heleboel dingen kunnen doen en die zelf nog geen doel hebben", aldus Dragoș Tudorache, een liberale Roemeense wetgever die samen met de Italiaanse socialistische wetgever Brando Benifei de AI-wet door het Europees Parlement moet loodsen.
-De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te herschrijven. De EU-Raad, die de nationale hoofdsteden vertegenwoordigt, keurde in december zijn versie van de ontwerp-AI-wet goed, die de Commissie zou belasten met het vaststellen van eisen op het gebied van cyberbeveiliging, transparantie en risicobeheer voor AI's voor algemeen gebruik.
--->
-
 
 # v2
 ********
