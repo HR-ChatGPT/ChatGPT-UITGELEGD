@@ -1275,9 +1275,18 @@ Dus een alternatieve manier om naar het gebruik van een openbare versie van Chat
 * Public Library University of Queensland, Australië.
 [How to cite or acknowledge generative AI tools in your assignments and publications.](https://guides.library.uq.edu.au/referencing/chatgpt-and-generative-ai-tools)
 
-* Public Library University of Guelp-Humber, Canada. [ChatGPT & Other AI Generative Tools](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441#:~:text=If%20the%20text%20that%20ChatGPT,square%20brackets%20(that%20ideally%20includes)
+* Public Library University of Guelp-Humber, Canada. 
+[ChatGPT & Other AI Generative Tools](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441#:~:text=If%20the%20text%20that%20ChatGPT)
+
+* Public Library Macquarie University,  Australië.
+[Referencing generative AI (e.g. ChatGPT)](https://libguides.mq.edu.au/referencing/Oxford)
 
 * Samenvatting [APA Citation Style Guide (7th ed.)](https://citetotal.com/apa-citation-style-guide/) + uitleg hoe deze toe te passen. 
+
+<!--
+https://sarahlawrence.libguides.com/chatgpt
+
+-->
 
 
 <br>
