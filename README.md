@@ -1279,6 +1279,9 @@ Met andere woorden, informatie ontleend aan het gebruik van ChatGPT kan worden b
 Dus een alternatieve manier om naar het gebruik van een openbare versie van ChatGPT te refereren is als volgt: <br>
 *"Code-davinci-002, accessed via InstructGPT interface (march 2023). [Data set]. https://chat.openai.com/*
 
+Tenslotte is het de moeite waard om het ACL Blog te lezen getiteld [*"ACL 2023 Policy on AI Writing Assistance"*](https://2023.aclweb.org/blog/ACL-2023-policy/) waarin een *checklist* wordt gegeven voor het verantwoord gebruik van *"AI writing assistance"*.
+
+>*In consultation with the ACL exec, ACL 2023 expands the mandatory Responsible NLP Checklist developed at NAACL 2022 by one more question concerning the use of writing assistants.*
 
 ### Geselecteerde referenties voor verder lezen
 
@@ -1293,6 +1296,7 @@ Dus een alternatieve manier om naar het gebruik van een openbare versie van Chat
 
 * Samenvatting [APA Citation Style Guide (7th ed.)](https://citetotal.com/apa-citation-style-guide/) + uitleg hoe deze toe te passen. 
 
+* ACL 2023 Policy on AI Writing Assistance. https://2023.aclweb.org/blog/ACL-2023-policy/
 <!--
 https://sarahlawrence.libguides.com/chatgpt
 
