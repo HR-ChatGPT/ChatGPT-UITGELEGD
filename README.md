@@ -1240,23 +1240,34 @@ hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat
 *******
 ### [1f] KUN JE ChatGPT ALS BRON CITEREN?
 *******
-De onderstaande tekst is gebaseerd op (1) de gebruiksvoorwaarden zoals weergegeven op de [*"OpenAI LD Terms of Use"*](https://openai.com/policies/terms-of-use) website, (2) een Post (31 januari 2023) op StackExchange getiteld  [*"Do I need to cite ChatGPT in published writing?"*](https://writing.stackexchange.com/questions/64374/do-i-need-to-cite-chatgpt-in-published-writing) en de [*APA-7de editie richtlijnen*](https://citetotal.com/apa-citation-style-guide/) voor het citeren van online bronnen.
+De onderstaande tekst is gebaseerd op (1) de gebruiksvoorwaarden zoals weergegeven op de [*"OpenAI LD Terms of Use"*](https://openai.com/policies/terms-of-use) website, (2) een Post (31 januari 2023) op StackExchange getiteld  [*"Do I need to cite ChatGPT in published writing?"*](https://writing.stackexchange.com/questions/64374/do-i-need-to-cite-chatgpt-in-published-writing) en de [*APA-7de editie richtlijnen*](https://apastyle.apa.org/instructional-aids/reference-examples.pdf) voor het citeren van online bronnen.
 
 Onder punt 2 *---Usage Requirements---*  van de *"OpenAI LD"* gebruiksvoorwaarden staat: 
 
 >*(c) Restrictions... You may not (v) represent that output from the Services was human-generated when it is not... *
 
-Dit betekent "letterlijk" dat je niet mag zeggen dat de tekst die je hebt gegenereerd met ChatGPT door een mens is geschreven.
+Dit betekent *"letterlijk"* dat je niet mag zeggen dat de tekst die je hebt gegenereerd met ChatGPT door een mens is geschreven.
+
 Opmerkelijk genoeg staat er niets over het citeren van ChatGPT als bron in de "APA-style-guide".
 
+>*The APA-Style team is currently working on official guidelines on how to cite, quote, and use ChatGPT  and other generative AI tools.*
 
-Opmerkelijk genoeg vermelden verschillende Engelstalige universitaire bibliotheken *---zie referenties voor veder lezen, onderaan deze FAC---* dat je ChatGPT wel degelijk als bron kunt citeren in onderzoeksrapportages onder de noemer *"persoonlijke communicatie"*. Ze geven tegelijkertijd aan dat dit niet de officiële APA-richtlijnen zijn.
+Toch vermelden verschillende Engelstalige universitaire bibliotheken *---zie referenties voor veder lezen, onderaan deze FAC---* dat je ChatGPT wel degelijk als bron kunt citeren in onderzoeksrapportages onder de noemer *"persoonlijke communicatie"*. Ze geven tegelijkertijd aan dat dit niet de officiële APA-richtlijn is.
 
->*The APA-Style team is currently working on official guidelines on how to cite, quote, and use ChatGPT  and other generative AI tools. <br>  Listed here is an interim guidance and some examples as of February 2023. <br> Definitive and detailed guidelines on this topic will be posted when available.*
+Hun argumentatie is als volgt *"Content from generative AI ---such as ChatGPT---  is a nonrecoverable source as it can't be retrieved or linked"* en dat *"Citing ChatGPT as a personal communication is the best way to acknowledge the use of generative AI tools in your writing."*. 
 
-Hun argument is als volgt *"Content from generative AI is a nonrecoverable source as it can't be retrieved or linked"* en dat *"Citing ChatGPT as a personal communication is the best way to acknowledge the use of generative AI tools in your writing."*. Hiermee wordt bedoeld dat je ChatGPT als bron moet citeren in de vorm van een persoonlijke communicatie omdat je de informatie ontleed aan *de communicatie tussen jou en ChatGPT* niet online opvraagbaar is en dus niet als bron kunt vermelden in een bibliografie.
+Hiermee wordt bedoeld dat je ChatGPT als bron moet citeren in de vorm van een *"persoonlijke communicatie"*  omdat de informatie ontleed is aan *de communicatie tussen de citerende schrijver en ChatGPT* niet online opvraagbaar is en dus niet als bron kunt vermelden in een bibliografie. Dit laatste is een belangrijk punt, want het betekent dat je de bron niet online kunt opvragen en dus niet kunt controleren of de informatie die je hebt ontleend aan ChatGPT wel klopt.
 
+Maar of er daadwerkelijk sprake is van een *"persoonlijke communicatie"* is een tweede. Het is namelijk niet zo dat ChatGPT een persoon is die je daadwerkelijk hebt geïnterviewd. ChatGPT is een computerprogramma dat tekst genereert in reactie op een prompt. 
+Voor een dieper inzicht over *"prompting"* zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v0e.
+Het is dus niet letterlijk een *"persoonlijke communicatie"* het zou dan eerder een *"Chatbot-communicatie"* moeten zijn.
 
+Je kunt er ook anders naar kijken. Feitelijk is ChatGPT een gebruikersinterface in de vorm van een chatbot die je toegang geeft tot een groot taalmodel met informatie. Je kunt het zien als een *"soort zoekmachine"* die je toegang geeft tot een dataset met informatie afkomstig van het world-wide-web. Voor meer uitleg hierover zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v1a. 
+
+Met andere woorden, informatie ontleend aan het gebruik van ChatGPT kan worden beschouwd als het gebruik van zeer gesofisticeerde  *"online dataset"* in de vorm van een *"taalmodel"* dat je toegang geeft tot een enorme hoeveelheid informatie. Om precies te zijn, ChatGTP maak gebruikt van het *---InstructGPT model---*, dat is getraind op basis van code-davinci-002 broncode met behulp van "Supervised fine-tuning on human demonstrations" in combinatie met "Unsupervised fine-tuning on a large corpus of text".
+
+Dus een alternatieve manier om naar het gebruik van een openbare versie van ChatGPT te refereren is als volgt: <br>
+*"Code-davinci-002, accessed via InstructGPT interface (march 2023). [Data set]. https://chat.openai.com/*
 
 
 ### Geselecteerde referenties voor verder lezen
@@ -1266,8 +1277,7 @@ Hun argument is als volgt *"Content from generative AI is a nonrecoverable sourc
 
 * Public Library University of Guelp-Humber, Canada. [ChatGPT & Other AI Generative Tools](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441#:~:text=If%20the%20text%20that%20ChatGPT,square%20brackets%20(that%20ideally%20includes)
 
-* Do you need to cite ChatGPT if you use it?
-[Citing ChatGPT in Public Writing: A Guide](https://www.brilliancenw.com/blog/do-you-need-to-cite-chatgbt-if-you-use-it)
+* Samenvatting [APA Citation Style Guide (7th ed.)](https://citetotal.com/apa-citation-style-guide/) + uitleg hoe deze toe te passen. 
 
 
 <br>
