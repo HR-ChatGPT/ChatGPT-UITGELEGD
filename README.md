@@ -627,12 +627,29 @@ Op 12 april 2021 heeft de Europese Commissie een voorstel gedaan voor een *"Arti
 *De "Artificial Intelligence Act (AI-Act)" is een voorstel voor regulatie die tot doel heeft een gemeenschappelijk regelgevend en juridisch kader voor AI in te voeren. Het toepassingsgebied omvat alle sectoren (behalve militaire) en alle soorten kunstmatige intelligentie. Als productregelgeving verleent het voorstel geen rechten aan personen, maar regelt het de aanbieders van kunstmatige intelligentiesystemen en entiteiten die er beroepshalve gebruik van maken.*
 
 
-ChatGPT heeft recente Europese *---de Europese Commissie, het Europees Parlement en de Raad van Europa---*  inspanningen om AI te reguleren, overhoop gehaald. De verordening, die eind 2021 door de EU-Commissie werd voorgesteld, was bedoeld om bepaalde AI-toepassingen zoals sociale scoring, manipulatie en sommige gevallen van gezichtsherkenning onder toezicht te stellen of zelfs te verbieden. Uitgangspunt is om  specifieke toepassingen van AI aan te merken met labels zoals  *"hoog risico"*, waardoor ontwikkelaars zich zouden moeten houden aan strengere eisen op het gebied van transparantie, veiligheid en menselijk toezicht.
+ChatGPT heeft recente Europese *---de Europese Commissie, het Europees Parlement en de Raad van Europa---*  inspanningen om AI te reguleren, overhoop gehaald. De verordening, die eind 2021 door de EU-Commissie werd voorgesteld, was bedoeld om bepaalde AI-toepassingen zoals sociale scoring, manipulatie en sommige gevallen van gezichtsherkenning onder toezicht te stellen of zelfs te verbieden. Uitgangspunt is om  specifieke AI-technologie ---zoals chatbots--- aan te merken met het label  *"hoog risico"*. Hierdoor  worden ontwikkelaars onderworpen aan zeer strenger eisen op het gebied van transparantie, veiligheid en menselijk toezicht.
 
-Het addertje onder het gras? ChatGPT, is een vorm van *"Talige"* Generatieve-AI. Het kan worden benut voor talloze zeer uiteenlopende positive of negatieve doeleinden: *"Mensen kunnen er liedjes, romans en gedichten mee schrijven, maar ook computercode, beleidsnota's, nepnieuws-berichten of, zoals een Colombiaanse rechter heeft toegegeven, gerechtelijke uitspraken."* 
+Het addertje onder het gras? ChatGPT, is een vorm van *"Talige"* Generatieve-AI. Het kan worden benut voor zowel  *positive* alsook *negatieve* doeleinden: *"Mensen kunnen er liedjes, romans en gedichten mee schrijven, maar ook computercode, beleidsnota's, nepnieuws-berichten of, zoals een Colombiaanse rechter heeft toegegeven, gerechtelijke uitspraken."* 
 
-ChatGPT heeft de EU-instellingen er toe aangezet hun ontwerpplannen te herschrijven. 
-Zij zullen de details van een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *---Microsoft, Alphabet en Meta---* de ontwikkelingen angstvallig in de gaten.
+<!--
+Zoals veel nieuwe technologieën heeft Gen-AI de bekende paniek opgeroepen: Doemdenkers voorspellen dat dergelijke tools het onderwijs zullen vernietigen, catastrofale redundanties zullen creëren, de massa's in verwarring zullen brengen en zullen controleren - of ze zullen zelfbewust worden (en daar verdrietig om zijn).
+--> 
+
+Dus het lijkt erop dat door de enorme populariteit van Gen-AI, de EU-instellingen zich gedwongen voelen hun ontwerpplannen te amenderen. Uitgangspunt is een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *---Microsoft, Alphabet en Meta---* de ontwikkelingen angstvallig in de gaten.
+
+Wanneer er terechte zorgen bestaan over Gen-AI *---zoals de verspreiding van verkeerde informatie of schadelijke inhoud---* moeten wetgevers deze risico's aanpakken in sectorale wetgeving *---zoals de wet op de digitale diensten, die platforms en zoekmachines verplicht om verkeerde informatie en schadelijke inhoud aan te pakken---*. 
+Maar het is contraproductief, om een brede categorie aan AI-technologie, zoals chatbots als *"hoog risico"* aan te merken. Hierbij wordt volledig voorbijgegaan  aan verschillende in risicoprofielen op basis van de  *"use case"*. 
+
+Naast ChatGPT, dat mensen al gebruiken voor een reeks waardevolle functies, zou dit amendement achteloos andere nuttige en onschadelijke hulpmiddelen als "hoog risico" bestempelen, waaronder:
+- Grammarly, software voor tekstvoorspelling en -correctie
+- Prose Media, een hulpmiddel voor marketing en creatieve inhoud
+- Speechmate, een hulpmiddel voor het schrijven van toespraken
+- GitHub Copilot, een tool voor het genereren van code
+- Bloomberg's Brief Analyzer, een hulpmiddel voor samenvattingen gebruikt door advocaten.
+
+Door de bovenstaande *"use-cases"* als *"hoog risico"* aan te merken, zal de AI-wet de productiviteit en creativiteit afremmen. Erger nog, de wet zou deze instrumenten - waarvan vele momenteel vrij te gebruiken zijn - beperken door ze te onderwerpen aan dure nalevingseisen. De grootste zorg is nu niet zozeer dat chatbots leugens verspreiden, maar dat critici leugens verspreiden over chatbots.
+
+
 
 
 <!-- Het zelfde geldt voor *"Beeldende"* Gen-AI die instaat zijn om zowel cartoons  als ook "Fake"" foto's van politici tegenereen, wat de vrees voor desinformatie aanwakkert.
