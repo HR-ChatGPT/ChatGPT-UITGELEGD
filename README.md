@@ -520,9 +520,7 @@ bij voldoende grote netwerken en training datasets. Er is een nieuwe AI-mantra o
 * *"gezond verstand redeneren"*
 
 
-Dit geeft een onderliggende aanname weer dat *"probleem oplossend vermogen"* vereist is om goed te presteren op *"Talige"* taken.  <br> Maar vereisen deze taken daadwerkelijk een dergelijk begrip nodig? 
-
-Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
+De onderliggende aanname is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
 <!--
 De kernvragen van het debat over begrip in LLM's zijn de volgende:
 (1) Is spreken van begrip in dergelijke systemen gewoon een categoriefout, waarbij associaties tussen taaltokens worden verward met associaties tussen tokens en fysieke, sociale of mentale ervaring? Kortom, is het zo dat deze modellen niet het soort dingen zijn en nooit zullen zijn die kunnen begrijpen? Of omgekeerd, 
