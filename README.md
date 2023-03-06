@@ -190,7 +190,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1d] [Maakt ChatGPT *"valsspelen"* makkelijker en is het te detecteren?](#v1d)
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
-* [1f] [+Kun ja ChatGPT citeren als bron?](#v1f)
+* [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
 -->
@@ -1262,7 +1262,7 @@ Maar of er daadwerkelijk sprake is van een *"persoonlijke communicatie"* is een 
 Voor een dieper inzicht over *"prompting"* zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v0e.
 Het is dus niet letterlijk een *"persoonlijke communicatie"* het zou dan eerder een *"Chatbot-communicatie"* moeten zijn.
 
-Je kunt er ook anders naar kijken. Feitelijk is ChatGPT een gebruikersinterface in de vorm van een chatbot die je toegang geeft tot een groot taalmodel met informatie. Je kunt het zien als een *"soort zoekmachine"* die je toegang geeft tot een dataset met informatie afkomstig van het world-wide-web. Voor meer uitleg hierover zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v1a. 
+Je kunt er ook anders naar kijken. Feitelijk is ChatGPT een gebruikersinterface in de vorm van een chatbot die je toegang geeft tot een groot taalmodel met informatie. Je kunt het zien als een *"soort zoekmachine"* die je toegang geeft tot een dataset met teksten afkomstig van het world-wide-web. Voor meer uitleg hierover zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v1a. 
 
 Met andere woorden, informatie ontleend aan het gebruik van ChatGPT kan worden beschouwd als het gebruik van zeer gesofisticeerde  *"online dataset"* in de vorm van een *"taalmodel"* dat je toegang geeft tot een enorme hoeveelheid informatie. Om precies te zijn, ChatGTP maak gebruikt van het *---InstructGPT model---*, dat is getraind op basis van code-davinci-002 broncode met behulp van *"Supervised fine-tuning on human demonstrations"* in combinatie met *"Unsupervised fine-tuning on a large corpus of text"*.
 
