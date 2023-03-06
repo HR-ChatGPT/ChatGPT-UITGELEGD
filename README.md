@@ -617,7 +617,7 @@ https://doi.org/10.1145/3442188.3445922
 *******
 ### [1f] VOLDOET ChatGPT AAN DE EUROPESE AI-REGELGEVING?
 *******
-De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/) en het *Center for Data Innovation* blog van Patrick Grady, getiteld: [*"ChatGPT Amendment Shows the EU is Regulating by Outrage"*](https://datainnovation.org/2023/02/chatgpt-amendment-shows-the-eu-is-regulating-by-outrage/).
+De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/) en het *Center for Data Innovation* blog (13 februari 2023) van Patrick Grady, getiteld: [*"ChatGPT Amendment Shows the EU is Regulating by Outrage"*](https://datainnovation.org/2023/02/chatgpt-amendment-shows-the-eu-is-regulating-by-outrage/).
 
 >*"Europe’s original plan to bring AI under control is no match for the technology’s new, shiny chatbot application."*
 
@@ -645,7 +645,7 @@ zeer waardevolle *"Talige"* Gen-AI diensten  als *"hoog risico"* bestempelen, wa
 - GitHub Copilot, een tool voor het genereren van code
 - Bloomberg's Brief Analyzer, een hulpmiddel voor samenvattingen gebruikt door advocaten.
 
-Door de bovenstaande diensten als *"hoog risico"* aan te merken, omdat ze vallen onder de noemer *"Talige"* Gen-AI, zou binnen de EU AI-gedreven innovatie sterk worden belemmert. 
+Door de bovenstaande diensten als *"hoog risico"* aan te merken, omdat ze vallen onder de noemer *"Talige"* Gen-AI, zou binnen de EU AI-gedreven innovatie sterk worden belemmerd. 
 
 <!--
 Erger nog, de wet zou deze instrumenten - waarvan vele momenteel vrij te gebruiken zijn - beperken door ze te onderwerpen aan dure nalevingseisen. De grootste zorg is nu niet zozeer dat chatbots leugens verspreiden, maar dat critici leugens verspreiden over chatbots.
