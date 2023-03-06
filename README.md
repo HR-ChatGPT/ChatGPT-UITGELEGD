@@ -323,6 +323,15 @@ Volgens  [Time Magazine](https://time.com/6255952/ai-impact-chatgpt-microsoft-go
 >OpenAI volgde dan ook snel door het afgeschermde Dall-E 2 publiekelijk beschikbaar te stellen. Vervolgens gaf het in november 2022  ChatGPT vrij voor het publiek, naar verluidt om de dreigende concurrentie voor te zijn. OpenAI CEO Sam Altman benadrukte in interviews dat hoe meer mensen AI-programma's gebruikten, hoe sneller ze zouden verbeteren. <br> <br>
 In februari 2023 kondigde Alphabet aan om zijn ChatGPT-rivaal Bard uit te brengen. En in het recente kwartaalgesprek van Meta verklaarde CEO Mark Zuckerberg dat hij ernaar streeft dat het bedrijf "een leider wordt in generatieve AI".
 
+#### Geselecteerde referenties voor verder lezen
+
+* Generative AI: Perspectives from Stanford HAI. (2023). How do you think generative AI will affect your field and society going forward? https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf
+
+
+* Sheikh, H., Prins, C., & Schrijvers, E. (Eds.). (2023). Mission AI. The New System Technology. WRR, Scientific Council for Government Policy. Springer. https://doi.org/10.1007/978-3-031-21448-6
+
+
+
 # v0b
 
 *******
@@ -973,6 +982,7 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 * Alternatieven voor OpenAI's RLHF methodiek zijn voorgesteld door Meta's DeepMind in [*Sparrow: "Improving alignment of dialogue agents via targeted human judgements"*](https://arxiv.org/abs/2209.14375) en [*GopherCite: "Teaching language models to support answers with verified quotes"*](https://doi.org/10.48550/arXiv.2203.11147) papers.
 * Een doorwrochten bespreking van het *"Alignment probleem"* uit 2021 m.b.t. taalmodellen is getiteld [*"A General Language Assistant as a Laboratory for Alignment"*](https://doi.org/10.48550/arXiv.2112.00861). Een uitstekende samenvatting hiervan is geschreven door Sam Ringer getiteld: ["A Summary Of Anthropic's First Paper"](https://www.lesswrong.com/posts/oBpebs5j5ngs3EXr5/a-summary-of-anthropic-s-first-paper-3?ref=news-tutorials-ai-research).
 * Github repository van Anthropic voor de code van het Alignment probleem: https://github.com/anthropics/hh-rlhf?ref=news-tutorials-ai-research.
+* Generative AI: Perspectives from Stanford HAI How do you think generative AI will affect your field and society going forward? https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf
 
 <br>
 
