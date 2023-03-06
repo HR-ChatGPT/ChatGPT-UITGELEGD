@@ -1264,7 +1264,7 @@ Het is dus niet letterlijk een *"persoonlijke communicatie"* het zou dan eerder 
 
 Je kunt er ook anders naar kijken. Feitelijk is ChatGPT een gebruikersinterface in de vorm van een chatbot die je toegang geeft tot een groot taalmodel met informatie. Je kunt het zien als een *"soort zoekmachine"* die je toegang geeft tot een dataset met informatie afkomstig van het world-wide-web. Voor meer uitleg hierover zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v1a. 
 
-Met andere woorden, informatie ontleend aan het gebruik van ChatGPT kan worden beschouwd als het gebruik van zeer gesofisticeerde  *"online dataset"* in de vorm van een *"taalmodel"* dat je toegang geeft tot een enorme hoeveelheid informatie. Om precies te zijn, ChatGTP maak gebruikt van het *---InstructGPT model---*, dat is getraind op basis van code-davinci-002 broncode met behulp van "Supervised fine-tuning on human demonstrations" in combinatie met "Unsupervised fine-tuning on a large corpus of text".
+Met andere woorden, informatie ontleend aan het gebruik van ChatGPT kan worden beschouwd als het gebruik van zeer gesofisticeerde  *"online dataset"* in de vorm van een *"taalmodel"* dat je toegang geeft tot een enorme hoeveelheid informatie. Om precies te zijn, ChatGTP maak gebruikt van het *---InstructGPT model---*, dat is getraind op basis van code-davinci-002 broncode met behulp van *"Supervised fine-tuning on human demonstrations"* in combinatie met *"Unsupervised fine-tuning on a large corpus of text"*.
 
 Dus een alternatieve manier om naar het gebruik van een openbare versie van ChatGPT te refereren is als volgt: <br>
 *"Code-davinci-002, accessed via InstructGPT interface (march 2023). [Data set]. https://chat.openai.com/*
