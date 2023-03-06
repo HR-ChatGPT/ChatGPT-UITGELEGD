@@ -617,7 +617,7 @@ https://doi.org/10.1145/3442188.3445922
 *******
 ### [1f] VOLDOET ChatGPT AAN DE EUROPESE AI-REGELGEVING?
 *******
-De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/).
+De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/) en het *Center for Data Innovation* blog van Patrick Grady, getiteld: [*"ChatGPT Amendment Shows the EU is Regulating by Outrage"*](https://datainnovation.org/2023/02/chatgpt-amendment-shows-the-eu-is-regulating-by-outrage/).
 
 >*"Europe’s original plan to bring AI under control is no match for the technology’s new, shiny chatbot application."*
 
