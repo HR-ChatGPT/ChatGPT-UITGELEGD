@@ -452,6 +452,10 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 
 #### Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs
 
+Sinds begin maart 2023 is er een handreiking beschikbaar https://hint.hr.nl/nl/HR/Over-de-HR/Kwaliteit-en-onderwijs/toetsen-en-beoordelen/chatgpt/
+
+
+
 | (onderwijs)instelling  | omschrijving | URL |
 | ---- | ---- | --- |
 | Radboud <br> Universiteit [RU] | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> <br>|
