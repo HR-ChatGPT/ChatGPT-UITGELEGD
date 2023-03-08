@@ -227,7 +227,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 
 Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 
-ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld door OpenAI.
+ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "*conversationele agenten*" die publiekelijk beschikbaar is gesteld door OpenAI.
 
 Nu GPT de nieuwste sensatie in de wereld van kunstmatige intelligentie [AI] is, probeert Sam Altman *---chief executive of OpenAI---* de effecten ervan te bagatelliseren. Volgens [*"The New York Times (3 februari 2023)"*](https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html) vreest hij dat te veel aandacht en rumoer rondom ChatGPT een regelgevende reactie kan uitlokken vanuit overheden. Of onrealistische verwachtingen bij eindgebruikers over de functionaliteit in toekomstige releases.
 
@@ -770,7 +770,7 @@ Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had h
 
 <br>
 
-GTP-3  toont aan dat wanneer LLM's zeer groot worden gemaakt & getraind met zeer grote hoeveelheden voorbeeld teksten, in combinatie met een zeer hoge [*"algoritme efficiëntie"*](https://arxiv.org/abs/2005.04305),  menselijker lijken om te gaan met talige-input. Deze *schaalhypothese* is in lijn met de aanname dat *menselijke intelligentie*  opgebouwd is uit eenvoudige neurale eenheden & leeralgoritmen toegepast op diverse ervaringen op een (momenteel) voor computationele systemen onbereikbare schaal.  Een review paper, getiteld [*"Inductive biases for deep learning of higher-level cognition."*](https://doi.org/10.1098/rspa.2021.0068), omschrijft dit als volgt:
+GTP-3  toont aan dat wanneer LLM's zeer groot worden gemaakt & getraind met zeer grote hoeveelheden voorbeeld teksten, in combinatie met een zeer hoge [*"algoritme efficiëntie"*](https://arxiv.org/abs/2005.04305),  deze AI-technologie menselijker lijkt om te gaan met talige-input. Deze *schaalhypothese* is in lijn met de aanname dat *menselijke intelligentie*  opgebouwd is uit eenvoudige neurale eenheden & leeralgoritmen toegepast op diverse ervaringen op een (momenteel) voor computationele systemen onbereikbare schaal.  Een review paper, getiteld [*"Inductive biases for deep learning of higher-level cognition."*](https://doi.org/10.1098/rspa.2021.0068), omschrijft dit als volgt:
 
 >Een fascinerende hypothese is dat menselijke en dierlijke intelligentie verklaard kan worden door een paar principes (in plaats van een encyclopedische lijst van heuristieken). Als die hypothese juist is, zouden we gemakkelijker onze eigen intelligentie begrijpen en intelligente machines bouwen. Uiteindelijk zullen neurale netwerken [NN] dan functies kunnen vervullen die niet van menselijke intelligentie zijn te onderscheiden.
 
