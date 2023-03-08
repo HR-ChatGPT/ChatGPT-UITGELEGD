@@ -14,7 +14,7 @@ A beginners guide to ChatGPT
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
 |-----|
-| 1. Begrijpen wat ChatGPT wel en niet kan doen
+| 1. Begrijpen wat ChatGPT wel en niet kan 
 | 2. Ethische overwegingen bediscussiëren 
 | 3. Effectieve prompts schrijven
 | 4. Vervolgvragen schrijven
@@ -526,14 +526,15 @@ Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor *"on
 bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van een nieuw AI-mantra: *"Schaal is alles wat je nodig hebt."*
 
 *"Taalvaardige"* Gen-AI worden getest op basis van maatstaven (benchmarks) zoals:
+|benchmark| 
+|:---|
+| *"algemeen taalbegrip"*
+| *"natuurlijke taal inferentie"*
+| *"begrijpend lezen"*
+| *"gezond verstand redeneren"*
 
-* *"algemeen taalbegrip"*
-* *"natuurlijke taal inferentie"*
-* *"begrijpend lezen"*
-* *"gezond verstand redeneren"*
 
-
-De onderliggende aanname is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
+De aanname onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
 <!--
 De kernvragen van het debat over begrip in LLM's zijn de volgende:
 (1) Is spreken van begrip in dergelijke systemen gewoon een categoriefout, waarbij associaties tussen taaltokens worden verward met associaties tussen tokens en fysieke, sociale of mentale ervaring? Kortom, is het zo dat deze modellen niet het soort dingen zijn en nooit zullen zijn die kunnen begrijpen? Of omgekeerd, 
