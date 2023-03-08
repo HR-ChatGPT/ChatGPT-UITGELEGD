@@ -1278,7 +1278,7 @@ Je kunt er ook anders naar kijken. Feitelijk is ChatGPT een gebruikersinterface 
 Met andere woorden, informatie ontleend aan het gebruik van ChatGPT kan worden beschouwd als het gebruik van zeer gesofisticeerde  *"online dataset"* in de vorm van een *"taalmodel"* dat je toegang geeft tot een enorme hoeveelheid informatie. Om precies te zijn, ChatGTP maak gebruikt van het *---InstructGPT model---*, dat is getraind op basis van code-davinci-002 broncode met behulp van *"Supervised fine-tuning on human demonstrations"* in combinatie met *"Unsupervised fine-tuning on a large corpus of text"*.
 
 Dus een alternatieve manier om naar het gebruik van een openbare versie van ChatGPT te refereren is als volgt: <br>
-*"Code-davinci-002, accessed via InstructGPT interface (march 2023). [Data set]. https://chat.openai.com/"*
+>*Code-davinci-002, accessed via InstructGPT interface (march 2023). [Data set]. https://chat.openai.com/*
 
 Tenslotte is het de moeite waard om het ACL Blog te lezen getiteld [*"ACL 2023 Policy on AI Writing Assistance"*](https://2023.aclweb.org/blog/ACL-2023-policy/) waarin een *checklist* wordt gegeven voor het verantwoord gebruik van *"AI writing assistance"*.
 
