@@ -405,7 +405,7 @@ https://lastweekin.ai/p/the-ai-scaling-hypothesis
 
 [4] Ten vierde , in een AIM blog door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
->*Iemand heeft ChatGPT en Bing AI onlangs een gesprek laten voeren. Prompt na prompt leerden de chatbots over elkaar, en zijn nu beste maatjes! <br> <br> Ondertussen deed zich in 2017 een soortgelijk incident voor toen twee chatbots van Facebook in hun eigen taal met elkaar begonnen te praten, en moesten worden uitgeschakeld. <br> <br> Hetzelfde jaar beweerde Google dat zijn Translate tool de mogelijkheid had om zijn eigen taal te genereren. Ook OpenAI beweert dat AI inderdaad kan worden aangemoedigd zijn eigen taal te creëren. <br> Deze anekdotische beschrijvingen doet de vraag rijzen: <br> 
+>*Iemand heeft ChatGPT en Bing AI onlangs een gesprek laten voeren. Prompt na prompt leerden de chatbots over elkaar, en zijn nu beste maatjes! <br> <br> Ondertussen deed zich in 2017 een soortgelijk incident voor toen twee chatbots van Facebook in hun eigen taal met elkaar begonnen te praten, en moesten worden uitgeschakeld. <br> <br> Hetzelfde jaar beweerde Google dat zijn Translate tool de mogelijkheid had om zijn eigen taal te genereren. Ook OpenAI-LP beweert dat AI inderdaad kan worden aangemoedigd zijn eigen taal te creëren. <br> Deze anekdotische beschrijvingen doet de vraag rijzen: <br> 
 "Zijn Gen-AI echt in staat om hun eigen taal te creëren iets waar mensen te dom voor zijn om te begrijpen?"* 
 
 Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Things" [IoT] en haar industriële variant Cyber Physical Systems [CPS] zo rond 2010, waarbij we hebben toegestaan dat "dingen" onderling met elkaar kunnen communiceren zonder tussen komst van de mens *--- human-in-the-Loop--*. 
@@ -721,13 +721,18 @@ De eerste generatie LLM's werden getraind met immense hoeveelheden teksten *---z
 
 De eerste succesvolle [GPT-taalmodellen](https://openai.com/research/language-unsupervised) zijn over een periode van 2 jaar  ontwikkeld: GTP-1 [(2018)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.princeton.edu/courses/archive/spring20/cos598C/lectures/lec4-pretraining.pdf), GPT-2 [(2019)](https://github.com/openai/gpt-2) en GPT-3 [(2020)](https://github.com/openai/gpt-3) door [OpenAI LP](https://openai.com/blog/openai-lp) dat is opgericht in 2015 als non-profit organisatie. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens.
 
+>De Engelstalige Wikipedia vermeldt: "*OpenAI is an American artificial intelligence (AI) research laboratory consisting of the non-profit OpenAI Incorporated (OpenAI Inc.) and its for-profit subsidiary corporation OpenAI Limited Partnership (OpenAI LP).*"
+
 De grootste stap werd gemaakt met GPT-3, door te kunnen beschikken over [175 miljard parameters](https://doi.org/10.48550/arXiv.2005.14165) *---in combinatie met een zeer hoge  [*"algoritme efficiëntie"*](https://openai.com/blog/ai-and-efficiency/)---* kon het worden  getraind op aanzienlijk meer gegevens dan GPT-2. [GPT-3](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) werd getraind op basis van 598 miljarden tokens/woorden (zie onderstaande tabel). 
 
-De GTP-3  serie is het eerste commercieel geëxploiteerde neurale netwerk [NN] met het  vermogen tot verwerken en genereren van natuurlijke taal [NLP]. GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te leren op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. Het is beschikbaar via https://platform.openai.com/playground.
-Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI *"reinforcement learning from human feedback"* [RLHF]. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om de modellen te belonen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor meer gedetaileerde uitleg zie ["Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"](#v1b)
+De GTP-3  serie is het eerste openbare, commercieel *---lees: "for profit"---* geëxploiteerde neurale netwerk [NN] met het vermogen tot verwerken en genereren van natuurlijke taal [NLP]. Het is beschikbaar via https://platform.openai.com/playground.
+GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te *"leren"* op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. For meer details zie [Kan ChatGPT benut worden als beoordelingsinstrument?](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v0e)
 
 
-OpenAI houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) en *"Unsupervised fine-tuning on a large corpus of text"*.
+Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI-LP *"reinforcement learning from human feedback"* [RLHF]. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om de modellen te belonen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor meer gedetailleerde uitleg zie ["Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"](#v1b)
+
+
+OpenAI-LP houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) in combinatie met  *"Unsupervised fine-tuning on a large corpus of text"*.
 
 <!-- ###############################################################
 Vergeleken met GPT-3 zijn de nieuwe InstructGPT-modellen beter in het volgen van instructies in het Engels, minder geneigd om verkeerde informatie te produceren, en ten minste iets minder geneigd om giftige resultaten te produceren. 
@@ -938,7 +943,7 @@ Voorbeeld03 : hoe het dient te reageren op een prompt
 <br>
 
 <!-- ####
-De taalmodellen zoals GPT-3 blijken het giftige taalgebruik van het internet te over te nemen. Dit maakt ze vatbaar voor racistisch en vrouwonvriendelijk uitingen. Nu het elimineren van vooroordelen een belangrijk onderwerp wordt in de AI-wereld, pakt OpenAI deze uitdaging aan met de introductie van [*InstructGPT*](https://openai.com/research/instruction-following). OpenAI LD doet dit door InstructGPT als standaardmodel te maken voor gebruikers van hun [playground](https://platform.openai.com/playground), een dienst die gebruikers toegang geeft tot de taalmodellen. OpenAI zegt dat GPT-3 beschikbaar blijft, maar raadt het gebruik ervan af.
+De taalmodellen zoals GPT-3 blijken het giftige taalgebruik van het internet te over te nemen. Dit maakt ze vatbaar voor racistisch en vrouwonvriendelijk uitingen. Nu het elimineren van vooroordelen een belangrijk onderwerp wordt in de AI-wereld, pakt OpenAI deze uitdaging aan met de introductie van [*InstructGPT*](https://openai.com/research/instruction-following). OpenAILPdoet dit door InstructGPT als standaardmodel te maken voor gebruikers van hun [playground](https://platform.openai.com/playground), een dienst die gebruikers toegang geeft tot de taalmodellen. OpenAI zegt dat GPT-3 beschikbaar blijft, maar raadt het gebruik ervan af.
 
 
 
@@ -1251,7 +1256,7 @@ hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat
 *******
 ### [1f] KUN JE ChatGPT ALS BRON CITEREN?
 *******
-De onderstaande tekst is gebaseerd op (1) de gebruiksvoorwaarden zoals weergegeven op de [*"OpenAI LD Terms of Use"*](https://openai.com/policies/terms-of-use) website, (2) een Post (31 januari 2023) op StackExchange getiteld  [*"Do I need to cite ChatGPT in published writing?"*](https://writing.stackexchange.com/questions/64374/do-i-need-to-cite-chatgpt-in-published-writing) en de [*APA-7de editie richtlijnen*](https://apastyle.apa.org/instructional-aids/reference-examples.pdf) voor het citeren van online bronnen.
+De onderstaande tekst is gebaseerd op (1) de gebruiksvoorwaarden zoals weergegeven op de [*"OpenAILPTerms of Use"*](https://openai.com/policies/terms-of-use) website, (2) een Post (31 januari 2023) op StackExchange getiteld  [*"Do I need to cite ChatGPT in published writing?"*](https://writing.stackexchange.com/questions/64374/do-i-need-to-cite-chatgpt-in-published-writing) en de [*APA-7de editie richtlijnen*](https://apastyle.apa.org/instructional-aids/reference-examples.pdf) voor het citeren van online bronnen.
 
 Onder punt 2 *---Usage Requirements---*  van de *"OpenAI LD"* gebruiksvoorwaarden staat: 
 
