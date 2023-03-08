@@ -284,7 +284,7 @@ id1[Deze GitHub repository is een primer met bijsluiter dat op basis van <i>PROM
 ### [0a] Wat is "*generatieve kunstmatige intelligentie"* [Gen-AI]?
 *******
 
-De onderstaande tekst is deels ontleed aan het *Times Magazine* artikel getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/).
+De onderstaande tekst is deels ontleent aan het *Times Magazine* artikel getiteld [*"The AI Arms Race Is Changing Everything"*](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/).
 
 "Kunstmatige intelligentie" (AI) is een multidisciplinair vakgebied gericht op het ontwikkelen van technologie dat menselijke cognitieve, perceptuele en/of motorische vermogens kan nabootsen en/of automatiseren. 
 
@@ -1265,9 +1265,9 @@ Opmerkelijk genoeg staat er niets over het citeren van ChatGPT als bron in de "A
 
 Toch vermelden verschillende Engelstalige universitaire bibliotheken *---zie referenties voor veder lezen, onderaan deze FAC---* dat je ChatGPT wel degelijk als bron kunt citeren in onderzoeksrapportages onder de noemer *"persoonlijke communicatie"*. Ze geven tegelijkertijd aan dat dit niet de officiële APA-richtlijn is.
 
-Hun argumentatie is als volgt *"Content from generative AI ---such as ChatGPT---  is a nonrecoverable source as it can't be retrieved or linked"* en dat *"Citing ChatGPT as a personal communication is the best way to acknowledge the use of generative AI tools in your writing."*. 
+Hun argumentatie is als volgt *"...Content from generative AI ---such as ChatGPT---  is a nonrecoverable source as it can't be retrieved or linked"* en dat *"Citing ChatGPT as a personal communication is the best way to acknowledge the use of generative AI tools in your writing..."*. 
 
-Hiermee wordt bedoeld dat je ChatGPT als bron moet citeren in de vorm van een *"persoonlijke communicatie"*  omdat de informatie ontleed is aan *de communicatie tussen de citerende schrijver en ChatGPT* niet online opvraagbaar is en dus niet als bron kunt vermelden in een bibliografie. Dit laatste is een belangrijk punt, want het betekent dat je de bron niet online kunt opvragen en dus niet kunt controleren of de informatie die je hebt ontleend aan ChatGPT wel klopt.
+Hiermee wordt bedoeld dat je ChatGPT als bron moet citeren in de vorm van een *"persoonlijke communicatie"*  omdat de informatie ontleent is aan *de communicatie tussen de citerende schrijver en ChatGPT* niet online opvraagbaar is en dus niet als bron kunt vermelden in een bibliografie. Dit laatste is een belangrijk punt, want het betekent dat je de bron niet online kunt opvragen en dus niet kunt controleren of de informatie die je hebt ontleend aan ChatGPT wel klopt.
 
 Maar of er daadwerkelijk sprake is van een *"persoonlijke communicatie"* is een tweede. Het is namelijk niet zo dat ChatGPT een persoon is die je daadwerkelijk hebt geïnterviewd. ChatGPT is een computerprogramma dat tekst genereert in reactie op een prompt. 
 Voor een dieper inzicht over *"prompting"* zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v0e.
