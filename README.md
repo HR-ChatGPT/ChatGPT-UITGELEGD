@@ -809,6 +809,7 @@ Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgel
 Google's onthulling van rivaal Bard had woensdag een dure gênante stunt toen bleek dat uit promotiemateriaal bleek dat de chatbot een verkeerd antwoord gaf op een vraag.
 --> 
 
+
 <!--
 https://www.microsoft.com/en-us/ai
 https://inspire.microsoft.com/en-US/home
