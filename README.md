@@ -801,7 +801,7 @@ Hierdoor wordt zeer waarschijnlijk het "*gratis-advertentie*" verdien-model losg
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. 
 Via Google's [*"AI Test Kitchen"*](https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/) is hun *"Language Model for Dialogue Applications"* [LaMDA] uit te proberen; althans voor een beperkt aantal *"onderzoekers"* woonachtig in de VS.
-Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie met een taalmodel genaamd LLama, aldus een AI-Blog in The Verge (24 februari, 2023), getiteld: [*"Meta has a new machine learning language model to remind you it does AI too"*](https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model)
+Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie met een taalmodel genaamd *"Large Language Model Meta AI"* [[LLaMA]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), aldus een AI-Blog in The Verge (24 februari, 2023), getiteld: [*"Meta has a new machine learning language model to remind you it does AI too"*](https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model)
 
 >*"LLaMA heeft geen user-interface zoals ChatGPT of Bing. <br> Het is bedoeld als een onderzoekstool dat Meta openstelt voor onderzoekers in de hoop  dat: "de toegang tot dit belangrijke, snel veranderende veld te democratiseren".*
 
