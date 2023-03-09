@@ -580,6 +580,8 @@ flowchart LR
 
 ### Waarom is prompt finetuning noodzakelijk?
 
+
+
 <!--
 | Instituut | Opleidingen |
 | --- | --- |
@@ -747,6 +749,8 @@ Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte 
 
 
 OpenAI-LP houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) in combinatie met  *"Unsupervised fine-tuning on a large corpus of text"*.
+
+De makers hebben een combinatie van Supervised Learning en Reinforcement Learning gebruikt om ChatGPT te verfijnen, maar het is vooral de Reinforcement Learning-component die ChatGPT uniek maakt. De makers gebruiken een specifieke techniek genaamd Reinforcement Learning from Human Feedback (RLHF), die menselijke feedback gebruikt in de trainingslus om schadelijke, onwaarachtige en/of bevooroordeelde output te minimaliseren.
 
 <!-- ###############################################################
 Vergeleken met GPT-3 zijn de nieuwe InstructGPT-modellen beter in het volgen van instructies in het Engels, minder geneigd om verkeerde informatie te produceren, en ten minste iets minder geneigd om giftige resultaten te produceren. 
