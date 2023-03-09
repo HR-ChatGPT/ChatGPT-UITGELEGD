@@ -1243,7 +1243,7 @@ hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat
 
 >Holden Thorp *---hoofd van Science Family for Journals---* verklaarde dat het gebruik van door AI-gegenereerde teksten zonder de juiste citaten kan worden beschouwd als plagiaat, en dat geen enkele publicatie dit mag accepteren.
 
-### Momenteel (19 februari 2023) levert de zoekopdracht *"author:"ChatGPT"* in [Goolge Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&oq=author) een 3-tal *"peer-reviewed"* referenties op. 
+#### Momenteel (19 februari 2023) levert de zoekopdracht *"author:"ChatGPT"* in [Goolge Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+author%3A%22ChatGPT%22&oq=author) een 3-tal *"peer-reviewed"* referenties op. 
 
 * <sub> King, M. R., & chatGPT. (2023). A Conversation on Artificial Intelligence, Chatbots, and Plagiarism in Higher Education. Cellular and Molecular Bioengineering, 1-2. https://link.springer.com/article/10.1007/s12195-022-00754-8
 
