@@ -745,12 +745,11 @@ De GTP-3  serie is het eerste openbare, commercieel *---lees: "for profit"---* g
 GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te *"leren"* op basis van  een of twee voorbeelden. Ook kan het code analyseren en schrijven in onder meer CSS, Markdown, en Python. For meer details zie [Kan ChatGPT benut worden als beoordelingsinstrument?](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#v0e)
 
 
-Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI-LP *"reinforcement learning from human feedback"* [RLHF]. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om de modellen te belonen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor meer gedetailleerde uitleg zie ["Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"](#v1b)
-
+Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI-LP *"reinforcement learning from human feedback"* [RLHF]. Het blijkt zeer effectief om schadelijke, onwaarachtige en/of bevooroordeelde output tot een minimum te beperken. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om zo de chabot te sturen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor meer gedetailleerde uitleg zie ["Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"](#v1b).
 
 OpenAI-LP houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) in combinatie met  *"Unsupervised fine-tuning on a large corpus of text"*.
 
-De makers hebben een combinatie van Supervised Learning en Reinforcement Learning gebruikt om ChatGPT te verfijnen, maar het is vooral de Reinforcement Learning-component die ChatGPT uniek maakt. De makers gebruiken een specifieke techniek genaamd Reinforcement Learning from Human Feedback (RLHF), die menselijke feedback gebruikt in de trainingslus om schadelijke, onwaarachtige en/of bevooroordeelde output te minimaliseren.
+
 
 <!-- ###############################################################
 Vergeleken met GPT-3 zijn de nieuwe InstructGPT-modellen beter in het volgen van instructies in het Engels, minder geneigd om verkeerde informatie te produceren, en ten minste iets minder geneigd om giftige resultaten te produceren. 
