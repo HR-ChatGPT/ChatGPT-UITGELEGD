@@ -559,10 +559,17 @@ Few-shot <br> <br> OR <br> <br>  Chain-of-Tought | genereer een uitkomst op basi
 ### Hoe werkt het?
 
 Chain-of-thought prompts zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van de gewenste uitkomst. Het model is instaat om alle aangeleverde voorbeelden samen te voegen en deze nieuwe *"kennis"* te gebruiken om de juiste woorden te kiezen door deze te vergelijken met de woorden die het model al kent.
+
+
+```mermaid
+flowchart LR
+    id1(Chain of Thought prompting example)
+```
+
 ```mermaid
 
-flowchart LR
-    id1(Chain of Thought)
+flowchart TD
+   
 
     prompt --> information01
     prompt --> information02
