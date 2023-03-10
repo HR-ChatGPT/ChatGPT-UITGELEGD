@@ -571,6 +571,8 @@ In het AI-domein gericht op natuurlijke taal verwerking [NLP] werd tot zeer rece
 
 >*Ieder argument vormt een reden maar niet iedere reden die gegeven wordt, is een argument.*
 
+https://classroom.synonym.com/verbal-reasoning-affect-learning-6737.html
+
 https://monkeylearn.com/blog/natural-language-processing-challenges/
 
 
