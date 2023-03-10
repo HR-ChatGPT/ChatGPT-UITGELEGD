@@ -554,10 +554,11 @@ De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"*
 
 De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. 
 
->De redenering is het proces van het opbouwen van een argumentatie.
+>*Redeneren is het proces van het opbouwen van een argumentatie*
 
 Argumentatie is een verbale en rationele activiteit die erop gericht is een redelijke beoordelaar te overtuigen van de aanvaardbaarheid van een standpunt door één of meer proposities *---beweringen---*  naar voren te brengen die ter rechtvaardiging van dat standpunt dienen.
-> Argumenteren heeft tot doel de ander te overtuigen van een standpunt
+
+>*Argumenteren heeft tot doel de ander te overtuigen van een standpunt*
 
 
 <!--
