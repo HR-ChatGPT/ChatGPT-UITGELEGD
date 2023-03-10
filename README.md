@@ -551,7 +551,7 @@ bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van 
 | *"gezond verstand redeneren"*
 
 
-De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
+De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
 
 De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. 
 
@@ -561,6 +561,9 @@ Argumentatie is een verbale en rationele activiteit die erop gericht is een rede
 
 >*Argumenteren heeft tot doel de ander te overtuigen van een standpunt*
 
+Het is niet altijd helder wat argumenteren precies is en wat het verschil is tussen argumenteren en redeneren. 
+
+>*Ieder argument vormt een reden maar niet iedere reden die gegeven wordt, is een argument.*
 
 <!--
 https://medium.com/nlplanet/two-minutes-nlp-making-large-language-models-reason-with-chain-of-thought-prompting-401fd3c964d0
@@ -660,6 +663,9 @@ consistent is met het argument. Hier is een voorbeeld uit de dataset:
 #### Geselecteerde referenties voor verder lezen:
 
 * Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
+
+
+* Greco, S., van Eemeren F.H., & A.F. Snoeck Henkemans: Argumentation: Analysis and Evaluation. Argumentation 32, 151–153 (2018). https://doi.org/10.1007/s10503-017-9433-y
 
 * Mihalcea, R., & Tarau, P. (2004, July). Textrank: Bringing order into text. In Proceedings of the 2004 conference on empirical methods in natural language processing (pp. 404-411). Association for Computational Linguistics. https://aclanthology.org/W04-3252/
 
