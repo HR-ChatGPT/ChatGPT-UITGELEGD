@@ -542,7 +542,7 @@ BLOOM
 >Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor *"onbedoelde"* fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de training corpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, 
 bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van een nieuw AI-mantra: *"Schaal is alles wat je nodig hebt."*
 
-*"Taalvaardige"* Gen-AI worden getest op basis van maatstaven (benchmarks) zoals:
+*"Taalvaardige"* op LLMs gebaseerde chatbots worden getest op basis van maatstaven (benchmarks) zoals:
 |benchmark| 
 |:---|
 | *"algemeen taalbegrip"*
@@ -551,7 +551,7 @@ bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van 
 | *"gezond verstand redeneren"*
 
 
-De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
+De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM-chatbot toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
 
 De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. Door te redeneren kun je *---als er voldoende betrouwbare  informatie---* tot een verifieerbare beoordeling komen. 
 
