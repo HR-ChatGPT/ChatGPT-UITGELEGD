@@ -553,7 +553,7 @@ bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van 
 
 De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
 
-De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. 
+De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. Door te redeneren kun je *---als er voldoende betrouwbare  informatie---* tot een verifieerbare beoordeling komen. 
 
 >*Redeneren is het proces van het opbouwen van een argumentatie*
 
@@ -561,7 +561,7 @@ Argumentatie is een verbale en rationele activiteit die erop gericht is een rede
 
 >*Argumenteren heeft tot doel de ander te overtuigen van een standpunt*
 
-Het is niet altijd helder wat argumenteren precies is en wat het verschil is tussen argumenteren en redeneren. 
+Een argument wordt bepaald door het beoogde doel: *Controleerbare feiten, vergelijking (analogie), ervaring (empirisch), gezag of autoriteit, gevolg, nut of gewenste gevolgen, gevoel of emotie, algemene normen en waarden, veronderstelling*. Argumenten worden dan ook gebruikt om een standpunt of mening te onderbouwen.
 
 >*Ieder argument vormt een reden maar niet iedere reden die gegeven wordt, is een argument.*
 
