@@ -517,7 +517,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 *******
 ### Beoordelen vereist redeneervermogen en creativiteit
 
-Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart(LaMDA), BERT, Bing, BLOOM, ChatGPT(instructGPT), Galactica, Sparrow, LLaMA, Med-PaLM, CLIP, DALL-E 2, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
+Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart(LaMDA), BERT, Bing, BLOOM, ChatGPT(instructGPT), Galactica, Sparrow, LLaMA, Med-PaLM, CLIP, DALL-E 2, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik van *"talige"* LLMs in het onderwijsdomein is daarom bijzonder beladen.
 
 <!--
 https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model
@@ -553,11 +553,13 @@ bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van 
 
 De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM-chatbot toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
 
-De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. Door te redeneren kun je *---als er voldoende betrouwbare  informatie---* tot een verifieerbare beoordeling komen. 
+De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? 
+
+Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. Door te redeneren kun je *---als er voldoende betrouwbare  informatie---* tot een verifieerbare oordeelsvorming komen. 
 
 >*Redeneren is het proces van het opbouwen van een argumentatie*
 
-Argumentatie is een verbale en rationele activiteit die erop gericht is een redelijke beoordelaar te overtuigen van de aanvaardbaarheid van een standpunt door één of meer proposities *---beweringen---*  naar voren te brengen die ter rechtvaardiging van dat standpunt dienen.
+Argumentatie is een verbale activiteit die erop gericht is een redelijke beoordelaar te overtuigen van de aanvaardbaarheid van een standpunt door één of meerdere beweringen naar voren te brengen als rechtvaardiging voor het ingenomen standpunt.
 
 >*Argumenteren heeft tot doel de ander te overtuigen van een standpunt*
 
