@@ -550,8 +550,24 @@ bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van 
 | *"gezond verstand redeneren"*
 
 
-De aanname onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
+De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we eerst inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM toewijzen.
+
+De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"*. 
+
+>De redenering is het proces van het opbouwen van een argumentatie.
+
+Argumentatie is een verbale, sociale en rationele activiteit die erop gericht is een redelijke beoordelaar te overtuigen van de aanvaardbaarheid van een standpunt door één of meer proposities naar voren te brengen die ter rechtvaardiging van dat standpunt dienen
+
+
+
 <!--
+https://medium.com/nlplanet/two-minutes-nlp-making-large-language-models-reason-with-chain-of-thought-prompting-401fd3c964d0
+
+https://www.thomas.co/nl/resources/type/blogs/logische-redeneringstesten
+
+
+Testen voor logisch redeneren meten je vermogen of aanleg om logisch te redeneren. Het zijn non-verbale evaluaties die specifiek je analytisch vermogen testen aan de hand van logische en abstracte redeneringen, waarbij je regels en structuren moet ontdekken om het antwoord te vinden in een lijst met opties.
+
 De kernvragen van het debat over begrip in LLM's zijn de volgende:
 (1) Is spreken van begrip in dergelijke systemen gewoon een categoriefout, waarbij associaties tussen taaltokens worden verward met associaties tussen tokens en fysieke, sociale of mentale ervaring? Kortom, is het zo dat deze modellen niet het soort dingen zijn en nooit zullen zijn die kunnen begrijpen? Of omgekeerd, 
 (2) creëren deze systemen (of zullen hun opvolgers in de nabije toekomst) daadwerkelijk, zelfs bij afwezigheid...
