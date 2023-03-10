@@ -556,8 +556,8 @@ De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een 
 
 >De redenering is het proces van het opbouwen van een argumentatie.
 
-Argumentatie is een verbale, sociale en rationele activiteit die erop gericht is een redelijke beoordelaar te overtuigen van de aanvaardbaarheid van een standpunt door één of meer proposities naar voren te brengen die ter rechtvaardiging van dat standpunt dienen
-
+Argumentatie is een verbale en rationele activiteit die erop gericht is een redelijke beoordelaar te overtuigen van de aanvaardbaarheid van een standpunt door één of meer proposities *---beweringen---*  naar voren te brengen die ter rechtvaardiging van dat standpunt dienen.
+> Argumenteren heeft tot doel de ander te overtuigen van een standpunt
 
 
 <!--
