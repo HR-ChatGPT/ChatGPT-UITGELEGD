@@ -515,6 +515,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 #### Wat betekend het openstellen van Grensverleggende AI-diensten in de vorm van ChatGPT & Bing voor HBO-docenten?
 -->
 *******
+### Beoordelen vereist redeneervermogen en creativiteit
 
 Een invloedrijk arXiv paper uit 2021 getiteld: [*“On the Opportunities and Risks of Foundation Models”*](https://doi.org/10.48550/arXiv.2108.07258) benadrukt dat AI een paradigmaverschuiving ondergaat vergelijkbaar met die van *“deep Learning models”* in 2010. Anno 2023, toveren *“Few-Shot Learners”* ons voor wat er mogelijk is. Je voert een korte omschrijving plus vraag in, vervolgens genereert *---Bart(LaMDA), BERT, Bing, BLOOM, ChatGPT(instructGPT), Galactica, Sparrow, LLaMA, Med-PaLM, CLIP, DALL-E 2, Midjourney of OPT---* een heel opstel of een complexe afbeelding op basis van jouw omschrijving, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte vraag of het genereren van een afbeelding op die manier. Het gebruik ervan in het onderwijsdomein is daarom bijzonder beladen.
 
