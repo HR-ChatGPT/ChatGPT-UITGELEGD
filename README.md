@@ -565,9 +565,15 @@ Argumentatie is een verbale activiteit die erop gericht is een redelijke beoorde
 
 Een argument wordt bepaald door het beoogde doel: *Controleerbare feiten, vergelijking (analogie), ervaring (empirisch), gezag of autoriteit, gevolg, nut of gewenste gevolgen, gevoel of emotie, algemene normen en waarden, veronderstelling*. Argumenten worden dan ook gebruikt om een standpunt of mening te onderbouwen.
 
->*Ieder argument vormt een reden maar niet iedere reden die gegeven wordt, is een argument.*
+In het AI-domein gericht op natuurlijke taal verwerking [NLP] werd tot zeer recent  *"redeneren"* over meerdere bronnen *---zoals wetenschappelijke artikelen, Wikipedia lemma's of boeken---* als een nagenoeg onoplosbaar probleem *---"hard problem"---* beschouwd.
 
 <!--
+
+>*Ieder argument vormt een reden maar niet iedere reden die gegeven wordt, is een argument.*
+
+https://monkeylearn.com/blog/natural-language-processing-challenges/
+
+
 https://medium.com/nlplanet/two-minutes-nlp-making-large-language-models-reason-with-chain-of-thought-prompting-401fd3c964d0
 
 https://www.thomas.co/nl/resources/type/blogs/logische-redeneringstesten
