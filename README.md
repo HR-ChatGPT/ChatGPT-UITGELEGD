@@ -764,7 +764,7 @@ GTP-3 kan aanwijzingen opvolgen om zo nieuwe taken te *"leren"* op basis van  ee
 
 Om deze 3de generatie  taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI-LP *"reinforcement learning from human feedback"* [RLHF]. Het blijkt zeer effectief om schadelijke, onwaarachtige en/of bevooroordeelde output tot een minimum te beperken. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om zo de chabot te sturen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor meer gedetailleerde uitleg zie ["Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"](#v1b).
 
-OpenAI-LP houdt een GTP-model index bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://platform.openai.com/docs/model-index-for-researchers) in combinatie met  *"Unsupervised fine-tuning on a large corpus of text"*.
+OpenAI-LP houdt een [GTP-model index](https://platform.openai.com/docs/model-index-for-researchers) bij. Het meest recente model *---InstructGPT---* is getraind op basis van *code-davinci-002* broncode met behulp van *"Supervised fine-tuning on human demonstrations"* [SFT](https://openai.com/research/learning-from-human-preferences) in combinatie met  *"Unsupervised fine-tuning on a large corpus of text"*.
 
 
 
@@ -806,7 +806,7 @@ Het is de opvolger van het veel kleinere GPT-2. Tot een ieders verrassing  had h
 
 GTP-3  toont aan dat wanneer LLM's zeer groot worden gemaakt & getraind met zeer grote hoeveelheden voorbeeld teksten, in combinatie met een zeer hoge [*"algoritme efficiëntie"*](https://arxiv.org/abs/2005.04305),  deze AI-technologie menselijker lijkt om te gaan met talige-input. Deze *schaalhypothese* is in lijn met de aanname dat *menselijke intelligentie*  opgebouwd is uit eenvoudige neurale eenheden & leeralgoritmen toegepast op diverse ervaringen op een (momenteel) voor computationele systemen onbereikbare schaal.  Een review paper, getiteld [*"Inductive biases for deep learning of higher-level cognition."*](https://doi.org/10.1098/rspa.2021.0068), omschrijft dit als volgt:
 
->Een fascinerende hypothese is dat menselijke en dierlijke intelligentie verklaard kan worden door een paar principes (in plaats van een encyclopedische lijst van heuristieken). Als die hypothese juist is, zouden we gemakkelijker onze eigen intelligentie begrijpen en intelligente machines bouwen. Uiteindelijk zullen neurale netwerken [NN] dan functies kunnen vervullen die niet van menselijke intelligentie zijn te onderscheiden.
+>Een fascinerende hypothese is dat menselijke en dierlijke intelligentie verklaard kan worden door een paar principes *---in plaats van een encyclopedische lijst van heuristieken---*. Als die hypothese juist is, zouden we gemakkelijker onze eigen intelligentie begrijpen en intelligente machines bouwen. Uiteindelijk zullen neurale netwerken [NN] dan functies kunnen vervullen die niet van menselijke intelligentie zijn te onderscheiden.
 
 <!--
 Er zijn  echte veel [aanwijzingen](https://arxiv.org/abs/2206.07682) die in de tegengestelde richting wijzen.
@@ -858,6 +858,14 @@ https://towardsdatascience.com/the-fundamentals-of-the-big-o-notation-7fe14210b6
 https://huggingface.co/blog/large-language-models
 -->
 
+
+### Geselecteerde referenties voor verder lezen
+
+zxzx
+
+
+
+<br>
 ### Overzicht ChatGPT functionaliteit
 De nieuwe generatie aan GPT-based Gen-AI's kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
@@ -1003,8 +1011,10 @@ ChatGPT is extreem gevoelig voor de wijze waarop een vraag geformuleerd wordt. D
 Nog problematischer is dat ChatGTP vaak in vreemde gedachten vervalt. Het hallucineert dan schijnbaar overtuigende maar onzinnige antwoorden die weinig met de werkelijkheid te maken hebben. Gebleken is dat de AI zeer zelfverzekerd onjuiste antwoorden geeft over elementaire wiskunde, natuurkunde en basale kennis van de biologie; in een viraal voorbeeld bleef de ChatGPT zichzelf tegenspreken over de vraag of een vis een zoogdier was.
 
 Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een dergelijke AI publiekelijk toegankelijk te maken. Van belang is om te weten hoe je met de beperkingen moet omgaan om ChatGPT verantwoord te kunnen inzetten voor school taken (zie [Ethische risico's en Schaduwkanten van ChatGPT](#v1c)). 
+<br><br>
 ### Beperkingen
 #### In de onderstaande tabel zijn de meest voorkomende problemen en mogelijke oplossingen opgesomd.
+<br>
 
 | Bekende Problemen | Oorzaak | Oplossing |
 |-----------|---------|---------|
@@ -1017,15 +1027,25 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 <br>
 
 
-#### Geselecteerde referenties voor verder lezen
+### Geselecteerde referenties voor verder lezen
+<br> 
+
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
-* Het meest relevante artikel m.b.t.  de menselijke feetback is [*"Training language models to follow instructions with human feedback"*](https://doi.org/10.48550/arXiv.2203.02155), dat in feite een model met de naam InstructGPT beschrijft, door OpenAI aangeduid als een *"sibling model"* van ChatGPT.
+
+* Het meest relevante artikel m.b.t. de menselijke feedback is [*"Training language models to follow instructions with human feedback"*](https://doi.org/10.48550/arXiv.2203.02155), dat in feite een model met de naam InstructGPT beschrijft, door OpenAI aangeduid als een *"sibling model"* van ChatGPT.
+
 * [Anthropic  *---AI-startup van voormalige OpenAI-leden---*](https://en.wikipedia.org/wiki/Anthropic) publiceerde een gedetailleerde studie [*---"Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"---*](https://doi.org/10.48550/arXiv.2204.05862) over de effectiviteit van menselijke feedback  voor het finetunen van taalmodellen om op te treden als behulpzame en onschadelijke assistenten.
+
 * Het paper [*---"Learning to summarize from Human Feedback"---*](https://doi.org/10.48550/arXiv.2009.01325k) beschrijft human-feedback in de context van tekstsamenvatting.
-* [*---"Deep reinforcement learning from human preferences"---*](https://doi.org/10.48550/arXiv.1706.03741) was eerste paper  waarin menselijke feedback incombinatie met *---Reinforces Learning"---* werd gebruikt, in de context van *Atari games*.
+
+* [*---"Deep reinforcement learning from human preferences"---*](https://doi.org/10.48550/arXiv.1706.03741) was eerste paper  waarin menselijke feedback incombinatie met *---"Reinforced Learning"---* werd gebruikt, in de context van *Atari games*.
+
 * Alternatieven voor OpenAI's RLHF methodiek zijn voorgesteld door Meta's DeepMind in [*Sparrow: "Improving alignment of dialogue agents via targeted human judgements"*](https://arxiv.org/abs/2209.14375) en [*GopherCite: "Teaching language models to support answers with verified quotes"*](https://doi.org/10.48550/arXiv.2203.11147) papers.
-* Een doorwrochten bespreking van het *"Alignment probleem"* uit 2021 m.b.t. taalmodellen is getiteld [*"A General Language Assistant as a Laboratory for Alignment"*](https://doi.org/10.48550/arXiv.2112.00861). Een uitstekende samenvatting hiervan is geschreven door Sam Ringer getiteld: ["A Summary Of Anthropic's First Paper"](https://www.lesswrong.com/posts/oBpebs5j5ngs3EXr5/a-summary-of-anthropic-s-first-paper-3?ref=news-tutorials-ai-research).
+
+* Een doorwrochte bespreking van het *"Alignment probleem"* uit 2021 m.b.t. taalmodellen is getiteld [*"A General Language Assistant as a Laboratory for Alignment"*](https://doi.org/10.48550/arXiv.2112.00861). Een uitstekende samenvatting hiervan is geschreven door Sam Ringer getiteld: ["A Summary Of Anthropic's First Paper"](https://www.lesswrong.com/posts/oBpebs5j5ngs3EXr5/a-summary-of-anthropic-s-first-paper-3?ref=news-tutorials-ai-research).
+
 * Github repository van Anthropic voor de code van het Alignment probleem: https://github.com/anthropics/hh-rlhf?ref=news-tutorials-ai-research.
+
 * Generative AI: Perspectives from Stanford HAI How do you think generative AI will affect your field and society going forward? https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf
 
 <br>
