@@ -603,6 +603,11 @@ flowchart TD
 
 ### Waarom is prompt finetuning noodzakelijk?
 
+### Geselecteerde referenties voor verder lezen
+<br> 
+
+* Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
+* Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2023). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903. Original paper published at NeurIPS 2022 https://openreview.net/forum?id=_VjQlMeSB_J
 
 
 <!--
@@ -2070,6 +2075,8 @@ https://github.com/jerryjliu/gpt_index
 * <sub> Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In 31st Conference on Advances in Neural Information Processing Systems (NIPS). https://doi.org/10.48550/arXiv.1706.03762 
 
 * <sub> Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://openreview.net/forum?id=yzkSU5zdwD
+
+* <sub> Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903.
 
 * <sub> Wooldridge, M. (2022). What is missing from contemporary AI? The world. Intelligent Computing, 2022. https://doi.org/10.34133/2022/9847630.
 
