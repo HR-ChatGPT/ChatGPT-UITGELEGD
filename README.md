@@ -923,14 +923,12 @@ https://huggingface.co/blog/large-language-models
 
 ### Geselecteerde referenties voor verder lezen
 
-* The Verge (07 maart 2023) heeft een zeer inzichtelijk overzicht gemaakt van *"Big Tech"* die nu volop inzetten op het implementeren van Gen-AI in hun producten & diensten, getiteld: [*"Meet the companies trying to keep up with ChatGPT"*](https://www.theverge.com/2023/3/5/23599209/companies-keep-up-chatgpt-ai-chatbots)
+* The Verge (07 maart 2023) heeft een zeer inzichtelijk overzicht gemaakt van *"Big Tech"* die nu volop inzetten op het implementeren van LLM AI-technologie in hun producten & diensten, getiteld: [*"Meet the companies trying to keep up with ChatGPT"*](https://www.theverge.com/2023/3/5/23599209/companies-keep-up-chatgpt-ai-chatbots)
 
-
-
-<br> <br>
+<br> 
 
 ### Overzicht ChatGPT functionaliteit
-De nieuwe generatie aan GPT-based Gen-AI's kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
+De nieuwe generatie aan GPT-based Gen-AI's *---zoals de chatbot ChatGPT---* kan op commando natuurlijke taal genereren nodig voor (1) het inhoudelijk beantwoorden van vragen, (2) het samenvatten van teksten, (3) uitvoeren van gedetailleerde instructies, en (4) het voeren van dialogen. 
 
 In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [NLP] gebaseerde functies van ChatGPT weergegeven. zie ook 
 
