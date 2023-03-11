@@ -923,7 +923,7 @@ https://huggingface.co/blog/large-language-models
 
 ### Geselecteerde referenties voor verder lezen
 
-* The Verge (07 maart 2023) heeft een zeer inzichtelijk overzicht gemaakt van *"Big Tech"* die nu volop inzetten op het implementeren van LLM AI-technologie in hun producten & diensten, getiteld: [*"Meet the companies trying to keep up with ChatGPT"*](https://www.theverge.com/2023/3/5/23599209/companies-keep-up-chatgpt-ai-chatbots)
+* The Verge (07 maart 2023) heeft een zeer inzichtelijk overzicht gemaakt van *"Big Tech"* die nu volop inzetten op het implementeren van GPT AI-technologie in hun producten & diensten, getiteld: [*"Meet the companies trying to keep up with ChatGPT"*](https://www.theverge.com/2023/3/5/23599209/companies-keep-up-chatgpt-ai-chatbots)
 
 <br> 
 
