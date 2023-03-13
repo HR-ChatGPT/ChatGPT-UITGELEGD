@@ -1933,11 +1933,11 @@ https://github.com/platelminto/ChatGPT-conversation
 De onderstaande lijst bevat links bevat voorbeelden voor het maken van *"effectieve"* opdrachten.
 Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*.
 
-| bron/ URL |
+| Prompt Enigineering Repositories |
 | ------- |
-| https://github.com/f/awesome-ChatGPT-prompts
-| https://github.com/cedrickchee/chatgpt-universe
-| https://github.com/openai/openai-cookbook
+| [Awesome Prompts](https://github.com/f/awesome-ChatGPT-prompts)
+| [ChatGPT Universe](https://github.com/cedrickchee/chatgpt-universe)
+| [OpenAI CookBook](https://github.com/openai/openai-cookbook)
 | [Soft Prompt Tuning](https://github.com/Clyde013/Paraphrase-OPT/blob/main/REPORT.md)
 | [Flow GPT](https://flowgpt.com/)
 | [List of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
