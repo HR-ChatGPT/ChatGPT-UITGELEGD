@@ -552,7 +552,8 @@ BLOOM
 
 De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM-chatbot toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
 
-De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? 
+De verbindende factor tussen de verschillende benchmarks is dat ze allemaal een zekere mate aan *"redeneervermogen"* vereisen. Maar wat is redeneren nu eigenlijk? Voor een inzichtelijk raamwerk met betrekking tot de relevatie van *"logisch Redeneren*" als didactisch instrument in het hoger onderwijs verwijs ik naar het paper getiteld: [*"Logical Reasoning in Formal and Everyday
+Reasoning Tasks"*](https://doi.org/10.1007/s10763-019-10039-8).
 
 Bij een geschreven tekst *---in de vorm van een betoog---* probeert de schrijver ervan, lezers te overtuigen door een *"logische gedachtegang"*, een *"redenering"* op te bouwen. Door te redeneren kun je *---bij voldoende betrouwbare  informatie---* tot verifieerbare oordeelsvorming komen. 
 
@@ -606,10 +607,10 @@ Few-shot <br> <br> OR <br> <br>  Chain-of-Tought | genereer een uitkomst op basi
 
 ### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
 
-Chain-of-thought prompts zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze keten aan nieuwe *"kennis"* te gebruiken om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
+Chain-of-thought prompts zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van een *"specifieke context"* en dus de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze synthese aan nieuwe *"kennis"* te gebruiken als uitgangspunt om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
 
 Een chain-of-thoughts kan worden beschouwd als een vorm van  *Logisch Redeneren: het proces van het opbouwen van een argumentatie*. 
-Het mechanisme van een keten-van-gedachten is een vorm van "prompt finetunning".
+Het mechanisme van een keten-van-gedachten is een vorm van "prompt fine-tunning".
 
 ```mermaid
 flowchart LR
@@ -637,7 +638,20 @@ flowchart TD
 
 <br> 
 
-### Geselecteerde referenties voor verder lezen
+
+#### Hoe effectief is ChatGPT in het (op)volgen van een redenatie?
+<!--
+https://medium.com/@boredgeeksociety/a-first-comprehensive-analysis-of-chatgpts-limitations-4ead13a62bf9
+https://www.lesswrong.com/posts/FuNuuoh2AzWqk6Bp8/chatgpt-understands-language
+-->
+
+Wanneer ChatGPT gebruikt voor zeer specifieke taken, dan merk je als snel dat de chatbot geen idee heeft hoe mensen de fysieke wereld ervaren via hun lichaam, ogen, oren, tastzin, evenwichtsgevoel etc. 
+
+
+<br>
+
+
+#### Geselecteerde referenties voor verder lezen
 
 * Bronkhorst, H., Roorda, G., Suhre, C., & Goedhart, M. (2020). Logical reasoning in formal and everyday reasoning tasks. International Journal of Science and Mathematics Education, 18, 1673-1694. https://doi.org/10.1007/s10763-019-10039-8
 
@@ -1344,7 +1358,7 @@ Daarmee erkend OpenAI dat het niet mogelijk is om een perfecte classificator te 
 ### Blockchain ledger to 
 --> 
 
-Mensen zijn overigens niet veel beter. In een paper getiteld: [*"All that's' human'is not gold: Evaluating human evaluation of generated text."*](https://doi.org/10.48550/arXiv.2107.00061) laat zien dat er al een aantal jaren menselijke beoordelaars worden ingezet die de kwaliteit van door AI gegenereerde teksten ranken. Het blijkt dat de ongeoefende beoordelaars niet in staat zijn om het verschil betrouwbaar te kunnen inschatten tussen menselijk geschreven en door AI gegenereerde teksten.
+Mensen zijn overigens niet veel beter. In een paper getiteld: [*"All that's' human' is not gold: Evaluating human evaluation of generated text."*](https://doi.org/10.48550/arXiv.2107.00061) laat zien dat er al een aantal jaren menselijke beoordelaars worden ingezet die de kwaliteit van door AI gegenereerde teksten ranken. Het blijkt dat de ongeoefende beoordelaars niet in staat zijn om het verschil betrouwbaar te kunnen inschatten tussen menselijk geschreven en door AI gegenereerde teksten.
 
 > *"We voeren een onderzoek uit naar het vermogen van niet-deskundigen om onderscheid te kunnen maken tussen menselijke en
 machinaal geschreven tekst (GPT2 en GPT3) in drie domeinen (verhalen, nieuwsartikelen en
