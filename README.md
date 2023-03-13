@@ -207,7 +207,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [8a] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8a)
 * [8b] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v8b)
 * [13] [Kun je spreken tegen ChatGPT?](#v13)
-* [15] [Prompt voorbeelden](#v15)
+* [15] [Prompt "patterns" voorbeelden](#v15)
 * [16] [Geraadpleegde Bronnen](#v16)
 
 </td>
@@ -539,8 +539,7 @@ BLOOM
 -->
 
 
->Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor *"onbedoelde"* fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de training corpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, 
-bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van een nieuw AI-mantra: *"Schaal is alles wat je nodig hebt."*
+>Hoe indrukwekkend ze ook zijn, state-of-the-art LLM's blijven gevoelig voor *"onbedoelde"* fouten. De observatie dat dergelijke Gen-AI aanzienlijk verbeteren naarmate het aantal parameters en de omvang van de training corpora worden opgeschaald, heeft sommigen in het veld doen beweren dat LLM *---misschien in een multimodale versie---* zal leiden tot intelligentie en begrip op menselijk niveau, bij voldoende grote netwerken en training datasets. Er lijkt sprake te zijn van een nieuw AI-mantra: *"Schaal is alles wat je nodig hebt."*
 
 *"Taalvaardige"* op LLMs gebaseerde chatbots worden getest op basis van maatstaven (benchmarks) zoals:
 |benchmark| 
@@ -596,6 +595,8 @@ van fysieke ervaring, zoiets creëren als de rijke, op concepten gebaseerde ment
 https://github.com/dair-ai/Prompt-Engineering-Guide
 -->
 Opdrachten geven aan een LLM om een tekst te genereren, is hetzelfde als het geven van een prompt aan een *"denkbeeldige notulist"*.
+Instructies voor het schrijven van effectieve  opdrachten zijn beschreven in: [Prompt "patterns" voorbeelden](#v15).
+
 <br> We onderscheiden drie soorten prompts (zie ook [Kan ChatGPT broncode schrijven?](#v7a)):
 | Type prompt | beschrijving | Voorbeeld |
 |------|------|------|
@@ -603,14 +604,14 @@ Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* 
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert| Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
 Few-shot <br> <br> OR <br> <br>  Chain-of-Tought | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
-### Hoe werkt "Chain-of-Thought"?
+### Hoe werkt "Chain-of-Thought" *---keten van gedachten---*?
 
 Chain-of-thought prompts zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze keten aan nieuwe *"kennis"* te gebruiken om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
 
 
 ```mermaid
 flowchart LR
-    id1(Chain of Thought prompting example)
+    id1(Keten van 3 'gedachten')
 ```
 
 ```mermaid
@@ -631,11 +632,35 @@ flowchart TD
    external_knowledge --> internal_knowledge
 ```
 
+<br>
 
-### Waarom is prompt finetuning noodzakelijk?
+### Waarom is prompt finetuning in de vorm van "chain-of-thought" noodzakelijk?
+Een prompt bestaat uit de volgende onderdelen:
+- Instructie doel
+- Context
+- Invoergegevens
+- Uitvoerindicator
+
+Bij het bevragen van een taalmodel via een prompt zijn de volgende *"afhankelijkheden"* van belang: 
+-  bepalen hoe deterministisch *---precies/nauwkeurig---* het model moet zijn bij het genereren van een antwoord
+- Temperatuur en top_p zijn twee belangrijke parameters om te onthouden
+in gedachten te houden
+   - laag voor exacte antwoorden 
+   - hoog voor meer generieke antwoorden
+
+Instructie doelen kunnen zijn: 
+- Tekst samenvatten
+- Vraag beantwoorden
+- Tekstclassificatie
+- Rollenspel
+- Code genereren
+- Redeneren
+
+
+
+<br> 
 
 ### Geselecteerde referenties voor verder lezen
-<br> 
 
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
 
@@ -644,6 +669,9 @@ flowchart TD
 * Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2023). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903. Original paper published at NeurIPS 2022 https://openreview.net/forum?id=_VjQlMeSB_J
 
 
+<!--
+https://pub.towardsai.net/learn-prompting-101-prompt-engineering-course-challenges-d93d58c56858
+-->
 
 <!--
 | Instituut | Opleidingen |
