@@ -1947,6 +1947,7 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 | Prompt Enigineering Repositories |
 | ------- |
 | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+| [Cohere AI](https://docs.cohere.ai/docs/prompt-engineering)
 | [Awesome Prompts](https://github.com/f/awesome-ChatGPT-prompts)
 | [ChatGPT Universe](https://github.com/cedrickchee/chatgpt-universe)
 | [OpenAI CookBook](https://github.com/openai/openai-cookbook)
