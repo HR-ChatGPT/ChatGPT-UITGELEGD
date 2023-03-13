@@ -177,7 +177,7 @@ Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd v
 -->
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten??](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
-* [0f] [+Voldoet ChatGPT aan Europese AI-Regelgeving?](#v0f)
+* [0f] [+Voldoen Gen-AI *---zoals ChatGPT---* aan Europese AI-Regelgeving?](#v0f)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -752,7 +752,7 @@ https://doi.org/10.1145/3442188.3445922
 # v0f
 
 *******
-### [1f] VOLDOET ChatGPT AAN DE EUROPESE AI-REGELGEVING?
+### [1f] VOLDOEN Gen-AI ---zoals ChatGPT--- AAN DE EUROPESE AI-REGELGEVING?
 *******
 De onderstaande tekst is gebaseerd op een news-item (03 maart 2023) afkomstig uit *"Politico"*, een gerenommeerde, onafhankelijke, Engelstalige krant, getiteld : [*"ChatGPT broke the EU plan to regulate AI"*](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/) en het *Center for Data Innovation* blog (13 februari 2023) van Patrick Grady, getiteld: [*"ChatGPT Amendment Shows the EU is Regulating by Outrage"*](https://datainnovation.org/2023/02/chatgpt-amendment-shows-the-eu-is-regulating-by-outrage/).
 
@@ -773,6 +773,8 @@ Zoals veel nieuwe technologieën heeft Gen-AI de bekende paniek opgeroepen: Doem
 
 Wanneer er terechte zorgen bestaan over het gebruik van Gen-AI *---zoals de verspreiding van verkeerde informatie of schadelijke inhoud---* moeten wetgevers deze risico's aanpakken in sectorale wetgeving *---zoals de wet op de digitale diensten, die platforms en zoekmachines verplicht om verkeerde informatie en schadelijke inhoud aan te pakken---*. 
 Maar het is contraproductief, om een brede categorie aan AI-technologie, zoals chatbots, per-definitie als *"hoog risico"* aan te merken. Hierbij wordt volledig voorbijgegaan aan verschillende in risicoprofielen die ontstaan op basis van  hun *"use case"*. 
+
+### Talige Gen-AI diensten 
 
 Naast ChatGPT, zou een dergelijk amendement andere 
 zeer waardevolle *"Talige"* Gen-AI diensten  als *"hoog risico"* bestempelen, waaronder:
@@ -816,8 +818,11 @@ In één geval bedreigde de nieuwe Bing-zoekmachine met de technologie van ChatG
 Deze AI's "zijn als motoren. Het zijn zeer krachtige motoren en algoritmen die een heleboel dingen kunnen doen en die zelf nog geen doel hebben", aldus Dragoș Tudorache, een liberale Roemeense wetgever die samen met de Italiaanse socialistische wetgever Brando Benifei de AI-wet door het Europees Parlement moet loodsen.
 De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te herschrijven. De EU-Raad, die de nationale hoofdsteden vertegenwoordigt, keurde in december zijn versie van de ontwerp-AI-wet goed, die de Commissie zou belasten met het vaststellen van eisen op het gebied van cyberbeveiliging, transparantie en risicobeheer voor AI's voor algemeen gebruik.
 -->
+### Geselecteerde referenties voor verder lezen
 
+[Overzicht Gen-AI schrijfhulp tools door Fastcompany](https://www.fastcompany.com/90863383/3-new-ai-editors-to-sharpen-your-sentences?partner=rss)
 
+<br> 
 
 # v1a
 
@@ -2003,6 +2008,7 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 |[Prompts for teachers](https://www.learnersedge.com/blog/50-chat-gpt-prompts-for-teachers)
 |[Uses for ChatGPT for students](https://jagve.medium.com/5-incredible-uses-for-chatgpt-for-students-67242c708ead)
 |[Allabtai](https://www.allabtai.com/category/prompt-engineering/)
+|[Arvin: ChatGPT Prompt Generator](https://bgr.com/tech/this-free-app-helps-you-find-tons-of-useful-chatgpt-prompts/)
 
 
 <!--
@@ -2075,7 +2081,9 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 <br> 
 
-#### Geselecteerde referenties voor verder lezen
+### Geselecteerde referenties voor verder lezen
+
+
 
 <br>
 
