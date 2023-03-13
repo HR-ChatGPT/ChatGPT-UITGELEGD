@@ -645,7 +645,9 @@ https://medium.com/@boredgeeksociety/a-first-comprehensive-analysis-of-chatgpts-
 https://www.lesswrong.com/posts/FuNuuoh2AzWqk6Bp8/chatgpt-understands-language
 -->
 
-Wanneer ChatGPT gebruikt voor zeer specifieke taken, dan merk je als snel dat de chatbot geen idee heeft hoe mensen de fysieke wereld ervaren via hun lichaam, ogen, oren, tastzin, evenwichtsgevoel etc. 
+De onderstaande tekst is deels gebaseerd op een blog post getiteld: [*"ChatGPT understands language
+or if it doesn't, it fails for reasons other than the ones you think"*](https://www.lesswrong.com/out?url=https%3A%2F%2Fphilosophybear.substack.com%2Fp%2Fchatgpt-understands-langauge). 
+Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel dat de chatbot geen idee heeft hoe mensen de fysieke wereld ervaren via hun lichaam, ogen, oren, tastzin, evenwichtsgevoel etc. Het lijkt dus niet te kunnen beschikken over een "model van de wereld" *--- a theory of the world---*. Tegelijkertijd merk je dat ChatGPT gevoelig is voor sturing via een keten-van-gedachten. Dit is allen mogelijk wanneer de AI toegang heeft tot de *"wereld in de vorm van (natuurlijke) taal"*. 
 
 
 <br>
