@@ -2098,7 +2098,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 <br> 
 
 ### Geselecteerde referenties voor verder lezen
- xxxx
+
+* White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
 
 <br>
@@ -2230,6 +2231,8 @@ https://github.com/jerryjliu/gpt_index
 * <sub> Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://openreview.net/forum?id=yzkSU5zdwD
 
 * <sub> Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903.
+
+* <sub> White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
 * <sub> Wooldridge, M. (2022). What is missing from contemporary AI? The world. Intelligent Computing, 2022. https://doi.org/10.34133/2022/9847630.
 
