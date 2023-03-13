@@ -672,6 +672,11 @@ Instructie doelen kunnen zijn:
 
 
 <!--
+https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-language-models-to-find-and-fix-bugs-in-nlp-systems/
+
+https://2cute2tech.substack.com/p/how-did-we-train-large-language-models
+https://2cute2tech.substack.com/p/how-does-chatgpt-work-so-well
+
 https://pub.towardsai.net/learn-prompting-101-prompt-engineering-course-challenges-d93d58c56858
 -->
 
