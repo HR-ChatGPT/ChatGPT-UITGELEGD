@@ -639,15 +639,27 @@ flowchart TD
 <br> 
 
 
-#### Hoe effectief is ChatGPT in het (op)volgen van een redenatie?
+#### Weet ChatGPT hoe *"wij"* mensen de wereld ervaren?
+
+De onderstaande tekst is deels gebaseerd op een blog post getiteld: [*"ChatGPT understands language
+or if it doesn't, it fails for reasons other than the ones you think"*](https://www.lesswrong.com/out?url=https%3A%2F%2Fphilosophybear.substack.com%2Fp%2Fchatgpt-understands-langauge).
+
+Om te kunnen redeneren zoals mensen dat doen is het noodzakelijk om toegang te hebben tot een *"model van hoe de fysieke wereld om ons heen in elkaar steekt"*. 
+
 <!--
 https://medium.com/@boredgeeksociety/a-first-comprehensive-analysis-of-chatgpts-limitations-4ead13a62bf9
 https://www.lesswrong.com/posts/FuNuuoh2AzWqk6Bp8/chatgpt-understands-language
 -->
 
+
+<!--
 De onderstaande tekst is deels gebaseerd op een blog post getiteld: [*"ChatGPT understands language
-or if it doesn't, it fails for reasons other than the ones you think"*](https://www.lesswrong.com/out?url=https%3A%2F%2Fphilosophybear.substack.com%2Fp%2Fchatgpt-understands-langauge). 
+or if it doesn't, it fails for reasons other than the ones you think"*](https://www.lesswrong.com/out?url=https%3A%2F%2Fphilosophybear.substack.com%2Fp%2Fchatgpt-understands-langauge).
+
+
 Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel dat de chatbot geen idee heeft hoe mensen de fysieke wereld ervaren via hun lichaam, ogen, oren, tastzin, evenwichtsgevoel etc. Het lijkt dus niet te kunnen beschikken over een "model van de wereld" *--- a theory of the world---*. Tegelijkertijd merk je dat ChatGPT gevoelig is voor sturing via een keten-van-gedachten. Dit is alleen mogelijk wanneer de AI toegang heeft tot de *"wereld via (natuurlijke) taal"*. 
+--> 
+
 
 ```python
 # Kunnen mensen een boom optillen?
@@ -674,16 +686,48 @@ Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel 
    Over het algemeen worden bomen in Nederland <br> echter niet hoger dan 40-50 meter.'
 ```
 
-Uit de bovenstaande vraag en antwoord dialoog met ChatGPT valt af te leiden dat het kan beschikken over *"een model van de wereld"* als het gaat om vragen die betrekking hebben op situaties die heel vaak voorkomen en uitvoerig zijn beschreven. Maar wat gebeurt er als we een zeer specifiek, technisch  en zeldzaam probleem laten beschrijven door chatGPT?
+Uit de bovenstaande dialoog met ChatGPT valt af te leiden dat deze AI beschikt over *"een model van de wereld"* als het gaat om vragen die betrekking hebben op alledaagse situaties. Maar wat gebeurt er als we een zeer specifiek, technisch  en zeldzaam probleem laten beschrijven door chatGPT?
+
+```python
+# Wat kun je mij vertellen over dubbele magnetische inductie om oogbewegingen bij mensen te kunnen meten?
+  'Dubbele magnetische inductie (ook wel bekend als DMI) is een methode die wordt gebruikt 
+   om metingen te verrichten van oogbeweging van mensen. Dit zijn kleine bewegingen van de ogen, 
+   die worden veroorzaakt door spiertjes in en rond de ogen. Bij DMI worden de ogen blootgesteld 
+   aan twee verschillende magnetische velden, die vervolgens worden gemeten. Door deze metingen 
+   te vergelijken, kan worden bepaald hoeveel de oogleden bewegen. Dit kan worden gebruikt om 
+   de activiteit van de ogen te meten, wat nuttig kan zijn bij bijvoorbeeld het bestuderen van 
+   leespatronen of het diagnosticeren van bepaalde problemen met de ogen. 
+   Het bijzondere van DMI is dat het een contactloze methode is. 
+   Er wordt geen direct contact gemaakt tussen de apparatuur en de ogen van de proefpersoon, 
+   waardoor er minder snel schade kan ontstaan aan de delicate structuren van het oog en de omliggende weefsels.'
+```
+
+Ook wanneer het gaat om zeer *'zeldzame'* technische concepten dan kan ChatGPT hierop adequaat reageren.  
 
 
+#### Hoe effectief is ChatGPT in het beoordelen van een redenatie?
+Nu we hebben vastgesteld dat ChatGPT een model van de wereld heeft, is de volgend vraag: *"In hoeverre kan ChatGPT gebruikt worden om een stuk tekst te beoordelen?"*  Dat wil zeggen is het in staat om een "keten-van-gedachten" te volgen en de juistheid ervan vast te stellen? 
 
 
+```python
+# Is de volgende bewering correct: 
+# "Met behulp van neurale netwerk theorie kan een DMI-systeem worden gekalibreerd. 
+# Het enige dat nodig is dat een proefpersoon rond kijkt terwijl de spanningsveranderingen 
+# in van de inductie-sensor op het oog worden geregistreerd door een computer. 
+# Deze signalen worden dab gebruikt als input voor het te trainen neural netwerk."
+  'Ja, deze bewering is correct. 
+  Het kalibreren van een DMI-systeem met behulp van neurale netwerk theorie 
+  is een veelgebruikte methode. Tijdens de kalibratie zal de persoon naar 
+  verschillende punten op een scherm kijken, terwijl de sensoren 
+  de bijbehorende signalen registreren. Deze gegevens worden dan gebruikt om 
+  het neurale netwerk te trainen en aan te passen, zodat het de oogbewegingen 
+  van de persoon nauwkeurig kan voorspellen en volgen. Dit proces kan worden 
+  herhaald totdat het systeem nauwkeurige en betrouwbare resultaten oplevert.'
+```
 
+Dit eenvoudig experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen.
 
-
-
-
+De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICS. 
 
 <br>
 
