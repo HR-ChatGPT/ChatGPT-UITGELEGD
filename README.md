@@ -649,35 +649,41 @@ De onderstaande tekst is deels gebaseerd op een blog post getiteld: [*"ChatGPT u
 or if it doesn't, it fails for reasons other than the ones you think"*](https://www.lesswrong.com/out?url=https%3A%2F%2Fphilosophybear.substack.com%2Fp%2Fchatgpt-understands-langauge). 
 Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel dat de chatbot geen idee heeft hoe mensen de fysieke wereld ervaren via hun lichaam, ogen, oren, tastzin, evenwichtsgevoel etc. Het lijkt dus niet te kunnen beschikken over een "model van de wereld" *--- a theory of the world---*. Tegelijkertijd merk je dat ChatGPT gevoelig is voor sturing via een keten-van-gedachten. Dit is alleen mogelijk wanneer de AI toegang heeft tot de *"wereld via (natuurlijke) taal"*. 
 
-```mermaid
-flowchart LR
-    id1(Vraag: <br> Kunnen mensen een boom optillen?)
+```python
+# Kunnen mensen een boom optillen?
+  'Nee, normaal gesproken kunnen mensen geen boom optillen.
+   Bomen zijn meestal zwaar en groot van formaat,
+   dus het is onmogelijk om ze zonder hulp op te tillen.'
 
-    id2(Antwoord:<br> Nee, normaal gesproken kunnen mensen geen boom optillen. <br> Bomen zijn meestal zwaar en groot van formaat, <br> dus het is onmogelijk om ze zonder hulp op te tillen.)
+# Wat bedoel je met optillen?
+  'Als je optillen bedoelt als het verplaatsen van de boom,
+   dan kan het antwoord Nee zijn.
+   De meeste bomen zijn veel te groot en zwaar om met de hand opgetild te worden.
+   In de meeste gevallen heb je uitrusting nodig zoals takels, 
+   vrachtwagens of kranen om bomen te verplaatsen.'
 
-    id3(1ste vervolgvraag: <br> Wat bedoel je met optillen?)
+# Wat bedoel je met verplaatsen?
+  'Met verplaatsen bedoel ik dat de boom van een bepaalde locatie 
+   naar een andere locatie zou worden gebracht,
+   verplaatst zou zijn of in een nieuwe locatie zou worden geplant.'
 
-    id4(Antwoord:<br> Als je optillen bedoelt als het verplaatsen van de boom, <br> dan kan het antwoord Nee zijn. <br> De meeste bomen zijn veel te groot en zwaar om met de hand opgetild te worden. <br> In de meeste gevallen heb je uitrusting nodig zoals takels, <br> vrachtwagens of kranen om bomen te verplaatsen.)
-
-    id5(2de vervolgvraag: <br> Wat bedoel je met verplaatsen?)
-
-    id6(Antwoord:<br> Met verplaatsen bedoel ik dat de boom <br> van een bepaalde locatie naar een andere locatie <br> zou worden gebracht, <br> verplaatst zou zijn of in een nieuwe locatie zou worden geplant.)
-
-    id7(3de vervolgvraag: <br> Wat is de gemiddelde hoogte van een boom in Nederland in meters?)
-
-    id8(Antwoord:<br> Het is moeilijk om een precies antwoord te geven <br> op de gemiddelde hoogte van bomen in Nederland, <br> omdat het afhangt van verschillende factoren <br> zoals boomsoort en groeiomstandigheden. <br> Over het algemeen worden bomen in Nederland <br> echter niet hoger dan 40-50 meter.)
-    
+# Wat is de gemiddelde hoogte van een boom in Nederland in meters?
+  'Het is moeilijk om een precies antwoord te geven op 
+   de gemiddelde hoogte van bomen in Nederland, omdat het afhangt 
+   van verschillende factoren zoals boomsoort en groeiomstandigheden.
+   Over het algemeen worden bomen in Nederland <br> echter niet hoger dan 40-50 meter.'
 ```
+
 Uit de bovenstaande vraag en antwoord dialoog met ChatGPT valt af te leiden dat het kan beschikken over *"een model van de wereld"* als het gaat om vragen die betrekking hebben op situaties die heel vaak voorkomen en uitvoerig zijn beschreven. Maar wat gebeurt er als we een zeer specifiek, technisch  en zeldzaam probleem laten beschrijven door chatGPT?
 
-```mermaid
-flowchart LR
-    id1(Vraag: <br> Wat kun je mij vertellen over <br> dubbele magnetische inductie om oogbewegingen bij mensen te kunnen meten?)
 
-    id2(Antwoord: <br> Dubbele magnetische inductie ---ook wel bekend als DMI--- is een methode die wordt gebruikt om metingen te verrichten van oogbeweging van mensen. )
-```
 
-Dit zijn kleine bewegingen van de ogen, die worden veroorzaakt door spiertjes in en rond de ogen. <br> Bij DMI worden de ogen blootgesteld aan twee verschillende magnetische velden, die vervolgens worden gemeten. Door deze metingen te vergelijken, kan worden bepaald hoeveel de oogleden bewegen. Dit kan worden gebruikt om de activiteit van de ogen te meten, wat nuttig kan zijn bij bijvoorbeeld het bestuderen van leespatronen of het diagnosticeren van bepaalde problemen met de ogen. <br> Het bijzondere van DMI is dat het een contactloze methode is. Er wordt geen direct contact gemaakt tussen de apparatuur en de ogen van de proefpersoon, waardoor er minder snel schade kan ontstaan aan de delicate structuren van het oog en de omliggende weefsels.
+
+
+
+
+
+
 
 <br>
 
