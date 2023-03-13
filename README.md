@@ -683,7 +683,7 @@ Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel 
   'Het is moeilijk om een precies antwoord te geven op 
    de gemiddelde hoogte van bomen in Nederland, omdat het afhangt 
    van verschillende factoren zoals boomsoort en groeiomstandigheden.
-   Over het algemeen worden bomen in Nederland <br> echter niet hoger dan 40-50 meter.'
+   Over het algemeen worden bomen in Nederland echter niet hoger dan 40-50 meter.'
 ```
 
 Uit de bovenstaande dialoog met ChatGPT valt af te leiden dat deze AI beschikt over *"een model van de wereld"* als het gaat om vragen die betrekking hebben op alledaagse situaties. Maar wat gebeurt er als we een zeer specifiek, technisch  en zeldzaam probleem laten beschrijven door chatGPT?
@@ -725,7 +725,7 @@ Nu we hebben vastgesteld dat ChatGPT een model van de wereld heeft, is de volgen
   herhaald totdat het systeem nauwkeurige en betrouwbare resultaten oplevert.'
 ```
 
-Het antwoord van HatGPT is correct en ook de uitleg. Dit eenvoudige experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen en/of te verklaren.
+Het antwoord van ChatGPT is correct en ook de uitleg. Dit eenvoudige experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen en/of te verklaren.
 
 De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICS. 
 
