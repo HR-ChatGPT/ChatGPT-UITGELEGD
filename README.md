@@ -781,6 +781,9 @@ zeer waardevolle *"Talige"* Gen-AI diensten  als *"hoog risico"* bestempelen, wa
 
 |Gen-AI Tool| Use Case | 
 |:---|:---|
+| [DEEPL Write Beta: Engelstalig of Duitstalig](https://www.deepl.com/en/write) | verbeteren van teksten
+| [QuilBot](https://quillbot.com/) | Parafraseer tool
+| [Wordtune Spices](https://www.wordtune.com/spices) | Geavanceerde tekstverwerker
 | [GrammarlyGO](https://www.digitaltrends.com/computing/grammarly-adds-ai-text-generation/) | tekstvoorspelling en -correctie
 | Jasper AI | een hulpmiddel voor het schrijven van zakelijke rapporten
 | [Notion AI](https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning) |  schrijven van notities
@@ -788,6 +791,9 @@ zeer waardevolle *"Talige"* Gen-AI diensten  als *"hoog risico"* bestempelen, wa
 | Speechmate | schrijven van toespraken
 | GitHub Copilot | genereren van broncode
 | Bloomberg's Brief Analyzer | samenvattingen genereren voor juristen
+
+Een doorwrochte overzicht (13 maart 2023) over de functionele eigenschappen van Gen-AI schrijfhulp tools is beschreven door Jeremey Caplan *---director of teaching and learning at cuny’s Newmark graduate school of journalism and the creator of the wonder tools newsletter---* op de Fastcompany's "connected world" blog, getiteld: [*"3 new AI editors to sharpen your sentences"*](https://www.fastcompany.com/90863383/3-new-ai-editors-to-sharpen-your-sentences?partner=rss).
+
 
 Door de bovenstaande diensten als *"hoog risico"* aan te merken, omdat ze vallen onder de noemer *"Talige"* Gen-AI, zou binnen de EU AI-gedreven innovatie & journalistiek  sterk worden belemmerd. 
 
@@ -809,6 +815,11 @@ Erger nog, de wet zou deze instrumenten - waarvan vele momenteel vrij te gebruik
 
 Dus het lijkt erop dat door de enorme populariteit van Gen-AI, de EU-instellingen zich gedwongen voelen hun ontwerpplannen te amenderen. Uitgangspunt is een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *---Microsoft, Alphabet en Meta---* de ontwikkelingen angstvallig in de gaten.
 
+In the academische wereld is de consesus dat de *"AI-act"* te beperkt van opzet is, zo schrijven Helberger & Diakopoulus in hun paper getiteld: ["*ChatGPT and the AI-Act*"](https://doi.org/10.14763/2023.1.1682)
+
+>*" ...Gen-AI in de vorm van 'Foundation models" ---zoals ChatGPT--- verschillen  op twee belangrijke punten met meer 'traditionele' deep learning AI-technologie waarvoor de Wet oorspronkelijk is geschreven: (1) dynamische context en (2) schaal van gebruik. <br> <br> Gen-AI zijn niet gebouwd voor een specifieke context of gebruiksvoorwaarden, en hun openheid en controlegemak maken een ongekende schaal van gebruik mogelijk. De output van Gen-AI kan worden benut als een vorm media content (tekst, audio, video) door mensen met doorsnee communicatievaardigheden, waardoor de drempel voor het gebruik ervan aanzienlijk wordt verlaagd. <br> <br> Tegelijkertijd kan Gen-AI voor zeer uiteenlopende doeleinden worden gebruikt door de enorme omvang van de extractie van gegevens die aan hun training ten grondslag ligt. Driehonderd miljard woorden alleen al voor ChatGPT, die alle soorten op het internet beschikbare inhoud omvatten - van persoonlijke gegevens tot beleidsdocumenten, nieuwsberichten, literaire teksten en kunst ..."* <br> <br>
+Deze twee kenmerken maken dat de huidige AI-Act op ten minste drie punten te kort schiet: (1) de haalbaarheid van het sorteren van generatieve AI-systemen in categorieën met een hoog/geen hoog risico, (2) de onvoorspelbaarheid van toekomstige risico's en (3) de bezorgdheid over het ordenen van particuliere risico's.
+
 
 <!-- Het zelfde geldt voor *"Beeldende"* Gen-AI die instaat zijn om zowel cartoons  als ook "Fake"" foto's van politici tegenereen, wat de vrees voor desinformatie aanwakkert.
 
@@ -820,7 +831,11 @@ De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te
 -->
 ### Geselecteerde referenties voor verder lezen
 
-[Overzicht Gen-AI schrijfhulp tools door Fastcompany](https://www.fastcompany.com/90863383/3-new-ai-editors-to-sharpen-your-sentences?partner=rss)
+* Helberger, N. & Diakopoulos, N. (2023). ChatGPT and the AI Act. Internet Policy Review, 12(1). https://doi.org/10.14763/2023.1.1682
+
+* Hacker, P., Engel, A., & Mauer, M. (2023). Regulating ChatGPT and other Large Generative AI Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.02337
+
+* Veale, M., & Zuiderveen Borgesius, F. (2021). Demystifying the Draft EU Artificial Intelligence Act—Analysing the good, the bad, and the unclear elements of the proposed approach. Computer Law Review International, 22(4), 97-112. https://doi.org/10.9785/cri-2021-220402
 
 <br> 
 
