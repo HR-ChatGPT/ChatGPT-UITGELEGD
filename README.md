@@ -2018,7 +2018,7 @@ https://research.ibm.com/publications/interactive-and-visual-prompt-engineering-
 -->
 
 
-#### Waarom zijn *"promr patterns"* noodzakelijk?
+#### Waarom zijn *"prompt patterns"* noodzakelijk?
 
 Een prompt bestaat uit de volgende onderdelen:
 - Instructie doel *---intentie---*
