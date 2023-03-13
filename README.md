@@ -725,7 +725,7 @@ Nu we hebben vastgesteld dat ChatGPT een model van de wereld heeft, is de volgen
   herhaald totdat het systeem nauwkeurige en betrouwbare resultaten oplevert.'
 ```
 
-Dit eenvoudig experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen.
+Het antwoord van HatGPT is correct en ook de uitleg. Dit eenvoudige experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen en/of te verklaren.
 
 De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICS. 
 
