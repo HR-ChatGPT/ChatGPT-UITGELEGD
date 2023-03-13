@@ -1931,7 +1931,9 @@ https://github.com/platelminto/ChatGPT-conversation
 ### [15] PROMPT "TUNING" VOORBEELDEN
 ********
 De onderstaande lijst bevat links bevat voorbeelden voor het maken van *"effectieve"* opdrachten.
-Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*.
+Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*. Om een idee te geven hoe "prompt engineering" in zijn werk gaan zijn een 3-tal voorbeelden uitgewerkt.
+
+<br> 
 
 | Prompt Enigineering Repositories |
 | ------- |
