@@ -701,8 +701,9 @@ de Argument Reasoning Comprehension Task [36]. In elk taakvoorbeeld wordt een na
 consistent is met het argument. Hier is een voorbeeld uit de dataset:
 -->
 
-
+<!--
 #### Geselecteerde referenties voor verder lezen:
+-->
 
 * Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
 
