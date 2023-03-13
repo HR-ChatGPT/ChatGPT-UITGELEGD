@@ -1951,19 +1951,24 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 | [Awesome Prompts](https://github.com/f/awesome-ChatGPT-prompts)
 | [ChatGPT Universe](https://github.com/cedrickchee/chatgpt-universe)
 | [OpenAI CookBook](https://github.com/openai/openai-cookbook)
+|[IBM Research](https://prompt.vizhub.ai/)
 | [Soft Prompt Tuning](https://github.com/Clyde013/Paraphrase-OPT/blob/main/REPORT.md)
 | [Flow GPT](https://flowgpt.com/)
 | [List of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
 | [The ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
 |[Prompts for teachers](https://www.learnersedge.com/blog/50-chat-gpt-prompts-for-teachers)
-|[Uses for ChatGPT for studentd](https://jagve.medium.com/5-incredible-uses-for-chatgpt-for-students-67242c708ead)
+|[Uses for ChatGPT for students](https://jagve.medium.com/5-incredible-uses-for-chatgpt-for-students-67242c708ead)
+|[Allabtai](https://www.allabtai.com/category/prompt-engineering/)
 
 
 <!--
 https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf
 https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec05.pdf
+https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf
 
 https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Creatively-malicious-prompt-engineering.pdf
+
+https://research.ibm.com/publications/interactive-and-visual-prompt-engineering-for-ad-hoc-task-adaptation-with-large-language-models
 
 * https://chatgpt.getlaunchlist.com/
 * https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html
