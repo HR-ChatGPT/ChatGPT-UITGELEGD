@@ -635,30 +635,6 @@ flowchart TD
 ```
 
 
-### Waarom is prompt finetuning in de vorm van "chain-of-thought" noodzakelijk?
-Een prompt bestaat uit de volgende onderdelen:
-- Instructie doel *---intentie---*
-- Context
-- Invoergegevens
-- Uitvoerindicator
-
-Bij het bevragen van een taalmodel via een prompt zijn de volgende *"afhankelijkheden"* van belang: 
--  bepalen hoe deterministisch *---precies/nauwkeurig---* het model moet zijn bij het genereren van een antwoord
-- Temperatuur en top_p zijn twee belangrijke parameters om te onthouden
-in gedachten te houden
-   - laag voor exacte antwoorden 
-   - hoog voor meer generieke antwoorden
-
-Instructie doelen kunnen zijn: 
-- Tekst samenvatten
-- Vraag beantwoorden
-- Tekstclassificatie
-- Rollenspel
-- Code genereren
-- Redeneren
-
-
-
 <br> 
 
 ### Geselecteerde referenties voor verder lezen
@@ -1996,9 +1972,9 @@ https://github.com/platelminto/ChatGPT-conversation
 
 # v15
 ********
-### [15] PROMPT "PATTERN" VOORBEELDEN
+### [15] PROMPT *"PATTERN ENGINEERING"* VOORBEELDEN
 *******
-De onderstaande lijst bevat links bevat voorbeelden voor het maken van *"effectieve"* opdrachten.
+
 Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*. Om een idee te geven hoe "prompt engineering" in zijn werk gaan zijn een 3-tal voorbeelden uitgewerkt.
 
 - *Prompt Patterns* omvatten instructies en context voor een taalmodel om een gewenste taak te bereiken
@@ -2006,7 +1982,8 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 - GPT3: *"Een effectieve prompt is algemeen genoeg om voor verschillende taken te worden gebruikt, maar specifiek genoeg om nuttig te zijn voor een bepaalde taak"*
 - Human: *"Een effectieve prompt is er een die specifiek is en voldoende context biedt voor het model om een antwoord te kunnen genereren dat relevant is voor de beoogde taak."*
 
-<br> 
+#### Lijst met links naar voorbeelden voor het maken van *"effectieve"* opdrachten.
+
 
 | Prompt Enigineering Repositories |
 | ------- |
@@ -2041,7 +2018,32 @@ https://research.ibm.com/publications/interactive-and-visual-prompt-engineering-
 -->
 
 
-### VOORBEELD 01: Linux Terminal
+#### Waarom zijn *"promr patterns"* noodzakelijk?
+
+Een prompt bestaat uit de volgende onderdelen:
+- Instructie doel *---intentie---*
+- Context
+- Invoergegevens
+- Uitvoerindicator
+
+Bij het bevragen van een taalmodel via een prompt zijn de volgende *"afhankelijkheden"* van belang: 
+-  bepalen hoe deterministisch *---precies/nauwkeurig---* het model moet zijn bij het genereren van een antwoord
+- Temperatuur en top_p zijn twee belangrijke parameters om te onthouden
+in gedachten te houden
+   - laag voor exacte antwoorden 
+   - hoog voor meer generieke antwoorden
+
+Instructie doelen kunnen zijn: 
+- Tekst samenvatten
+- Vraag beantwoorden
+- Tekstclassificatie
+- Rollenspel
+- Code genereren
+- Redeneren
+
+*******
+## Prompt voorbeelden
+#### VOORBEELD 01: Linux Terminal
 
 Ik wil dat je optreedt als een Linux terminal. Ik typ commando's en jij antwoordt met wat de terminal moet laten zien. Ik wil dat je alleen antwoordt met de terminal output binnen een uniek code blok, en niets anders. schrijf geen uitleg. typ geen commando's tenzij ik je dat opdraag. als ik je iets in het engels moet vertellen, doe ik dat door tekst binnen accolades te zetten {zoals dit}. mijn eerste twee commando's zijn pwd  en  Ls.
 
@@ -2063,7 +2065,7 @@ drwxrwxr-x  5 user   group  4096 Jul 24 21:07 Videos
 ```
 
 *******
-### VOORBEELD 02: Talige Excel
+#### VOORBEELD 02: Talige Excel
 
 Ik wil dat je optreedt als een tekstgebaseerde excel. Je antwoordt me alleen de tekstgebaseerde 10 rijen excel sheet met rijnummers en celletters als kolommen (A tot L). De eerste kolomkop moet leeg zijn om naar het rijnummer te verwijzen. Ik vertel u wat u in de cellen moet schrijven en u antwoordt alleen het resultaat van de excel-tabel als tekst, en niets anders. Schrijf geen uitleg. Ik schrijf u formules en u voert de formules uit en u geeft alleen het resultaat van de Excel-tabel als tekst. Vul alle velden met het getal 1. <br>
 
@@ -2092,12 +2094,11 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 "Zwart is hetzelfde als wit omdat wit hetzelfde is als zwart."
 ```
 ********
-<br /> 
 
 <br> 
 
 ### Geselecteerde referenties voor verder lezen
-
+ xxxx
 
 
 <br>
