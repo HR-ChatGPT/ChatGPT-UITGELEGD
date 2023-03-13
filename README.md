@@ -676,6 +676,11 @@ https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-langu
 
 https://2cute2tech.substack.com/p/how-did-we-train-large-language-models
 https://2cute2tech.substack.com/p/how-does-chatgpt-work-so-well
+https://ai-alignment.com/clarifying-ai-alignment-cec47cd69dd6
+
+Prompt Engineering
+A lecture by DAIR.AI
+Elvis Saravia
 
 https://pub.towardsai.net/learn-prompting-101-prompt-engineering-course-challenges-d93d58c56858
 -->
