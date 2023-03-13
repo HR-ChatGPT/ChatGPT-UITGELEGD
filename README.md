@@ -1928,18 +1928,22 @@ https://github.com/platelminto/ChatGPT-conversation
 
 # v15
 ********
-### [15] PROMPT VOORBEELDEN
+### [15] PROMPT "TUNING" VOORBEELDEN
 ********
-De onderstaande voorbeelden zijn ontleend aan:
+De onderstaande lijst bevat links bevat voorbeelden voor het maken van *"effectieve"* opdrachten.
+Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*.
 
 | bron/ URL |
 | ------- |
 | https://github.com/f/awesome-ChatGPT-prompts
-| https://flowgpt.com/
-| [List of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
-| https://github.com/openai/openai-cookbook
-| [The ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
 | https://github.com/cedrickchee/chatgpt-universe
+| https://github.com/openai/openai-cookbook
+| [Soft Prompt Tuning](https://github.com/Clyde013/Paraphrase-OPT/blob/main/REPORT.md)
+| [Flow GPT](https://flowgpt.com/)
+| [List of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
+| [The ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
+|[Prompts for teachers](https://www.learnersedge.com/blog/50-chat-gpt-prompts-for-teachers)
+|[Uses for ChatGPT for studentd](https://jagve.medium.com/5-incredible-uses-for-chatgpt-for-students-67242c708ead)
 
 
 <!--
