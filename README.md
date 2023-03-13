@@ -636,7 +636,7 @@ flowchart TD
 
 ### Waarom is prompt finetuning in de vorm van "chain-of-thought" noodzakelijk?
 Een prompt bestaat uit de volgende onderdelen:
-- Instructie doel
+- Instructie doel *---intentie---*
 - Context
 - Invoergegevens
 - Uitvoerindicator
@@ -667,6 +667,8 @@ Instructie doelen kunnen zijn:
 * Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
 
 * Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2023). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903. Original paper published at NeurIPS 2022 https://openreview.net/forum?id=_VjQlMeSB_J
+
+* White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
 
 <!--
