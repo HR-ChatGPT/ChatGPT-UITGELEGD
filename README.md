@@ -2186,6 +2186,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
 
+* Minaee, S., Kalchbrenner, N., Cambria, E., Nikzad, N., Chenaghlu, M., & Gao, J. (2021). Deep learning--based text classification: a comprehensive review. ACM computing surveys (CSUR), 54(3), 1-40. https://doi.org/10.1145/3439726
+
 * <sub> Ngo, R. (2022). The alignment problem from a deep learning perspective. arXiv preprint. https://doi.org/10.48550/arXiv.2209.00626
 
 * <sub> Openai.com (2022, januari 27). Instruction Following [Blog]. https://openai.com/blog/instruction-following/
