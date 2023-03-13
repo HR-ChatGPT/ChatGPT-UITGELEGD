@@ -649,7 +649,21 @@ De onderstaande tekst is deels gebaseerd op een blog post getiteld: [*"ChatGPT u
 or if it doesn't, it fails for reasons other than the ones you think"*](https://www.lesswrong.com/out?url=https%3A%2F%2Fphilosophybear.substack.com%2Fp%2Fchatgpt-understands-langauge). 
 Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel dat de chatbot geen idee heeft hoe mensen de fysieke wereld ervaren via hun lichaam, ogen, oren, tastzin, evenwichtsgevoel etc. Het lijkt dus niet te kunnen beschikken over een "model van de wereld" *--- a theory of the world---*. Tegelijkertijd merk je dat ChatGPT gevoelig is voor sturing via een keten-van-gedachten. Dit is alleen mogelijk wanneer de AI toegang heeft tot de *"wereld via (natuurlijke) taal"*. 
 
+```mermaid
+flowchart LR
+    id1(Vraag: Kunnen mensen een boom optillen?)
 
+    id2(Antwoord: Nee, normaal gesproken kunnen mensen geen boom optillen. <br> Bomen zijn meestal zwaar en groot van formaat, dus het is onmogelijk om ze zonder hulp op te tillen.)
+
+    id3(vervolgvraag: Wat bedoel je met optillen?)
+
+    id4(Antwoord: Als je optillen bedoelt als het verplaatsen van de boom, <br> dan kan het antwoord Nee zijn. <br> De meeste bomen zijn veel te groot en zwaar om met de hand opgetild te worden. <br> In de meeste gevallen heb je uitrusting nodig zoals takels, <br> vrachtwagens of kranen om bomen te verplaatsen.)
+
+    id5(Vraag: Wat bedoel je met verplaatsen?)
+
+    id6(Antwoord: Met verplaatsen bedoel ik dat de boom <br> van een bepaalde locatie naar een andere locatie <br> zou worden gebracht, <br> verplaatst zou zijn of in een nieuwe locatie zou worden geplant.)
+    
+```
 <br>
 
 
