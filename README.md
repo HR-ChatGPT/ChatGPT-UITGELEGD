@@ -638,7 +638,11 @@ flowchart TD
 <br> 
 
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
+
+* Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
+
 * Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2023). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903. Original paper published at NeurIPS 2022 https://openreview.net/forum?id=_VjQlMeSB_J
+
 
 
 <!--
@@ -1928,15 +1932,20 @@ https://github.com/platelminto/ChatGPT-conversation
 
 # v15
 ********
-### [15] PROMPT "TUNING" VOORBEELDEN
-********
+### [15] PROMPT "PATTERN" VOORBEELDEN
+*******
 De onderstaande lijst bevat links bevat voorbeelden voor het maken van *"effectieve"* opdrachten.
 Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*. Om een idee te geven hoe "prompt engineering" in zijn werk gaan zijn een 3-tal voorbeelden uitgewerkt.
+
+- *Prompt Patterns* omvatten instructies en context voor een taalmodel om een gewenste taak te bereiken
+- *Prompt engineering* is de praktijk van het bedenken en het optimaliseren van prompts om taalmodellen efficiënt te gebruiken voor uiteenlopende toepassingen
+- GPT3: *"Een goede prompt is algemeen genoeg om voor verschillende taken te worden gebruikt, maar specifiek genoeg om nuttig te zijn voor een bepaalde taak"*
 
 <br> 
 
 | Prompt Enigineering Repositories |
 | ------- |
+| [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 | [Awesome Prompts](https://github.com/f/awesome-ChatGPT-prompts)
 | [ChatGPT Universe](https://github.com/cedrickchee/chatgpt-universe)
 | [OpenAI CookBook](https://github.com/openai/openai-cookbook)
@@ -1949,6 +1958,9 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 
 
 <!--
+https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf
+https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec05.pdf
+
 * https://chatgpt.getlaunchlist.com/
 * https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html
 ===> https://github.com/cedrickchee/chatgpt-universe
@@ -2007,6 +2019,12 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 ```
 ********
 <br /> 
+
+<br> 
+
+#### Geselecteerde referenties voor verder lezen
+
+<br>
 
 # v16
 ********
@@ -2075,6 +2093,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Khan, Salman; Naseer, Muzammal; Hayat, Munawar; Zamir, Syed Waqas; Khan, Fahad Shahbaz; and Shah, Mubarak. (2022). "Transformers in Vision: A Survey" ACM Comput. Surv. Vol. 54, No. 10s, pp. 200. https://doi.org/10.1145/3505244
 
 * <sub> Kosinski, M. (2023). Theory of mind may have spontaneously emerged in large language models. arXiv preprint https://doi.org/10.48550/arxiv.2302.02083
+
+* <sub> Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
 
 * <sub> Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H. & Neubig, G. (2023). Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. ACM Comput. Surv., 55(9), 195. https://doi.org/10.1145/3560815
 
