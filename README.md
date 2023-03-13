@@ -1939,7 +1939,8 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 
 - *Prompt Patterns* omvatten instructies en context voor een taalmodel om een gewenste taak te bereiken
 - *Prompt engineering* is de praktijk van het bedenken en het optimaliseren van prompts om taalmodellen efficiënt te gebruiken voor uiteenlopende toepassingen
-- GPT3: *"Een goede prompt is algemeen genoeg om voor verschillende taken te worden gebruikt, maar specifiek genoeg om nuttig te zijn voor een bepaalde taak"*
+- GPT3: *"Een effectieve prompt is algemeen genoeg om voor verschillende taken te worden gebruikt, maar specifiek genoeg om nuttig te zijn voor een bepaalde taak"*
+- Human: *"Een effectieve prompt is er een die specifiek is en voldoende context biedt voor het model om een antwoord te kunnen genereren dat relevant is voor de beoogde taak."*
 
 <br> 
 
@@ -1960,6 +1961,8 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 <!--
 https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf
 https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec05.pdf
+
+https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Creatively-malicious-prompt-engineering.pdf
 
 * https://chatgpt.getlaunchlist.com/
 * https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html
