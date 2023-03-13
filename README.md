@@ -2099,6 +2099,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 ### Geselecteerde referenties voor verder lezen
 
+* Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H. & Neubig, G. (2023). Pre-Train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. ACM Comput. Surv., 55(9), 195. https://doi.org/10.1145/3560815
+
 * White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
 
