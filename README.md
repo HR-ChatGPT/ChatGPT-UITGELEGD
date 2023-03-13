@@ -653,7 +653,7 @@ Wanneer ChatGPT gebruikt wordt voor zeer specifieke taken, dan merk je als snel 
 flowchart LR
     id1(Vraag: Kunnen mensen een boom optillen?)
 
-    id2(Antwoord: Nee, normaal gesproken kunnen mensen geen boom optillen. <br> Bomen zijn meestal zwaar en groot van formaat, dus het is onmogelijk om ze zonder hulp op te tillen.)
+    id2(Antwoord: Nee, normaal gesproken kunnen mensen geen boom optillen. <br> Bomen zijn meestal zwaar en groot van formaat, <br> dus het is onmogelijk om ze zonder hulp op te tillen.)
 
     id3(vervolgvraag: Wat bedoel je met optillen?)
 
@@ -662,6 +662,10 @@ flowchart LR
     id5(Vraag: Wat bedoel je met verplaatsen?)
 
     id6(Antwoord: Met verplaatsen bedoel ik dat de boom <br> van een bepaalde locatie naar een andere locatie <br> zou worden gebracht, <br> verplaatst zou zijn of in een nieuwe locatie zou worden geplant.)
+
+    id7(Vraag: Wat is de gemiddelde hoogte van een boom in Nederland in meters?)
+
+    id8(Antwoord: Het is moeilijk om een precies antwoord te geven <br> op de gemiddelde hoogte van bomen in Nederland, <br> omdat het afhangt van verschillende factoren <br> zoals boomsoort en groeiomstandigheden. <br> Over het algemeen worden bomen in Nederland <br> echter niet hoger dan 40-50 meter.)
     
 ```
 <br>
