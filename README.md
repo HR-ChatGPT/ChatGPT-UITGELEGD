@@ -604,10 +604,12 @@ Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* 
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert| Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
 Few-shot <br> <br> OR <br> <br>  Chain-of-Tought | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
-### Hoe werkt "Chain-of-Thought" *---keten van gedachten---*?
+### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
 
 Chain-of-thought prompts zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze keten aan nieuwe *"kennis"* te gebruiken om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
 
+Een chain-of-thoughts kan worden beschouwd als een vorm van  *Logisch Redeneren: het proces van het opbouwen van een argumentatie*. 
+Het mechanisme van een keten-van-gedachten is een vorm van "prompt finetunning".
 
 ```mermaid
 flowchart LR
@@ -632,7 +634,6 @@ flowchart TD
    external_knowledge --> internal_knowledge
 ```
 
-<br>
 
 ### Waarom is prompt finetuning in de vorm van "chain-of-thought" noodzakelijk?
 Een prompt bestaat uit de volgende onderdelen:
@@ -665,6 +666,8 @@ Instructie doelen kunnen zijn:
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
 
 * Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
+
+* Liu, X., Zheng, Y., Du, Z., Ding, M., Qian, Y., Yang, Z., & Tang, J. (2021). GPT understands, too. arXiv preprint https://doi.org/10.48550/arXiv.2103.10385
 
 * Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2023). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903. Original paper published at NeurIPS 2022 https://openreview.net/forum?id=_VjQlMeSB_J
 
