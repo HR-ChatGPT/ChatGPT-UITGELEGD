@@ -1065,7 +1065,11 @@ Er zijn  echte veel [aanwijzingen](https://arxiv.org/abs/2206.07682) die in de t
 
 ChatGPT is de 4de generatie, en meest geavanceerde GPT *---gemaakt door OpenAI LD---* die publiekelijk toegankelijk is gesteld door OpenAI eind 2022. Naast dat het beschikt over een [*GTP-3.5 LLM*](https://platform.openai.com/docs/model-index-for-researchers/models-referred-to-as-gpt-3-5), is het gevoed met meer dan 8 miljoen unieke dialogen. ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde *"conversationele agenten"* die publiekelijk beschikbaar is gesteld.
 
-GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven. 
+GPT's worden hierdoor nu versneld mainstream. In parallel werkt Microsoft *---dat onlangs miljarden dollars investeerde in het bedrijf achter de chatbot, OpenAI---* aan de integratie ervan in zijn populaire kantoorsoftware en toegang tot de tool verkoopt aan andere bedrijven.
+
+Op 14 maart 2023 melde de New York Times dat OpenAI-LP GPT-4 had vrijgegeven voor onderzoekers in een blog getiteld: [*"OpenAI Plans to Up the Ante in Tech’s A.I. Race"*](https://www.nytimes.com/2023/03/14/technology/openai-gpt4-chatgpt.html). Het is bedoeld als tekst-only LLM voor chatbots en allerlei andere *"Talige"* diensten, van zoekmachines tot persoonlijke online tutors.
+
+>*"GPT-4, die zijn vaardigheden leerde door het analyseren van enorme hoeveelheden gegevens van het internet, verbetert ChatGPT op verschillende manieren. Het is preciezer. Het kan slagen voor het advocaten examen "burgerlijk recht", belastingformulieren invullen en zeer gedetailleerde beschrijvingen van beelden geven."* <br> <br> *"Het heeft nog steeds enkele van de merkwaardig tekortkomingen. Het is een expert in sommige onderwerpen en een dilettant in andere. Het kan beter presteren op gestandaardiseerde tests dan de meeste mensen en nauwkeurig medisch advies geven aan artsen, maar het kan ook basale rekenfouten maken."*
 
 De sterke toename van de aandacht voor ChatGPT dwingt Tech-giganten *---waaronder Meta en Google---* om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, aldus the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook ["Wat zijn de ethische risico's & schaduwkanten van ChatGTP?"](#v1c)
 
@@ -1080,6 +1084,9 @@ Hierdoor wordt zeer waarschijnlijk het "*gratis-advertentie*" verdien-model losg
 * Voeg Bing.com toe aan de "Taskbar"
 * Voeg Microsoft to aan "recommended sites in Favorites" 
 * maak een desktop "shortcut fot Microfoft Edge"
+
+
+
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. 
 Via Google's [*"AI Test Kitchen"*](https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/) is hun *"Language Model for Dialogue Applications"* [LaMDA] uit te proberen; althans voor een beperkt aantal *"onderzoekers"* woonachtig in de VS.
