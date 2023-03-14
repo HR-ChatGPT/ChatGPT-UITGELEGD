@@ -690,24 +690,29 @@ Uit de bovenstaande dialoog met ChatGPT valt af te leiden dat deze AI beschikt o
 
 ```python
 # Wat kun je mij vertellen over dubbele magnetische inductie om oogbewegingen bij mensen te kunnen meten?
-  'Dubbele magnetische inductie (ook wel bekend als DMI) is een methode die wordt gebruikt 
-   om metingen te verrichten van oogbeweging van mensen. Dit zijn kleine bewegingen van de ogen, 
-   die worden veroorzaakt door spiertjes in en rond de ogen. Bij DMI worden de ogen blootgesteld 
-   aan twee verschillende magnetische velden, die vervolgens worden gemeten. Door deze metingen 
-   te vergelijken, kan worden bepaald hoeveel de oogleden bewegen. Dit kan worden gebruikt om 
-   de activiteit van de ogen te meten, wat nuttig kan zijn bij bijvoorbeeld het bestuderen van 
-   leespatronen of het diagnosticeren van bepaalde problemen met de ogen. 
-   Het bijzondere van DMI is dat het een contactloze methode is. 
-   Er wordt geen direct contact gemaakt tussen de apparatuur en de ogen van de proefpersoon, 
-   waardoor er minder snel schade kan ontstaan aan de delicate structuren van het oog en de omliggende weefsels.'
+  'Dubbele magnetische inductie (ook bekend als Double Magnetic Induction, DMI) 
+   is een technologie die wordt gebruikt om oogbewegingen bij mensen te meten. 
+   Dit wordt vaak gebruikt in de neurowetenschappen en klinische studies om 
+   informatie te verzamelen over zaken als visuele perceptie en cognitie.
+   DMI maakt gebruik van een paar magneten die rondom een proefpersoon worden 
+   geplaatst, samen met een set spoelen die zich voor en op het oog bevinden. 
+   Het werkt door het meten van de veranderingen in magnetische velden die optreden 
+   terwijl het oog beweegt.Wanneer het oog beweegt, heeft dit invloed op het 
+   magnetische veld dat rondom het oog wordt gegenereerd. Deze veranderingen 
+   kunnen door de spoelarray worden waargenomen en vervolgens worden vertaald 
+   naar gegevens over de oogbeweging. Een belangrijk voordeel van DMI is dat 
+   het zeer nauwkeurig is bij het meten van oogbewegingen, en kan helpen 
+   onderscheid te maken tussen verschillende soorten oogbewegingen zoals 
+   foveale fixatie, smooth pursuit en saccadische bewegingen. Dit type 
+   technologie wordt vaak gebruikt in onderzoek naar neurologische aandoeningen, 
+   evenals in de ontwikkeling van ooggestuurde systemen en interactieve toepassingen.'
 ```
-
-Ook wanneer het gaat om zeer *'zeldzame'* technische concepten dan kan ChatGPT hierop adequaat reageren.  
+De bovenstaande beschrijving is op hoofdlijnen correct.
+Dus wanneer het gaat om zeer *'zeldzame'* technische concepten dan kan ChatGPT ook hierop adequaat reageren.  
 
 
 #### Hoe effectief is ChatGPT in het beoordelen van een redenatie?
 Nu we hebben vastgesteld dat ChatGPT een model van de wereld heeft, is de volgend vraag: *"In hoeverre kan ChatGPT gebruikt worden om een stuk tekst te beoordelen?"*  Dat wil zeggen is het in staat om een "keten-van-gedachten" te volgen en de juistheid ervan vast te stellen? 
-
 
 ```python
 # Is de volgende bewering correct: 
@@ -725,7 +730,43 @@ Nu we hebben vastgesteld dat ChatGPT een model van de wereld heeft, is de volgen
   herhaald totdat het systeem nauwkeurige en betrouwbare resultaten oplevert.'
 ```
 
-Het antwoord van ChatGPT is correct en ook de uitleg. Dit eenvoudige experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen en/of te verklaren.
+```python
+# Is de volgende bewering correct: 
+# "Een wetenschapper gebruikt een Large language Model (LLM) als AI-technologie 
+# om een DMI-systeem te kaliberen. De uitkomsten van de kalibratie 
+# geven betrouwbare oogbeweging metingen"
+ 'Het is onwaarschijnlijk dat een Large Language Model (LLM) nuttig zal zijn bij het kalibreren
+  van een Double Magnetic Induction (DMI) systeem voor het meten van oogbewegingen.
+  LLMs worden meestal gebruikt voor taalkundige taken, zoals tekstgeneratie en vertaling.
+  Er zijn echter andere machine learning-technieken die wellicht nuttiger kunnen zijn 
+  bij het kalibreren van een DMI-systeem, zoals neurale netwerken of Kohonen-netwerken. 
+  Het uiteindelijke resultaat van de kalibratie zal afhangen van de nauwkeurigheid van de 
+  gebruikte techniek en de correcte toepassing ervan. Als de kalibratie goed wordt uitgevoerd en 
+  het systeem correct is ingesteld, kunnen betrouwbare oogbewegingsmetingen worden verkregen.'
+```
+
+De antwoorden van ChatGPT zijn correct, inclusief de uitleg. Dit eenvoudige experiment met ChatGPT toont aan dat deze AI in staat is om stukken tekst *---die een duidelijk keten-van-gedachten beschrijven---* op hun juistheid te beoordelen en/of te verklaren.
+
+Er is echter een bijkomend probleem van hoe ChatGPT om gaat met prompts.
+Bij herhaling van exact dezelfde prompt, kan de uitkomst afwijken. 
+
+```python
+# Is de volgende bewering correct: 
+# "Een wetenschapper gebruikt een Large language Model (LLM) als AI-technologie 
+# om een DMI-systeem te kaliberen. De uitkomsten van de kalibratie 
+# geven betrouwbare oogbeweging metingen"
+ 'Het is mogelijk dat een wetenschapper het LLM gebruikt om te helpen bij de kalibratie 
+  van een DMI-systeem, maar het is niet de enige of noodzakelijke manier om dit te doen. 
+  Andere machine learning-modellen zoals Kohonen-netwerken en Boltzmann-machines 
+  kunnen ook worden gebruikt voor kalibratie. De keuze tussen verschillende 
+  soorten machine learning-modellen hangt af van factoren zoals de beschikbaarheid 
+  van gegevens, de gewenste precisie, de complexiteit van het oogbewegingsproces.'
+```
+Het antwoord in dit geval is onjuist.
+
+Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan worden om als beoodelingsinstrument, maar het is nog niet betrouwbaar "genoeg". 
+
+
 
 De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICS. 
 
