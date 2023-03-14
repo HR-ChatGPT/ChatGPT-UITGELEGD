@@ -712,9 +712,9 @@ Nu we hebben vastgesteld dat ChatGPT een model van de wereld heeft, is de volgen
 ```python
 # Is de volgende bewering correct: 
 # "Met behulp van neurale netwerk theorie kan een DMI-systeem worden gekalibreerd. 
-# Het enige dat nodig is dat een proefpersoon rond kijkt terwijl de spanningsveranderingen 
+# Het enige dat nodig is, is dan een proefpersoon die rond kijkt terwijl de spanningsveranderingen 
 # in van de inductie-sensor op het oog worden geregistreerd door een computer. 
-# Deze signalen worden dab gebruikt als input voor het te trainen neural netwerk."
+# Deze signalen worden dan gebruikt als input dataset voor het te trainen neurale netwerk."
   'Ja, deze bewering is correct. 
   Het kalibreren van een DMI-systeem met behulp van neurale netwerk theorie 
   is een veelgebruikte methode. Tijdens de kalibratie zal de persoon naar 
