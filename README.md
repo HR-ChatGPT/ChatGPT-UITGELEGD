@@ -1105,7 +1105,7 @@ OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4
 
 >*"Voorbeeldvragen die leidden tot schadelijke inhoud in GPT-4-early. GPT-4-launch heeft nog steeds beperkingen, die cruciaal zijn voor het bepalen van een veilig gebruik."*
 
-Uit deze bronnen valt het volgende op dat GTP-4 over de volgende eigenschappen beschikt die afwijken van haar voorganger GPT-3.
+Uit deze bronnen valt het volgende op te maken over de GPT-4 eigenschappen die afwijken van haar voorganger GPT-3:
 
 | GPT-4 LLM <br> Unieke eigenschappen <br> <br> | Uitleg / Voorbeeld |
 | -------------------------- | --------- |
