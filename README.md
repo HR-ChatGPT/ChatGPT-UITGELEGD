@@ -186,7 +186,7 @@ Hoe ChatGPT jouw werk als docent makkelijker maakt
 https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/
 -->
 * [1a] [Wat moet je weten over ChatGPT en wat kant deze *"chatBot"*?](#v1a)
-* [1b] [Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?](#v1b)
+* [1b] [Wat zijn de functionele mogelijkheden & *---Cyber Security---* beperkingen van ChatGPT?](#v1b)
 * [1c] [Wat zijn ethische risico's & schaduwkanten van ChatGPT?](#v1c)
 * [1d] [Maakt ChatGPT *"valsspelen"* makkelijker en is het te detecteren?](#v1d)
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
@@ -1182,7 +1182,7 @@ In de onderstaande tabel zijn tot nu toe bekende op natuurlijke taalverwerking [
 
 
 *******
-### [1b] WAT ZIJN DE FUNCTIONELE MOGELIJKHEDEN & BEPERKINGEN VAN ChatGPT?
+### [1b] WAT ZIJN DE FUNCTIONELE MOGELIJKHEDEN & *---Cyber Security---* BEPERKINGEN VAN ChatGPT?
 *******
 
 <!--
@@ -1281,11 +1281,9 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 | <sub>Gebrek aan context | <sub>Omdat ChatGPT is getraind op bestaande tekst, kan het soms moeilijk zijn om de intentie van de vraagsteller te bepalen. <br><br> Dit gebeurt als een vraag niet specifiek genoeg is, dubbelzinnig en of tegenstrijdig is, of als de vraagsteller de context niet duidelijk aangeeft. <br><br>Gevolg is dat ChatGPT naar de intentie van de vraagsteller gaat *"raden"*. Met andere woorden, ChatGPT komt tot een antwoord door een reeks gissingen waardoor het foute antwoorden kan beargumenteren alsof ze volledig waar zijn. Het produceert dan alleen nog onzinnige antwoorden alsof het aan het hallucineren is. | <sub> Wanneer ChatGPT een alleen nog onzinnig antwoorden geeft, log dan uit. Log vervolgens opnieuw in en herformuleren de vraag. <br><br>Gebruik de juiste woordkeuze en uitdrukkingen. <br><br>Gebruik de juiste context. <br><br> |
 | <sub>Ongewenste antwoorden | <sub>ChatGPT zal doorgaans ongepaste verzoeken weigeren. Dit komt doordat de Moderation-API ongepaste verzoeken zal negeren en/of waarschuwen: <br> <sub> *"This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area."*| <sub> Dit is een vorm van zelfcensuur die lastig te omzeilen is. Het opleggen van een rollenspel heeft kan deze vorm van filtering neutraliseren, maar de vraag is of je dat zou moeten willen? <br><br> Wanneer je ervan overtuigd bent dat de waarschuwing onterecht is, geef dan feedback via de API.|
 
-<br>
-
+<br> 
 
 ### Geselecteerde referenties voor verder lezen
-<br> 
 
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
 
@@ -1304,6 +1302,10 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 * Github repository van Anthropic voor de code van het Alignment probleem: https://github.com/anthropics/hh-rlhf?ref=news-tutorials-ai-research.
 
 * Generative AI: Perspectives from Stanford HAI How do you think generative AI will affect your field and society going forward? https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf
+
+* [InfoSys Cyber Security (14 maart 2023)](https://www.infosys.com/insights/cyber-security/new-risks.html). *"ChatGPT presents new risks – here are five things you can do to mitigate them."*
+
+* [CyberARK Threat Blog (17 januari 2023)](https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware). *"Chatting Our Way Into Creating a Polymorphic Malware"*
 
 <br>
 
