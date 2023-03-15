@@ -1105,7 +1105,7 @@ OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4
 
 >*"Voorbeeldvragen die leidden tot schadelijke inhoud in GPT-4-early. GPT-4-launch heeft nog steeds beperkingen, die cruciaal zijn voor het bepalen van een veilig gebruik."*
 
-TechCruch heeft via haar blog *"Robotics & AI"* *---geschreven door Devin Coldewey---* een overzicht gemaakt (14 Maart 2023) ---getiteld: [*"5 ways GPT-4 outsmarts ChatGPT"*](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/) waarin wordt beschreven waarin GPT-4 afwijkt ten opzichte van haar voorgangers.
+TechCruch heeft via haar blog *"Robotics & AI"* *---geschreven door Devin Coldewey---* een overzicht gemaakt (14 Maart 2023) ---getiteld: [*"5 ways GPT-4 outsmarts ChatGPT"*](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/) waarin wordt beschreven hoe GPT-4 afwijkt ten opzichte van haar voorgangers.
 
 | GPT-4 LLM <br> Unieke eigenschappen <br> <br> | Uitleg / Voorbeeld |
 | -------------------------- | --------- |
