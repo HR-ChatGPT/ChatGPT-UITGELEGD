@@ -603,7 +603,7 @@ Instructies voor het schrijven van effectieve  opdrachten zijn beschreven in: [P
 |------|------|------|
 Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* voorbeelden te geven <br> <br> het model zal dan moeten *"raden"* waarnaar je precies naar refereert| *"Geef een tabel met alle bacheloropleidingen van de hogeschool Rotterdam per instituut."* |
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert| Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
-Few-shot <br> <br> OR <br> <br>  Chain-of-Tought <br> <br> OR <br> <br> In-Context Learning | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
+Few-shot <br> <br> OR <br> <br>  Chain-of-Tought [CoT] <br> <br> OR <br> <br> In-Context Learning | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | Geeft een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld: <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
 ### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
 
@@ -634,10 +634,36 @@ flowchart TD
    internal_knowledge --> external_knowledge
    external_knowledge --> internal_knowledge
 ```
-
-
 <br> 
 
+#### Hoe effectief is *"keten-van-gedachten"* ---Chain-of-Thoughts [CoT]---?
+Onderstaande voorbeelden zijn ontleend aan [The Decoder nieuwsbrief (27 september 2023)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/), geschreven door  Moritz Larsen, Doris Weßels  (Universiteit Kiel) getiteld: *"What is CoT Prompting and how can it help?"*
+
+##### Voorbeeld 1: Effect van CoT prompting op rekentaken
+
+| Rekenopdracht zonder CoT  | Rekenopdracht met CoT |
+| -------------------------------------------- | --------------------------------- |
+| <sub> Wat is de jaarlijkse waterbehoefte van een eengezinswoning met vier personen die gemiddeld 200 dagen per jaar thuis zijn en gemiddeld 100 liter water per dag gebruiken? | <sub>  Wat is de jaarlijkse waterbehoefte van een eengezinswoning met vier personen die gemiddeld 200 dagen per jaar thuis zijn en gemiddeld 100 liter water per dag gebruiken? Laten we stap voor stap nadenken en de berekening uitleggen. |
+| Resultaat zonder CoT | Resultaat met CoT |
+| <sub> De jaarlijkse waterbehoefte van een eengezinswoning waarin vier personen wonen, die gemiddeld 200 dagen per jaar thuis zijn en gemiddeld 100 liter water per dag nodig hebben, is 80.000 liter. | <sub> Aantal personen in het huishouden: 4 personen Gemiddeld aantal dagen dat de mensen in het huishouden thuis zijn: 200 dagen Gemiddeld waterverbruik per persoon per dag: 100 liter 4 personen * 200 dagen * 100 liter water = 80.000 liter water per jaar |
+
+Voorbeeld 2: Verbetert CoT prompting de uitleg van een citaat?
+
+Kan ChatGPT een citaat verklaren. Citaat is een passage gekozen uit de tekst van Hannes Bajohr *"Artificial Intelligence and Digital Literature. Theory and Practice of Connectionist Writing"* over auteurschap in de context van door AI gegenereerde teksten:
+
+><sub> “The rupture between paradigms also touches on the authorship question, the human side of which is undergoing an increasing distancing in the human-machine structure. While in the sequential paradigm one could still plausibly speak of secondary authorship, which consists in the formulation of a sequence of rules, the execution of which produces the work – here the idea of a “writer of writers” makes perfect sense – with KNNs one is faced with tertiary authorship: Only the data set for the training remains to be defined, from which the KNN independently forms the model, and the parameters remain to be determined, by means of which the model finally produces the output. With large language AIs like GPT-3, even this is no longer possible, because the training is too complex to adapt it to new data sets. The ‘programming’ is done by the normal language formulation of prompts (‘prompt design’) following the model of dialogic communication – here one could even speak of quaternary authorship.” (Bajohr 2022)
+
+
+| **Quote zonder CoT prompt:** | **Quote met CoT prompt:** |
+| -------------------------------------------- | --------------------------------- |
+ Wat beschrijft het bovenstaande citaat van Hannes Bajohr? | Wat beschrijft het bovenstaande citaat van Hannes Bajohr? Geef inzicht  ---stap voor stap---  hoe je tot de uiteindelijke conclusie komt. |
+| **Resultaat zonder CoT prompt:** | **Resultaat met CoT prompt:** |
+| <sub> Dit citaat van Hannes Bajohr beschrijft de breuk tussen de sequentiële en KNN-paradigma's. In het sequentiële paradigma is het mogelijk om te spreken van secundair auteurschap, dat bestaat uit de formulering van een reeks regels waarvan de uitvoering het werk produceert. In KNN's is het echter alleen mogelijk om de parameters op te geven waarmee het model de output produceert. In het geval van grote taal-AI's zoals GPT-3 is zelfs dit niet meer mogelijk. | <sub> Eerst wordt verondersteld dat er in het sequentiële paradigma sprake is van secundair auteurschap [sic!], bestaande uit een reeks regels waarvan de uitvoering het werk produceert. Dit idee van een 'schrijver van schrijver' heeft in deze context zin. Het volgende punt is om erop te wijzen dat er bij KNN's (kunstmatige neurale netwerken) sprake is van tertiair auteurschap. Dit betekent dat het gegevensset voor training en de parameters waarmee het model uiteindelijk de output produceert, worden gemaakt door de KNN zelf. <br> <br> In de laatste stap wordt vermeld dat er voor grote taal-AI's zoals GPT-3 zelfs sprake is van een kwaternair auteurschap. Dit betekent dat de training zo uitgebreid is dat het niet langer mogelijk is om deze aan te passen aan steeds nieuwe datasets. Het 'programmeren' gebeurt hier door de normale taalformulering van prompts ('prompt design') volgens het model van dialogische communicatie. <br> <br>  Dit citaat beschrijft dus het feit dat het auteurschap van werken is veranderd van secundair naar tertiair en kwaternair auteurschap naarmate kunstmatige intelligentie zich heeft ontwikkeld.	Dit citaat beschrijft dus het feit dat het auteurschap van werken is veranderd van secundair naar tertiair en kwaternair auteurschap naarmate kunstmatige intelligentie zich heeft ontwikkeld. |
+
+
+Wat meteen opvalt is dat het CoT+ antwoord veel uitgebreider is. Er is een structuur met opsommingen te zien. Ook de regeleinden na elke alinea, die naast de tekst door het taalmodel werden gegenereerd, dragen bij tot deze structurering. De structurering wekt dus de indruk dat de afzonderlijke aspecten van het citaat worden opgenomen en dat daaruit in de laatste stap een conclusie wordt getrokken.
+
+Hier wordt de stapsgewijze procedure duidelijk. De kern van het citaat wordt herkend en in drie secties verdeeld, en telkens wordt vermeld welke vorm van auteurschap ermee samenhangt. In de tweede sectie staat echter een inhoudelijke fout. Er wordt gezegd dat de dataset en de parameters onafhankelijk door het KNN worden aangemaakt. Volgens Bajohr is dat echter juist niet het geval, maar worden de elementen door mensen bepaald.
 
 #### Weet ChatGPT hoe *"wij"* mensen de wereld ervaren?
 
@@ -778,6 +804,8 @@ De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op
 * Bronkhorst, H., Roorda, G., Suhre, C., & Goedhart, M. (2020). Logical reasoning in formal and everyday reasoning tasks. International Journal of Science and Mathematics Education, 18, 1673-1694. https://doi.org/10.1007/s10763-019-10039-8
 
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
+
+* [The Decoder nieuwsbrief (27 september 2023)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/)  *"What is CoT Prompting and how can it help?"*
 
 * Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
 
