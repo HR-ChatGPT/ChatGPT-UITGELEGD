@@ -1103,7 +1103,7 @@ Op 14 maart 2023 melde de New York Times dat OpenAI-LP GPT-4 had vrijgegeven voo
 
 OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) vrijgegeven (14 maart 2023) via een hun [Research-index](https://openai.com/research?contentTypes=milestone) en  een blog op hun website getiteld: ["GPT-4"](https://openai.com/research/gpt-4) inclusief een evaluatie Github Repository: https://github.com/openai/evals dat gebruikt kan worden voor het verifieren van benchmarks. Hierbij geven ze *"tijdelijk"* toegang tot GTP-4 via zogenaamde [API-keys](https://platform.openai.com/account/api-keys). Pagina 6 van het [GTP-4-System-card](https://cdn.openai.com/papers/gpt-4-system-card.pdf) geeft een zeer inzichtelijk overzicht in welke opzichten GPT-4 verbeterd is in vergelijking met GTP3.5. Het onderschrift luidt als volg:
 
->*"Voorbeeldvragen die leidden tot schadelijke inhoud in GPT-4-early. Het LLM heeft nog steeds beperkingen, die cruciaal zijn voor het garandereb van veilig gebruik."*
+>*"Voorbeeldvragen die leidden tot schadelijke inhoud in GPT-4-early. Het LLM heeft nog steeds beperkingen, die cruciaal zijn voor het garanderen van veilig gebruik."*
 
 TechCruch heeft via haar blog *"Robotics & AI"* *---geschreven door Devin Coldewey---* een overzicht gemaakt (14 Maart 2023) ---getiteld: [*"5 ways GPT-4 outsmarts ChatGPT"*](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/) waarin wordt beschreven hoe GPT-4 afwijkt ten opzichte van haar voorgangers.
 
