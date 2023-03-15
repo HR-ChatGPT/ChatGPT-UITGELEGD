@@ -794,9 +794,7 @@ Het antwoord in dit geval is onjuist.
 
 Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan worden om als beoodelingsinstrument, maar het is nog niet betrouwbaar "genoeg". 
 
-
-
-De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICs. 
+De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICs.  
 
 <br>
 
@@ -1103,6 +1101,12 @@ Op 14 maart 2023 melde de New York Times dat OpenAI-LP GPT-4 had vrijgegeven voo
 
 >*"GPT-4 ---die zijn vaardigheden leerde door het analyseren van nieuwere , nog groter datasets dan die voor GPT-3 zijn gebruikt--- verbetert ChatGPT op verschillende manieren. Het is preciezer. Het kan slagen voor het advocaten examen "burgerlijk recht", belastingformulieren invullen en zeer gedetailleerde beschrijvingen van beelden geven."* <br> <br> *"Het heeft nog steeds enkele van de merkwaardig tekortkomingen. Het is een expert in sommige onderwerpen en een dilettant in andere. Het kan beter presteren op gestandaardiseerde tests dan de meeste mensen en nauwkeurig medisch advies geven aan artsen, maar het kan ook basale rekenfouten maken."* <br><br> *"GPT-4 kan ook reageren op beelden. Bij een foto, grafiek of diagram kan dit "foundation model" een gedetailleerde, paragrafenlange beschrijving van de afbeelding geven en vragen over de inhoud beantwoorden."* <br><br> *"Deze nieuwe technologie fungeert als een online tutor", aldus Sal Khan, oprichter van Khan Academy. "We willen dat het studenten & scholieren nieuwe technieken aanleert terwijl zijzelf het meeste werk doen."*
 
+OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) vrijgegeven (14 maart 2023) via een hun [Research-index](https://openai.com/research?contentTypes=milestone) en  een blog op hun website getiteld: ["GPT-4"](https://openai.com/research/gpt-4) inclusief een evaluatie Github Repository: https://github.com/openai/evals dat gebruikt kan worden voor het verifieren van benchmarks. Hierbij geven ze *"tijdelijk"* toegang tot GTP-4 via zogenaamde [API-keys](https://platform.openai.com/account/api-keys). Pagina 6 van het [GTP-4-System-card](https://cdn.openai.com/papers/gpt-4-system-card.pdf) geeft een zeer inzichtelijk overzicht in welke opzichten GPT-4 verbeterd is in vergelijking met GTP3.5. Het onderschrift lauidt als volg:
+
+>*"Voorbeeldvragen die leidden tot schadelijke inhoud in GPT-4-early. GPT-4-launch heeft nog steeds beperkingen, die cruciaal zijn voor het bepalen van een veilig gebruik."*
+
+
+#### Hoe reageren de ovrige Tech-Giants op de komst en verdere ontwikkeligen van de GPT-serie LLMs?
 
 De sterke toename van de aandacht voor ChatGPT dwingt Tech-giganten *---waaronder Meta en Google---* om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, aldus the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook ["Wat zijn de ethische risico's & schaduwkanten van ChatGTP?"](#v1c)
 
