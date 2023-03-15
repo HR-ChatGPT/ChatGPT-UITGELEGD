@@ -637,7 +637,7 @@ flowchart TD
 <br> 
 
 #### Hoe effectief is *"keten-van-gedachten"* ---Chain-of-Thoughts [CoT]---?
-Onderstaande voorbeelden zijn ontleend aan [The Decoder nieuwsbrief (27 september 2022)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/), geschreven door  Moritz Larsen, Doris Weßels  (Universiteit Kiel) getiteld: *"What is CoT Prompting and how can it help?"*. Hiebij is gebruik gemaakt van GPT-3. 
+Onderstaande voorbeelden zijn ontleend aan [The Decoder nieuwsbrief (27 september 2022)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/), geschreven door  Moritz Larsen &  Doris Weßels  (Universiteit Kiel) getiteld: *"What is CoT Prompting and how can it help?"*. Hiebij is gebruik gemaakt van GPT-3. 
 
 ##### Voorbeeld 1: Effect van CoT prompting op rekentaken
 
