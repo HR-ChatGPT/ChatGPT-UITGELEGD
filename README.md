@@ -487,6 +487,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 | Universiteit <br> van Amsterdam [UvA] | ChatGPT in de Wetenschap | <sub> https://www.uva.nl/content/nieuws/nieuwsberichten/2023/02/chatgpt-in-de-wetenschap-5-aandachtspunten.html
 | Technische Universiteit <br> Eindhoven [TU/e] | Wat betekent Chatbot GPT voor het onderwijs? | <sub> https://www.cursor.tue.nl/achtergrond/2023/januari/week-3/wat-betekent-chatbot-gpt-voor-het-onderwijs/
 | (Technische) Universiteit <br> Twente [UT] | Ontwikkelingen rond ChatGPT | <sub> https://www.utwente.nl/onderwijs/student-services/actueel/nieuws/2023/2/463644/ontwikkelingen-rond-chatgpt <br> https://www.utwente.nl/en/learning-teaching/ <br> https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat <br> https://www.utoday.nl/news/72477/ut-onderzoekt-plagiaatregeling-door-komst-chatgpt
+| (Technische) Universiteit <br> Delft [TUDelft] | AI chatbots in projects and assignments | <sub> https://www.tudelft.nl/teaching-support/didactics/assess/guidelines/ai-chatbots-in-projects-and-assignments <br> <br> https://www.tudelft.nl/teaching-support/didactics/assess/guidelines/values-quality-requirements
 | Universiteit <br> Maastricht [UM] | Ik heb dit helemaal zelf geschreven! | <sub> https://www.maastrichtuniversity.nl/nl/nieuws/ik-heb-dit-helemaal-zelf-geschreven
 | Curio | Tekstrobot (ChatGPT) | <sub> https://lerenbij.curio.nl/chatgpt/chatgpt/ <br> https://lerenbij.curio.nl/bijlagen/chatgpt-en-onderwijs/
 | Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs | <sub>https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | 
@@ -795,7 +796,7 @@ Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan wo
 
 
 
-De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICS. 
+De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICs. 
 
 <br>
 
