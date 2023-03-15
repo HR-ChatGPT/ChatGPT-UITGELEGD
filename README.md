@@ -27,7 +27,7 @@ Doordat de toepassingsmogelijkheden van ChatGPT eindeloos zijn, worden in deze r
 
 Daarnaast worden de randvoorwaarden *---inclusief beoordelingskader + richtlijnen---* en risicofactoren beschreven voor het verantwoord gebruik van [Foundation-models](https://doi.org/10.48550/arXiv.2110.10024) zoals ChatGPT als onderdeel van [BKE](https://link.springer.com/book/10.1007/978-90-368-0933-7) (Basis Kwalificatie Examineren) en [SKE](https://www.utwente.nl/en/examination-board/Expertise_SKE/verantwoord-toetsen-expertgroep-bke-ske.pdf) (Senior Kwalificatie Examineren) assessment in het hoger onderwijs. 
 
-Een centrale vraag is: [*"Vormen Foundation models een betrouwbare tool die docenten kan helpen bij het beoordelen van studenten?"*](#v0d)
+Een centrale vraag is: [*"Vormen Foundation models een betrouwbare tool die docenten kan helpen bij het beoordelen van content gemaakt door studenten?"*](#v0d)
 
 Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 
