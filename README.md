@@ -653,7 +653,7 @@ Dit rekenvoorbeeld toont aan dat reeds de eerste stappen naar verklaarbaarheid k
 
 #####  Voorbeeld 2: Verbetert CoT prompting de uitleg van een citaat?
 
-Kan ChatGPT een citaat verklaren. Citaat is een passage gekozen uit de tekst van Hannes Bajohr *"Artificial Intelligence and Digital Literature. Theory and Practice of Connectionist Writing"* over auteurschap in de context van door AI gegenereerde teksten:
+Kan GPT-3T een citaat verklaren. Het onderstaande citaat is een passage uit:  *"Artificial Intelligence and Digital Literature. Theory and Practice of Connectionist Writing"*, geschreven door Hannes Bajohr getiteld.
 
 ><sub> “The rupture between paradigms also touches on the authorship question, the human side of which is undergoing an increasing distancing in the human-machine structure. While in the sequential paradigm one could still plausibly speak of secondary authorship, which consists in the formulation of a sequence of rules, the execution of which produces the work – here the idea of a “writer of writers” makes perfect sense – with KNNs one is faced with tertiary authorship: Only the data set for the training remains to be defined, from which the KNN independently forms the model, and the parameters remain to be determined, by means of which the model finally produces the output. With large language AIs like GPT-3, even this is no longer possible, because the training is too complex to adapt it to new data sets. The ‘programming’ is done by the normal language formulation of prompts (‘prompt design’) following the model of dialogic communication – here one could even speak of quaternary authorship.” (Bajohr 2022)
 <br>
