@@ -310,7 +310,7 @@ De onderstaande tekst is deels ontleent aan het *Times Magazine* artikel getitel
 
 Echter het gebruik van ChatGPT is niet zonder risico's. GPT's vertonen namelijk dezelfde problemen als het gebruik van sociale-media door grote groepen eindgebruikers. Onderzoekslaboratoria hebben Gen-AI jarenlang achter gesloten deuren gehouden, terwijl ze de gevaren ervan bestudeerden, van verkeerde informatie en haatzaaien tot het ongewild creëren van een sneeuwbaleffect van geopolitieke crises.
 
-Deze terughoudendheid  komt deels voort uit de onvoorspelbaarheid van neurale netwerk [NN] architectuur, het computationele paradigma waarop de  deep learning [DL] is gebaseerd. In plaats van de traditionele aanpak van computerprogrammering, die uitgaat van precieze reeksen instructies die voorspelbare resultaten opleveren, leren neurale netwerken [NN] zichzelf effectief om patronen in de datasets te herkennen waarmee ze getraind worden (zie [Wat moet je weten overGen-AI zoals ChatGPT](#v1a)).
+Deze terughoudendheid komt deels voort uit de onvoorspelbaarheid van neurale netwerk [NN] architectuur, het computationele paradigma waarop deep learning [DL] is gebaseerd. In plaats van de traditionele aanpak van computerprogrammering, die uitgaat van precieze reeksen instructies die voorspelbare resultaten opleveren, leren neurale netwerken [NN] zichzelf effectief om patronen in de datasets te herkennen waarmee ze getraind worden (zie [Wat moet je weten overGen-AI zoals ChatGPT](#v1a)).
 
 De eerste generatie talige Gen-AI's bleken pijnlijk gevoelig voor het napraten van de vooroordelen in hun trainingsgegevens: ze spuwden verkeerde informatie en haatzaaiende taal. Toen Microsoft in 2016 zijn [chatbot Tay](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist) onthulde, duurde het minder dan 24 uur voordat giftige, haatzaaiende, racistische tweets  uitspuwde. De ontwikkeling van Gen-AI's kwam pas echt in een stroomversnelling vanaf 2017. Aangezwengeld door enkele cruciale doorbraken in het ontwerp van neurale netwerken zoals *transformers*, *auto-encoders* en *diffusion*, de toenemende beschikbaarheid van gegevens en de bereidheid van technologiebedrijven om te betalen voor gigantische hoeveelheden rekenkracht. Maar de zwakke plekken bleven, en de geschiedenis van beschamende AI-struikelblokken maakte veel bedrijven, waaronder Alphabet, Meta en OpenAI, terughoudend om hun meest geavanceerde GEN-AI modellen openbaar te maken. 
 
@@ -351,7 +351,7 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
  
 #### Geselecteerde referenties voor verder lezen
 
-* [IEEE Spectrum [AI news item (13 maart 2023)]: *"Hallucinations Could Blunt ChatGPT’s Success OpenAI says the problem’s solvable, Yann LeCun says we’ll see"*](https://spectrum.ieee.org/ai-hallucination)
+* [IEEE Spectrum [AI news item (13 maart 2023)]: <br> *"Hallucinations Could Blunt ChatGPT’s Success." <br> "OpenAI says the problem’s solvable, Yann LeCun says we’ll see"*](https://spectrum.ieee.org/ai-hallucination)
 
 <br>
 
@@ -1330,7 +1330,7 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 
 ### Geselecteerde referenties voor verder lezen
 
-* [IEEE Spectrum [AI news item (13 maart 2023)]: *"Hallucinations Could Blunt ChatGPT’s Success OpenAI says the problem’s solvable, Yann LeCun says we’ll see"*](https://spectrum.ieee.org/ai-hallucination)
+* [IEEE Spectrum [AI news item (13 maart 2023)]: <br> *"Hallucinations Could Blunt ChatGPT’s Success." <br> "OpenAI says the problem’s solvable, Yann LeCun says we’ll see"*](https://spectrum.ieee.org/ai-hallucination)
 
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
 
