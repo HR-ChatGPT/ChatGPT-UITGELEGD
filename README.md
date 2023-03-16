@@ -810,7 +810,9 @@ De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op
 
 * [The Decoder nieuwsbrief (27 september 2023)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/)  *"What is CoT Prompting and how can it help?"*
 
-* Gao, J., Galley, M., & Li, L. (2018, June). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). http://dx.doi.org/10.18653/v1/P18-5002
+* Gao, J., Galley, M., & Li, L. (2018). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). https://doi.org/10.1145/3209978.3210183
+
+* Gao, J., Galley, M., & Li, L. (2019). Neural approaches to conversational AI: Question answering, task-oriented dialogues and social chatbots. Now Foundations and Trends. https://doi.org/10.1561/1500000074
 
 * Khot, T., Trivedi, H., Finlayson, M., Fu, Y., Richardson, K., Clark, P., & Sabharwal, A. (2022). Decomposed prompting: A modular approach for solving complex tasks. arXiv preprint https://doi.org/10.48550/arXiv.2210.02406
 
@@ -2357,7 +2359,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Forsyth, O. (2022, december 20). Generative AI. [Blog]. https://www.antler.co/blog/generative-ai
 
-* <sub> Gao, J., Galley, M., & Li, L. (2018, June). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). http://dx.doi.org/10.18653/v1/P18-5002
+* <sub> Gao, J., Galley, M., & Li, L. (2018). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). https://doi.org/10.1145/3209978.3210183
 
 * <sub> Glaese, A., McAleese, N., Trębacz, M., Aslanides, J., Firoiu, V., Ewalds, T., ... & Irving, G. (2022). Improving alignment of dialogue agents via targeted human judgements. arXiv preprint. doi: 10.48550/arxiv.2209.14375. https://arxiv.org/abs/2209.14375
 
