@@ -808,7 +808,7 @@ De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op
 
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
 
-* [The Decoder nieuwsbrief (27 september 2023)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/)  *"What is CoT Prompting and how can it help?"*
+* [The Decoder nieuwsbrief (27 september 2022)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/)  *"What is CoT Prompting and how can it help?"*
 
 * Gao, J., Galley, M., & Li, L. (2018). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). https://doi.org/10.1145/3209978.3210183
 
