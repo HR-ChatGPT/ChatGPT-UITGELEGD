@@ -1330,7 +1330,7 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 
 ### Geselecteerde referenties voor verder lezen
 
-* [IEEE]
+* [IEEE Spectrum [AI news item (13 maart 2023)]: *"Hallucinations Could Blunt ChatGPT’s Success OpenAI says the problem’s solvable, Yann LeCun says we’ll see"*](https://spectrum.ieee.org/ai-hallucination)
 
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
 
