@@ -551,7 +551,7 @@ BLOOM
 | *"begrijpend lezen"*
 | *"gezond verstand redeneren"*
 | *"probleem oplossend vermogen"*
-| *"Multi Hop redeneren"*
+| *"Multi-Hop redeneren"*
 
 
 De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM-chatbot toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
@@ -809,6 +809,8 @@ De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
 
 * [The Decoder nieuwsbrief (27 september 2023)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/)  *"What is CoT Prompting and how can it help?"*
+
+* Gao, J., Galley, M., & Li, L. (2018, June). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). http://dx.doi.org/10.18653/v1/P18-5002
 
 * Khot, T., Trivedi, H., Finlayson, M., Fu, Y., Richardson, K., Clark, P., & Sabharwal, A. (2022). Decomposed prompting: A modular approach for solving complex tasks. arXiv preprint https://doi.org/10.48550/arXiv.2210.02406
 
@@ -2354,6 +2356,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Finnie-Ansley, J., Denny, P., Becker, B. A., Luxton-Reilly, A., & Prather, J. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. In ACE '22: Australasian Computing Education Conference (pp. 10-19). https://doi.org/10.1145/3511861.3511863
 
 * <sub> Forsyth, O. (2022, december 20). Generative AI. [Blog]. https://www.antler.co/blog/generative-ai
+
+* <sub> Gao, J., Galley, M., & Li, L. (2018, June). Neural approaches to conversational AI. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (pp. 1371-1374). http://dx.doi.org/10.18653/v1/P18-5002
 
 * <sub> Glaese, A., McAleese, N., Trębacz, M., Aslanides, J., Firoiu, V., Ewalds, T., ... & Irving, G. (2022). Improving alignment of dialogue agents via targeted human judgements. arXiv preprint. doi: 10.48550/arxiv.2209.14375. https://arxiv.org/abs/2209.14375
 
