@@ -351,7 +351,7 @@ Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's
  
 #### Geselecteerde referenties voor verder lezen
 
-* [IEEE Spectrum: "OpenAI's GPT-3 Language Model Is So Big It Has No Limits"](https://spectrum.ieee.org/the-human-os/biomedical/bios/openais-gpt-3-language-model-is-so-big-it-has-no-limits)
+* [IEEE Spectrum [AI news item (13 maart 2023)]: *"Hallucinations Could Blunt ChatGPT’s Success OpenAI says the problem’s solvable, Yann LeCun says we’ll see"*](https://spectrum.ieee.org/ai-hallucination)
 
 <br>
 
@@ -1329,6 +1329,8 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 <br> 
 
 ### Geselecteerde referenties voor verder lezen
+
+* [IEEE]
 
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
 
