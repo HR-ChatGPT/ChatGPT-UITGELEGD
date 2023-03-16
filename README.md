@@ -550,6 +550,8 @@ BLOOM
 | *"natuurlijke taal inferentie"*
 | *"begrijpend lezen"*
 | *"gezond verstand redeneren"*
+| *"probleem oplossend vermogen"*
+| *"Multi Hop redeneren"*
 
 
 De premisse onderliggend aan deze benchmarks is dat een vorm van *"taal begrip"* in combinatie met *"probleem oplossend vermogen"* een vereiste is om goed te presteren op *"Talige"* taken.  Maar is deze aanname wel correct? Niet noodzakelijkerwijs! Om te begrijpen waarom, moeten we inzicht krijgen in wat er gebeurt als we een tekstuele opdracht aan een LLM-chatbot toewijzen. Daarvoor is een korte introductie over redeneren en argumenteren nodig.
@@ -808,6 +810,8 @@ De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op
 
 * [The Decoder nieuwsbrief (27 september 2023)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/)  *"What is CoT Prompting and how can it help?"*
 
+* Khot, T., Trivedi, H., Finlayson, M., Fu, Y., Richardson, K., Clark, P., & Sabharwal, A. (2022). Decomposed prompting: A modular approach for solving complex tasks. arXiv preprint https://doi.org/10.48550/arXiv.2210.02406
+
 * Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
 
 * Liu, H., Tam, D., Muqeeth, M., Mohta, J., Huang, T., Bansal, M., & Raffel, C. (2022). Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning. arXiv preprint https://doi.org/10.48550/arXiv.2205.05638
@@ -815,6 +819,8 @@ De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op
 * Liu, X., Zheng, Y., Du, Z., Ding, M., Qian, Y., Yang, Z., & Tang, J. (2021). GPT understands, too. arXiv preprint https://doi.org/10.48550/arXiv.2103.10385
 
 * Lyu, Q., Havaldar, S., Stein, A., Zhang, L., Rao, D., Wong, E., ... & Callison-Burch, C. (2023). Faithful Chain-of-Thought Reasoning. arXiv preprint https://doi.org/10.48550/arXiv.2301.13379
+
+* Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
 * Sun, S., Liu, Y., Iter, D., Zhu, C., & Iyyer, M. (2023). How Does In-Context Learning Help Prompt Tuning?. arXiv preprint https://doi.org/10.48550/arXiv.2302.11521
 
@@ -2377,6 +2383,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Kosinski, M. (2023). Theory of mind may have spontaneously emerged in large language models. arXiv preprint https://doi.org/10.48550/arxiv.2302.02083
 
+* <sub> Khot, T., Trivedi, H., Finlayson, M., Fu, Y., Richardson, K., Clark, P., & Sabharwal, A. (2022). Decomposed prompting: A modular approach for solving complex tasks. arXiv preprint https://doi.org/10.48550/arXiv.2210.02406
+
 * <sub> Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
 
 * <sub> Liu, H., Tam, D., Muqeeth, M., Mohta, J., Huang, T., Bansal, M., & Raffel, C. (2022). Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning. arXiv preprint https://doi.org/10.48550/arXiv.2205.05638
@@ -2390,6 +2398,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Lyu, Q., Havaldar, S., Stein, A., Zhang, L., Rao, D., Wong, E., ... & Callison-Burch, C. (2023). Faithful Chain-of-Thought Reasoning. arXiv preprint https://doi.org/10.48550/arXiv.2301.13379
 
 * <sub> Mihalcea, R., & Tarau, P. (2004, July). Textrank: Bringing order into text. In Proceedings of the 2004 conference on empirical methods in natural language processing (pp. 404-411). Association for Computational Linguistics. https://aclanthology.org/W04-3252/
+
+* <sub> Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
 * <sub> Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
 
