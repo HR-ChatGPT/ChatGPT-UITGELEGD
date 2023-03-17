@@ -795,7 +795,7 @@ Bij herhaling van exact dezelfde prompt, kan de uitkomst afwijken.
 ```
 Het antwoord in dit geval is onjuist.
 
-Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan worden om als beoodelingsinstrument, maar het is nog niet betrouwbaar "genoeg". 
+Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan worden om als beoordelingsinstrument, maar het is nog niet betrouwbaar "genoeg". 
 
 De volgende stap is dan om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICs.  
 
@@ -1041,7 +1041,7 @@ GPT's zijn echter niet de eerste LLM's in hun soort. [BERT](https://doi.org/10.4
 
 De eerste generatie LLM's werden getraind met immense hoeveelheden teksten *---zoals Wikipedia & Reddit---*. Ze gebruiken unsupervised "Deep Learning" [DL] algoritmen ---Self-Supervised Learning [SSL](https://www.techopedia.com/definition/34474/self-supervised-learning-ssl)---, om de woordvolgorde in een zin te leren voorspellen, gegeven de omringende tekst. Dit trainingsproces wordt net zolang herhaald totdat het model een aanvaardbaar nauwkeurigheidsniveau heeft bereikt.
 
-De[GPT-taalmodellen](https://openai.com/research/language-unsupervised) zijn over een periode van 5 jaar  ontwikkeld: GTP-1 [(2018)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.princeton.edu/courses/archive/spring20/cos598C/lectures/lec4-pretraining.pdf), GPT-2 [(2019)](https://github.com/openai/gpt-2), GPT-3 [(2020)](https://github.com/openai/gpt-3) en GTP-4 [(2023)](https://cdn.openai.com/papers/gpt-4.pdf) door [OpenAI LP](https://openai.com/blog/openai-lp) dat is opgericht in 2015 als non-profit organisatie. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens. Er zijn twee versies van GPT-4 met contextvensters van 8192 en 32768 tokens, respectievelijk. Dit is weer een aanzienlijke verbetering ten opzichte van GPT-3.5 en GPT-3, die beperkt waren tot respectievelijk 4096 en 2048 tokens. GPT-4 kan zowel afbeeldingen als tekst als input verwerken.
+De [GPT-taalmodellen](https://openai.com/research/language-unsupervised) zijn over een periode van 5 jaar  ontwikkeld: GTP-1 [(2018)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.princeton.edu/courses/archive/spring20/cos598C/lectures/lec4-pretraining.pdf), GPT-2 [(2019)](https://github.com/openai/gpt-2), GPT-3 [(2020)](https://github.com/openai/gpt-3) en GTP-4 [(2023)](https://cdn.openai.com/papers/gpt-4.pdf) door [OpenAI LP](https://openai.com/blog/openai-lp) dat is opgericht in 2015 als non-profit organisatie. GPT-2 werd getraind op een dataset van ongeveer 40 GB tekst met 1,5 miljard tokens, terwijl GPT-1 werd getraind op 8 miljoen webpagina's met ongeveer 40 GB tekst en 40 miljoen tokens. Er zijn twee versies van GPT-4 met contextvensters van 8192 en 32768 tokens, respectievelijk. Dit is weer een aanzienlijke verbetering ten opzichte van GPT-3.5 en GPT-3, die beperkt waren tot respectievelijk 4096 en 2048 tokens. GPT-4 kan zowel afbeeldingen als tekst als input verwerken.
 
 >De Engelstalige Wikipedia vermeldt: "*OpenAI is an American artificial intelligence (AI) research laboratory consisting of the non-profit OpenAI Incorporated (OpenAI Inc.) and its for-profit subsidiary corporation OpenAI Limited Partnership (OpenAI-LP).*"
 
