@@ -191,6 +191,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1d] [Maakt ChatGPT *"valsspelen"* makkelijker en is het te detecteren?](#v1d)
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
+* [1g] [+Wat is Lexicale Tokenisering / wat zijn tokens?](#v1g)* 
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
 -->
@@ -1127,8 +1128,9 @@ Kyle Barr---* getiteld: [*"GPT-4 Is a Giant Black Box and Its Training Data Rema
 
 GPT-4 is uitsluitend beschikbaar voor OpenAI's betalende gebruikers via ChatGPT Plus (met een gebruikslimiet), en ontwikkelaars kunnen zich inschrijven op een wachtlijst om toegang te krijgen tot de API. De prijs is $0,03 per 1.000 "prompt" tokens (ongeveer 750 woorden) en $0,06 per 1.000 "completion" tokens (opnieuw, ongeveer 750 woorden). 
 
-> *"Lexicale" Tokens representeren een keten aan "niet opgeschoonde" tekst *---een set aan karakters---* dat ook leestekens kan bevatten. Tokens vormen de kleinste eenheid aan betekenisvolle informatie in tekst corpera.<br> Zo kan het woord "fantastisch" worden opgesplitst in de tokens "fan", "tas" en "tic". <br> Prompt tokens zijn de delen van woorden die GPT-4 invoert, terwijl completion tokens de inhoud zijn die GPT-4 genereert.*
+> *"Lexicale" Tokens representeren een keten aan "niet opgeschoonde" tekst *---een set aan karakters---* dat ook leestekens kan bevatten. Tokens vormen de kleinste eenheid aan betekenisvolle informatie in tekst corpera. Het kan een deel van een woord zijn, een heel woord, of interpunctie. <br> <br> Zo kan het woord "fantastisch" worden opgesplitst in de tokens "fan", "tas" en "tic". <br> Prompt tokens zijn de delen van woorden die GPT-4 invoert, terwijl completion tokens de inhoud zijn die GPT-4 genereert.*
 
+<br>
 
 <!--
 https://en.wikipedia.org/wiki/Lexical_analysis#Token
@@ -1742,6 +1744,70 @@ Tenslotte is het de moeite waard om het ACL Blog te lezen getiteld [*"ACL 2023 P
 https://sarahlawrence.libguides.com/chatgpt
 
 -->
+
+<br>
+
+
+# v1g
+
+*******
+### [g] WAT IS TOKENISEREN / WAT IS EEN TOKEN?
+*******
+
+De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over tokenisering m.b.t. natuurlijke taalverwerling [NLP] die in het Engels is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
+
+ 
+
+
+<!--
+Een token is een stukje tekst dat een betekenis heeft. Een token kan een woord, een leesteken, een cijfer of een combinatie van deze zijn.
+
+van afbakening en eventuele classificatie van delen van een tekenreeks. De resulterende tokens worden vervolgens doorgegeven aan een andere vorm van verwerking. Het proces kan worden beschouwd als een subtaak van het parsen van invoer.
+
+Bijvoorbeeld, in de tekststring:
+
+De snelle bruine vos springt over de luie hond...
+wordt de string niet impliciet gesegmenteerd op spaties, zoals een natuurlijke taalspreker zou doen. De ruwe invoer, de 43 tekens, moet expliciet worden gesplitst in de 9 tokens met een gegeven spatiescheidingsteken (d.w.z. overeenkomend met de tekenreeks " " of de reguliere expressie /{1}/).
+
+Wanneer een tokenklasse meer dan één mogelijk lexem vertegenwoordigt, bewaart de lexer vaak voldoende informatie om het oorspronkelijke lexem te reproduceren, zodat het kan worden gebruikt voor semantische analyse. De parser haalt deze informatie meestal uit de lexer en slaat ze op in de abstracte syntaxisboom. Dit is nodig om informatieverlies te voorkomen in het geval dat getallen ook geldige identificatiemiddelen kunnen zijn.
+--> 
+
+Grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken in plaats van tekens of bytes. Tokeniseren is het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. 
+
+Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. Merk op dat tokenisatie gevoelig is voor spaties en hoofdletters.
+
+Hier zijn enkele vuistregels om het aantal tokens te kunnen relateren an de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de complexiteit van de tekst.
+
+<br>
+
+| tekst | aantal tokens |
+| --- | --- |
+| een woord |  2-3 tokens |
+| een couplet van een lied | 128 tokens |
+| deze uitleg over tokeniseren |  300 tokens| 
+| eenvoudige teksten |  1 token per woord |
+| complexe teksten <br> met minder gebruikelijke woorden worden |  3-4 tokens per woord |
+| 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
+| maximum tekst lengte <br> grootschalige taalmodellen [LLM] | duizenden tokens <br> GTP-4  32,786 tokens | 
+
+In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse broncode, bijvoorbeeld een programmeertaal zoals Python.
+
+| Token naam | 	voorbeeld |
+| --- | --- |
+| identifier	| x, color, UP |
+| keyword	| if, while, return
+| separator | 	}, (, ;
+| operator	| +, <, =
+| literal	| true, 6.02e23, "music"
+| comment	| /* Retrieves user data */, # must be negative 
+
+<!--
+https://sarahlawrence.libguides.com/chatgpt
+https://docs.cohere.ai/docs/tokens
+https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%20limits%20in%20GPT%2D3%20vs.%20GPT%2D4&text=GPT%2D4%20comes%20in%20two%20variants.,about%2050%20pages%20of%20text.
+-->
+
+
 
 
 <br>
