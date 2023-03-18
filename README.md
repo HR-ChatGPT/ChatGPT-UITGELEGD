@@ -1125,8 +1125,8 @@ Kyle Barr---* getiteld: [*"GPT-4 Is a Giant Black Box and Its Training Data Rema
 | GPT-4 LLM <br> Unieke eigenschappen <br> <br> | Uitleg / Voorbeeld |
 | -------------------------- | --------- |
 | [1] <br> <br> Multimodaliteit <br> <br>  Kan beelden internaliseren, begrijpen en uitleggen | <sub>  Je kunt de Gen-AI vragen een specifieke afbeelding te interpreteren *---zoals het uitleggen van een cartoon---*. <br> Voor een goede demo zie [Be My Eyes](https://openai.com/customer-stories/be-my-eyes) <br> <br> Dus, wat de multimodale mogelijkheden betreft *---alleen uit te proberen via de onderzoeksversie---*, <br> kan GPT-4 de inhoud van meerdere beelden analyseren en er wijs uit worden, zoals <br> (1) het begrijpen van een grap met meerdere beelden of<br> (2) het extraheren van informatie uit een diagram. <br> Ook kan het met de hand is geschreven teksten lezen en omzetten in tekst. <br> <br> Multimodaliteit is een belangrijke stap naar wat wetenschappers *"Artificial General Intelligence"* [[AGI]](https://en.wikipedia.org/wiki/Artificial_general_intelligence) noemen: <br>  *"AI die een veelheid van zeer uiteenlopende taken uitvoert vergelijkbaar zoals mensen dat zouden kunnen."* <br><br>
-| [2] <br> <br>  Is lastig(er) te misleiden via <br> *Chain-of-Thought [CoT]* / *jailbreaking manipulatie* | <sub> Ondanks alles wat de huidige chatbots goed doen, laten ze zich gemakkelijk op een dwaalspoor brengen. Een beetje coaxing in de vorm van een *"chain-of-Thoughts"* [CoT] kan een chatbot ervan overtuigen om te beschrijven wat een *"Sluwe AI"* zou doen, of het allerlei rare en verontrustende dingen laat zeggen. Dit wordt vaak aan aangeduidt met de term *"jailbreaking"*. <br> <br> GPT-4, echter, is expliciet getraind op *"kwaadaardige"*  prompts *---die een selecte groep aan eindgebruikers de afgelopen twee jaar met  OpenAI hebben gedeeld---*. Hierdoor is GPT-4 beter qua *"feitelijkheid, stuurbaarheid, en het weigeren van dwaalsporen"* dan de voorgaande GPT-modellen. <br> <br> |
-| [3] <br> <br>  Kan meerder  "chain-of-Thoughts" combineren <br> <br> Beschikt over een kort en lang *"actief"* werkgeheugen | <sub> LLMs worden getraind op miljoenen webpagina's, boeken en andere tekst corpera, maar wanneer ze daadwerkelijk een gesprek voeren met een menselijke gebruiker, is er een grens aan hoeveel ze  *"in gedachten"* kunnen houden (men voelt mee). Voor GPT-3.5* ---lees ChatGPT--*- was de grens gezet op 4.096 *"tokens"*, wat neerkomt op ongeveer 8.000 woorden, of ruwweg vier tot vijf bladzijden van een boek. <br> <br> Een doorsnee Nederlandse student zou dan zeer snel het spoor bijster raken als het zover *"terug"*  zou moeten gaan. Het *"actieve"* werkgeheugen van een mensenbrein overstijgt nauwelijk dat van een half A4-tje text. <br> GPT-4 heeft een maximum aantal tokens van 32.768 - *---twee tot de macht 15---*. <br> Dit is grofweg 50 pagina's tekst, genoeg voor een heel boek. Het *"actieve"* werkgeheugen van GPT-4 is dus 100x dat van een gemiddelde Nederlandse student. <br> <br> |
+| [2] <br> <br>  Is lastig(er) te misleiden via <br> *Chain-of-Thought [CoT]* / *jailbreaking manipulatie* | <sub> Ondanks alles wat de huidige chatbots goed doen, laten ze zich gemakkelijk op een dwaalspoor brengen. Een beetje coaxing in de vorm van een *"chain-of-Thoughts"* [CoT] kan een chatbot ervan overtuigen om te beschrijven wat een *"Sluwe AI"* zou doen, of het allerlei rare en verontrustende dingen laat zeggen. Dit wordt vaak aan aangeduid met de term *"jailbreaking"*. <br> <br> GPT-4, echter, is expliciet getraind op *"kwaadaardige"*  prompts *---die een selecte groep aan eindgebruikers de afgelopen twee jaar met  OpenAI hebben gedeeld---*. Hierdoor is GPT-4 beter qua *"feitelijkheid, stuurbaarheid, en het weigeren van dwaalsporen"* dan de voorgaande GPT-modellen. <br> <br> |
+| [3] <br> <br>  Kan meerder  "chain-of-Thoughts" combineren <br> <br> Beschikt over een kort en lang *"actief"* werkgeheugen | <sub> LLMs worden getraind op miljoenen webpagina's, boeken en andere tekst corpera, maar wanneer ze daadwerkelijk een gesprek voeren met een menselijke gebruiker, is er een grens aan hoeveel ze  *"in gedachten"* kunnen houden (men voelt mee). Voor GPT-3.5* ---lees ChatGPT--*- was de grens gezet op 4.096 *"tokens"*, wat neerkomt op ongeveer 8.000 woorden, of ruwweg vier tot vijf bladzijden van een boek. <br> <br> Een doorsnee Nederlandse student zou dan zeer snel het spoor bijster raken als het zover *"terug"*  zou moeten gaan. Het *"actieve"* werkgeheugen van een mensenbrein overstijgt nauwelijks dat van een half A4-tje text. <br> GPT-4 heeft een maximumaantal tokens van 32.768 - *---twee tot de macht 15---*. <br> Dit is grofweg 50 pagina's tekst, genoeg voor een heel boek. Het *"actieve"* werkgeheugen van GPT-4 is dus 100x dat van een gemiddelde Nederlandse student. <br> <br> |
 | [4] <br> <br>  Vertoont meertaligheid | <sub> De AI-wereld wordt gedomineerd door Engelstaligen, en alles, van datasets tot benchmarks en onderzoekspapers, wordt  door het Engels gedomineerd en dus ook GPT-4.  OpenAI-LP claimt dat de Engelstalige bias minder sterk is dan haar voorgangers. Maar de suggestie van meertaligheid is uitsluitend gebaseerd op het analyseren van meerkeuzevragen. <br> <br> 
 | [5] <br> <br> Beschikt over meerdere "persoonlijkheden"  | <sub> *"Stuurbaarheid"*  is een belangrijk concept in Gen-AI, dat verwijst naar het vermogen om "toon-of-voice" en "intentie" op verzoek te kunnen veranderen. Dit kan nuttig zijn, zoals bij het aannemen van de rol van een sympathieke luisteraar, of gevaarlijk, zoals wanneer mensen het model ervan overtuigen dat het slecht of depressief is.<br> <br> GPT-4 integreert stuurbaarheid meer dan GPT-3.5. Eindgebruikers zullen de *"klassieke ChatGPT persoonlijkheid met een vaste verbositeit, toon en stijl"* kunnen veranderen in iets dat meer past bij hun behoeften. Maar ook hier zit een rem op om "jaibreaking" zoveel als mogelijk te voorkomen. <br> <br> Dit kon dus al door een LLM te primen via *"rollenspel instructies"*, zoals *"Doe alsof je een ...  bent"*.  Dit zijn dus instructies voor de *"standaard" GPT-3.5 persoonlijkheid* om een andere rol aan te nemen. <br> <br> Nu kunnen ontwikkelaars een perspectief, gespreksstijl, toon of interactiemethode vooraf selecteren. <br> <br> |
 | [6] <br> <br> Kan applicaties of teksten iteratief <br>  *"bouwen & testen "*  <br> <br>  | <sub> Op basis van een persoonlijkheid *---bijvoorbeeld, een assistent die broncode kan uitleggen en verbeteren---* kan GPT-4 optreden als AI-programmeerassistent. Vervolgens kan de broncode door de assistent worden getest, om te zien of het ook echt werkt. Dit kan herhaald worden net zolang tot broncode foutloos werkt |
@@ -1465,7 +1465,7 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 --->
 
-#### Referenties op basis waarvan de onderstaand antwoord is opgesteld:
+#### Referenties op basis waarvan het onderstaande antwoord is opgesteld:
 
 * Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 
@@ -1806,9 +1806,6 @@ Microsoft heeft op Github een Blog geschreven hoe je met OpenAI's [Codex](https:
 Een prompt is een tekstsequentie zoals een zin of een blok code. Het gebruik van prompts om output te verkrijgen vindt zijn oorsprong bij mensen. Net zoals je mensen een onderwerp voor een essay kunt aanreiken, kun je verbazingwekkend genoeg een AI-model aan de hand van prompts een output laten genereren op basis van een taak die je in gedachten hebt.
 
 OpenAI Codex is een Gen-AI ontwikkeld door OpenAI LD. Het wordt gebruikt voor Microsoft's GitHub Copilot, een tool voor het automatisch aanvullen van broncode; speciaal ontwikkeld voor IDE's, zoals Visual Studio Code, JetBrains suite  en Neovim. Codex is gebaseerd op GPT-3-model, maar dan verfijnd voor het genereren van broncode.
-
-Vertaald met www.DeepL.com/Translator (gratis versie)
-
 
 #### Geselecteerde referenties voor verder lezen:
 
@@ -2208,7 +2205,7 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 #### Lijst met links naar voorbeelden voor het maken van *"effectieve"* opdrachten.
 
 
-| Prompt Enigineering Repositories |
+| Prompt Engineering Repositories |
 | ------- |
 | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 | [Cohere AI](https://docs.cohere.ai/docs/prompt-engineering)
@@ -2268,7 +2265,7 @@ Instructie doelen kunnen zijn:
 ## Prompt voorbeelden
 #### VOORBEELD 01: Linux Terminal
 
-Ik wil dat je optreedt als een Linux terminal. Ik typ commando's en jij antwoordt met wat de terminal moet laten zien. Ik wil dat je alleen antwoordt met de terminal output binnen een uniek code blok, en niets anders. schrijf geen uitleg. typ geen commando's tenzij ik je dat opdraag. als ik je iets in het engels moet vertellen, doe ik dat door tekst binnen accolades te zetten {zoals dit}. mijn eerste twee commando's zijn pwd  en  Ls.
+Ik wil dat je optreedt als een Linux terminal. Ik typ commando's en jij antwoordt met wat de terminal moet laten zien. Ik wil dat je alleen antwoordt met de terminal output binnen een uniek code blok, en niets anders. Schrijf geen uitleg. Typ geen commando's tenzij ik je dat opdraag. Als ik je iets in het engels moet vertellen, doe ik dat door tekst binnen accolades te zetten {zoals dit}. Mijn eerste twee commando's zijn pwd  en  Ls.
 
 ```bash
 $ pwd
