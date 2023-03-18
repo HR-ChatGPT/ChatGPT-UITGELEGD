@@ -1770,9 +1770,11 @@ De snelle bruine vos springt over de luie hond...
 wordt de string niet impliciet gesegmenteerd op spaties, zoals een natuurlijke taalspreker zou doen. De ruwe invoer, de 43 tekens, moet expliciet worden gesplitst in de 9 tokens met een gegeven spatiescheidingsteken (d.w.z. overeenkomend met de tekenreeks " " of de reguliere expressie /{1}/).
 
 Wanneer een tokenklasse meer dan één mogelijk lexem vertegenwoordigt, bewaart de lexer vaak voldoende informatie om het oorspronkelijke lexem te reproduceren, zodat het kan worden gebruikt voor semantische analyse. De parser haalt deze informatie meestal uit de lexer en slaat ze op in de abstracte syntaxisboom. Dit is nodig om informatieverlies te voorkomen in het geval dat getallen ook geldige identificatiemiddelen kunnen zijn.
+
+
+Dus grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken. Dit is noozakelijk omdat computers niet kunnen begrijpen wat een woord is, maar alleen kunnen begrijpen wat een *"token"* is.
 --> 
 
-Grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken. Dit is noozakelijk omdat computers niet kunnen begrijpen wat een woord is, maar alleen kunnen begrijpen wat een *"token"* is.
 
  Tokeniseren is het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. 
 
