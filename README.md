@@ -1782,13 +1782,11 @@ Hier zijn enkele vuistregels om het aantal tokens te kunnen relateren an de leng
 
 | tekst | aantal tokens |
 | --- | --- |
-| een woord |  2-3 tokens |
-| een couplet van een lied | 128 tokens |
-| deze uitleg over tokeniseren |  300 tokens| 
 | eenvoudige teksten |  1 token per woord |
 | complexe teksten <br> met minder gebruikelijke woorden worden |  3-4 tokens per woord |
+| deze uitleg over tokeniseren |  300 tokens | 
 | 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
-| maximum tekst lengte <br> grootschalige taalmodellen [LLM] | duizenden tokens <br> GTP-4  32,786 tokens | 
+| maximum tekst lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | duizenden tokens <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
 
 In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse broncode, bijvoorbeeld een programmeertaal zoals Python.
 
