@@ -1786,7 +1786,7 @@ Hier zijn enkele vuistregels om het aantal tokens te kunnen relateren an de leng
 | complexe teksten <br> met minder gebruikelijke woorden worden |  3-4 tokens per woord |
 | deze uitleg over tokeniseren |  300 tokens | 
 | 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
-| maximum tekst lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | duizenden tokens <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
+| maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | duizenden tokens <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
 
 In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse van broncode, bijvoorbeeld een programmeertaal zoals Python.
 
@@ -1798,6 +1798,21 @@ In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet d
 | operator	| +, <, =
 | literal	| true, 6.02e23, "music"
 | comment	| /* Retrieves user data */, # must be negative 
+
+
+<!--
+https://www.tomsguide.com/opinion/bing-chatgpt-goes-off-the-deep-end-and-the-latest-examples-are-very-disturbing
+
+https://www.tomsguide.com/news/ai-expert-sounds-alarm-on-bing-chatgpt-we-need-to-issue-digital-health-warnings
+
+Microsoft heeft beperkingen opgelegd aan de Bing chatbot om *"merkwaardig"* gedrag te voorkomen dat veel gebruikers hebben opgemerkt. Deze omvatten limieten voor je chats per sessie en chats per dag om lange chatsessies te voorkomen. Aanvankelijk stelde het beperkingen aan gebruikers van vijf chats per sessie en slechts 50 chats per dag om lange chatsessies te voorkomen. 
+
+
+Sindsdien is die limiet verhoogd tot zes chats per sessie met een maximum van 60 chats per dag voor testers die toegang hebben, en het plan is om de dagelijkse limiet te verhogen tot 150 chats per dag. Het probleem is dus niet het aantal *"tokens"* dat je per chat gebruikt, 
+
+het probleem is dat de prompt (inclusief eerdere berichten) niet groter is dan 4k tokens.
+-->
+
 
 <!--
 https://sarahlawrence.libguides.com/chatgpt
