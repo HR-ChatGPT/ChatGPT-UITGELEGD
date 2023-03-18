@@ -1113,8 +1113,6 @@ Op 14 maart 2023 melde de New York Times dat OpenAI-LP GPT-4 had vrijgegeven voo
 >*"GPT-4 ---die zijn vaardigheden leerde door het analyseren van nieuwere, nog groter datasets dan die voor GPT-3 zijn gebruikt--- verbetert GPT-3 op verschillende manieren. Het is preciezer. Het kan slagen voor het angelsaxische toegangsexamen voor advocaten [(LSAT)](https://www.lsac.org/lsat), belastingformulieren invullen en zeer gedetailleerde beschrijvingen & intergretaties van beelden geven."* <br> <br> *"Het heeft echter opmerkelijke tekortkomingen. Het is een expert in sommige onderwerpen en een dilettant in andere. Het kan beter presteren op gestandaardiseerde tests dan de meeste mensen en zeer nauwkeurig medisch advies geven aan artsen, maar het kan ook basale rekenfouten maken."* <br><br> *"GPT-4 kan ook reageren op beelden. Bij een foto, grafiek of diagram kan dit "foundation model" een gedetailleerde, paragrafenlange beschrijving van de afbeelding geven en vragen over de inhoud beantwoorden."* <br><br> *"Deze nieuwe technologie fungeert als een online tutor", aldus Sal Khan, oprichter van Khan Academy. "We willen dat het studenten & scholieren nieuwe technieken aanleert terwijl zijzelf het meeste werk doen."*
 
 
-
-
 OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) vrijgegeven (14 maart 2023) via een hun [Research-index](https://openai.com/research?contentTypes=milestone) en  een blog op hun website getiteld: ["GPT-4"](https://openai.com/research/gpt-4) inclusief een evaluatie Github Repository: https://github.com/openai/evals dat gebruikt kan worden voor het verifieren van benchmarks. Hierbij geven ze *"tijdelijk"* toegang tot GTP-4 via zogenaamde [API-keys](https://platform.openai.com/account/api-keys). Pagina 6 van het [GTP-4-System-card](https://cdn.openai.com/papers/gpt-4-system-card.pdf) geeft een zeer inzichtelijk overzicht in welke opzichten GPT-4 verbeterd is in vergelijking met GTP3.5. Het onderschrift luidt als volg:
 
 >*"Voorbeeldvragen die leidden tot schadelijke inhoud in GPT-4-early. Het LLM heeft nog steeds beperkingen, die cruciaal zijn voor het garanderen van veilig gebruik."*
@@ -1122,7 +1120,32 @@ OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4
 TechCruch heeft via haar blog *"Robotics & AI"* *---geschreven door Devin Coldewey---* een overzicht gemaakt (14 Maart 2023) ---getiteld: [*"5 ways GPT-4 outsmarts ChatGPT"*](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/) waarin wordt beschreven hoe GPT-4 afwijkt ten opzichte van haar voorgangers. Het onderstaande overzicht is tevens gebaseerd op het KDnuggets Blog (15 maart 2023) *---geschreven door Nisha Arya---* getiteld: [*"GPT-4: Everything You Need To Know"*](https://www.kdnuggets.com/2023/03/gpt4-everything-need-know.html) en Gizmodo nieuws item (17 maart 2023) *---geschreven door 
 Kyle Barr---* getiteld: [*"GPT-4 Is a Giant Black Box and Its Training Data Remains a Mystery"*](https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery/). 
 
-| GPT-4 LLM <br> Unieke eigenschappen <br> <br> | Uitleg / Voorbeeld |
+GPT-4 is uitsluitend beschikbaar voor OpenAI's betalende gebruikers via ChatGPT Plus (met een gebruikslimiet), en ontwikkelaars kunnen zich inschrijven op een wachtlijst om toegang te krijgen tot de API. De prijs is $0,03 per 1.000 "prompt" tokens (ongeveer 750 woorden) en $0,06 per 1.000 "completion" tokens (opnieuw, ongeveer 750 woorden). 
+
+> *Tokens representeren "niet opgeschoonde" tekst dat ook leestekens kan vevatten; <br> <br> Zo kan het woord "fantastisch" worden opgesplitst in de tokens "fan", "tas" en "tic". <br> <br> Prompt tokens zijn de delen van woorden die GPT-4 invoert, terwijl completion tokens de inhoud zijn die GPT-4 genereert.*
+
+"*Early adopters"* van GPT-4 *---zo is gebleken volgens [TechCrunch](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)---* zijn onder andere: 
+
+| Early GPT-4 Adopters  | Beschrijving |
+| -------------------------- | --------- |
+| Stripe |  Scannen websites van bedrijven om zo samenvattingen te kunnen geven aan klantenservicemedewerkers.
+| Duolingo | Heeft GPT-4 ingebouwd in een nieuw abonnement voor het leren van talen.
+| Morgan Stanley | Creëert een systeem met GPT-4 dat informatie uit bedrijfsdocumenten haalt en aan financiële analisten levert.
+| Khan Academy | Gebruikt GPT-4 om een soort geautomatiseerde tutor te bouwen.
+
+<br>
+
+### GPT-4: Unieke eigenschappen
+
+OpenAI-LP heeft een half-jaar besteed aan het *"iteratief afstemmen"* van GPT-4 op basis van lessen uit een intern *"contradictoir testprogramma"* en ChatGPT, met als resultaat "de beste resultaten ooit" op het gebied van feitelijkheid, bestuurbaarheid en weigering om buiten de vangrails te treden, aldus [Microsoft](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4). Net als eerdere GPT-modellen is GPT-4 getraind met behulp van openbaar beschikbare gegevens, waaronder van openbare webpagina's, en gegevens waarvoor OpenAI een licentie heeft. Maar heeft niet openbaargegeven welke datasets daadwerkelijk gebruikt zijn.
+
+>*"In een ongedwongen gesprek kan het onderscheid tussen GPT-3.5 en GPT-4 subtiel zijn," <br> schreef OpenAI in een [blogpost waarin GPT-4 werd aangekondigd](https://openai.com/research/gpt-4). <br> <br> "Het verschil komt naar voren wanneer de complexiteit van de taak een voldoende hoge drempel bereikt: <br> GPT-4 is betrouwbaarder, creatiever en in staat om veel genuanceerdere Chain-of-Thought [CoT] instructies te verwerken dan GPT-3.5."*
+
+Een van de meest innovatieve aspecten van GPT-4 is ongetwijfeld zijn multimodale vermogen om zowel afbeeldingen als ook tekst te kunnen verwerken. Het kan relatief complexe beelden ondertitelen - en zelfs interpreteren ---en bijvoorbeeld een Lightning Cable adapter identificeren uit een foto van een ingeplugde iPhone.
+
+<br> 
+
+| GPT-4 <br> Unieke eigenschappen <br> <br> | Uitleg / Voorbeeld |
 | -------------------------- | --------- |
 | [1] <br> <br> Multimodaliteit <br> <br>  Kan beelden internaliseren, begrijpen en uitleggen | <sub>  Je kunt de Gen-AI vragen een specifieke afbeelding te interpreteren *---zoals het uitleggen van een cartoon---*. <br> Voor een goede demo zie [Be My Eyes](https://openai.com/customer-stories/be-my-eyes) <br> <br> Dus, wat de multimodale mogelijkheden betreft *---alleen uit te proberen via de onderzoeksversie---*, <br> kan GPT-4 de inhoud van meerdere beelden analyseren en er wijs uit worden, zoals <br> (1) het begrijpen van een grap met meerdere beelden of<br> (2) het extraheren van informatie uit een diagram. <br> Ook kan het met de hand is geschreven teksten lezen en omzetten in tekst. <br> <br> Multimodaliteit is een belangrijke stap naar wat wetenschappers *"Artificial General Intelligence"* [[AGI]](https://en.wikipedia.org/wiki/Artificial_general_intelligence) noemen: <br>  *"AI die een veelheid van zeer uiteenlopende taken uitvoert vergelijkbaar zoals mensen dat zouden kunnen."* <br><br>
 | [2] <br> <br>  Is lastig(er) te misleiden via <br> *Chain-of-Thought [CoT]* / *jailbreaking manipulatie* | <sub> Ondanks alles wat de huidige chatbots goed doen, laten ze zich gemakkelijk op een dwaalspoor brengen. Een beetje coaxing in de vorm van een *"chain-of-Thoughts"* [CoT] kan een chatbot ervan overtuigen om te beschrijven wat een *"Sluwe AI"* zou doen, of het allerlei rare en verontrustende dingen laat zeggen. Dit wordt vaak aan aangeduid met de term *"jailbreaking"*. <br> <br> GPT-4, echter, is expliciet getraind op *"kwaadaardige"*  prompts *---die een selecte groep aan eindgebruikers de afgelopen twee jaar met  OpenAI hebben gedeeld---*. Hierdoor is GPT-4 beter qua *"feitelijkheid, stuurbaarheid, en het weigeren van dwaalsporen"* dan de voorgaande GPT-modellen. <br> <br> |
