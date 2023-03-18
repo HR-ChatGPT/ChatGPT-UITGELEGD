@@ -1756,8 +1756,8 @@ https://sarahlawrence.libguides.com/chatgpt
 
 De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over tokenisering m.b.t. natuurlijke taalverwerling [NLP] die in het Engels is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
 
- 
 
+Tokeniseren is essentieel voor natuurlijke taalverwerking (NLP) en dus de werking van groot schalige taalmodellen *---zoals ChatGPT---*  omdat het computers in staat stelt *---in plaats van binaire-code als reeksen van nulen en enenen: 01001000100101---* menselijke taal te begrijpen en te analyseren. Zonder de omzetting naar tokens, is het voor standaard computersystemen *niet* mogelijk om individuele woorden en zinnen in vrije-teksten ---zoals webpagina's--- te identificeren en hun betekenis te kunnen achterhalen.
 
 <!--
 Een token is een stukje tekst dat een betekenis heeft. Een token kan een woord, een leesteken, een cijfer of een combinatie van deze zijn.
@@ -1772,7 +1772,9 @@ wordt de string niet impliciet gesegmenteerd op spaties, zoals een natuurlijke t
 Wanneer een tokenklasse meer dan één mogelijk lexem vertegenwoordigt, bewaart de lexer vaak voldoende informatie om het oorspronkelijke lexem te reproduceren, zodat het kan worden gebruikt voor semantische analyse. De parser haalt deze informatie meestal uit de lexer en slaat ze op in de abstracte syntaxisboom. Dit is nodig om informatieverlies te voorkomen in het geval dat getallen ook geldige identificatiemiddelen kunnen zijn.
 --> 
 
-Grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken in plaats van tekens of bytes. Tokeniseren is het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. 
+Grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken. Dit is noozakelijk omdat computers niet kunnen begrijpen wat een woord is, maar alleen kunnen begrijpen wat een *"token"* is.
+
+ Tokeniseren is het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. 
 
 Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. Merk op dat tokenisatie gevoelig is voor spaties en hoofdletters.
 
@@ -1801,6 +1803,9 @@ In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet d
 
 
 <!--
+
+https://www.theverge.com/2023/2/21/23608888/microsoft-bing-ai-edge-chatbot-conversation-limits
+
 https://www.tomsguide.com/opinion/bing-chatgpt-goes-off-the-deep-end-and-the-latest-examples-are-very-disturbing
 
 https://www.tomsguide.com/news/ai-expert-sounds-alarm-on-bing-chatgpt-we-need-to-issue-digital-health-warnings
