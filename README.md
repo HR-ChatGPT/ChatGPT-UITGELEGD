@@ -1154,7 +1154,10 @@ Hierdoor wordt zeer waarschijnlijk het "*gratis-advertentie*" verdien-model losg
 * Voeg Microsoft to aan "recommended sites in Favorites" 
 * maak een desktop "shortcut fot Microfoft Edge"
 
+Op het moment dat Microsoft de nieuwe AI-enabled Bing aankondigde, gebouwd bovenop OpenAI-LP's GPT-modellen, wilde geen van beide bedrijven bevestigen welke versie van GPT werd gebruikt, behalve dat het een next-gen versie was van het model dat ChatGPT aandreef.  [Microsoft heeft op 14 maart 2023 bevestigd](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) dat Bing Chat, GPT-4
+als LLM gebruikt. Bing beschikt hierdoor over de meest uitgebreide [*"Copilot"*](https://en.wikipedia.org/wiki/GitHub_Copilot) functies.
 
+>*“We are happy to confirm that the new Bing is running on GPT-4, which we’ve customized for search,” Microsoft’s Yusuf Mehdi, the company’s corporate VP and consumer chief marketing officer, wrote. <br> <br>  “If you’ve used the new Bing preview at any time in the last five weeks, you’ve already experienced an early version of this powerful model.”*
 
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. 
