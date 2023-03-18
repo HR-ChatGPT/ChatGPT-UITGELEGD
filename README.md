@@ -1122,7 +1122,25 @@ Kyle Barr---* getiteld: [*"GPT-4 Is a Giant Black Box and Its Training Data Rema
 
 GPT-4 is uitsluitend beschikbaar voor OpenAI's betalende gebruikers via ChatGPT Plus (met een gebruikslimiet), en ontwikkelaars kunnen zich inschrijven op een wachtlijst om toegang te krijgen tot de API. De prijs is $0,03 per 1.000 "prompt" tokens (ongeveer 750 woorden) en $0,06 per 1.000 "completion" tokens (opnieuw, ongeveer 750 woorden). 
 
-> *Tokens representeren "niet opgeschoonde" tekst dat ook leestekens kan vevatten; <br> <br> Zo kan het woord "fantastisch" worden opgesplitst in de tokens "fan", "tas" en "tic". <br> <br> Prompt tokens zijn de delen van woorden die GPT-4 invoert, terwijl completion tokens de inhoud zijn die GPT-4 genereert.*
+> *"Lexicale" Tokens representeren een keten aan "niet opgeschoonde" tekst *---een set aan karakters---* dat ook leestekens kan bevatten. Tokens vormen de kleinste eenheid aan betekenisvolle informatie in tekst corpera.<br> Zo kan het woord "fantastisch" worden opgesplitst in de tokens "fan", "tas" en "tic". <br> Prompt tokens zijn de delen van woorden die GPT-4 invoert, terwijl completion tokens de inhoud zijn die GPT-4 genereert.*
+
+
+<!--
+https://en.wikipedia.org/wiki/Lexical_analysis#Token
+https://www.geeksforgeeks.org/introduction-of-lexical-analysis/
+
+Token: It is a sequence of characters that represents a unit of information in the source code.
+
+Pattern: The description used by the token is known as a pattern.
+
+Lexeme: A sequence of characters in the source code, as per the matching pattern of a token, is known as lexeme. It is also called the instance of a token.
+
+What’s a Token? • Output of lexical analysis is a stream of tokens • A token is a syntactic category • In English: noun, verb, adjective, … • In a programming language: Identifier, Integer, Keyword, Whitespace, … • Parser relies on the token distinctions: • E.g., identifiers are treated differently than keywords Prof. Necula CS 164 Lecture 3
+
+Tokens • Tokens correspond to sets of strings. • Identifier: strings of letters or digits, starting with a letter • Integer: a non-empty string of digits • Keyword: “else” or “if” or “begin” or … • Whitespace: a non-empty sequence of blanks, newlines, and tabs • OpenPar: a left-parenthesis Prof. Necula CS 164 Lecture 3
+
+-->
+
 
 "*Early adopters"* van GPT-4 *---zo is gebleken volgens [TechCrunch](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)---* zijn onder andere: 
 
