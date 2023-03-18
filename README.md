@@ -1757,7 +1757,7 @@ https://sarahlawrence.libguides.com/chatgpt
 De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over tokenisering m.b.t. natuurlijke taalverwerling [NLP] die in het Engels is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
 
 
-Tokeniseren is essentieel voor natuurlijke taalverwerking (NLP) en dus de werking van groot schalige taalmodellen *---zoals ChatGPT---*  omdat het computers in staat stelt *---in plaats van binaire-code als reeksen van nulen en enenen: 01001000100101---* menselijke taal te begrijpen en te analyseren. Zonder de omzetting naar tokens, is het voor standaard computersystemen *niet* mogelijk om individuele woorden en zinnen in vrije-teksten ---zoals webpagina's--- te identificeren en hun betekenis te kunnen achterhalen.
+Tokeniseren is essentieel voor natuurlijke taalverwerking (NLP) en dus de werking van groot schalige taalmodellen *---zoals ChatGPT---*  omdat het computers in staat stelt *---in plaats van binaire-code als reeksen van nulen en enen: 01001000100101---* menselijke taal te begrijpen en te analyseren. Zonder de omzetting naar tokens, is het voor standaard computersystemen *niet* mogelijk om individuele woorden en zinnen in vrije-teksten ---zoals webpagina's--- te identificeren en hun betekenis te kunnen achterhalen.
 
 <!--
 Een token is een stukje tekst dat een betekenis heeft. Een token kan een woord, een leesteken, een cijfer of een combinatie van deze zijn.
