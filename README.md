@@ -497,6 +497,11 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 <br>
 
 
+### Geselecteerde referenties voor verder lezen
+
+* Das, A., Liu, H., Kovatchev, V., & Lease, M. (2023). The state of human-centered NLP technology for fact-checking. Information Processing & Management, 60(2), 103219. https://doi.org/https://doi.org/10.1016/j.ipm.2022.103219
+
+
 <!--
 *---en niet geheel onomstreden* [Blodgett, S. L., & Madaio, M. (2021)](https://doi.org/10.48550/arXiv.2108.07258)---
 --> 
@@ -2401,6 +2406,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Chan, A. GPT-3 and InstructGPT: technological dystopianism, utopianism, and “Contextual” perspectives in AI ethics and industry. AI Ethics (2022). https://doi.org/10.1007/s43681-022-00148-6
 
 * <sub> Costanza-Chock, S., Raji, I.D., Buolamwini, J. (2022). Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1571–1583). Association for Computing Machinery. https://doi.org/10.1145/3531146.3533213
+
+* <sub> Das, A., Liu, H., Kovatchev, V., & Lease, M. (2023). The state of human-centered NLP technology for fact-checking. Information Processing & Management, 60(2), 103219. https://doi.org/https://doi.org/10.1016/j.ipm.2022.103219
 
 * <sub> Dair-ai. Prompt Engineering Guide. [Github Repository] https://github.com/dair-ai/Prompt-Engineering-Guide
 
