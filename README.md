@@ -2476,7 +2476,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Sobieszek, A., & Price, T. (2022). Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models. In Minds and Machines (Vol. 32, pp. 341-364). https://doi.org/10.1007/s11023-022-09602-0
 
-* Sun, S., Liu, Y., Iter, D., Zhu, C., & Iyyer, M. (2023). How Does In-Context Learning Help Prompt Tuning?. arXiv preprint https://doi.org/10.48550/arXiv.2302.11521
+* <sub> Sun, S., Liu, Y., Iter, D., Zhu, C., & Iyyer, M. (2023). How Does In-Context Learning Help Prompt Tuning?. arXiv preprint https://doi.org/10.48550/arXiv.2302.11521
 
 * <sub> Thompson, A. D. (March 2022). What's in my AI? A Comprehensive Analysis of Datasets Used to Train GPT-1, GPT-2, GPT-3, GPT-NeoX-20B, Megatron-11B, MT-NLG, and Gopher. https://lifearchitect.ai/whats-in-my-ai-paper/
 
