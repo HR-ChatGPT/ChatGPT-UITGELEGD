@@ -1754,7 +1754,7 @@ https://sarahlawrence.libguides.com/chatgpt
 ### [g] WAT IS TOKENISEREN / WAT IS EEN TOKEN?
 *******
 
-De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over *lexicale tokenisering* m.b.t. natuurlijke taalverwerling [NLP] die in het Engels gedeeltelijk is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
+De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over *lexicale tokenisering* m.b.t. natuurlijke taalverwerling [NLP] die in het Engels gedeeltelijk is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens), [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization) en  het Medium blog [GPT-4 API Pricing Analysis](https://medium.com/sopmac-labs/gpt-4-api-pricing-analysis-a507a4bf9829), geschreven door Ivan Campos.
 
 Tokeniseren van vrije-teksten is een fundamentele stap in natuurlijke taalverwerking (NLP) door computers en dus ook voor grootschalige taalmodellen [LLMs] *---zoals ChatGPT---*.
 Vrije-teksten *---zoals webpagina's, boeken, kranten en wetenschappelijke artikelen---* vormen ongestructureerde datasets. Vrije-teksten bestaan uit een combinatie van interpunctie *---het gebruik van leestekens (punten, komma's enzovoort)---* en woorden. Woorden vormen op hun beurt tekstniveau's *---zoals zinnen, alienea's, paragraven en hoofdstuken---*.
@@ -1791,9 +1791,11 @@ Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus--
 
 De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen hoe vaak een woord voorkomt in de tekst, hoe lang het woord is en hoe vaak het woord wordt gebruikt in combinatie met andere woorden is bepalend voor het aantal tokens dat het representeerd. 
 
-<!--
-Het verdienmodel van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for what you use"*. Via de URL: https://openai.com/pricing valt op te maken dat de prijs van de GPT-4 engine afhankelijk is van het maxium prompt lengte *---8K versus 32K context---* en het aantal benodigde tokens *---per prompt---*. Het generereren van deze Nederlandstalige uitleg over tokeniseren via GPT-4 (32K) vergt ongeveer 825 woorden  x 3 tokens = 2550 aan tokens *---ofwel 300 Euro---*. Het gebruik van de laaste generatie aan OpenAI-LP producten is dus een kostbare zaak. Het plaatst zichzelf daarmee buiten het bereik van de meeste mensen, mkb-ondernemingen en onderwijsinstelligen.
--->
+
+Het verdienmodel van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for what you use"*. Via de URL: https://openai.com/pricing valt op te maken dat de prijs van de GPT-4 engine afhankelijk is van het maxium prompt lengte *---8K versus 32K context---* en het aantal benodigde tokens om de gewenste output tekst te genereren *---completion tokens---*. Het generereren van deze Nederlandstalige uitleg over tokeniseren via GPT-4 (32K) vergt ongeveer 825 woorden  x 3 tokens = 2550 aan tokens *---ofwel 300 Euro---*. Het gebruik van de laaste generatie aan OpenAI-LP producten is dus een kostbare zaak. Het plaatst zichzelf daarmee buiten het bereik van onderwijsinstelligen zoals middelbare- en hogescholen. 
+
+Het gebruik van ChatGPT is gratis, maar erg onbetrouwbaar. De betaalde versie *---ChatGPT Plus---* is stabieler, en voor een paar tientjes per maand te gebruiken met een maximum van 450K aan *---prompt + completion---* tokens. Het geeft toegang tot de GPT-4 API *---genaamd [gpt-4-0314](https://openai.com/research/gpt-4)---*, en is beperkt tot  100 *"Chats"* per dag. Om precies te zijn: GPT-4 voor prompts is 14x duurder dan de ChatGPT API; terwijl GPT-4 voor *"text-completion"* 29x duurder is dan de ChatGPT API. Vooralsnog vormt de ChatGPT-Pro API de een betaalbaar alterantief die toegang geeft tot GPT-4 token-engine.
+
 
 
 <!--
