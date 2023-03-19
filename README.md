@@ -1779,7 +1779,6 @@ Wanneer een tokenklasse meer dan één mogelijk lexem vertegenwoordigt, bewaart 
 Dus grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken. Dit is noozakelijk omdat computers niet kunnen begrijpen wat een woord is, maar alleen kunnen begrijpen wat een *"token"* is.
 --> 
 
-
 Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. Tokenisatie is ook gevoelig voor het gebruik van spaties, kleineletters en hoofdletters. Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. 
 
 | tekst | aantal tokens |
