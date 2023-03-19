@@ -1784,10 +1784,11 @@ Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus--
 
 | tekst | aantal tokens |
 | --- | --- |
-| eenvoudige teksten |  1 token per woord |
-| complexe teksten <br> met minder gebruikelijke woorden worden |  3-4 tokens per woord |
-| 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
-| maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | 1K tokens ≅ 750 woorden <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
+| eenvoudige teksten |  ≅1 token per woord |
+| complexe teksten <br> met 2-4% zeldzame woorden |  ≅3-4 tokens per woord |
+| 50 pagina's van een standard roman (boek) |  ≅655 tokens per pagina |
+| 750 woorden | ≅1K tokens 
+| maximum prompt *---context---* lengte <br> vormt het actieve geheugen <br> grootschalige taalmodellen [LLM] <br> <br> 12 paginas <br>  50 paginas<br> |  <br> <br> <br> <br>   GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens <br> <br> | 
 
 De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen hoe vaak een woord voorkomt in de tekst, hoe lang het woord is en hoe vaak het woord wordt gebruikt in combinatie met andere woorden is bepalend voor het aantal tokens dat het representeert. 
 
