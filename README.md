@@ -1798,7 +1798,30 @@ Het gebruik van ChatGPT is gratis, maar erg onbetrouwbaar. De betaalde versie *-
 
 Inmiddels is GPT-4 ook beschikbaar via de *"OpenAI Service"* van het [Azure platform](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/#overview) van Microsoft. De [prijs](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/) van de GPT-4 engine via Azure is vergelijkbaar met die van [gpt-4-0314](https://openai.com/research/gpt-4).
 
-Microsoft's zoekmachine Bing *---geïntegreerd in de Edge webbrowser---* maakt ook gebruik van de GPT-4 token-machine.
+Microsoft's zoekmachine Bing *---geïntegreerd in de Edge webbrowser---* maakt ook gebruik van de GPT-4 token-machine. Er zijn beperkingen opgelegd aan de Bing chatbot om *"schizofreen"* gedrag te voorkomen dat optreed bij langdurige interactie met de chatbot aldus de NewYork Times in hun *"THE SHIFT"*  blog van 16 februari 2023: getiteld" <br> [*"A Conversation With Bing’s Chatbot Left Me Deeply Unsettled. <br> 
+A very strange conversation with the chatbot built into Microsoft’s search engine led to it declaring its love for me."*](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)
+
+>*"Toen New York Times-columnist Kevin Roose voor het eerst met Bing ging zitten, leek alles in orde. Maar na een week en enkele uitgebreide gesprekken onthulde Bing zichzelf als Sydney, een duister alter ego voor de anders zo vrolijke chatbot."*
+
+Terugkijkend op de eerste zeven dagen van openbare tests, zegt het [Bing-team](https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week) van Microsoft dat het zich niet *"voldoende hadden gerealiseerd"* dat mensen de *"Ask me anything"* gebruikersinterface zouden (mis)gebruiken voor *"sociaal vermaak"* of als hulpmiddel voor meer *"algemene ontdekking over de wereld"*.  Langedurige  en/of uitgebreide chatsessies met 15 of meer vragen *---chat turns---* brachten Bing in verwarring. Zulke langere chatsessies kunnen er ook voor zorgen dat chatbot *"repetitief wordt of wordt gevraagd/uitgelokt om antwoorden te geven die niet noodzakelijkerwijs nuttig zijn of in lijn met de door ons ontworpen toon."* 
+
+
+In reactie daarop heeft het [Bing-team](https://blogs.bing.com/search/february-2023/The-new-Bing-and-Edge-Increasing-Limits-on-Chat-Sessions) een aantal beperkingen opgelegd aan de *"Ask me anything"* gebruikersinterface, waaronder een limiet van  *"60 chats per day"* elk met een maximum van *"6 chats turns per session"*. De maximale token lengte van een *"chat turn"* is onbekend.
+
+> Het aantal *"chat turns"* binnen een enkele chat sessie is het aantal keren dat een eindgebruiker een vraag stelt en Bing antwoordt.
+
+
+
+
+
+<!--
+
+Dong, Z., Tang, T., Li, L., & Zhao, W. X. (2023). A Survey on Long Text Modeling with Transformers. arXiv preprint https://doi.org/10.48550/arXiv.2302.14502
+
+Hè, H., & Kabic, M. (2023). A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies. arXiv preprint https://doi.org/10.48550/arXiv.2302.06218
+
+Deze omvatten limieten voor je chats per sessie en chats per dag om lange chatsessies te voorkomen. Aanvankelijk stelde het beperkingen aan gebruikers van vijf chats per sessie en slechts 50 chats per dag om lange chatsessies te voorkomen. Enkele dagen later is deze limiet verhoogd tot zes chats per sessie met een maximum van 60 chats per dag voor testers die toegang hebben, en het plan is om de dagelijkse limiet te verhogen tot 150 chats per dag. Het probleem is dus niet het aantal *"tokens"* dat je per chat gebruikt, de duur van de chat is het probleem, aldus de NewYork Times.
+--
 
 
 <!--
