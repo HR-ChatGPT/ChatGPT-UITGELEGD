@@ -191,7 +191,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1d] [Maakt ChatGPT *"valsspelen"* makkelijker en is het te detecteren?](#v1d)
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
-* [1g] [+Wat is Lexicale Tokenisering / wat zijn tokens?](#v1g)* 
+* [1g] [+Wat is Lexicale Tokenisering / wat zijn tokens?](#v1g)
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
 -->
@@ -1126,10 +1126,11 @@ OpenAI-LP heeft een [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4
 TechCruch heeft via haar blog *"Robotics & AI"* *---geschreven door Devin Coldewey---* een overzicht gemaakt (14 Maart 2023) ---getiteld: [*"5 ways GPT-4 outsmarts ChatGPT"*](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/) waarin wordt beschreven hoe GPT-4 afwijkt ten opzichte van haar voorgangers. Het onderstaande overzicht is tevens gebaseerd op het KDnuggets Blog (15 maart 2023) *---geschreven door Nisha Arya---* getiteld: [*"GPT-4: Everything You Need To Know"*](https://www.kdnuggets.com/2023/03/gpt4-everything-need-know.html) en Gizmodo nieuws item (17 maart 2023) *---geschreven door 
 Kyle Barr---* getiteld: [*"GPT-4 Is a Giant Black Box and Its Training Data Remains a Mystery"*](https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery/). 
 
-GPT-4 is uitsluitend beschikbaar voor OpenAI's betalende gebruikers via ChatGPT Plus (met een gebruikslimiet), en ontwikkelaars kunnen zich inschrijven op een wachtlijst om toegang te krijgen tot de API. De prijs is $0,03 per 1.000 "prompt" tokens (ongeveer 750 woorden) en $0,06 per 1.000 "completion" tokens (opnieuw, ongeveer 750 woorden). 
+GPT-4 is uitsluitend beschikbaar voor OpenAI's betalende gebruikers via ChatGPT Plus (met een gebruikslimiet), en ontwikkelaars kunnen zich inschrijven op een wachtlijst om toegang te krijgen tot de API.
 
 > *"Lexicale" Tokens representeren een keten aan "niet opgeschoonde" tekst *---een set aan karakters---* dat ook leestekens kan bevatten. Tokens vormen de kleinste eenheid aan betekenisvolle informatie in tekst corpera. Het kan een deel van een woord zijn, een heel woord, of interpunctie. <br> <br> Zo kan het woord "fantastisch" worden opgesplitst in de tokens "fan", "tas" en "tic". <br> Prompt tokens zijn de delen van woorden die GPT-4 invoert, terwijl completion tokens de inhoud zijn die GPT-4 genereert.*
 
+Voor een meer gedetailleerde uitleg, zie: [Wat is Lexicale Tokenisering / wat zijn tokens?](#v1g)
 <br>
 
 <!--
@@ -1185,6 +1186,11 @@ Voor een meer academisch georienteerde beschrijving van GPT-4 verwijs ik naar he
 
 >*"Al deze closed-source modellen zijn in wezen doodlopende wegen in de wetenschap," zegt Sasha Luccioni, een onderzoekswetenschapper gespecialiseerd in klimaat bij HuggingFace, een open-source-AI gemeenschap. <br> "Zij [OpenAI] kunnen blijven voortbouwen op hun onderzoek, maar voor de gemeenschap als geheel is het een doodlopende weg."* <br> *"Er is momenteel een wachtlijst, dus je kunt er nu geen gebruik van maken"*, <br> zegt Evi-Anne van Dis, psycholoog aan de Universiteit van Amsterdam.<br> <br> Van Dis en collega's pleitten eerder dit jaar voor een dringende noodzaak om een reeks *"naleefbare"* richtsnoeren te ontwikkelen die bepalen hoe Gen-AI gebruikt en ontwikkeld zou moeten worden. Zij vrezen dat elke wetgeving rond AI-technologieën het tempo van de ontwikkelingen moeilijk zal kunnen bijhouden. <br> <br> Op 11 april wordt aan de Universiteit van Amsterdam een bijeenkomst georganiseerd om deze zorgen te bespreken met vertegenwoordigers van organisaties als de commissie wetenschap-ethiek van de UNESCO, de Organisatie voor Economische Samenwerking en Ontwikkeling en het World Economic Forum.
 
+### Geselecteerde referenties voor verder lezen:
+
+* Dong, Z., Tang, T., Li, L., & Zhao, W. X. (2023). A Survey on Long Text Modeling with Transformers. arXiv preprint https://doi.org/10.48550/arXiv.2302.14502
+
+* Hè, H., & Kabic, M. (2023). A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies. arXiv preprint https://doi.org/10.48550/arXiv.2302.06218
 
 ### Hoe reageren de overige Tech-Giants op de komst en verdere ontwikkelingen van de OpenAI-LP GPT-serie?
 
@@ -1803,7 +1809,7 @@ A very strange conversation with the chatbot built into Microsoft’s search eng
 
 >*"Toen New York Times-columnist Kevin Roose voor het eerst met Bing ging zitten, leek alles in orde. Maar na een week en enkele uitgebreide gesprekken onthulde Bing zichzelf als Sydney, een duister alter ego voor de anders zo vrolijke chatbot."*
 
-Terugkijkend op de eerste zeven dagen van openbare tests, zegt het [Bing-team](https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week) van Microsoft dat het zich niet *"voldoende hadden gerealiseerd"* dat mensen de *"Ask me anything"* gebruikersinterface zouden (mis)gebruiken voor *"sociaal vermaak"* of als hulpmiddel voor meer *"algemene ontdekking over de wereld"*.  Langedurige  en/of uitgebreide chatsessies met 15 of meer vragen *---chat turns---* brachten Bing in verwarring. Zulke langere chatsessies kunnen er ook voor zorgen dat chatbot *"repetitief wordt of wordt gevraagd/uitgelokt om antwoorden te geven die niet noodzakelijkerwijs nuttig zijn of in lijn met de door ons ontworpen toon."* 
+Terugkijkend op de eerste zeven dagen van openbare tests, zegt het [Bing-team](https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week) van Microsoft dat het zich niet *"voldoende hadden gerealiseerd"* dat mensen de *"Ask me anything"* gebruikersinterface zouden (mis)gebruiken voor *"sociaal vermaak"* of als hulpmiddel voor meer *"algemene ontdekking over de wereld"*.  Langdurige  en/of uitgebreide chatsessies met 15 of meer vragen *---chat turns---* brachten Bing in verwarring. Zulke langere chatsessies kunnen er ook voor zorgen dat chatbot *"repetitief wordt of wordt gevraagd/uitgelokt om antwoorden te geven die niet noodzakelijkerwijs nuttig zijn of in lijn met de door ons ontworpen toon."* 
 
 
 In reactie daarop heeft het [Bing-team](https://blogs.bing.com/search/february-2023/The-new-Bing-and-Edge-Increasing-Limits-on-Chat-Sessions) een aantal beperkingen opgelegd aan de *"Ask me anything"* gebruikersinterface, waaronder een limiet van  *"60 chats per day"* elk met een maximum van *"6 chats turns per session"*. De maximale token lengte van een *"chat turn"* is onbekend.
@@ -2535,6 +2541,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Dair-ai. Prompt Engineering Guide. [Github Repository] https://github.com/dair-ai/Prompt-Engineering-Guide
 
+* <sub> Dong, Z., Tang, T., Li, L., & Zhao, W. X. (2023). A Survey on Long Text Modeling with Transformers. arXiv preprint https://doi.org/10.48550/arXiv.2302.14502
+
 * <sub> DeSilva, J. M., Traniello, J. F. A., Claxton, A. G., & Fannin, L. D. (2021). When and Why Did Human Brains Decrease in Size? A New Change-Point Analysis and Insights From Brain Evolution in Ants [Original Research]. Frontiers in Ecology and Evolution, 9. https://doi.org/10.3389/fevo.2021.742639 
 
 * <sub> Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint https://doi.org/10.48550/arXiv.1810.04805
@@ -2556,6 +2564,9 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Goldstein, J. (1999) Emergence as a Construct: History and Issues, Emergence, 1:1, 49-72, https://doi.org/10.1207/s15327000em0101_4
 
 * <sub> Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
+
+* <sub> Hè, H., & Kabic, M. (2023). A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies. arXiv preprint https://doi.org/10.48550/arXiv.2302.06218
+
 
 * <sub> Heaven, W. D. (2022, November 18). Artificial intelligence: Why Meta’s latest large language model survived only three days online. Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense. [AI Blog] Technology Review. https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
 
