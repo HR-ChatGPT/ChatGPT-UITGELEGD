@@ -1791,7 +1791,10 @@ Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus--
 
 De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen hoe vaak een woord voorkomt in de tekst, hoe lang het woord is en hoe vaak het woord wordt gebruikt in combinatie met andere woorden is bepalend voor het aantal tokens dat het representeerd. 
 
+<!--
 Het verdienmodel van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for what you use"*. Via de URL: https://openai.com/pricing valt op te maken dat de prijs van de GPT-4 engine afhankelijk is van het maxium prompt lengte *---8K versus 32K context---* en het aantal benodigde tokens *---per prompt---*. Het generereren van deze Nederlandstalige uitleg over tokeniseren via GPT-4 (32K) vergt ongeveer 825 woorden  x 3 tokens = 2550 aan tokens *---ofwel 300 Euro---*. Het gebruik van de laaste generatie aan OpenAI-LP producten is dus een kostbare zaak. Het plaatst zichzelf daarmee buiten het bereik van de meeste mensen, mkb-ondernemingen en onderwijsinstelligen.
+-->
+
 
 <!--
 In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan interpunctie of woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse van broncode, bijvoorbeeld een programmeertaal zoals Python.
