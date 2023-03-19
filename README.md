@@ -1756,8 +1756,12 @@ https://sarahlawrence.libguides.com/chatgpt
 
 De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over tokenisering m.b.t. natuurlijke taalverwerling [NLP] die in het Engels is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
 
+Tokeniseren van vrije-teksten is een fundamentele stap in natuurlijke taalverwerking (NLP) door computers en dus ook voor grootschalige taalmodellen [LLMs] *---zoals ChatGPT---*.
+Vrije-teksten *---zoals webpagina's, boeken, kranten en wetenschappelijke artikelen---* vormen ongestructureerde datasets. Vrije-teksten bestaan uit een combinatie van interpunctie *---het gebruik van leestekens (punten, komma's enzovoort)---* en woorden. Woorden vormen op hun beurt tekstniveau's *---zoals zinnen, alienea's, paragraven en hoofdstuken---*.
 
-Tokeniseren is essentieel voor natuurlijke taalverwerking (NLP) en dus de werking van groot schalige taalmodellen *---zoals ChatGPT---*  omdat het computers in staat stelt *---in plaats van binaire-code als reeksen van nulen en enen: 01001000100101---* menselijke taal te begrijpen en te analyseren. Zonder de omzetting naar tokens, is het voor standaard computersystemen *niet* mogelijk om individuele woorden en zinnen in vrije-teksten ---zoals webpagina's--- te identificeren en hun betekenis te kunnen achterhalen.
+Computers kunnen alleen met binaire-code *---zoals reeksen van nullen en enen: 01001000100101---* werken. Daarom is tokaniseren noodzakelijk om vrije-teksten eerst om te zetten in een reeks van tokens. Zonder deze omzetting naar tokens, is het voor standaard computersystemen *niet* mogelijk om interpunctie, woorden en tekstniveau's in vrije-teksten te identificeren.
+
+Als beelden *---ook een vorm van ongestructureerde data---* worden beschouwd als ruimtelijke gegevens, dan moet tekst worden beschouwd als sequentiële gegevens *---de volgorde waarin woorden voorkomen is van belang voor de betekenis ervan---*, waarbij informatie van tekst wordt afgeleid, nadat tokens (woorden of tekens) in volledige volgorde zijn verwerkt.
 
 <!--
 Een token is een stukje tekst dat een betekenis heeft. Een token kan een woord, een leesteken, een cijfer of een combinatie van deze zijn.
@@ -1776,13 +1780,7 @@ Dus grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken. Di
 --> 
 
 
- Tokeniseren is het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. 
-
-Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. Merk op dat tokenisatie gevoelig is voor spaties en hoofdletters.
-
-Hier zijn enkele vuistregels om het aantal tokens te kunnen relateren an de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de complexiteit van de tekst.
-
-<br>
+Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. Merk op dat tokenisatie gevoelig is voor spaties en hoofdletters.
 
 | tekst | aantal tokens |
 | --- | --- |
@@ -1792,7 +1790,10 @@ Hier zijn enkele vuistregels om het aantal tokens te kunnen relateren an de leng
 | 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
 | maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | duizenden tokens <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
 
-In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse van broncode, bijvoorbeeld een programmeertaal zoals Python.
+De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen 
+
+
+In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan interpunctie of woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse van broncode, bijvoorbeeld een programmeertaal zoals Python.
 
 | Token naam | 	voorbeeld |
 | --- | --- |
@@ -1818,10 +1819,15 @@ Microsoft heeft beperkingen opgelegd aan de Bing chatbot om *"merkwaardig"* gedr
 Sindsdien is die limiet verhoogd tot zes chats per sessie met een maximum van 60 chats per dag voor testers die toegang hebben, en het plan is om de dagelijkse limiet te verhogen tot 150 chats per dag. Het probleem is dus niet het aantal *"tokens"* dat je per chat gebruikt, 
 
 het probleem is dat de prompt (inclusief eerdere berichten) niet groter is dan 4k tokens.
+
+NER
+NAMED ENTITY RECOGNITION
+https://azure.microsoft.com/nl-nl/updates/cognitive-services-text-analytics-named-entity-recognition-is-now-available/
 -->
 
 
 <!--
+https://towardsdatascience.com/dynamic-word-tokenization-with-regex-tokenizer-801ae839d1cd
 https://sarahlawrence.libguides.com/chatgpt
 https://docs.cohere.ai/docs/tokens
 https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%20limits%20in%20GPT%2D3%20vs.%20GPT%2D4&text=GPT%2D4%20comes%20in%20two%20variants.,about%2050%20pages%20of%20text.
