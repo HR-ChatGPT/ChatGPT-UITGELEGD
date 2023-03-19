@@ -1756,7 +1756,7 @@ https://sarahlawrence.libguides.com/chatgpt
 
 De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over *lexicale tokenisering* m.b.t. natuurlijke taalverwerking [NLP] die in het Engels gedeeltelijk is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens), [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization) en  het Medium blog [GPT-4 API Pricing Analysis](https://medium.com/sopmac-labs/gpt-4-api-pricing-analysis-a507a4bf9829), geschreven door Ivan Campos (15 maart 2023).
 
-Tokeniseren van vrije-teksten is een fundamentele stap in natuurlijke taalverwerking (NLP) door computers en dus ook voor grootschalige taalmodellen [LLMs] *---zoals ChatGPT---*.
+Tokeniseren van vrije-teksten is een essentiële stap in natuurlijke taalverwerking (NLP) door computers en dus ook voor grootschalige taalmodellen [LLMs] *---zoals ChatGPT---*.
 Vrije-teksten *---zoals webpagina's, boeken, kranten en wetenschappelijke artikelen---* vormen ongestructureerde datasets. Vrije-teksten bestaan uit een combinatie van interpunctie *---het gebruik van leestekens (punten, komma's enzovoort)---* en woorden. Woorden vormen op hun beurt tekstniveau ‘s *---zoals zinnen, alinea’s, paragraven en hoofdstukken---*.
 
 Computers kunnen alleen met binaire-code *---zoals reeksen van nullen en enen: 01001000100101---* werken. Daarom is tokaniseren noodzakelijk om vrije-teksten eerst om te zetten in een reeks van tokens. Zonder deze omzetting naar tokens, is het voor standaard computersystemen *niet* mogelijk om interpunctie, woorden en tekstniveau's in vrije-teksten te identificeren.
