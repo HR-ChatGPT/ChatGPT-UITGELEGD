@@ -1780,7 +1780,7 @@ Dus grootschalige taalmodellen [LLMs] kunnen uitsluiten *"tokens"* verwerken. Di
 --> 
 
 
-Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. Merk op dat tokenisatie gevoelig is voor spaties en hoofdletters.
+Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus---* wordt omgezet in een lijst van tokens. Een token kan een deel van een woord zijn, een heel woord, of interpunctie *---leestekens---* waar een betekenis aan kan worden toegekend. Tokenisatie is ook gevoelig voor het gebruik van spaties, kleineletters en hoofdletters. Veel voorkomende woorden zoals *"water"* hebben hun eigen *"unieke"* tokens. Een langer, minder frequent woord kan worden gecodeerd in 2-3 tokens, bijvoorbeeld *"waterval"* wordt gecodeerd in twee tokens, één voor *"water"* en één voor *"val"*. 
 
 | tekst | aantal tokens |
 | --- | --- |
