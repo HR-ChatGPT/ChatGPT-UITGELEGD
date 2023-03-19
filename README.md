@@ -1796,7 +1796,7 @@ Het verdienmodel van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for 
 
 Het gebruik van ChatGPT is gratis, maar erg onbetrouwbaar. De betaalde versie *---ChatGPT Plus---* is stabieler, en voor een paar tientjes per maand te gebruiken met een maximum van 450K aan *---prompt + completion---* tokens. Het geeft toegang tot de GPT-4 API *---genaamd [gpt-4-0314](https://openai.com/research/gpt-4)---*, en is beperkt tot  100 *"Chats"* per dag. Om precies te zijn: GPT-4 voor prompts is 14x duurder dan de ChatGPT API; terwijl GPT-4 voor *"text-completion"* 29x duurder is dan de ChatGPT API. Kosten om de bovenstaande tekst met ChatGPT-Pro te genereren: 700 woorden x 3 tokens = 2100 aan tokens *---ofwel ≅ 30 Euro---*. Vooralsnog vormt de ChatGPT-Pro API dus een betaalbaar alternatief die toegang geeft tot GPT-4 token-engine. 
 
-Microsoft's zoekmachine Bing --geïntegreerd in de Edge webbrowser-- maakt ook gebruik van de GPT-4 token-machine.
+Microsoft's zoekmachine Bing *---geïntegreerd in de Edge webbrowser---* maakt ook gebruik van de GPT-4 token-machine.
 
 
 <!--
