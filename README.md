@@ -1788,9 +1788,16 @@ Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus--
 | complexe teksten <br> met minder gebruikelijke woorden worden |  3-4 tokens per woord |
 | deze uitleg over tokeniseren |  300 tokens | 
 | 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
-| maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | duizenden tokens <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
+| maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | 1K tokens ≅ 1,024 woorden <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
 
-De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen 
+De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen hoe vaak een woord voorkomt in de tekst, hoe lang het woord is en hoe vaak het woord wordt gebruikt in combinatie met andere woorden is bepalend voor het aantal tokens dat het representeerd.
+
+Het verdien model van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for what you use"*. In de 
+
+
+
+
+
 
 
 In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan interpunctie of woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse van broncode, bijvoorbeeld een programmeertaal zoals Python.
