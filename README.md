@@ -1754,7 +1754,7 @@ https://sarahlawrence.libguides.com/chatgpt
 ### [g] WAT IS TOKENISEREN / WAT IS EEN TOKEN?
 *******
 
-De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over tokenisering m.b.t. natuurlijke taalverwerling [NLP] die in het Engels is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
+De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over *lexicale tokenisering* m.b.t. natuurlijke taalverwerling [NLP] die in het Engels gedeeltelijk is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens) en [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization).
 
 Tokeniseren van vrije-teksten is een fundamentele stap in natuurlijke taalverwerking (NLP) door computers en dus ook voor grootschalige taalmodellen [LLMs] *---zoals ChatGPT---*.
 Vrije-teksten *---zoals webpagina's, boeken, kranten en wetenschappelijke artikelen---* vormen ongestructureerde datasets. Vrije-teksten bestaan uit een combinatie van interpunctie *---het gebruik van leestekens (punten, komma's enzovoort)---* en woorden. Woorden vormen op hun beurt tekstniveau's *---zoals zinnen, alienea's, paragraven en hoofdstuken---*.
@@ -1786,20 +1786,14 @@ Tokeniseren is dus het proces waarbij vrije-tekst *---meestal een tekst corpus--
 | --- | --- |
 | eenvoudige teksten |  1 token per woord |
 | complexe teksten <br> met minder gebruikelijke woorden worden |  3-4 tokens per woord |
-| deze uitleg over tokeniseren |  300 tokens | 
 | 50 pagina's van een standard roman (boek) |  655 tokens per pagina |
-| maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | 1K tokens ≅ 1,024 woorden <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
+| maximum prompt lengte <br>  grootschalige taalmodellen [LLM] <br> 12 paginas <br>  50 paginas<br> | 1K tokens ≅ 750 woorden <br> <br> GTP-4 (8K) 8,192 tokens <br> GTP-4 (32K)  32,786 tokens | 
 
-De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen hoe vaak een woord voorkomt in de tekst, hoe lang het woord is en hoe vaak het woord wordt gebruikt in combinatie met andere woorden is bepalend voor het aantal tokens dat het representeerd.
+De bovenstaande tabel geeft enkele *vuistregels* om het aantal tokens te kunnen relateren aan de lengte van de tekst in woorden. Het aantal tokens per woord hangt af van de *complexiteit* van de tekst. Dat wil zeggen hoe vaak een woord voorkomt in de tekst, hoe lang het woord is en hoe vaak het woord wordt gebruikt in combinatie met andere woorden is bepalend voor het aantal tokens dat het representeerd. 
 
-Het verdien model van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for what you use"*. In de 
+Het verdienmodel van de OpenAI-LP GPT-serie *"token engines"* is *"Only pay for what you use"*. Via de URL: https://openai.com/pricing valt op te maken dat de prijs van de GPT-4 engine afhankelijk is van het maxium prompt lengte *---8K versus 32K context---* en het aantal benodigde tokens *---per prompt---*. Het generereren van deze Nederlandstalige uitleg over tokeniseren via GPT-4 (32K) vergt ongeveer 825 woorden  x 3 tokens = 2550 aan tokens *---ofwel 300 Euro---*. Het gebruik van de laaste generatie aan OpenAI-LP producten is dus een kostbare zaak. Het plaatst zichzelf daarmee buiten het bereik van de meeste mensen, mkb-ondernemingen en onderwijsinstelligen.
 
-
-
-
-
-
-
+<!--
 In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet direct gekoppeld kunnen worden aan interpunctie of woorden, maar wel een speciefieke betekenis hebben die relevant kan zijn voor de analyse van broncode, bijvoorbeeld een programmeertaal zoals Python.
 
 | Token naam | 	voorbeeld |
@@ -1810,7 +1804,7 @@ In de onderstaande tabel zijn enkele voorbeelden van tokens opgenomen die niet d
 | operator	| +, <, =
 | literal	| true, 6.02e23, "music"
 | comment	| /* Retrieves user data */, # must be negative 
-
+-->
 
 <!--
 
