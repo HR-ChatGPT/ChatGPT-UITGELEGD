@@ -1175,6 +1175,30 @@ Tokens • Tokens correspond to sets of strings. • Identifier: strings of lett
 
 ### GPT-4: Unieke eigenschappen
 
+<!--
+https://saidulislam.com/putting-gpt-4-to-the-test-results-and-findings-part-1-c96d122dd608
+
+Complexe problemen oplossen: GPT-4 kan ingewikkelde problemen met meerdere variabelen en beperkingen analyseren en oplossen, zoals het optimaliseren van de leveringsketen van een bedrijf, rekening houdend met verschillende factoren zoals kosten, tijd en toewijzing van middelen.
+
+Contrafeitelijk redeneren: GPT-4 zou in staat kunnen zijn hypothetische scenario's en alternatieve geschiedenissen te begrijpen en er over te redeneren, zodat het inzichten en aanbevelingen kan geven op basis van een reeks mogelijke uitkomsten.
+
+Moreel en ethisch redeneren: GPT-4 zou kunnen deelnemen aan discussies over morele en ethische dilemma's, voor- en nadelen afwegen en de gevolgen van verschillende beslissingen evalueren op een manier die overeenstemt met menselijke waarden.
+
+Het opstellen van wetenschappelijke hypothesen: GPT-4 zou in staat kunnen zijn nieuwe hypotheses te genereren op verschillende wetenschappelijke gebieden door bestaande gegevens te analyseren en hiaten of inconsistenties in de huidige kennis te identificeren, waardoor de weg wordt vrijgemaakt voor verder onderzoek en ontdekkingen.
+
+Geavanceerd begrip van analogieën en metaforen: GPT-4 zou in staat kunnen zijn complexe metaforen en analogieën te begrijpen, waarbij hij put uit een breed scala aan contexten om genuanceerde en nauwkeurige interpretaties te geven.
+
+Planning en strategie op lange termijn: GPT-4 zou uitgebreide langetermijnstrategieën en -plannen kunnen ontwikkelen voor individuen, bedrijven of overheden, rekening houdend met verschillende doelstellingen, beperkingen en potentiële risico's.
+
+Multidisciplinair redeneren: GPT-4 zou kennis uit verschillende domeinen, zoals natuurkunde, economie en psychologie, kunnen integreren om tot uitgebreide inzichten en oplossingen te komen die de onderlinge verbondenheid van deze gebieden benutten.
+
+Complexe verhalen begrijpen en genereren: GPT-4 zou ingewikkelde verhalen kunnen begrijpen en creëren, waarbij meerdere verhaallijnen, thema's en personages op een samenhangende en boeiende manier worden verweven.
+
+Sociale en emotionele intelligentie: GPT-4 zou een beter begrip kunnen hebben van menselijke emoties en sociale dynamiek, waardoor het meer empathische en contextueel geschikte interacties kan aangaan.
+
+Actief leren en aanpassingsvermogen: GPT-4 zou actief kunnen leren van gebruikersinteracties en zijn reacties en kennis in de loop van de tijd kunnen aanpassen, zodat zijn hulp wordt afgestemd op de unieke behoeften en voorkeuren van elke gebruiker.
+-->
+
 OpenAI-LP heeft een half-jaar besteed aan het *"iteratief afstemmen"* van GPT-4 op basis van lessen uit een intern *"contradictoir testprogramma"* en ChatGPT, met als resultaat "de beste resultaten ooit" op het gebied van feitelijkheid, bestuurbaarheid en weigering om buiten de vangrails te treden, aldus [Microsoft](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4). Net als eerdere GPT-modellen is GPT-4 getraind met behulp van openbaar beschikbare gegevens, waaronder van openbare webpagina's, en gegevens waarvoor OpenAI een licentie heeft. Maar heeft niet openbaargegeven welke datasets daadwerkelijk gebruikt zijn.
 
 >*"In een ongedwongen gesprek kan het onderscheid tussen GPT-3.5 en GPT-4 subtiel zijn," <br> schreef OpenAI in een [blogpost waarin GPT-4 werd aangekondigd](https://openai.com/research/gpt-4). <br> <br> "Het verschil komt naar voren wanneer de complexiteit van de taak een voldoende hoge drempel bereikt: <br> GPT-4 is betrouwbaarder, creatiever en in staat om veel genuanceerdere Chain-of-Thought [CoT] instructies te verwerken dan GPT-3.5."*
