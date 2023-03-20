@@ -1161,14 +1161,15 @@ Tokens • Tokens correspond to sets of strings. • Identifier: strings of lett
 -->
 
 
-"*Early adopters"* van GPT-4 *---zo is gebleken volgens [TechCrunch](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)---* zijn onder andere: 
+"*Early adopters"* van GPT-4 *---zo is gebleken volgens [TechCrunch](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)---* en [NBC news](https://www.nbcnews.com/tech/innovation/chatgpt-gpt-4-gpt4-openai-access-microsoft-how-to-rcna75116) zijn onder andere: 
 
 | Early GPT-4 Adopters  | Beschrijving |
 | -------------------------- | --------- |
-| Stripe |  Scannen websites van bedrijven om zo samenvattingen te kunnen geven aan klantenservicemedewerkers.
-| Duolingo | Heeft GPT-4 ingebouwd in een nieuw abonnement voor het leren van talen.
-| Morgan Stanley | Creëert een systeem met GPT-4 dat informatie uit bedrijfsdocumenten haalt en aan financiële analisten levert.
-| Khan Academy | Gebruikt GPT-4 om een soort geautomatiseerde tutor te bouwen.
+| Stripe |  <sub> Scannen websites van bedrijven om zo samenvattingen te kunnen geven aan klantenservicemedewerkers.
+| Duolingo | <sub> Heeft GPT-4 ingebouwd in een nieuw abonnement voor het leren van talen. Volgens [NBC news](https://www.nbcnews.com/tech/innovation/chatgpt-gpt-4-gpt4-openai-access-microsoft-how-to-rcna75116) heeft het bedrijf voor GPT-4 1.000-2.000 woorden gemaakt die de Duolingo bots aansturen. Het bedrijf wilde de prompts op verzoek niet delen.
+| Morgan Stanley | <sub> Creëert een systeem met GPT-4 dat informatie uit bedrijfsdocumenten haalt en aan financiële analisten levert.
+| Be My Eyes | <sub> Creëert een app voor mensen die blind zijn of slechtziend. Het bedrijf verbindt slechtziende mensen met vrijwilligers die via een videogesprek aan de gebruikers van de app kunnen beschrijven wat er om hen heen is - zoals een productlabel in een supermarkt, de routebeschrijving op een luchthaven of de tekst op een wenskaart.
+| Khan Academy | <sub> Gebruikt GPT-4 om een soort geautomatiseerde tutor te bouwen.
 
 <br>
 
