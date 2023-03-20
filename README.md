@@ -1545,7 +1545,7 @@ Terwijl Google zijn AI-onderzoek grotendeels in een laboratorium heeft ondergebr
 
 * IEEE Spectrum (14 maart 2023): [AI Doesn’t Have to Be This Way](https://spectrum.ieee.org/ai-skeptics)
 
-* The Economist (2 februari 2023): [The AI boom: Lessons from history](https://www.economist.com/finance-and-economics/2023/02/02/the-ai-boom-lessons-from-history)
+* The Economist (2 februari 2023): [The AI boom: Lessons from history](https://www.economist.com/finance-and-economics/2023/02/02/the-ai-boom-lessons-from-history) <br> zie ook: https://www.franklintempleton.com.hk/en-hk/articles/the-economist/the-ai-boom-lessons-from-history
 
 <!--
 https://spectrum.ieee.org/ai-skeptics
