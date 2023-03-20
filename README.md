@@ -1197,6 +1197,13 @@ Complexe verhalen begrijpen en genereren: GPT-4 zou ingewikkelde verhalen kunnen
 Sociale en emotionele intelligentie: GPT-4 zou een beter begrip kunnen hebben van menselijke emoties en sociale dynamiek, waardoor het meer empathische en contextueel geschikte interacties kan aangaan.
 
 Actief leren en aanpassingsvermogen: GPT-4 zou actief kunnen leren van gebruikersinteracties en zijn reacties en kennis in de loop van de tijd kunnen aanpassen, zodat zijn hulp wordt afgestemd op de unieke behoeften en voorkeuren van elke gebruiker.
+
+AI Doesn’t Have to Be This Way MIT economist sounds warning against unregulated tech innovation
+https://spectrum.ieee.org/ai-skeptics
+
+PAI’s Responsible Practices for Synthetic Media
+A Framework for Collective Action
+https://syntheticmedia.partnershiponai.org/#landing
 -->
 
 OpenAI-LP heeft een half-jaar besteed aan het *"iteratief afstemmen"* van GPT-4 op basis van lessen uit een intern *"contradictoir testprogramma"* en ChatGPT, met als resultaat "de beste resultaten ooit" op het gebied van feitelijkheid, bestuurbaarheid en weigering om buiten de vangrails te treden, aldus [Microsoft](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4). Net als eerdere GPT-modellen is GPT-4 getraind met behulp van openbaar beschikbare gegevens, waaronder van openbare webpagina's, en gegevens waarvoor OpenAI een licentie heeft. Maar heeft niet openbaargegeven welke datasets daadwerkelijk gebruikt zijn.
