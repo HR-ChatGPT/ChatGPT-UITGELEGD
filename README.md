@@ -208,7 +208,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [8a] [Kan ChatGPT gebruikt worden om bronnen te vermelden?](#v8a)
 * [8b] [Kan ChatGPT gebruikt worden om bronnen samen te vatten?](#v8b)
 * [13] [Kun je spreken tegen ChatGPT?](#v13)
-* [15] [Prompt "patterns" voorbeelden](#v15)
+* [15] [Prompt "pattern engineering" voorbeelden](#v15)
 * [16] [Geraadpleegde Bronnen](#v16)
 
 </td>
