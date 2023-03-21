@@ -191,7 +191,9 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1d] [Maakt ChatGPT *"valsspelen"* makkelijker en is het te detecteren?](#v1d)
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
-* [1g] [+Wat is Lexicale Tokenisering / wat zijn tokens?](#v1g)
+* [1g] [+Wat is Lexicale Tokenisering? / Wat zijn tokens?](#v1g)
+* [1h] [+ Wat is Prompt engineering?](#v1h)
+
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
 -->
