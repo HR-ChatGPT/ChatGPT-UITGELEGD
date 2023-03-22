@@ -11,6 +11,12 @@ TL;DR === Too Long; Didn't Read
 FACS = Frequently Asked Questions & Concerns
 Nederlandstalig ChatGPT FAQ Cheat Sheet
 A beginners guide to ChatGPT | GPT-1 | GPT-2 | GPT-3 | GPT-4
+
+
+AI-gestuurd leren 
+via het schrijven van “PROMPT-RECEPTEN”  
+
+
 -->
 
 | Leer hoe ChatGPT betrouwbaar te gebruiken |
@@ -197,7 +203,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1e] [Kun je ChatGPT opvoeren als co-auteur?](#v1e)
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
 * [1g] [+Wat is Lexicale Tokenisering? / Wat zijn tokens?](#v1g)
-* [1h] [+ Wat is Prompt engineering?](#v1h)
+* [1h] [+ Hoe schrijf je een effectief prompt-recept?](#v1h)
 
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
@@ -1821,7 +1827,7 @@ https://sarahlawrence.libguides.com/chatgpt
 # v1g
 
 *******
-### [g] WAT IS TOKENISEREN / WAT IS EEN TOKEN?
+### [1g] WAT IS TOKENISEREN / WAT IS EEN TOKEN?
 *******
 
 De onderstaande tekst is een Nederlandstalige interpretatie van een uitleg over *lexicale tokenisering* m.b.t. natuurlijke taalverwerking [NLP] die in het Engels gedeeltelijk is na te lezen via de website [CO:HERE](https://docs.cohere.ai/docs/tokens), [Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization) en  het Medium blog [GPT-4 API Pricing Analysis](https://medium.com/sopmac-labs/gpt-4-api-pricing-analysis-a507a4bf9829), geschreven door Ivan Campos (15 maart 2023).
@@ -1880,7 +1886,16 @@ In reactie daarop heeft het [Bing-team](https://blogs.bing.com/search/february-2
 
 > Het aantal *"chat turns"* binnen een enkele chat sessie is het aantal keren dat een eindgebruiker een vraag stelt en Bing antwoordt.
 
+<br>
 
+
+# v1h
+
+*******
+### [1h] HOE SCHRIJF JE EEN EFFECTIEF PROMPT-RECEPT?
+*******
+
+De onderstaande tekst 
 
 
 
