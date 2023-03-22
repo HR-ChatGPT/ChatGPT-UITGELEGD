@@ -154,7 +154,11 @@ De Chinese Gen-AI ontwikkeling wordt  niet zozeer belemmert door het huidige pol
 
 
 <!--
-Was tot enkele jaren geleden (2019) de U.S. en Europa nog in een hevige strijd verwikkeld voor AI-dominantie met China
+https://github.com/jerryjliu/gpt_index
+https://github.com/acheong08/ChatGPT
+https://github.com/stars/acheong08/lists/awesome-chatgpt
+https://github.com/jerryjliu/llama_index
+https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 --> 
 
 # faqs
