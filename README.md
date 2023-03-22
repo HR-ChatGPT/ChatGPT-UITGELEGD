@@ -7,6 +7,7 @@
 
 <!--
 SEO
+TL;DR === Too Long; Didn't Read
 FACS = Frequently Asked Questions & Concerns
 Nederlandstalig ChatGPT FAQ Cheat Sheet
 A beginners guide to ChatGPT | GPT-1 | GPT-2 | GPT-3 | GPT-4
@@ -628,7 +629,7 @@ Few-shot <br> <br> OR <br> <br>  Chain-of-Tought [CoT] <br> <br> OR <br> <br> In
 
 ### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
 
-Chain-of-thought prompts zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van een *"specifieke context"* en dus de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze synthese aan nieuwe *"kennis"* te gebruiken als uitgangspunt om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
+[Chain-of-thought prompts](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html) zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van een *"specifieke context"* en dus de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze synthese aan nieuwe *"kennis"* te gebruiken als uitgangspunt om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
 
 Een chain-of-thoughts kan worden beschouwd als een vorm van  *Logisch Redeneren: het proces van het opbouwen van een argumentatie*. 
 Het mechanisme van een keten-van-gedachten is een vorm van "prompt fine-tunning".
@@ -658,7 +659,7 @@ flowchart TD
 <br> 
 
 #### Hoe effectief is *"keten-van-gedachten"* ---Chain-of-Thoughts [CoT]---?
-Onderstaande voorbeelden zijn ontleend aan [The Decoder nieuwsbrief (27 september 2022)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/), geschreven door  Moritz Larsen &  Doris Weßels  (Universiteit Kiel) getiteld: *"What is CoT Prompting and how can it help?"*. Hiebij is gebruik gemaakt van GPT-3. 
+Onderstaande voorbeelden zijn ontleend aan [The Decoder nieuwsbrief (27 september 2022)](https://the-decoder.com/deeper-insights-for-ai-language-models-chain-of-thought-prompting-as-a-key-factor/), geschreven door  Moritz Larsen &  Doris Weßels  (Universiteit Kiel) getiteld: *"What is CoT Prompting and how can it help?"*. Hiebij is gebruik gemaakt van GPT-3 en een Google Research Blog (11 mei 2022) getiteld: [*"Language Models Perform Reasoning via Chain of Thought"*](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html).
 
 ##### Voorbeeld 1: Effect van CoT prompting op rekentaken
 
@@ -2433,7 +2434,7 @@ https://github.com/platelminto/ChatGPT-conversation
 ### [15] PROMPT *"PATTERN ENGINEERING"* VOORBEELDEN
 *******
 
-Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en "*chain of thought prompting"*. Om een idee te geven hoe "prompt engineering" in zijn werk gaan zijn een 3-tal voorbeelden uitgewerkt.
+Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-context leren* en ["*chain of thought prompting"*](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html). Om een idee te geven hoe "prompt engineering" in zijn werk gaan zijn een 3-tal voorbeelden uitgewerkt.
 
 - *Prompt Patterns* omvatten instructies en context voor een taalmodel om een gewenste taak te bereiken
 - *Prompt engineering* is de praktijk van het bedenken en het optimaliseren van prompts om taalmodellen efficiënt te gebruiken voor uiteenlopende toepassingen
@@ -2465,7 +2466,7 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf
 https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec05.pdf
 https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf
-
+https://www.cnet.com/tech/services-and-software/googles-latest-ai-model-can-be-taught-how-to-solve-problems/
 https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Creatively-malicious-prompt-engineering.pdf
 
 https://research.ibm.com/publications/interactive-and-visual-prompt-engineering-for-ad-hoc-task-adaptation-with-large-language-models
