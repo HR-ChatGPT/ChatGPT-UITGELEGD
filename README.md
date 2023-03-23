@@ -637,6 +637,27 @@ Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* 
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld:"* <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
 Few-shot <br> <br> OR <br> <br>  Chain-of-Tought [CoT] <br> <br> OR <br> <br> In-Context learning | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij de volgende voorbeelden:"* <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
+<!--
+>Bij in-context-leren geven we de LM een prompt die bestaat uit een lijst van input-output-paren die een taak demonstreren. 
+
+Aan het einde van de prompt voegen we een testinput toe en laten we de LM een voorspelling doen door de prompt te conditioneren en de volgende tokens te voorspellen. 
+Om de twee onderstaande prompts correct te beantwoorden, moet het model de trainingsvoorbeelden lezen om de inputverdeling (financieel of algemeen nieuws), outputverdeling (positief/negatief of onderwerp), input-output mapping (sentiment of onderwerpclassificatie) en de opmaak te achterhalen.
+
+
+Given the following 3 statements: 
+
+(1) Circulation revenue has increased by 5% in Finland is Positive 
+
+(2) Panostaja did not disclose the purchase price. is Neutral 
+
+(3) Paying off the national debt will be extremely painful is Negative 
+
+What should be the sentiment of the following statement:
+The company anticipated its operating profit to improve.
+
+-->
+
+
 <br>
 
 ### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
