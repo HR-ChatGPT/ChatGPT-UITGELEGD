@@ -637,6 +637,8 @@ Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* 
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld:"* <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
 Few-shot <br> <br> OR <br> <br>  Chain-of-Tought [CoT] <br> <br> OR <br> <br> In-Context learning | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij de volgende voorbeelden:"* <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
 
+<br>
+
 ### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
 
 [Chain-of-thought prompts](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html) zijn een soort *"Few-shot prompting"* waarbij de prompt bestaat uit een *"keten van gedachten"* die het model moet volgen om de juiste woorden te kiezen. Dit is een belangrijke stap in het proces van het creëren van een *"specifieke context"* en dus de gewenste uitkomst. Uitgangspunt is dat een LLM instaat is om alle aangeleverde informatie *---thoughts---*  samen te voegen en deze synthese aan nieuwe *"kennis"* te gebruiken als uitgangspunt om de juiste woorden te kiezen door deze te vergelijken met de woorden die het LLM al in zich herbergt.
@@ -862,6 +864,7 @@ De volgende stap is om na te gaan of ChatGPT stukken tekst kan beoordelen op bas
 
 * White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
+* The stanford AI Lab Blob. Sang Michael Xie and Sewon Min (August 1, 2022) [differences from traditional supervised learning](https://ai.stanford.edu/blog/understanding-incontext/)
 
 <!--
 https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-language-models-to-find-and-fix-bugs-in-nlp-systems/
