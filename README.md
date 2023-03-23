@@ -3,7 +3,7 @@
 
 <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
-## Context & Doel
+## Context & Doelen
 
 <!--
 SEO
