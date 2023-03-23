@@ -864,8 +864,6 @@ De volgende stap is om na te gaan of ChatGPT stukken tekst kan beoordelen op bas
 
 * White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
-* The stanford AI Lab Blob. Sang Michael Xie and Sewon Min (August 1, 2022) [differences from traditional supervised learning](https://ai.stanford.edu/blog/understanding-incontext/)
-
 <!--
 https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-language-models-to-find-and-fix-bugs-in-nlp-systems/
 
@@ -926,6 +924,8 @@ consistent is met het argument. Hier is een voorbeeld uit de dataset:
 * Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117 
 
 * Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://doi.org/10.48550/arXiv.2206.07682
+
+* Xie, S.M., & Min, S. (August 1, 2022) Differences from traditional supervised learning. [The stanford AI Lab Blog] https://ai.stanford.edu/blog/understanding-incontext/
 
 ****
 
