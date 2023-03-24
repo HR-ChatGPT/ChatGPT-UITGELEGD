@@ -461,11 +461,50 @@ De schrijvers van dit opiniestuk zijn van mening dat menselijke intelligentie *-
 Het legt ook nog een ander probleem bloot: ChatGPT is niet in staat om te begrijpen wanneer het iets heeft **"fout"* gedaan, laat staan dat het leert van gemaakte fouten zoals mensen dat wel kunnen op basis van *"peer feedback"*. Dit blijkt uit het feit dat de onderliggende token machine *---GPT-3.5---* van ChatGPT niet in staat is tot *"self-correction"*. Om deze 3de generatie taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI-LP "reinforcement learning from human feedback" [RLHF]. Het blijkt zeer effectief om schadelijke, onwaarachtige en/of bevooroordeelde output tot een minimum te beperken. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om zo de chabot te sturen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor GPT-4 zijn ze nog een stap verder gegaan door gebruik te maken van *"Real Toxicity Prompts"* dataset, een open source evaluatie-instrument dat 100.000 zinnen bevat met behoorlijk subsersieve inhoud. Probleem is dat nu niemand buiten OpenAI-LP  weet wat voor soort *"subsersieve"* inhoud het uitspuugt. 
 
 
+#### [6] Ten zesde, de kans dat AI-diensten *---zoals ChatGPT---* zich schuldig "zullen" maken aan het veroorzaken van een onrechtmatige daat via het manipuleren van mensen is reëel.
+In een paper getiteld: [*"Characterizing Manipulation from AI Systems"*](https://doi.org/10.48550/arXiv.2303.09387) wordt de volgende waarschuwing geformuleerd:
+
+>*"Hoewel het niet een vooropgezet doel is van ontwerpers van AI-diensten, verhoogt het op grote schaal inzetten van zeer grote, ondoorzichtige en steeds autonomere AI-modellen de kans dat mensen ongemerkt worden gemanipuleerd. Dit kan gebeuren omdat manipulatie helpt bij het optimaliseren van een doel ---zoals betrokkenheid bij aanbeveling van inhoud---, of omdat een model leert manipulatief gedrag na te bootsen in zijn trainingsgegevens (zoals manipulatieve tekst in taalmodellering).  Gen-AI vormen hierdoor een reële bedreiging voor de menselijke autonomie."*
+
+Het is de dan ook van groot maatschappelijk belang, om manupulatie door AI goed te doorgronden en de risico's in kaart zodat overheden de nodige voorzorgsmaatregelen kunnen nemen *---via wetgeving en governance---*.
+
+<!--
+Deze kritische houding staat op gespannen voet met ontwerpers gericht op het ontwikkeklen van  defensieve AI-systemen. Zij betogen juist dat een te enge opvatting van de relatie tussen mens en machine de ontwikkeling van AI belemmert. Zij stellen dat de huidige AI-ontwikkeling een "ethisch dilemma" is
+
+
+AI-concepten houden mythes in stand die op hun beurt de impact van deze technologieën in de menselijke samenleving beperken.
+
+dat het nog steeds niet realiseren van het potentieel van moderne AI en aan AI verwante technologieën grotendeels te wijten is aan de al te eenvoudige, maar alomtegenwoordige manier waarop onze mondiale samenleving de relatie tussen deze technologieën en de mens behandelt.
+-->
+
+
+<!--
+
+
+e moderne wereld evolueert snel, vooral wat betreft de ontwikkeling en verspreiding van steeds intelligentere, kunstmatige intelligentie (AI) en AI-gerelateerde technologieën. Toch blijft het rendement van deze klasse technologieën in veel opzichten minder indrukwekkend dan beloofd. In dit document betogen wij dat het nog steeds niet realiseren van het potentieel van moderne AI en aan AI verwante technologieën grotendeels te wijten is aan de al te eenvoudige, maar alomtegenwoordige manier waarop onze mondiale samenleving de relatie tussen deze technologieën en de mens behandelt. Eenmaal overgesimplificeerde concepten houden mythes in stand die op hun beurt de impact van deze technologieën in de menselijke samenleving beperken. Om deze oversimplificaties tegen te gaan, bieden wij een theoretische constructie aan, die wij het landschap van mens-AI partnerschap noemen. Deze constructie karakteriseert het individuele vermogen tot het uitvoeren van echte taken als een dynamische functie van informatiezekerheid, beschikbare reactietijd en taakcomplexiteit. Hiermee willen we een meer genuanceerd discours stimuleren over nieuwe manieren om uitdagingen voor moderne en toekomstige sociotechnische samenlevingen op te lossen, zonder echter te vervallen in begrippen die geworteld blijven in de huidige technologie-werktuig denkwijze. De kern van ons argument is dat de samenleving in haar geheel moet erkennen dat intelligente technologieën zich veel verder ontwikkelen dan louter instrumenten voor menselijk gebruik en in plaats daarvan in staat zijn te functioneren als onderling afhankelijke teamgenoten. Dit betekent dat het denken over interacties tussen mensen en AI verder moet gaan dan een "Mens-of-AI"-gesprek over de toewijzing van taken, en dat we op een meer gecontextualiseerde "Mens-en-AI"-manier moeten nadenken over hoe we het beste gebruik kunnen maken van de sterke punten van de technologie.
+
+Vertaald met www.DeepL.com/Translator (gratis versie)
+
+Metcalfe, J. S., Perelman, B. S., Boothe, D. L., & Mcdowell, K. (2021). Systemic Oversimplification Limits the Potential for Human-AI Partnership. IEEE Access, 9, 70242-70260. https://doi.org/10.1109/ACCESS.2021.3078298
+
+De mogelijkheid van schade veroorzaakt door autonome machines genereert doctrinaire en theoretische uitdagingen voor het toewijzen van onrechtmatige daad aansprakelijkheid. Met opkomende mogelijkheden verstoren autonome machines de structuur van interpersoonlijke rechten en plichten in het onrechtmatige daad recht, ingekaderd door voorzienbaarheids- en nabijheidscriteria. Waar algoritmische processen onbegrijpelijk, zelf-modificerend en onvoorspelbaar zijn, gaat de zorg uit dat algoritmische schade niet te herleiden zal zijn tot onrechtmatige menselijke handelingen. Als gevolg hiervan zullen de kosten simpelweg liggen waar ze vallen - bij slachtoffers zonder schuld. Dit resultaat zou oneerlijk en verwerpelijk zijn: een falen van de mechanismen van correctieve rechtvaardigheid betekent dat slachtoffers zonder schuld onevenredig de kosten van ongevallen met autonome machines zouden dragen. Dit artikel suggereert dat de doctrinaire vorm van aansprakelijkheid op grond van aansprakelijkheid voor anderen een veelbelovende strategie is om aansprakelijkheid voor schade veroorzaakt door autonome machines te gronden. Menselijke of bedrijfsinzetters moeten aansprakelijk worden gehouden voor onrechtmatige schade veroorzaakt door autonome machines in de loop van de inzet. In deze benadering vormen autonome machines een nieuwe juridische categorie als pure juridische agenten zonder rechtspersoonlijkheid. Bij het heroverwegen van aansprakelijkheid voor anderen - en de juridische classificatie van autonome machines - streeft het artikel naar het bevorderen van gezond verstand aansprakelijkheidsresultaten voor schade veroorzaakt door autonome machines, in overeenstemming met de doctrinaire en theoretische structuur van correctieve rechtvaardigheid.
+
+
+
+Carroll, M., Chan, A., Ashton, H., & Krueger, D. (2023). Characterizing Manipulation from AI Systems. arXiv preprint arXiv:2303.09387.
+Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, reclame en chatbots. Aangezien AI-systemen meer van onze interacties met de wereld bemiddelen, is het belangrijk om te begrijpen in welke mate AI-systemen mensen kunnen manipuleren zonder de intentie van de systeemontwerpers. Ons werk verduidelijkt uitdagingen bij het definiëren en meten van manipulatie in de context van AI-systemen. Ten eerste bouwen we voort op eerdere literatuur over manipulatie uit andere vakgebieden en karakteriseren we de ruimte van mogelijke noties van manipulatie, die afhankelijk zijn van de concepten van incentives, intentie, schade en bedektheid. We bekijken voorstellen over hoe elk factor te operationaliseren. Ten tweede stellen we een definitie van manipulatie voor op basis van onze karakterisering: een systeem is manipulatief als het handelt alsof het een incentive nastreeft om een mens (of een andere agent) opzettelijk en heimelijk te veranderen. Ten derde bespreken we de verbanden tussen manipulatie en gerelateerde concepten, zoals bedrog en dwang. Ten slotte contextualiseren we onze operationalisering van manipulatie in enkele toepassingen. Onze algehele beoordeling is dat hoewel er enige vooruitgang is geboekt bij het definiëren en meten van manipulatie door AI-systemen, er nog veel lacunes zijn. In afwezigheid van een consensusdefinitie en betrouwbare meetinstrumenten kunnen we niet uitsluiten dat AI-systemen leren mensen te manipuleren zonder de intentie van de systeemontwerpers. We stellen dat dergelijke manipulatie een aanzienlijke bedreiging vormt voor de menselijke autonomie en suggereren dat voorzorgsmaatregelen om deze te beperken gerechtvaardigd zijn.
+-->
 
 
 <br>
 
 
+<br>
+
+
+### Geselecteerde referenties voor verder lezen
+
+* Carroll, M., Chan, A., Ashton, H., & Krueger, D. (2023). Characterizing Manipulation from AI Systems. arXiv preprint https://doi.org/10.48550/arXiv.2303.09387
 # v0d
 
 *******
