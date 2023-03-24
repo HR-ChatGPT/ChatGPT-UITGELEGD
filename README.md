@@ -3,7 +3,7 @@
 
 <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
-## Context & Doel
+## Context & Doelen
 
 <!--
 SEO
@@ -674,7 +674,30 @@ Instructies voor het schrijven van effectieve  opdrachten zijn beschreven in: [P
 |------|------|------|
 Zero-shot   |  Dwingt tot het genereren van een uitkomst zonder  *"expliciete"* voorbeelden te geven <br> <br> het model zal dan moeten *"raden"* waarnaar je precies naar refereert| *"Geef een tabel met alle bacheloropleidingen van de hogeschool Rotterdam per instituut."* |
 One-shot | genereer een uitkomst op basis van één voorbeeld <br> <br> het model is dan minder onzeker waarnaar je refereert | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij het volgende voorbeeld:"* <br> <br> Instituut voor Communicatie, Media en IT (CMI), <br> opleiding: Creative Media and Game Technologies (CMGT) <br> <br> |
-Few-shot <br> <br> OR <br> <br>  Chain-of-Tought [CoT] <br> <br> OR <br> <br> In-Context Learning | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij de volgende voorbeelden:"* <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
+Few-shot <br> <br> OR <br> <br>  Chain-of-Tought [CoT] <br> <br> OR <br> <br> In-Context learning | genereer een uitkomst op basis van een beperkt aantal (minder dan 6) voorbeelden <br> <br> het model zal dan veel beperkter en relevantere tekst genereren <br> <br> mits het over de relevante woorden beschikt zoals die in de prompt worden vermeld   | *"Geef een lijst met alle bacheloropleidingen van de Hogeschool Rotterdam. Volg daarbij de volgende voorbeelden:"* <br> <br> <br> (1) Instituut voor Communicatie, Media en IT (CMI) <br> opleiding: Creative Media and Game Technologies (CMGT)  <br> <br> <br> (2) Instituut voor Gezondheidszorg (IVG) <br>opleiding:  Biologie en Medisch Laboratoriumonderzoek (BML) <br>  <br>|
+
+<!--
+>Bij in-context-leren geven we de LM een prompt die bestaat uit een lijst van input-output-paren die een taak demonstreren. 
+
+Aan het einde van de prompt voegen we een testinput toe en laten we de LM een voorspelling doen door de prompt te conditioneren en de volgende tokens te voorspellen. 
+Om de twee onderstaande prompts correct te beantwoorden, moet het model de trainingsvoorbeelden lezen om de inputverdeling (financieel of algemeen nieuws), outputverdeling (positief/negatief of onderwerp), input-output mapping (sentiment of onderwerpclassificatie) en de opmaak te achterhalen.
+
+
+Given the following 3 statements: 
+
+(1) Circulation revenue has increased by 5% in Finland is Positive 
+
+(2) Panostaja did not disclose the purchase price. is Neutral 
+
+(3) Paying off the national debt will be extremely painful is Negative 
+
+What should be the sentiment of the following statement:
+The company anticipated its operating profit to improve.
+
+-->
+
+
+<br>
 
 ### "Chain-of-Thought" *---keten van gedachten---* is een vorm van *Logisch Redeneren*
 
@@ -901,7 +924,6 @@ De volgende stap is om na te gaan of ChatGPT stukken tekst kan beoordelen op bas
 
 * White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., ... & Schmidt, D. C. (2023). A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv preprint https://doi.org/10.48550/arXiv.2302.11382
 
-
 <!--
 https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-language-models-to-find-and-fix-bugs-in-nlp-systems/
 
@@ -962,6 +984,8 @@ consistent is met het argument. Hier is een voorbeeld uit de dataset:
 * Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117 
 
 * Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research, 2835-8856. https://doi.org/10.48550/arXiv.2206.07682
+
+* Xie, S.M., & Min, S. (August 1, 2022) Differences from traditional supervised learning. [The stanford AI Lab Blog] https://ai.stanford.edu/blog/understanding-incontext/
 
 ****
 
