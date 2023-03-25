@@ -2116,28 +2116,23 @@ https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%
 *******
 ### [1i] BETROUWBARE (online) ChatGPT WORKSHOPS/CURSUSSEN VOOR HBO DOCENTEN WAAR KAN IK DIE VINDEN?
 *******
-
 In zijn [AI Magazine Blog (16 januari 2023)](https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html), getiteld" *"Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future"*, schrijft Sebastian Raschka *---a machine learning and AI researcher with a strong passion for education---* het volgende:
 
 >*"... Een van de trends die we hopelijk in de toekomst zullen zien is de terugkeer naar gecureerde bronnen van betrouwbare deskundigen als we op zoek zijn naar feitelijk correcte antwoorden op technische vragen ..."*
-
-Dit probleem speelt ook bij de beschikbaarheid van  online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op het hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk aan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
+Dit probleem speelt ook bij de beschikbaarheid van online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op het hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk aan: vakdidactici, onderwijskundigen, linguïsten,   AI-experts, etc.---.
 
 In dit overzicht zijn enkele online ChatGPT workshops, AI-blogs en white-papers opgenomen die in het Engels zijn, maar een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
-
 Allereerst gaat de behoefte aan *"ChatGPT cursussen"* over de vraag <br>  
+
 >*"Hoe blijf ik bij met de laatste AI ontwikkelingen?"* en *"Hoe kan ik mijn praktische kennis over ChatGPT vergroten?"*  <br> Dit is niet alleen relevant voor hbo docenten, maar ook voor studenten.
 
-Een goed uitgangspunt is de preprint server arXiv.org, waar je zeer uiteenlopende wetenschappelijke papers kunt vinden over de laatste ontwikkelingen op het gebied van AI, waaronder ChatGPT. Dit is een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Dit blijkt ondemeer uit de [bibliografie](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#16-geraadpleegde-bronnen) van deze Github repository.
+Een goed uitgangspunt is de preprint server arXiv.org, waar je zeer uiteenlopende wetenschappelijke papers kunt vinden over de laatste ontwikkelingen op het gebied van AI, waaronder ChatGPT. Dit is een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Dit blijkt ondemeer uit de [bibliografie](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#16-geraadpleegde-bronnen) van de onderhavige Github repository: *"ChatGPT uitgelegd"*. Sebastiaan Reschka heeft een aantal uitgangspunten voor het vinden van betrouwbare bronnen opgenomen in zijn [AI Magazine Blog (23 maart 2023)](https://sebastianraschka.com/blog/2023/keeping-up-with-ai.html), getiteld: *"Keeping Up With AI Research And News"*.
 
 Wat betreft het Nederlandse domein zijn de [SURF-commuinties](https://communities.surf.nl/) + [Kennisnet](https://www.kennisnet.nl/artikel/18731/is-chatgpt-de-volgende-gamechanger-voor-het-onderwijs/)  een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Een voorbeeld hiervan is een overzicht van: [*"ChatGPT - verzameling bronnen"*](https://communities.surf.nl/ai-in-education/artikel/chatgpt-verzameling-bronnen), zoals bijeengebracht door Bertine van Deyzen *---SURF Project Manager AI in Education---*. 
 
-https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/
+Tenslotte, verwijs ik naar het [Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#0d-is-er-een-chatgpt-code-of-conduct-enof-richtlijn-voor-hbo-docenten)  waarin zoveel mogelijk Nederlandse hoger onderwijsinstellingen en kennisinstellingen bijeenzijn gebracht waarvan verwacht mag worden dat zij een eigen ChatGPT beleid en richtlijnen opstellen.
 
-Https://tlc.uva.nl/wp-content/uploads/2023/02/ChatGPT-workshop-voor-docenten-02-02-2023-NL.pdfH
-
-
-
+De volgende trend valt hieruit op te maken. Docenten en studenten uit alle geledingen  van het hoger onderwijs *---Hogescholen en universiteiten ---* voelen de noodzaak om een standpunt in te nemen te aanzien van het gebruik van ChatGPT in het onderwijs en dit online kenbaar te maken. Dit is een goede ontwikkeling, omdat het de discussie over de toepassing van ChatGPT in het onderwijs een stuk transparanter maakt. Er lijkt consensus te zijn dat het inzetten en gebruik van conversationele agenten *---zoals ChatGPT---* kansen biedt om (1) het onderwijs te verrijken en (2) de kwaliteitsstandaard te verhogen. Waar de meningen vooral over verschillen is de wijze waarop studenten gebruik mogen maken van AI-diensten om te kunnen het voldoen aan inleveropdrachten, als het überhaupt al is toegestaan. Een fraai voorbeeld hiervan is de  *” ChatGPT workshop voor docenten”* ontwikkeld door [het Programming Teaching Lab en het Teaching and Learning Centre Science]( https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/) van de UVA. Dit alles valt na te lezen in de [Slides](https://tlc.uva.nl/wp-content/uploads/2023/02/ChatGPT-workshop-voor-docenten-02-02-2023-NL.pdf)
 
 
 
