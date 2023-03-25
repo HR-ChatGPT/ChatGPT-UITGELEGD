@@ -2130,7 +2130,7 @@ Allereerst gaat de behoefte aan *"ChatGPT cursussen"* over de vraag <br>
 
 Een goed uitgangspunt is de preprint server arXiv.org, waar je zeer uiteenlopende wetenschappelijke papers kunt vinden over de laatste ontwikkelingen op het gebied van AI, waaronder ChatGPT. Dit is een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Dit blijkt ondemeer uit de [bibliografie](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#16-geraadpleegde-bronnen) van deze Github repository.
 
-War betreft het Nederlandse domein zijn de [SURF-commuinties](https://communities.surf.nl/) + [Kennisnet](https://www.kennisnet.nl/artikel/18731/is-chatgpt-de-volgende-gamechanger-voor-het-onderwijs/)  een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Een voorbeeld hiervan is een overzicht van: [*"ChatGPT - verzameling bronnen"*](https://communities.surf.nl/ai-in-education/artikel/chatgpt-verzameling-bronnen), zoals bijeengebracht door Betine van Deyzen. 
+Wat betreft het Nederlandse domein zijn de [SURF-commuinties](https://communities.surf.nl/) + [Kennisnet](https://www.kennisnet.nl/artikel/18731/is-chatgpt-de-volgende-gamechanger-voor-het-onderwijs/)  een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Een voorbeeld hiervan is een overzicht van: [*"ChatGPT - verzameling bronnen"*](https://communities.surf.nl/ai-in-education/artikel/chatgpt-verzameling-bronnen), zoals bijeengebracht door Bertine van Deyzen *---SURF Project Manager AI in Education---*. 
 
 https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/
 
