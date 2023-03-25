@@ -574,7 +574,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 
 | (onderwijs)instelling  | omschrijving | URL |
 | ---- | ---- | --- |
-| Radboud <br> Universiteit [RU] | Chat GPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> <br>|
+| Radboud <br> Universiteit [RU] | ChatGPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> https://www.ru.nl/over-ons/nieuws-en-agenda/chatgpt <br> <br>|
 | Universiteit <br> Leiden [UL] | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos |
 | Avans | Opinie: Schrijvende chatbot bedreigt intellectuele onafhankelijkheid | <sub> https://www.avans.nl/over-avans/nieuws-en-pers/nieuwsberichten/detail/2023/02/opinie-schrijvende-chatbot-bedreigt-intellectuele-onafhankelijkheid <br> https://punt.avans.nl/2023/01/chatgpt-in-het-onderwijs-voor-studenten-is-het-een-leerproces/
 | Hogeschool <br> van Amsterdam [HvA] | HvA omarmt ChatGPT met aandacht voor kansen én risico’s| <sub> https://www.hva.nl/appliedai/chat/gpt.html <br> https://www.hva.nl/content/nieuws/nieuwsberichten/2023/01/hoe-moeten-docenten-in-het-hbo-omgaan-met-chatgpt.html|
