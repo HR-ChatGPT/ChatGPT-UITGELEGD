@@ -1597,6 +1597,8 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/) een AI-tech blog van AssemblyAI geschreven door Marco Ramponi.
 
+* Rascka, S. Ahead of AI Blog (16 jan 2023) #6: TrAIn Differently: Articles & trends https://magazine.sebastianraschka.com/p/ahead-of-ai-6-train-differently
+
 * Het meest relevante artikel m.b.t. de menselijke feedback is [*"Training language models to follow instructions with human feedback"*](https://doi.org/10.48550/arXiv.2203.02155), dat in feite een model met de naam InstructGPT beschrijft, door OpenAI aangeduid als een *"sibling model"* van ChatGPT.
 
 * [Anthropic  *---AI-startup van voormalige OpenAI-leden---*](https://en.wikipedia.org/wiki/Anthropic) publiceerde een gedetailleerde studie [*---"Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"---*](https://doi.org/10.48550/arXiv.2204.05862) over de effectiviteit van menselijke feedback  voor het finetunen van taalmodellen om op te treden als behulpzame en onschadelijke assistenten.
@@ -1616,6 +1618,9 @@ Je kunt je afvragen hoe verantwoordelijk het is van OpenAI/Microsoft om een derg
 * [InfoSys Cyber Security (14 maart 2023)](https://www.infosys.com/insights/cyber-security/new-risks.html). *"ChatGPT presents new risks – here are five things you can do to mitigate them."*
 
 * [CyberARK Threat Blog (17 januari 2023)](https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware). *"Chatting Our Way Into Creating a Polymorphic Malware"*
+
+
+
 
 <br>
 
