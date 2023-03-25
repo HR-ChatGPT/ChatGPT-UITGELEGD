@@ -204,7 +204,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
 * [1g] [+Wat is Lexicale Tokenisering? / Wat zijn tokens?](#v1g)
 * [1h] [+ Hoe schrijf je een effectief prompt-recept?](#v1h)
-* [1i] [+ Zijn er Workshops beschikbaar over hoe omte gaan met ChatGPT in het hoger onderwijs?](#v1h)
+* [1i] [+ Betrouwbare (online) ChatGPT workshops voor hbo docenten waar kan ik die vinden?](#v1h)
 
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
@@ -2076,6 +2076,16 @@ https://docs.cohere.ai/docs/tokens
 https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%20limits%20in%20GPT%2D3%20vs.%20GPT%2D4&text=GPT%2D4%20comes%20in%20two%20variants.,about%2050%20pages%20of%20text.
 -->
 
+<br>
+
+
+# v1i
+
+*******
+### [1i] BETROUWBARE (online) ChatGPT WORKSHOPS VOOR HBO DOCENTEN WAAR KAN IK DIE VINDEN?
+*******
+
+De onderstaande tekst 
 
 
 
