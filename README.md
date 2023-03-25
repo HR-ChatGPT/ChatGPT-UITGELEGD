@@ -1344,6 +1344,20 @@ Voor een meer academisch georienteerde beschrijving van GPT-4 verwijs ik naar he
 
 >*"Al deze closed-source modellen zijn in wezen doodlopende wegen in de wetenschap," zegt Sasha Luccioni, een onderzoekswetenschapper gespecialiseerd in klimaat bij HuggingFace, een open-source-AI gemeenschap. <br> "Zij [OpenAI] kunnen blijven voortbouwen op hun onderzoek, maar voor de gemeenschap als geheel is het een doodlopende weg."* <br> *"Er is momenteel een wachtlijst, dus je kunt er nu geen gebruik van maken"*, <br> zegt Evi-Anne van Dis, psycholoog aan de Universiteit van Amsterdam.<br> <br> Van Dis en collega's pleitten eerder dit jaar voor een dringende noodzaak om een reeks *"naleefbare"* richtsnoeren te ontwikkelen die bepalen hoe Gen-AI gebruikt en ontwikkeld zou moeten worden. Zij vrezen dat elke wetgeving rond AI-technologieën het tempo van de ontwikkelingen moeilijk zal kunnen bijhouden. <br> <br> Op 11 april wordt aan de Universiteit van Amsterdam een bijeenkomst georganiseerd om deze zorgen te bespreken met vertegenwoordigers van organisaties als de commissie wetenschap-ethiek van de UNESCO, de Organisatie voor Economische Samenwerking en Ontwikkeling en het World Economic Forum.
 
+
+<br>
+
+### ChatGPT krijgt via plug-ins de mogelijkheid om informatie van het web te halen en te communiceren via API’s
+
+De onderstaan de tekst is een interpretatie van de aankondiging van OpenAI-LP op 23 maart 2023, zoals beschreven door *"The Verge"* in hun AI / TECH blog getiteld [*"OpenAI is massively expanding ChatGPT’s capabilities to let it browse the web and more"*](https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party).
+
+Vooralsnog is ChatGPT beperkt doordat de chatbot alleen informatie kan ontlenen aan het onderliggende taalmodel *---zoals GPT-3.5 of GTP-4---*.  Echter, OpenAI-LP heeft *---op 23 maart 2023---*  aangekondigd dat het een plug-ins zal vrijgeven die het mogelijk maakt om ChatGPT via de gebruikersinterface te laten communiceren met andere websites. 
+Dit is dus functionaliteit vergelijkbaar met Microsoft's zoekmachine Bing *---geïntegreerd in de Edge webbrowser---*. Daarnaast wordt het mogelijk om ChatGPT *--- via plug-ins--* te laten interageren met nader-te-bepalen websites/landingspagina’s. Hiermee wordt een generieke gebruikersinterface voor talloze diensten en sites.
+
+> Via hun [aankondigingspost]( https://openai.com/blog/chatgpt-plugins) vermeldt OpenAI-LP:  *“… dat het bijna is alsof andere diensten de "ogen en oren" van ChatGPT zijn…”*
+Deze experimentele functionaliteit is dus niet beperkt tot het instantaan ophalen van online-informatie. Het kan gekoppeld worden aan API's, waardoor het *"acties kan uitvoeren namens de gebruiker”*. Hiermee overstijgt het Bing in die zin dat ChatGPT de eindgebruiker niet alleen informeert. De Chatbot kan dan handelingen kan verrichten in de *”echte wereld”* zoals het aansturen van Internet-of-Things [IoT] technologie zoals het aanzetten van een thermostaat voor de verwarming van je huis. 
+
+
 ### Geselecteerde referenties voor verder lezen:
 
 * Dong, Z., Tang, T., Li, L., & Zhao, W. X. (2023). A Survey on Long Text Modeling with Transformers. arXiv preprint https://doi.org/10.48550/arXiv.2302.14502
