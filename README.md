@@ -1354,7 +1354,8 @@ De onderstaan de tekst is een interpretatie van de aankondiging van OpenAI-LP op
 Vooralsnog is ChatGPT beperkt doordat de chatbot alleen informatie kan ontlenen aan het onderliggende taalmodel *---zoals GPT-3.5 of GTP-4---*.  Echter, OpenAI-LP heeft *---op 23 maart 2023---*  aangekondigd dat het een plug-ins zal vrijgeven die het mogelijk maakt om ChatGPT via de gebruikersinterface te laten communiceren met andere websites. 
 Dit is dus functionaliteit vergelijkbaar met Microsoft's zoekmachine Bing *---geïntegreerd in de Edge webbrowser---*. Daarnaast wordt het mogelijk om ChatGPT *--- via plug-ins--* te laten interageren met nader-te-bepalen websites/landingspagina’s. Hiermee wordt een generieke gebruikersinterface voor talloze diensten en sites.
 
-> Via hun [aankondigingspost]( https://openai.com/blog/chatgpt-plugins) vermeldt OpenAI-LP:  *“… dat het bijna is alsof andere diensten de "ogen en oren" van ChatGPT zijn…”*
+> Via hun [aankondigingspost]( https://openai.com/blog/chatgpt-plugins) vermeldt OpenAI-LP:  *“… dat het bijna is alsof andere diensten de "ogen en oren" van ChatGPT zijn… <br><br> OpenAI zegt dat het rekening heeft gehouden met de bedreigingen van deze plug-ins en heeft "verschillende voorzorgsmaatregelen genomen", waaronder het beperken van de beschikbaarheid van de plug-ins tot een zeer klein aantal mensen.”*
+
 Deze experimentele functionaliteit is dus niet beperkt tot het instantaan ophalen van online-informatie. Het kan gekoppeld worden aan API's, waardoor het *"acties kan uitvoeren namens de gebruiker”*. Hiermee overstijgt het Bing in die zin dat ChatGPT de eindgebruiker niet alleen informeert. De Chatbot kan dan handelingen kan verrichten in de *”echte wereld”* zoals het aansturen van Internet-of-Things [IoT] technologie zoals het aanzetten van een thermostaat voor de verwarming van je huis. 
 
 
