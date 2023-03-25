@@ -466,13 +466,13 @@ Het legt ook nog een ander probleem bloot: ChatGPT is niet in staat om te begrij
 
 #### [6] Ten zesde, de kans dat AI-diensten *---zoals ChatGPT---* zich schuldig *"zullen"* maken aan het veroorzaken van een onrechtmatige daad via het manipuleren van mensen is reëel.
 
-In een paper getiteld: [*"Characterizing Manipulation from AI Systems"*](https://doi.org/10.48550/arXiv.2303.09387) wordt de volgende waarschuwing geformuleerd:
+In een belangwekkend arXiv preprint paper getiteld: [*"Characterizing Manipulation from AI Systems"*](https://doi.org/10.48550/arXiv.2303.09387) wordt de volgende waarschuwing geformuleerd:
 
 >*"Hoewel het niet een vooropgezet doel is van ontwerpers van AI-diensten, verhoogt het op grote schaal inzetten van zeer grote, ondoorzichtige en steeds autonomere AI-modellen de kans dat mensen ongemerkt worden gemanipuleerd. Dit kan gebeuren omdat manipulatie helpt bij het optimaliseren van een doel ---zoals betrokkenheid bij aanbeveling van inhoud---, of omdat een model leert manipulatief gedrag na te bootsen in zijn trainingsgegevens (zoals manipulatieve tekst in taalmodellering).  Gen-AI vormen hierdoor een reële bedreiging voor de menselijke autonomie."*
 
 Het is de dan ook van groot maatschappelijk belang, om manipulatie door AI goed te doorgronden en de risico's in kaart zodat overheden de nodige voorzorgsmaatregelen kunnen nemen *---via wetgeving en verantwoord bestuur---*.
 
-Deze kritische houding staat op gespannen voet met ontwerpers gericht op het ontwikkelen van defensieve AI-systemen. Amerikaanse wetenschappers *---verbonden aan U.S. DEVCOM Army Research Laboratory---* betogen juist dat een te eenzijdige opvatting van de relatie tussen mens en machine de ontwikkeling van AI belemmert. 
+Deze kritische houding staat op gespannen voet met ontwerpers gericht op het ontwikkelen van defensieve AI-systemen. Amerikaanse wetenschappers [*---verbonden aan U.S. DEVCOM Army Research Laboratory---*](https://doi.org/10.1109/ACCESS.2021.3078298) betogen juist dat een te eenzijdige opvatting van de relatie tussen mens en machine de ontwikkeling van AI belemmert. 
 
 Denk aan breed gedeelde opvattingen zoals:
 * *"AI zal de mens overbodig maken"*
@@ -480,7 +480,7 @@ Denk aan breed gedeelde opvattingen zoals:
 
 >*"... het niet realiseren om het volledige potentieel van AI-technologie te kunnen benutten valt grotendeels toe te schrijven aan te eenvoudig ---monolithische--- opvatting van de relatie tussen mens en machine…”*
 
-Hieruit blijkt dat het opporen van "verborgen" risico's van AI, zoals manipulatie, niet alleen een ethische verantwoordelijkheid is, maar ook een noodzakelijke voorwaarde voor het ontwikkelen van *"defensieve"* AI-systemen.
+Hieruit blijkt dat het opsoren van *"verborgen"* risico's van AI, zoals manipulatie, niet alleen een ethische verantwoordelijkheid is, maar ook een noodzakelijke voorwaarde voor het ontwikkelen van *"defensieve"* AI-systemen.
 
 
 
