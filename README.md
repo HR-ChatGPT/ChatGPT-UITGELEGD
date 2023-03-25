@@ -503,6 +503,21 @@ Carroll, M., Chan, A., Ashton, H., & Krueger, D. (2023). Characterizing Manipula
 Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, reclame en chatbots. Aangezien AI-systemen meer van onze interacties met de wereld bemiddelen, is het belangrijk om te begrijpen in welke mate AI-systemen mensen kunnen manipuleren zonder de intentie van de systeemontwerpers. Ons werk verduidelijkt uitdagingen bij het definiëren en meten van manipulatie in de context van AI-systemen. Ten eerste bouwen we voort op eerdere literatuur over manipulatie uit andere vakgebieden en karakteriseren we de ruimte van mogelijke noties van manipulatie, die afhankelijk zijn van de concepten van incentives, intentie, schade en bedektheid. We bekijken voorstellen over hoe elk factor te operationaliseren. Ten tweede stellen we een definitie van manipulatie voor op basis van onze karakterisering: een systeem is manipulatief als het handelt alsof het een incentive nastreeft om een mens (of een andere agent) opzettelijk en heimelijk te veranderen. Ten derde bespreken we de verbanden tussen manipulatie en gerelateerde concepten, zoals bedrog en dwang. Ten slotte contextualiseren we onze operationalisering van manipulatie in enkele toepassingen. Onze algehele beoordeling is dat hoewel er enige vooruitgang is geboekt bij het definiëren en meten van manipulatie door AI-systemen, er nog veel lacunes zijn. In afwezigheid van een consensusdefinitie en betrouwbare meetinstrumenten kunnen we niet uitsluiten dat AI-systemen leren mensen te manipuleren zonder de intentie van de systeemontwerpers. We stellen dat dergelijke manipulatie een aanzienlijke bedreiging vormt voor de menselijke autonomie en suggereren dat voorzorgsmaatregelen om deze te beperken gerechtvaardigd zijn.
 -->
 
+<br>
+
+
+#### [7] Ten zevende, er is *"nog"* geen theoretische onderbouwing en/of test-methodiek om de gebreken & vooringenomenheid die ChatGPT vertoont te kunnen objectiveren en te testen.
+
+Grote taalmodellen zoals GTP's kunnen worden *"gevraagd"*  *---in het Engels heet dit "prompting"---* om een reeks taken op het gebied van natuurlijke taalverwerking (NLP) uit te voeren, gegeven enkele voorbeelden van de taak als invoer. In review paper getiteld: [*"Training language models to follow instructions with human feedback"*](https://arxiv.org/pdf/2203.02155.pdf) wordt beschreven waarom LLM's regelmatig *"onbedoeld gedrag"*  vertonen, zoals het verzinnen van feiten, het genereren van bevooroordeelde of giftige tekst, of het simpelweg het *niet opvolgen* van prompts. 
+
+Dit komt omdat de *"taalmodelleringsdoelstelling"  ---het voorspellen van de volgende woord/token op een webpagina van het internet---*  verschilt van  *"prompting" ---de instructies van de gebruiker hulpvaardig en veilig opvolgen---*. Het voorkomen van dit onbedoelde gedrag is vooral belangrijk voor taalmodellen die in honderden verschillende toepassingen worden ingezet en gebruikt. De verklaring hiervoor moet gezocht worden in de manier waarop taalmodellen zijn ontworpen en getraind. Het taalmodel van ChatGPT is getraind met content van het world-wide-web en reflecteerd dus de schoonheid, lelijkheid en wreedheid van het internet en sociale-media De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.
+
+Met andere woorden, taalmodellen zijn niet ontworpen om te voldoen aan de behoeften *---lees het juist inschatten van de intentie---* van de gebruiker ervan en dus het voorkomen van foutieve en/of giftige teksten. Ze zijn ontworpen om de meest plausibele woordvolgorde te voorspellen op basis van een tekstuele prompt eventueel in combinatie met beeld.  
+
+Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt het noodzakelijk om de gebreken & vooringenomenheid van ChatGPT systematische te onderzoeken en te categoriseren.  Een Blog getiteld (18 februari 2023): *"The Road to AI We Can Trust: How Not to Test GPT-3"* geschreven door Gary F. Marcus & Ernest Davis *---beiden hoogleraren aan de New York University---*  en een recent paper, getiteld [*"A Categorical Archive of ChatGPT Failures"*](https://doi.org/10.48550/arXiv.2302.03494), geeft een eerste aanzet daartoe.
+
+Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodig om de progressie van taalmodellen objectief te kunnen meten. Hierdoor kunnen de prestaties van GPT-gedreven chatbots accuraat en objectief worden beoordeeld. Maar om een dergelijke test te kunnen opstellen is inzage nodig in de interne werking van de taalmodellen. En dat is nu niet mogelijk omdat de ontwikkelaars van ChatGPT de broncode en de specificatie van de gehanteerde training datasets niet vrijgeven.
+ 
 
 <br>
 
@@ -512,7 +527,12 @@ Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, r
 
 ### Geselecteerde referenties voor verder lezen
 
+* Borji, A. (2023). A categorical archive of chatgpt failures. arXiv preprint https://doi.org/10.48550/arXiv.2302.03494
+
 * Carroll, M., Chan, A., Ashton, H., & Krueger, D. (2023). Characterizing Manipulation from AI Systems. arXiv preprint https://doi.org/10.48550/arXiv.2303.09387
+
+* Hohnson, K. (2020) Wired: The AI database. *"The Efforts to Make Text-Based AI Less Racist and Terrible
+Language models like GPT-3 can write poetry, but they often amplify negative stereotypes. Researchers are trying different approaches to address the problem."*  https://www.wired.com/story/efforts-to-make-text-based-ai-less-racist-and-terrible/
 
 * Metcalfe, J. S., Perelman, B. S., Boothe, D. L., & Mcdowell, K. (2021). Systemic Oversimplification Limits the Potential for Human-AI Partnership. IEEE Access, 9, 70242-70260. https://doi.org/10.1109/ACCESS.2021.3078298
 # v0d
