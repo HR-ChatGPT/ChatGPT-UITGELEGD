@@ -961,6 +961,8 @@ De volgende stap is om na te gaan of ChatGPT stukken tekst kan beoordelen op bas
 
 * Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
+* Rascka, S. AI Magazine Blog (16 jan 2023) Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html 
+
 * Sun, S., Liu, Y., Iter, D., Zhu, C., & Iyyer, M. (2023). How Does In-Context Learning Help Prompt Tuning?. arXiv preprint https://doi.org/10.48550/arXiv.2302.11521
 
 * Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2023). Chain of thought prompting elicits reasoning in large language models. arXiv preprinthttps://doi.org/10.48550/arXiv.2201.11903. Original paper published at NeurIPS 2022 https://openreview.net/forum?id=_VjQlMeSB_J
@@ -2021,8 +2023,10 @@ In reactie daarop heeft het [Bing-team](https://blogs.bing.com/search/february-2
 ### [1h] HOE SCHRIJF JE EEN EFFECTIEF PROMPT-RECEPT?
 *******
 
-De onderstaande tekst 
 
+
+
+* Rascka, S. AI Magazine Blog (16 jan 2023) Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html 
 <!--
 
 https://www.icreatemagazine.nl/workshop/chatgpt-gebruiken/
@@ -2104,6 +2108,16 @@ https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%
 *******
 ### [1i] BETROUWBARE (online) ChatGPT WORKSHOPS VOOR HBO DOCENTEN WAAR KAN IK DIE VINDEN?
 *******
+
+In zijn [AI Magazine Blog (16 januari 2023)](https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html), getiteld" *"Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future"*, schrijft Sebastian Raschka *---a machine learning and AI researcher with a strong passion for education---* het volgende:
+
+>*"... Een van de trends die we hopelijk in de toekomst zullen zien is de terugkeer naar gecureerde bronnen van betrouwbare deskundigen als we op zoek zijn naar feitelijk correcte antwoorden op technische vragen ..."*
+
+Dit probleem speelt ook bij de beschikbaarheid van online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk naan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
+
+
+
+
 
 
 <!--
