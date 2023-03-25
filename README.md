@@ -1369,6 +1369,7 @@ Dit is dus functionaliteit vergelijkbaar met Microsoft's zoekmachine Bing *---ge
 Deze experimentele functionaliteit is dus niet beperkt tot het instantaan ophalen van online-informatie. Het kan gekoppeld worden aan API's, waardoor het *"acties kan uitvoeren namens de gebruiker”*. Hiermee overstijgt het Bing in die zin dat ChatGPT de eindgebruiker niet alleen informeert. De Chatbot kan dan handelingen kan verrichten in de *”echte wereld”* zoals het aansturen van Internet-of-Things [IoT] technologie zoals het aanzetten van een thermostaat voor de verwarming van je huis. 
 
 <br>
+
 ### Hoe reageren de overige Tech-Giants op de komst en verdere ontwikkelingen van de OpenAI-LP GPT-serie?
 
 De sterke toename van de aandacht voor ChatGPT dwingt Tech-giganten *---waaronder Meta en Google---* om sneller te handelen en mogelijk veiligheidszorgen opzij te schuiven, aldus the Washington Post:[*"Big Tech was moving cautiously on AI. Then came ChatGPT"*](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/). Zie ook ["Wat zijn de ethische risico's & schaduwkanten van ChatGTP?"](#v1c)
