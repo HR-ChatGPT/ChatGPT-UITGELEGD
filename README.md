@@ -2113,7 +2113,7 @@ In zijn [AI Magazine Blog (16 januari 2023)](https://sebastianraschka.com/blog/2
 
 >*"... Een van de trends die we hopelijk in de toekomst zullen zien is de terugkeer naar gecureerde bronnen van betrouwbare deskundigen als we op zoek zijn naar feitelijk correcte antwoorden op technische vragen ..."*
 
-Dit probleem speelt ook bij de beschikbaarheid van  online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk naan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
+Dit probleem speelt ook bij de beschikbaarheid van  online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk aan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
 
 In dit overzicht zijn enkele online ChatGPT workshops, AI-blogs en white-papers opgenomen die in het Engels zijn, maar zeer waarschijnlijk een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
 
