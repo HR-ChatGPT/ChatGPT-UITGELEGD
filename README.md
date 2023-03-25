@@ -429,6 +429,7 @@ Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft en Alphabet da
 https://gwern.net/scaling-hypothesis
 https://lastweekin.ai/p/the-ai-scaling-hypothesis
 -->
+<br> 
 
 #### [4] Ten vierde , in een AIM blog door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
