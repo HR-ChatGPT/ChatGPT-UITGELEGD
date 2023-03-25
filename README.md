@@ -204,7 +204,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
 * [1g] [+Wat is Lexicale Tokenisering? / Wat zijn tokens?](#v1g)
 * [1h] [+ Hoe schrijf je een effectief prompt-recept?](#v1h)
-* [1i] [+ Betrouwbare (online) ChatGPT workshops voor hbo docenten waar kan ik die vinden?](#v1h)
+* [1i] [+ Betrouwbare (online) ChatGPT workshops/cursussen voor hbo docenten waar kan ik die vinden?](#v1h)
 
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
@@ -2106,16 +2106,18 @@ https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%
 # v1i
 
 *******
-### [1i] BETROUWBARE (online) ChatGPT WORKSHOPS VOOR HBO DOCENTEN WAAR KAN IK DIE VINDEN?
+### [1i] BETROUWBARE (online) ChatGPT WORKSHOPS/CURSUSSEN VOOR HBO DOCENTEN WAAR KAN IK DIE VINDEN?
 *******
 
 In zijn [AI Magazine Blog (16 januari 2023)](https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html), getiteld" *"Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future"*, schrijft Sebastian Raschka *---a machine learning and AI researcher with a strong passion for education---* het volgende:
 
 >*"... Een van de trends die we hopelijk in de toekomst zullen zien is de terugkeer naar gecureerde bronnen van betrouwbare deskundigen als we op zoek zijn naar feitelijk correcte antwoorden op technische vragen ..."*
 
-Dit probleem speelt ook bij de beschikbaarheid van online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk naan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
+Dit probleem speelt ook bij de beschikbaarheid van  online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk naan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
 
+In dit overzicht zijn enkele online ChatGPT workshops en AI-blogs opgenomen die in het Engels zijn, maar zeer waarschijnlijk een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
 
+Allereerst gaat de behoefte naar "ChatGPT workshops"deze vraag over "hoe blijf ik bij met de laatste AI ontwikkelingen" en "hoe kan ik mijn kennis over ChatGPT vergroten".
 
 
 
