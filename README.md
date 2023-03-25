@@ -204,6 +204,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 * [1f] [+Kun je ChatGPT citeren als bron?](#v1f)
 * [1g] [+Wat is Lexicale Tokenisering? / Wat zijn tokens?](#v1g)
 * [1h] [+ Hoe schrijf je een effectief prompt-recept?](#v1h)
+* [1i] [+ Zijn er Workshops beschikbaar over hoe omte gaan met ChatGPT in het hoger onderwijs?](#v1h)
 
 <!--
 * [1f] [+ChatGPT versus Bing met AI. Hoe verschillen ze?](#v1f)
@@ -586,14 +587,17 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 | Universiteit <br> Groningen [UMCG] | BloG dat de UMCG heeft opgezet om studenten te informeren over ChatGPT | <sub> https://umcgresearch.org/w/chatgpt |
 | Neerlandistiek <br> Online tijdschrift voor de Nederlandse taalkunde, letterkunde en taalbeheersing | ChatGPT: de rapportcijfers | <sub> https://neerlandistiek.nl/2023/01/chatgpt-de-rapportcijfers/ |
 | Vrije <br> Universiteit [VU] | Hoe ga je als docent om met ChatGPT? | <sub> https://vu.nl/nl/medewerker/didactiek/hoe-ga-je-als-docent-om-met-chatgpt |
-| Universiteit <br> van Amsterdam [UvA] | ChatGPT in de Wetenschap | <sub> https://www.uva.nl/content/nieuws/nieuwsberichten/2023/02/chatgpt-in-de-wetenschap-5-aandachtspunten.html
+| Universiteit <br> van Amsterdam [UvA] | ChatGPT in de Wetenschap <br> <br> Workshops voor Docenten | <sub> https://www.uva.nl/content/nieuws/nieuwsberichten/2023/02/chatgpt-in-de-wetenschap-5-aandachtspunten.html <br> https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/
 | Technische Universiteit <br> Eindhoven [TU/e] | Wat betekent Chatbot GPT voor het onderwijs? | <sub> https://www.cursor.tue.nl/achtergrond/2023/januari/week-3/wat-betekent-chatbot-gpt-voor-het-onderwijs/
 | (Technische) Universiteit <br> Twente [UT] | Ontwikkelingen rond ChatGPT | <sub> https://www.utwente.nl/onderwijs/student-services/actueel/nieuws/2023/2/463644/ontwikkelingen-rond-chatgpt <br> https://www.utwente.nl/en/learning-teaching/ <br> https://www.utoday.nl/news/72264/chatrobot-over-ai-in-het-hoger-onderwijs-kan-leiden-tot-plagiaat <br> https://www.utoday.nl/news/72477/ut-onderzoekt-plagiaatregeling-door-komst-chatgpt
 | (Technische) Universiteit <br> Delft [TUDelft] | AI chatbots in projects and assignments | <sub> https://www.tudelft.nl/teaching-support/didactics/assess/guidelines/ai-chatbots-in-projects-and-assignments <br> <br> https://www.tudelft.nl/teaching-support/didactics/assess/guidelines/values-quality-requirements
 | Universiteit <br> Maastricht [UM] | Ik heb dit helemaal zelf geschreven! | <sub> https://www.maastrichtuniversity.nl/nl/nieuws/ik-heb-dit-helemaal-zelf-geschreven
 | Curio | Tekstrobot (ChatGPT) | <sub> https://lerenbij.curio.nl/chatgpt/chatgpt/ <br> https://lerenbij.curio.nl/bijlagen/chatgpt-en-onderwijs/
-| Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs | <sub>https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | 
-| SURF | Onderwijsexperts discussiëren over ChatGPT: “Er is een extra klasgenoot bij gekomen” | <sub> https://communities.surf.nl/ai-in-education/artikel/onderwijsexperts-discussieren-over-chatgpt-er-is-een-extra-klasgenoot-bij <br> https://communities.surf.nl/vraagbaak-online-onderwijs/artikel/hoe-chatgpt-jouw-werk-als-docent-makkelijker-maakt
+| Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs   | <sub>https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/ | 
+| SURF | Onderwijsexperts discussiëren over ChatGPT: “Er is een extra klasgenoot bij gekomen” <br> <br> SURF: Onderwijs moet met de billen bloot door ChatGPT. Eerste taak is kennis vergroten en consequenties in kaart brengen. <br> <br> | <sub> https://communities.surf.nl/ai-in-education/artikel/onderwijsexperts-discussieren-over-chatgpt-er-is-een-extra-klasgenoot-bij <br> https://communities.surf.nl/vraagbaak-online-onderwijs/artikel/hoe-chatgpt-jouw-werk-als-docent-makkelijker-maakt <br> https://www.agconnect.nl/artikel/surf-onderwijs-moet-met-de-billen-bloot-door-chatgpt <br> <br> 
+
+
+
 
 <br>
 
