@@ -2115,7 +2115,7 @@ In zijn [AI Magazine Blog (16 januari 2023)](https://sebastianraschka.com/blog/2
 
 Dit probleem speelt ook bij de beschikbaarheid van  online “*ChatGPT workshops"*. Vooralsnog zijn er geen commerciële, online Nederlandstalige workshops gericht op het hbo, die gecureerd & gevalideerd zijn door deskundigen ---denk aan:  vakdidactici, onderwijskundigen, linguisten,   AI-experts, etc.---.
 
-In dit overzicht zijn enkele online ChatGPT workshops, AI-blogs en white-papers opgenomen die in het Engels zijn, maar zeer waarschijnlijk een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
+In dit overzicht zijn enkele online ChatGPT workshops, AI-blogs en white-papers opgenomen die in het Engels zijn, maar een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
 
 Allereerst gaat de behoefte aan *"ChatGPT cursussen"* over de vraag <br>  
 *"Hoe blijf ik bij met de laatste AI ontwikkelingen"* en *"Hoe kan ik mijn praktische kennis over ChatGPT vergroten."*  <br>  
