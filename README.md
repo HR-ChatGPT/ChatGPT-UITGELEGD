@@ -2024,6 +2024,7 @@ In reactie daarop heeft het [Bing-team](https://blogs.bing.com/search/february-2
 De onderstaande tekst 
 
 <!--
+
 https://www.icreatemagazine.nl/workshop/chatgpt-gebruiken/
 
 Tips voor ChatGPT
@@ -2106,7 +2107,13 @@ https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%
 
 
 <!--
+https://www.icreatemagazine.nl/nieuws/chatgpt-plus/
 
+ChatGPT Plus: hierom is het de 24 dollar per maand (niet) waard
+Door Ward Edema
+22 maart 2023 08:37
+
+ChatGPT Plus is een snellere en betere versie van de slimme chatbot. Maar is het de hoge prijs van 24 dollar per maand waard? Wij zetten alle voordelen op een rij.
 
 
 De onderstaande tekst is deels gebaseerd op de [*"Mashable Online Learning AI blog"* (06 maart 2023)](https://mashable.com/deals/march-6-chatgpt-courses), geschreven door Ingrid Cruz, getiteld: *"Learn to master ChatGPT with these online courses (some of which are on sale): <br>  Artificial intelligence is here to stay. Here are some cost-effective ways to learn how to use it."*
