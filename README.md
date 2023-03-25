@@ -2023,6 +2023,25 @@ In reactie daarop heeft het [Bing-team](https://blogs.bing.com/search/february-2
 
 De onderstaande tekst 
 
+<!--
+https://www.icreatemagazine.nl/workshop/chatgpt-gebruiken/
+
+Tips voor ChatGPT
+Leuk, zo’n chatvenster, maar wat moet je nou eigenlijk invullen om een zinnige reactie uit ChatGPT te halen? Wij zetten een paar tips voor je op een rij.
+
+ChatGPT verstaat Nederlands
+Hoewel alle menu’s van ChatGPT in het Engels zijn, hoef je geen Engelse teksten in te vullen om met de chatbot te praten. Wel kan het voorkomen dat je bij het eerste bericht ‘reageer in het Nederlands’ moet typen – daarna onthoudt de chatbot dit.
+ChatGPT snapt context
+In tegenstelling tot veel ‘slimme’ assistenten, snapt ChatGPT de context van een gesprek. Stel: je vraagt hem om een tekst samen te vatten. Je krijgt een samenvatting, maar je vindt hem tóch nog iets te lang. Dan hoef je vervolgens alleen maar ‘maak hem nog korter’ te typen – ChatGPT snapt dan wat je bedoelt.
+Teksten plakken kan
+Je kunt een vraag stellen, en daarbij een tekst plakken waar ChatGPT mee aan de slag moet. Bijvoorbeeld: ‘schrijf een speelsere versie van de volgende tekst:’ met daaronder een geplakte tekst. ChatGPT kan de opdracht en de tekst van elkaar onderscheiden.
+ChatGPT is een meester in stijlen
+‘Geef antwoord in de stijl van Shakespeare’, ‘schrijf het op als een rap’, ‘maak er een Sinterklaasgedicht van’: ChatGPT kan zijn antwoorden helemaal schrijven in een bepaalde stijl. Maak hier dus vooral gebruik van.
+ChatGPT kan programmeren
+Heb je een stuk code geschreven, bijvoorbeeld voor een app of game, maar weet je even niet hoe je verder moet? ChatGPT kan deze code voor je aanvullen. Echt efficiënt is de code echter over het algemeen niet – maar vaak werkt het uiteindelijk wel!
+Kennis met een limiet
+De zogenaamde dataset van ChatGPT – dus de informatie waarmee de chatbot gevoed is – stamt van 2021. Vraag je dus naar de specificaties van de nieuwste iPhone, of naar recente gebeurtenissen, dan kan hij hier niet op antwoorden.
+-->
 
 
 <!--
@@ -2085,7 +2104,13 @@ https://neoteric.eu/blog/gpt-4-vs-gpt-3-openai-models-comparison/#:~:text=Token%
 ### [1i] BETROUWBARE (online) ChatGPT WORKSHOPS VOOR HBO DOCENTEN WAAR KAN IK DIE VINDEN?
 *******
 
-De onderstaande tekst 
+
+<!--
+
+
+
+De onderstaande tekst is deels gebaseerd op de [*"Mashable Online Learning AI blog"* (06 maart 2023)](https://mashable.com/deals/march-6-chatgpt-courses), geschreven door Ingrid Cruz, getiteld: *"Learn to master ChatGPT with these online courses (some of which are on sale): <br>  Artificial intelligence is here to stay. Here are some cost-effective ways to learn how to use it."*
+-->
 
 
 
