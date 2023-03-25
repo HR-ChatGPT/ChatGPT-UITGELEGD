@@ -522,6 +522,9 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 <br>
 
 
+#### [8] Ten achtste, Door de extreme opschaling van taalmodelen zijn *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
+
+
 <br>
 
 
@@ -531,10 +534,16 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 
 * Carroll, M., Chan, A., Ashton, H., & Krueger, D. (2023). Characterizing Manipulation from AI Systems. arXiv preprint https://doi.org/10.48550/arXiv.2303.09387
 
+* Goyal, A., & Bengio, Y. (2022). Inductive biases for deep learning of higher-level cognition. Proceedings of the Royal Society A, 478(2266), 20210068. http://doi.org/10.1098/rspa.2021.0068
+
 * Hohnson, K. (2020) Wired: The AI database. *"The Efforts to Make Text-Based AI Less Racist and Terrible
 Language models like GPT-3 can write poetry, but they often amplify negative stereotypes. Researchers are trying different approaches to address the problem."*  https://www.wired.com/story/efforts-to-make-text-based-ai-less-racist-and-terrible/
 
+* Kosinski, M. (2023). Theory of mind may have spontaneously emerged in large language models. arXiv preprint https://doi.org/10.48550/arxiv.2302.02083
+
 * Metcalfe, J. S., Perelman, B. S., Boothe, D. L., & Mcdowell, K. (2021). Systemic Oversimplification Limits the Potential for Human-AI Partnership. IEEE Access, 9, 70242-70260. https://doi.org/10.1109/ACCESS.2021.3078298
+
+
 # v0d
 
 *******
