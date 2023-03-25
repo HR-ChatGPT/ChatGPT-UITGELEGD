@@ -522,7 +522,7 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 <br>
 
 
-#### [8] Ten achtste, Door de extreme opschaling van taalmodelen zijn *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
+#### [8] Ten achtste, door de extreme opschaling van taalmodelen zijn *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
 
 
 <br>
