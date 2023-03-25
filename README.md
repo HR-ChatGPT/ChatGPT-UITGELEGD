@@ -460,22 +460,29 @@ De schrijvers van dit opiniestuk zijn van mening dat menselijke intelligentie *-
 
 Het legt ook nog een ander probleem bloot: ChatGPT is niet in staat om te begrijpen wanneer het iets heeft **"fout"* gedaan, laat staan dat het leert van gemaakte fouten zoals mensen dat wel kunnen op basis van *"peer feedback"*. Dit blijkt uit het feit dat de onderliggende token machine *---GPT-3.5---* van ChatGPT niet in staat is tot *"self-correction"*. Om deze 3de generatie taalmodellen veiliger en behulpzamer te maken, gebruikte OpenAI-LP "reinforcement learning from human feedback" [RLHF]. Het blijkt zeer effectief om schadelijke, onwaarachtige en/of bevooroordeelde output tot een minimum te beperken. Deze techniek gebruikt menselijke voorkeuren als positieve feedback om zo de chabot te sturen voor het genereren van resultaten alsof ze door een mens zouden zijn verwoord. Voor GPT-4 zijn ze nog een stap verder gegaan door gebruik te maken van *"Real Toxicity Prompts"* dataset, een open source evaluatie-instrument dat 100.000 zinnen bevat met behoorlijk subsersieve inhoud. Probleem is dat nu niemand buiten OpenAI-LP  weet wat voor soort *"subsersieve"* inhoud het uitspuugt. 
 
+<br>
 
-#### [6] Ten zesde, de kans dat AI-diensten *---zoals ChatGPT---* zich schuldig "zullen" maken aan het veroorzaken van een onrechtmatige daat via het manipuleren van mensen is reëel.
+#### [6] Ten zesde, de kans dat AI-diensten *---zoals ChatGPT---* zich schuldig *"zullen"* maken aan het veroorzaken van een onrechtmatige daad via het manipuleren van mensen is reëel.
+
 In een paper getiteld: [*"Characterizing Manipulation from AI Systems"*](https://doi.org/10.48550/arXiv.2303.09387) wordt de volgende waarschuwing geformuleerd:
 
 >*"Hoewel het niet een vooropgezet doel is van ontwerpers van AI-diensten, verhoogt het op grote schaal inzetten van zeer grote, ondoorzichtige en steeds autonomere AI-modellen de kans dat mensen ongemerkt worden gemanipuleerd. Dit kan gebeuren omdat manipulatie helpt bij het optimaliseren van een doel ---zoals betrokkenheid bij aanbeveling van inhoud---, of omdat een model leert manipulatief gedrag na te bootsen in zijn trainingsgegevens (zoals manipulatieve tekst in taalmodellering).  Gen-AI vormen hierdoor een reële bedreiging voor de menselijke autonomie."*
 
-Het is de dan ook van groot maatschappelijk belang, om manupulatie door AI goed te doorgronden en de risico's in kaart zodat overheden de nodige voorzorgsmaatregelen kunnen nemen *---via wetgeving en governance---*.
+Het is de dan ook van groot maatschappelijk belang, om manipulatie door AI goed te doorgronden en de risico's in kaart zodat overheden de nodige voorzorgsmaatregelen kunnen nemen *---via wetgeving en verantwoord bestuur---*.
 
-<!--
-Deze kritische houding staat op gespannen voet met ontwerpers gericht op het ontwikkeklen van  defensieve AI-systemen. Zij betogen juist dat een te enge opvatting van de relatie tussen mens en machine de ontwikkeling van AI belemmert. Zij stellen dat de huidige AI-ontwikkeling een "ethisch dilemma" is
+Deze kritische houding staat op gespannen voet met ontwerpers gericht op het ontwikkelen van defensieve AI-systemen. Amerikaanse wetenschappers *---verbonden aan U.S. DEVCOM Army Research Laboratory---* betogen juist dat een te eenzijdige opvatting van de relatie tussen mens en machine de ontwikkeling van AI belemmert. 
+
+Denk aan breed gedeelde opvattingen zoals:
+* *"AI zal de mens overbodig maken"*
+* *"Menselijke intelligentie is uniek en onvervangbaar door AI"*
+
+>*"... het niet realiseren om het volledige potentieel van AI-technologie te kunnen benutten valt grotendeels toe te schrijven aan te eenvoudig ---monolithische--- opvatting van de relatie tussen mens en machine…”*
+
+Hieruit blijkt dat het opporen van "verborgen" risico's van AI, zoals manipulatie, niet alleen een ethische verantwoordelijkheid is, maar ook een noodzakelijke voorwaarde voor het ontwikkelen van *"defensieve"* AI-systemen.
 
 
-AI-concepten houden mythes in stand die op hun beurt de impact van deze technologieën in de menselijke samenleving beperken.
 
-dat het nog steeds niet realiseren van het potentieel van moderne AI en aan AI verwante technologieën grotendeels te wijten is aan de al te eenvoudige, maar alomtegenwoordige manier waarop onze mondiale samenleving de relatie tussen deze technologieën en de mens behandelt.
--->
+
 
 
 <!--
@@ -505,6 +512,8 @@ Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, r
 ### Geselecteerde referenties voor verder lezen
 
 * Carroll, M., Chan, A., Ashton, H., & Krueger, D. (2023). Characterizing Manipulation from AI Systems. arXiv preprint https://doi.org/10.48550/arXiv.2303.09387
+
+* Metcalfe, J. S., Perelman, B. S., Boothe, D. L., & Mcdowell, K. (2021). Systemic Oversimplification Limits the Potential for Human-AI Partnership. IEEE Access, 9, 70242-70260. https://doi.org/10.1109/ACCESS.2021.3078298
 # v0d
 
 *******
