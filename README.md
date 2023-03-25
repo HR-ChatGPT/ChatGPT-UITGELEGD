@@ -507,7 +507,7 @@ Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, r
 <br>
 
 
-#### [7] Ten zevende, er is *"nog"* geen theoretische onderbouwing en/of test-methodiek om de gebreken & vooringenomenheid die ChatGPT vertoont te kunnen objectiveren en te testen.
+#### [7] Ten zevende, Faalveiligheid: Er is *"nog"* geen theoretische onderbouwing en/of test-methodiek om de gebreken & vooringenomenheid die ChatGPT vertoont te kunnen objectiveren en te testen.
 
 Grote taalmodellen zoals GTP's kunnen worden *"gevraagd"*  *---in het Engels heet dit "prompting"---* om een reeks taken op het gebied van natuurlijke taalverwerking (NLP) uit te voeren, gegeven enkele voorbeelden van de taak als invoer. In review paper getiteld: [*"Training language models to follow instructions with human feedback"*](https://arxiv.org/pdf/2203.02155.pdf) wordt beschreven waarom LLM's regelmatig *"onbedoeld gedrag"*  vertonen, zoals het verzinnen van feiten, het genereren van bevooroordeelde of giftige tekst, of het simpelweg het *niet opvolgen* van prompts. 
 
