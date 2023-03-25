@@ -575,7 +575,7 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 | (onderwijs)instelling  | omschrijving | URL |
 | ---- | ---- | --- |
 | Radboud <br> Universiteit [RU] | ChatGPT: what does this mean for you as a student? | <sub> https://www.ru.nl/en/students/news/chat-gpt-what-does-this-mean-for-you-as-a-student  <br> https://www.voxweb.nl/nieuws/wat-moet-de-radboud-universiteit-met-tekstrobot-chatgpt <br> https://www.ru.nl/over-ons/nieuws-en-agenda/chatgpt <br> <br>|
-| Universiteit <br> Leiden [UL] | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos |
+| Universiteit <br> Leiden [UL] | Gebruik jij ChatGPT voor schrijfopdrachten? Let op de risico's ! | <sub> https://www.student.universiteitleiden.nl/mededelingen/2023/02/gebruik-jij-chatgpt-voor-schrijfopdrachten-let-op-de-risicos <br> https://www.leidenlearninginnovation.org/stories/what-chatgpt-is-teaching-us-about-the-future-of-ai-in-education/ <br> <br>   |
 | Avans | Opinie: Schrijvende chatbot bedreigt intellectuele onafhankelijkheid | <sub> https://www.avans.nl/over-avans/nieuws-en-pers/nieuwsberichten/detail/2023/02/opinie-schrijvende-chatbot-bedreigt-intellectuele-onafhankelijkheid <br> https://punt.avans.nl/2023/01/chatgpt-in-het-onderwijs-voor-studenten-is-het-een-leerproces/  <br> <br> |
 | Hogeschool <br> van Amsterdam [HvA] | HvA omarmt ChatGPT met aandacht voor kansen én risico’s| <sub> https://www.hva.nl/appliedai/chat/gpt.html <br> https://www.hva.nl/content/nieuws/nieuwsberichten/2023/01/hoe-moeten-docenten-in-het-hbo-omgaan-met-chatgpt.html  <br> <br> |
 | Hogeschool <br> Arnhem & Nijmegen  [HAN] | Handreiking ChatGPT & Toetsing | <sub> https://www.han.nl/artikelen/2023/01/het-onderwijs-en-chatgpt/ <br> https://www.han.nl/onderwijsondersteuning/leren-werken-met-ict/artificial-intelligence/HAN-Handreiking-ChatGPT-en-toetsing.pdf  <br> <br> |
@@ -593,8 +593,8 @@ Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
 | (Technische) Universiteit <br> Delft [TUDelft] | AI chatbots in projects and assignments | <sub> https://www.tudelft.nl/teaching-support/didactics/assess/guidelines/ai-chatbots-in-projects-and-assignments <br>  https://www.tudelft.nl/teaching-support/didactics/assess/guidelines/values-quality-requirements <br> https://www.tudelft.nl/evenementen/2023/teaching-academy/workshop-chatgpt-and-education-practical-opportunities-and-challenges-for-teaching-staff-29-march <br> <br>|
 | Universiteit <br> Maastricht [UM] | Ik heb dit helemaal zelf geschreven! | <sub> https://www.maastrichtuniversity.nl/nl/nieuws/ik-heb-dit-helemaal-zelf-geschreven  <br> <br>|
 | Curio | Tekstrobot (ChatGPT) | <sub> https://lerenbij.curio.nl/chatgpt/chatgpt/ <br> https://lerenbij.curio.nl/bijlagen/chatgpt-en-onderwijs/  <br> <br> |
-| Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs   | <sub>https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/  <br> <br> | 
-| SURF | <br> Onderwijsexperts discussiëren over ChatGPT: “Er is een extra klasgenoot bij gekomen” <br> <br> SURF: Onderwijs moet met de billen bloot door ChatGPT. Eerste taak is kennis vergroten en consequenties in kaart brengen. <br> <br> | <sub> https://communities.surf.nl/ai-in-education/artikel/onderwijsexperts-discussieren-over-chatgpt-er-is-een-extra-klasgenoot-bij <br> https://communities.surf.nl/vraagbaak-online-onderwijs/artikel/hoe-chatgpt-jouw-werk-als-docent-makkelijker-maakt <br> https://www.agconnect.nl/artikel/surf-onderwijs-moet-met-de-billen-bloot-door-chatgpt <br> <br> 
+| Kennisnet | FAQ ChatGPT: veelgestelde vragen over ChatGPT in het onderwijs <br> <br> Is ChatGPT de volgende gamechanger voor het onderwijs?  | <sub>https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-onderwijs/   <br> <br> https://www.kennisnet.nl/artikel/18731/is-chatgpt-de-volgende-gamechanger-voor-het-onderwijs/ <br> <br> | 
+| SURF | <br> Onderwijsexperts discussiëren over ChatGPT: “Er is een extra klasgenoot bij gekomen” <br> <br> SURF: Onderwijs moet met de billen bloot door ChatGPT. Eerste taak is kennis vergroten en consequenties in kaart brengen. <br> <br> ChatGPT - verzameling bronnen <br> <br> | <sub> https://communities.surf.nl/ai-in-education/artikel/onderwijsexperts-discussieren-over-chatgpt-er-is-een-extra-klasgenoot-bij <br> https://communities.surf.nl/vraagbaak-online-onderwijs/artikel/hoe-chatgpt-jouw-werk-als-docent-makkelijker-maakt <br> https://www.agconnect.nl/artikel/surf-onderwijs-moet-met-de-billen-bloot-door-chatgpt <br>  https://communities.surf.nl/ai-in-education/artikel/chatgpt-verzameling-bronnen<br> <br> 
 
 
 
@@ -2124,10 +2124,13 @@ Dit probleem speelt ook bij de beschikbaarheid van  online “*ChatGPT workshops
 In dit overzicht zijn enkele online ChatGPT workshops, AI-blogs en white-papers opgenomen die in het Engels zijn, maar een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
 
 Allereerst gaat de behoefte aan *"ChatGPT cursussen"* over de vraag <br>  
-*"Hoe blijf ik bij met de laatste AI ontwikkelingen"* en *"Hoe kan ik mijn praktische kennis over ChatGPT vergroten."*  <br>  
-Dit is niet alleen relevant voor hbo docenten, maar ook voor studenten.
+>*"Hoe blijf ik bij met de laatste AI ontwikkelingen?"* en *"Hoe kan ik mijn praktische kennis over ChatGPT vergroten?"*  <br> Dit is niet alleen relevant voor hbo docenten, maar ook voor studenten.
 
+Een goed uitgangspunt is de preprint server arXiv.org, waar je zeer uiteenlopende wetenschappelijke papers kunt vinden over de laatste ontwikkelingen op het gebied van AI, waaronder ChatGPT. Dit is een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Dit blijkt ondemeer uit de de [bibliografie](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#16-geraadpleegde-bronnen) van deze Github repository.
 
+https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/
+
+Https://tlc.uva.nl/wp-content/uploads/2023/02/ChatGPT-workshop-voor-docenten-02-02-2023-NL.pdfH
 
 
 
