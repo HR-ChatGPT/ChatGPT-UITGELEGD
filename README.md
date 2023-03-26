@@ -448,7 +448,7 @@ Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126
 
 
 Een bijkomend probleem is *"Data drift"*, ook wel bekend als  *"Concept drift"*. 
-De fundamentele veronderstelling bij de ontwikkeling van elk model voor machinaal leren is dat de gegevens die worden gebruikt om het model te trainen, congruent zijn aan  input  datasets die het model in de toekomst zal zien.
+De fundamentele veronderstelling bij de ontwikkeling van elk machinaal lerend [ML] neuraal netwerk [NN] model is dat de gegevens die worden gebruikt om het model te trainen, congruent zijn aan  input  datasets die het model in de toekomst zal zien.
 Data drift in relatie met LLMs vormt een zogenaamd *"Ill-posed"* probleem, omdat deze vorm van AI geen gebruik *"kunnen"* maken van een "ground truth" om hun voorspellingen te verifiëren. De aanname is dat de toekomst gelijk blijft aan het verleden. Het is nagenoeg onmogelijk om te anticiperen op hoe mensen prompts zullen schrijven om een bepaalde vraag te zo goed mogelijk te laten beantwoorden door een chatbot.
 
 <!--
