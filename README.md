@@ -188,7 +188,7 @@ https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 <!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
 -->
-* [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten??](#v0d)
+* [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten?](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
 * [0f] [+Voldoen Gen-AI *---zoals ChatGPT---* aan Europese AI-Regelgeving?](#v0f)
 <!--
@@ -2187,7 +2187,7 @@ Een goed uitgangspunt is de preprint server arXiv.org, waar je zeer uiteenlopend
 
 Wat betreft het Nederlandse domein zijn de [SURF-commuinties](https://communities.surf.nl/) + [Kennisnet](https://www.kennisnet.nl/artikel/18731/is-chatgpt-de-volgende-gamechanger-voor-het-onderwijs/)  een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Een voorbeeld hiervan is een overzicht van: [*"ChatGPT - verzameling bronnen"*](https://communities.surf.nl/ai-in-education/artikel/chatgpt-verzameling-bronnen), zoals bijeengebracht door Bertine van Deyzen *---SURF Project Manager AI in Education---*. 
 
-Tenslotte, verwijs ik naar het [Overzicht beleid & richtlijnen ten aanzien van het inzetten van Gen-AI in het hoger onderwijs](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#0d-is-er-een-chatgpt-code-of-conduct-enof-richtlijn-voor-hbo-docenten)  waarin zoveel mogelijk Nederlandse hoger onderwijsinstellingen en kennisinstellingen bijeenzijn gebracht waarvan verwacht mag worden dat zij een eigen ChatGPT beleid en richtlijnen opstellen.
+Tenslotte, verwijs ik naar de FAQ [Is er een ChatGPT "code-of-conduct" en/of richtlijn voor hbo docenten?](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#0d-is-er-een-chatgpt-code-of-conduct-enof-richtlijn-voor-hbo-docenten)  waarin zoveel mogelijk Nederlandse hoger onderwijsinstellingen en kennisinstellingen zijn verzameld waarvan verwacht mag worden dat zij een eigen ChatGPT beleid en richtlijnen opstellen.
 
 De volgende trend valt hieruit op te maken. Docenten en studenten uit alle geledingen  van het hoger onderwijs *---Hogescholen en universiteiten ---* voelen de noodzaak om een standpunt in te nemen te aanzien van het gebruik van ChatGPT in het onderwijs en dit online kenbaar te maken. Dit is een goede ontwikkeling, omdat het de discussie over de toepassing van ChatGPT in het onderwijs een stuk transparanter maakt. Er lijkt consensus te zijn dat het inzetten en gebruik van conversationele agenten *---zoals ChatGPT---* kansen biedt om (1) het onderwijs te verrijken en (2) de kwaliteitsstandaard te verhogen. Waar de meningen vooral over verschillen is de wijze waarop studenten gebruik mogen maken van AI-diensten om te kunnen het voldoen aan inleveropdrachten, als het überhaupt al is toegestaan. Een fraai voorbeeld hiervan is de  *” ChatGPT workshop voor docenten”* ontwikkeld door [het Programming Teaching Lab en het Teaching and Learning Centre Science]( https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/) van de UVA. Dit alles valt na te lezen in de [Slides](https://tlc.uva.nl/wp-content/uploads/2023/02/ChatGPT-workshop-voor-docenten-02-02-2023-NL.pdf)
 
