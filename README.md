@@ -588,7 +588,7 @@ The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 <br>
 
-### [9] OpenAI-LP's commerciële belangen bemoeilijkt reproduceerbaar onderzoek naar taalmodellen
+#### [10] OpenAI-LP's commerciële belangen bemoeilijkt reproduceerbaar onderzoek naar taalmodellen
 
 
 https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible
