@@ -561,17 +561,21 @@ Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben g
 
 #### [9] Democarisering van AI: *"You're damned if you do and damned if you don't"*.
 
-[Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* taalmodel zonder user-interface en veel kleiner van omvang *---varierend van 9 tot 69 miljard parameters---* dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*. 
+[LLaMA](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* taalmodel, zonder user-interface *---varierend van 7, 13,33 tot 69 milijard aan trainbare parameters---* dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*. LLaMa neemt maximaal 31GB in beslag op de hardeschijf van een PC en heeft 40GB aan VRAM geheugen nodig. Voor gedetaileerde technische specificaties zie https://aituts.com/llama/.
 
 >*"Het is ontworpen om te worden getest door onderzoekers en ontwikkelaars om zo de democratisering van AI te bevorderen"*, aldus Meta: [Introducing LLaMA: A foundational, 65-billion-parameter large language model (26 februari 2023)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/). 
 
+Meta heeft LLaMA niet vrijgegeven als een publieke chatbot, maar als een open-source pakket in de vorm van een [Github repository: LLaMA](https://github.com/facebookresearch/llama) waar iedereen in de AI-gemeenschap toegang toe kan vragen. Meta's argumentatie luidt als volgt:
 
-Meta heeft LLaMA niet vrijgegeven als een publieke chatbot, maar als een open-source pakket in de vorm van een [Github repository: LLaMA](https://github.com/facebookresearch/llama) waar iedereen in de AI-gemeenschap toegang toe kan vragen.  Meta's argumentatie luidt als volgt:
+>*"...volledige onderzoekstoegang tot LLMs is beperkt vanwege de enorme investeringen in geld, middelen en mensen die nodig zijn om zulke LLMs te kunnen trainen in een realtief korte tijd... <br> <br> ...vrije toegang is (echter) nodig om te kunnen begrijpen hoe LLMs werken ...   <br> <br> ...om te kunnen bijdragen aan de ontwikkeling van nieuwe technieken en methoden om de robuustheid en veiligheid ervan te verhogen en bekende problemen, zoals vertekening, toxiciteit en het potentieel voor het genereren van verkeerde informatie, te beperken... <br> <br> "... Om de integriteit te bewaren en misbruik te voorkomen, geven we ons model vrij onder een niet-commerciële licentie die gericht is op gebruik in onderzoek" ..<br><br>..."Toegang tot het model zal per geval worden verleend aan academische onderzoekers; degenen die verbonden zijn aan organisaties in de overheid, het maatschappelijk middenveld en de academische wereld; en industriële onderzoekslaboratoria over de hele wereld..."*
 
->*"...volledige onderzoekstoegang tot LLMs is beperkt vanwege de enorme investeringen in geld, middelen en mensen die nodig zijn om zulke LLMs te kunnen trainen in een realtief korte tijd... <br> <br> ...vrije toegang is (echter) nodig om te kunnen begrijpen hoe LLMs werken ...   <br> <br> ...om te kunnen bijdragen aan de ontwikkeling van nieuwe technieken en methoden om de robuustheid en veiligheid ervan te verhogen en bekende problemen, zoals vertekening, toxiciteit en het potentieel voor het genereren van verkeerde informatie, te beperken..."*
+Echter, amper 7 dagen na het vrijgeven van LLaMA, werd het model online gelekt. Op 3 maart 2023, werd de broncode gedeeld via een 4chan torrent. Sindsdien heeft het zich verspreid als een wildvuur over het internet.
 
 
+<!--
+ waardoor een debat op gang kwam over de juiste manier om geavanceerd onderzoek te delen in een tijd van snelle technologische veranderingen.
 
+>*"Het is een beetje een vreemde situatie", zegt [Dr. Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), een van de meest prominente AI-onderzoekers van vandaag. "Het is een beetje als een wetenschapper die een nieuw medicijn ontwikkelt en het vervolgens gratis aan de hele wereld geeft. Het is een beetje een vreemde situatie."*
  
  <!--
  Meta heeft er baat bij als deze systemen minder buggy zijn, dus zal het bedrijf graag het geld uitgeven om het model te maken en te verspreiden zodat anderen er problemen mee kunnen oplossen.
