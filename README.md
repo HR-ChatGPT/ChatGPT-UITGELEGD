@@ -460,9 +460,12 @@ Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126
 
 Een bijkomend probleem is *"Data drift"*. Het fenomeen van data drift  is de spontane, onverwachte en ongedocumenteerde veranderingen in de structuur, semantiek en infrastructuur van datasets als gevolg van moderne gegevensarchitecturen *---zoals de inzet van LLMs in combinatie met ChatBots doorgenruik making van machinaal lerende [ML] neurale netwerken [NN]---*. 
 
-Data drift vorm een zogenaamd *"Ill-posed"* probleem, omdat LLMs en ChatBots geen gebruik maken van een "ground truth" om hun voorspellingen te verifiëren.
+Data drift vormt een zogenaamd *"Ill-posed"* probleem, omdat LLMs en ChatBots geen gebruik maken van een "ground truth" om hun voorspellingen te verifiëren. De aanname is dat de toekomst gelijk is aan het verleden.
 
+xxxx 
+ <!--
  vaak afhankelijk is van een belangrijke aanname: het verleden == de toekomst. In de echte wereld is dit zeer zelden het geval. Data drift treedt op wanneer de distributie van invoergegevens in de loop van de tijd verandert. Bijvoorbeeld, als een machine learning-model werd getraind om de waarschijnlijkheid te voorspellen dat een klant een product koopt op basis van hun leeftijd en inkomen. Als de distributie van leeftijd en inkomen in de loop van de tijd verandert, zal het model niet langer nauwkeurig zijn. Driftdetectie is een belangrijk onderdeel van het onderhoud van machine learning-modellen. Het helpt bij het detecteren wanneer data drift optreedt, zodat modellen opnieuw kunnen worden getraind of bijgewerkt.
+-->
 
 <!--
 
