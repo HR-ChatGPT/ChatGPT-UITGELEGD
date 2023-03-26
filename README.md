@@ -566,7 +566,7 @@ Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben g
 >*"Het is ontworpen om te worden getest door onderzoekers en ontwikkelaars om zo de democratisering van AI te bevorderen, aldus Meta [Introducing LLaMA: A foundational, 65-billion-parameter large language model (26 februari 2023)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/). 
 
 
-Meta heeft LLaMA niet vrijgegeven als een publieke chatbot, maar als een open-source pakket in de vorm van een [Github repository, genammd LLaMA](https://github.com/facebookresearch/llama) waar iedereen in de AI-gemeenschap toegang toe kan vragen.  Meta's argumentatie luidt als volgt:
+Meta heeft LLaMA niet vrijgegeven als een publieke chatbot, maar als een open-source pakket in de vorm van een [Github repository: LLaMA](https://github.com/facebookresearch/llama) waar iedereen in de AI-gemeenschap toegang toe kan vragen.  Meta's argumentatie luidt als volgt:
 
 >*"...volledige onderzoekstoegang tot LLMs is beperkt vanwege de enorme investeringen in geld, middelen en mensen die nodig zijn om zulke LLMs te kunnen trainen in een realtief korte tijd... <br> <br> ...vrije toegang tot is (echter) nodig om te kunnen begrijpen hoe LLMs werken en om te kunnen bijdragen aan de ontwikkeling van nieuwe technieken en methoden om de robuustheid en veiligheid ervan te verhogen..."*
 
