@@ -384,7 +384,7 @@ Gezien alle berichtgeving in korte tijd rondom Gen-AI *---ChatGPT in het bijzond
 Op basis van uitspraken van *"AI-experts"* over de *"ChatGPT Hype"* volgen hier een paar uitgangspunten die kunnen helpen om de recente ontwikkeling te kunnen duiden en als startpunt kunnen dienen om Gen-AI verantwoord te kunnen gebruiken.
 
 
-#### [1] Ten eerste *"er is geen reden tot paniek"* ondanks alarmerende uitspraken door AI-specialisten. Mits we tijdig adequate maatregelen nemen, kunnen we de risico's beperken en de voordelen van Gen-AI maximaliseren.
+#### [1] Ten eerste, *"er is geen reden tot paniek"* ondanks alarmerende uitspraken door AI-specialisten. Mits we tijdig adequate maatregelen nemen, kunnen we de risico's beperken en de voordelen van Gen-AI maximaliseren.
 
 <br>
 
