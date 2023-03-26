@@ -427,14 +427,19 @@ ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend ver
 
 >ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media, de verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.
 
+Toch is het de verwachting dat deze tekortkomingen maar van tijdelijk aard zullen zijn. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen. Dit zou een aanwijzing kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
+
+>*... ToM ---tot nu toe beschouwd als uniek menselijk--- kan spontaan ontstaan als emergente eigenschap van het opschalen van taalmodellen ...*
+
+Het verwerven van emergente eigenschappen door ChatGPT *---zoals ToM---* moet met enige scepsis worden betracht. Dat wil zeggen, [emergentie](https://doi.org/10.1207/s15327000em0101_4) kenmerkt zich door “het ontstaan van nieuwe en samenhangende structuren, patronen en eigenschappen tijdens het proces van zelforganisatie in complexe systemen”. 
+Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van ChatGPT. Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  In een veel geciteerd arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift hebben veroorzaakt die van dezelfde orde van magnitude is als de ontwikkeling van *"deep Learning models"* in 2010.
+
+> *... "Few-shot learning models": GPT-3, BERT, Midjourney of DALL-E 2, hebben laten zien wat er mogelijk is. Je voert een korte vraag in, en het systeem genereert een heel opstel of een complexe afbeelding op basis van jouw parameters, zelfs als het niet specifiek getraind is op het uitvoeren van dat exacte argument of het genereren van een afbeelding op die manier ...*
+
+Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld veelvuldig worden ingezet voor *"social engineering"*, *"social manipulation"* en marketingdoeleinden.  Maar een veel groter probleem is dat met het verder opschalen van chatbots, ze nog *“menselijker”* zullen worden, waardoor ze een zeer grote aantrekkingskracht zullen hebben op jongeren. In de nabije toekomst valt dus niet uit te sluiten dat studenten hun *“mentale autonomie”* verliezen door het veelvuldig gebruik van AI-technologie. Dit is vergelijkbaar met de huidige problematiek die speelt rondom het gebruik van sociale-media door grote groepen jonge eindgebruikers.
+
 Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft en Alphabet dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken als sneeuw voor de zon zullen verdwijnen. 
 
-<!--
-<img align="left" width="800" height="400" src=".\scaling-delusion.jpg">
- ![Picture1](.\scaling-delusion.jpg) 
-https://gwern.net/scaling-hypothesis
-https://lastweekin.ai/p/the-ai-scaling-hypothesis
--->
 <br> 
 
 #### [4] Ten vierde, Conversattionle agenten kunnen een eigen taal creëren, onderling met elkaar communiceren zonder tussen komst van de mens.
