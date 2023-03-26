@@ -576,7 +576,8 @@ Maar Meta's inspanningen om de toegang tot LLaMA te reguleren zijn jammerlijk mi
 
 Hierdoor is het debat verhevigd over de juiste manier om geavanceerd onderzoek te delen in een tijd van snelle technologische veranderingen, zoals valt op te maken uit een Blogpost van The Verge: [Meta’s powerful AI language model has leaked online — what happens now?](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse):
 
->*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen," tweette cybersecurity onderzoeker Jeffrey Ladish nadat het nieuws bekend werd. "Het openstellen van deze modellen was een verschrikkelijk idee., aldus [The Verge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse) <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is," schreven onderzoekers Sayash Kapoor en Arvind Narayanan in een blogpost. "Toch lijken er geen gedocumenteerde gevallen te zijn."*
+>*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen," tweette cybersecurity onderzoeker Jeffrey Ladish nadat het nieuws bekend werd. "Het openstellen van deze modellen was een verschrikkelijk idee., aldus [The Verge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse) <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is ... Toch lijken er geen gedocumenteerde gevallen te zijn.", schrijven Arvind Narayanan & Sayash Kapoor in hun [AI Snake Oil](https://aisnakeoil.substack.com/p/the-llama-is-out-of-the-bag-should) Blogpost getiteld: "The LLaMA is out of the bag. Should we expect a tidal wave of disinformation?
+The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 
 
@@ -584,6 +585,10 @@ Hierdoor is het debat verhevigd over de juiste manier om geavanceerd onderzoek t
 
 
 <!--
+FEATURES
+Wrap Your Brain Around This.
+Artificial intelligence is changing higher education. Will it be for the best?
+https://paw.princeton.edu/article/artificial-intelligence-chatgpt-gptzero-openai-higher-education
 
 Kapoor, S., & Narayanan, A. (2022). Leakage and the reproducibility crisis in ML-based science. arXiv preprint https://doi.org/10.48550/arXiv.2207.07048
 
