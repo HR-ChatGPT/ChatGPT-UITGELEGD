@@ -442,7 +442,7 @@ Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft en Alphabet da
 
 <br> 
 
-#### [4] Ten vierde, Conversattionle agenten kunnen een eigen taal creëren, onderling met elkaar communiceren zonder tussen komst van de mens.
+#### [4] Ten vierde, Conversattionle agenten kunnen een eigen taal creëren & onderling met elkaar communiceren zonder tussen komst van de mens.
 
 In een AIM blog geschreven door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
