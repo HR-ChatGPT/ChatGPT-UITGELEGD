@@ -545,7 +545,7 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 <br>
 
 
-#### [8] Ten achtste, door de extreme opschaling van taalmodellen zijn *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
+#### [8] Extreme opschaling van taalmodellen leidt tot onvorziene *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
 
 In een veel geciteerd arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift hebben veroorzaakt die van dezelfde orde van magnitude is als de ontwikkeling van *"deep Learning models"* in 2010. Deze "parardigm-shift" hypothese wordt vooral ondersteund door het vermogen van Foundation modellelen om *"emergente eigenschappen"* te ontwikkelen.
 
@@ -559,9 +559,14 @@ Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.
 
 Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  
 
+#### [9] Democarisering van AI door het vrijgeven van LLM-broncode: *"You're damned if you do and damned if you don't"*.
 
+[Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* model, dat is ontworpen om te worden gebruikt door onderzoekers en ontwikkelaars. Het is veel kleiner van omvang dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*, maar het is nog steeds een *"large"* model, met een maximum van 65 miljard parameters. 
 
+>*"LLaMA heeft geen user-interface zoals ChatGPT of Bing. <br> <br> Dit relatief kleine foundation model is bedoeld als een "open-source" onderzoekstool dat Meta beschibaar stelt aan onderzoekers in de hoop  dat: <br> "de open toegang tot kleine LLMs helpt om AT te democratiseren" ...*
 
+Ondanks dat *"open-source"* LLM's een belangrijke stap voorwaarts in de richting van het *"democratiseren"* van AI kleven er toch ook grote nadelen aan. Zo blijkt uit een AI Tech Report van the Verge (08 maart 2023) getiteld: *"Meta’s powerful AI language model has leaked online — what happens now? <br> <br> 
+/ Meta’s LLaMA model was created to help researchers but leaked on 4chan a week after it was announced. Some worry the technology will be used for harm; others say greater access will improve AI safety."*
 
 
 
@@ -1458,9 +1463,9 @@ als LLM gebruikt. Bing beschikt hierdoor over de meest uitgebreide [*"Copilot"*]
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. 
 Via Google's [*"AI Test Kitchen"*](https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/) is hun *"Language Model for Dialogue Applications"* [LaMDA] uit te proberen; althans voor een beperkt aantal *"onderzoekers"* woonachtig in de VS.
+
 Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie met een taalmodel genaamd *"Large Language Model Meta AI"* [[LLaMA]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), aldus een AI-Blog in The Verge (24 februari, 2023), getiteld: [*"Meta has a new machine learning language model to remind you it does AI too"*](https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model)
 
->*"LLaMA heeft geen user-interface zoals ChatGPT of Bing. <br> Dit relatief kleine foundation model bezit bevat 65 miljard parameters, bedoeld als een "open" onderzoekstool dat Meta openstelt voor onderzoekers in de hoop  dat: "de open toegang tot kleine LLMs helpt om AT te democratiseren" ...*
 
 <!--
 Google's onthulling van rivaal Bard had woensdag een dure gênante stunt toen bleek dat uit promotiemateriaal bleek dat de chatbot een verkeerd antwoord gaf op een vraag.
