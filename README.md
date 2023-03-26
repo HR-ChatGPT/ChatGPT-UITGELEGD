@@ -559,14 +559,23 @@ Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.
 
 Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  
 
-#### [9] Democarisering van AI door het vrijgeven van LLM-broncode: *"You're damned if you do and damned if you don't"*.
+#### [9] Democarisering van AI: *"You're damned if you do and damned if you don't"*.
 
-[Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* model, dat is ontworpen om te worden gebruikt door onderzoekers en ontwikkelaars. Het is veel kleiner van omvang dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*, maar het is nog steeds een *"large"* model, met een maximum van 65 miljard parameters. 
+[Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* taalmodel zonder user-interface en veel kleiner van omvang ---varierend van 9 tot 69 miljard parameters--- dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*. 
 
->*"LLaMA heeft geen user-interface zoals ChatGPT of Bing. <br> <br> Dit relatief kleine foundation model is bedoeld als een "open-source" onderzoekstool dat Meta beschibaar stelt aan onderzoekers in de hoop  dat: "de open toegang tot kleine LLMs helpt om AT te democratiseren" ...*
+>*"Het is ontworpen om te worden getest door onderzoekers en ontwikkelaars om zo de democratisering van AI te bevorderen, aldus Meta [Introducing LLaMA: A foundational, 65-billion-parameter large language model (26 februari 2023)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/). 
 
-Ondanks dat *"open-source"* LLM's een belangrijke stap voorwaarts in de richting van het *"democratiseren"* van AI kleven er toch ook grote nadelen aan. Zo blijkt uit een AI Tech Report van the Verge (08 maart 2023) getiteld: *"Meta’s powerful AI language model has leaked online — what happens now? <br> <br> 
-/ Meta’s LLaMA model was created to help researchers but leaked on 4chan a week after it was announced. Some worry the technology will be used for harm; others say greater access will improve AI safety."*
+
+Meta heeft LLaMA niet vrijgegeven als een publieke chatbot, maar als een open-source pakket in de vorm van een [Github repository, genammd LLaMA](https://github.com/facebookresearch/llama) waar iedereen in de AI-gemeenschap toegang toe kan vragen.  Meta's argumentatie luidt als volgt:
+
+>*"...volledige onderzoekstoegang tot LLMs is beperkt vanwege de enorme investeringen in geld, middelen en mensen die nodig zijn om zulke LLMs te kunnen trainen in een realtief korte tijd... <br> vrije toegang tot is (echter) nodig om te kunnen begrijpen hoe LLMs werken en om te kunnen bijdragen aan de ontwikkeling van nieuwe technieken en methoden om de robuustheid en veiligheid ervan te verhogen."*
+
+
+
+ 
+ <!--
+ Meta heeft er baat bij als deze systemen minder buggy zijn, dus zal het bedrijf graag het geld uitgeven om het model te maken en te verspreiden zodat anderen er problemen mee kunnen oplossen.
+-->
 
 
 
