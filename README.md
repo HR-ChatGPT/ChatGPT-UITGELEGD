@@ -584,6 +584,8 @@ Language models like GPT-3 can write poetry, but they often amplify negative ste
 
 * Metcalfe, J. S., Perelman, B. S., Boothe, D. L., & Mcdowell, K. (2021). Systemic Oversimplification Limits the Potential for Human-AI Partnership. IEEE Access, 9, 70242-70260. https://doi.org/10.1109/ACCESS.2021.3078298
 
+<br>
+<br>
 
 # v0d
 
