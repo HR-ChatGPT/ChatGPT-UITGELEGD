@@ -576,9 +576,9 @@ Maar Meta's inspanningen om de toegang tot LLaMA te reguleren zijn jammerlijk mi
 
  
 
->*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. <br> "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen," tweette cybersecurity onderzoeker Jeffrey Ladish nadat het nieuws bekend werd. "Het openstellen van deze modellen was een verschrikkelijk idee., aldus [The Verge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)"*
+>*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen," tweette cybersecurity onderzoeker Jeffrey Ladish nadat het nieuws bekend werd. "Het openstellen van deze modellen was een verschrikkelijk idee., aldus [The Verge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse) <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken."*
 
-Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken.
+
 
 <!--
  waardoor een debat op gang kwam over de juiste manier om geavanceerd onderzoek te delen in een tijd van snelle technologische veranderingen.
