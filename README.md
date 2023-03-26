@@ -1050,7 +1050,7 @@ Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan wo
 
 Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende artikel:
 
-Gardner, J., O'Leary, M., & Yuan, L. (2021). Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’. Journal of Computer Assisted Learning, 37(5), 1207-1216. https://doi.org/10.1111/jcal.12577
+* Gardner, J., O'Leary, M., & Yuan, L. (2021). Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’. Journal of Computer Assisted Learning, 37(5), 1207-1216. https://doi.org/10.1111/jcal.12577
 
 Het biedt een kritisch perspectief op de inzet van AI-technologie in het hoger onderwijs met betrekking tot (1) formatieve en (2) summatieve beoordelingen. Het artikel geeft voorbeelden over twee kerntoepassingen (1) geautomatiseerde essayscoringsystemen en (2) computergestuurde adaptieve tests.
 
@@ -1071,6 +1071,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 #### Geselecteerde referenties voor verder lezen
 
 * Bronkhorst, H., Roorda, G., Suhre, C., & Goedhart, M. (2020). Logical reasoning in formal and everyday reasoning tasks. International Journal of Science and Mathematics Education, 18, 1673-1694. https://doi.org/10.1007/s10763-019-10039-8
+
+* Huang, J., & Chang, K. C. C. (2022). Towards Reasoning in Large Language Models: A Survey. arXiv preprint arXiv https://doi.org/10.48550/arXiv.2212.10403
 
 * Chain-of-Tought Prompting Poster https://neurips.cc/virtual/2022/poster/54087
 
@@ -2982,6 +2984,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Hilbert, M., & López, P. (2011). The world’s technological capacity to store, communicate, and compute information. science, 332(6025), 60-65. https://doi.org/10.1126/science.1200970
 
 * <sub> Hiltzik, M. (2023, januari 20). Robot taxis, hyperloops: A top technologist wages war on tech's hype machine. [Column]. The Los Angeles Times. https://www.latimes.com/business/story/2023-01-20/robot-taxis-hyperloops-a-top-technologist-wages-war-on-techs-hype-machine
+
+* <sub> Huang, J., & Chang, K. C. C. (2022). Towards Reasoning in Large Language Models: A Survey. arXiv preprint arXiv https://doi.org/10.48550/arXiv.2212.10403
 
 * <sub> Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., ... & Amodei, D. (2020). Scaling laws for neural language models. arXiv preprint https://doi.org/10.48550/arXiv.2001.08361
 
