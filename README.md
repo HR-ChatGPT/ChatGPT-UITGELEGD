@@ -415,7 +415,7 @@ Maar dit is nog maar het begin. <br> <br> Volgens sommigen stevenen we in de kom
 
 <br> 
 
-#### [3] Ten derde, *"Hoe kan ChatGPT een doorbraak in de  AI-wereld reprsenteren als het een "work-in-progress" is?"*
+#### [3] Ten derde, *"Hoe kan ChatGPT een doorbraak in de  AI-wereld representeren als het een "work-in-progress" is?"*
 
 De onderstaan tekst is deels gebaseerd op Tony Polano's *"Tom's Guide"* opinie stuk (20 februari 2023) getiteld: [*"How can ChatGPT be the next big thing if it's this broken?"*](https://www.tomsguide.com/opinion/how-can-chatgpt-be-the-next-big-thing-if-its-this-broken)
 
