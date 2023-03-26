@@ -563,7 +563,7 @@ Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben g
 
 [Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* model, dat is ontworpen om te worden gebruikt door onderzoekers en ontwikkelaars. Het is veel kleiner van omvang dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*, maar het is nog steeds een *"large"* model, met een maximum van 65 miljard parameters. 
 
->*"LLaMA heeft geen user-interface zoals ChatGPT of Bing. <br> <br> Dit relatief kleine foundation model is bedoeld als een "open-source" onderzoekstool dat Meta beschibaar stelt aan onderzoekers in de hoop  dat: <br> "de open toegang tot kleine LLMs helpt om AT te democratiseren" ...*
+>*"LLaMA heeft geen user-interface zoals ChatGPT of Bing. <br> <br> Dit relatief kleine foundation model is bedoeld als een "open-source" onderzoekstool dat Meta beschibaar stelt aan onderzoekers in de hoop  dat: "de open toegang tot kleine LLMs helpt om AT te democratiseren" ...*
 
 Ondanks dat *"open-source"* LLM's een belangrijke stap voorwaarts in de richting van het *"democratiseren"* van AI kleven er toch ook grote nadelen aan. Zo blijkt uit een AI Tech Report van the Verge (08 maart 2023) getiteld: *"Meta’s powerful AI language model has leaked online — what happens now? <br> <br> 
 / Meta’s LLaMA model was created to help researchers but leaked on 4chan a week after it was announced. Some worry the technology will be used for harm; others say greater access will improve AI safety."*
