@@ -2181,7 +2181,7 @@ Dit probleem speelt ook bij de beschikbaarheid van online “*ChatGPT workshops"
 In dit overzicht zijn enkele online ChatGPT workshops, AI-blogs en white-papers opgenomen die in het Engels zijn, maar een goede basis vormen voor het ontwikkelen van een Nederlandstalige workshop.
 Allereerst gaat de behoefte aan *"ChatGPT cursussen"* over de vraag <br>  
 
->*"Hoe blijf ik bij met de laatste AI ontwikkelingen?"* en *"Hoe kan ik mijn praktische kennis over ChatGPT vergroten?"*  <br> Dit is niet alleen relevant voor hbo docenten, maar ook voor studenten.
+>*"Hoe blijf ik bij met de laatste AI ontwikkelingen?"* en *"Hoe kan ik mijn praktische kennis over ChatGPT vergroten?"*  <br> <br> Dit is niet alleen relevant voor hbo docenten, maar ook voor studenten.
 
 Een goed uitgangspunt is de preprint server arXiv.org, waar je zeer uiteenlopende wetenschappelijke papers kunt vinden over de laatste ontwikkelingen op het gebied van AI, waaronder ChatGPT. Dit is een goede plek om te beginnen met het zoeken naar betrouwbare bronnen. Zie de [bibliografie](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#16-geraadpleegde-bronnen) van deze Github repository: *"ChatGPT uitgelegd"*. Sebastiaan Reschka heeft een aantal uitgangspunten voor het vinden van betrouwbare bronnen opgenomen in zijn [AI Magazine Blog (23 maart 2023)](https://sebastianraschka.com/blog/2023/keeping-up-with-ai.html), getiteld: *"Keeping Up With AI Research And News"*.
 
