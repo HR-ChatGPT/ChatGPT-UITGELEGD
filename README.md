@@ -474,7 +474,7 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 <br>
 
 
-#### [5] Conversattionle agenten zijn immoreel, ze missen een *"ethische bewustzijn"*.
+#### [5] Conversattionle agenten zijn immoreel, ze missen een *"ethisch bewustzijn"*.
 
 In een opiniestuk (07 maart 2023) in de New York Times *---geschreven door Noam Chomsky, Ian Roberts and Jeffrey Watumull---* getiteld: [*"The False Promise of ChatGPT"*](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) wordt de volgende waarschuwing ---door de ethiek ingegeven--- geformuleerd:
 
