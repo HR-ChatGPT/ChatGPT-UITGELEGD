@@ -431,7 +431,7 @@ Toch is het de verwachting dat deze tekortkomingen maar van tijdelijk aard zulle
 
 <br> 
 
-#### [4] Conversattionle agenten kunnen autonoom een eigen taal creëren die ongebrijpelijk is voor mensen, wat de huidige "Data Deluge" en "Data Drift" problematiek dreigt te vergroten.
+#### [4] Conversattionle agenten kunnen autonoom een eigen taal creëren die onbegrijpelijk is voor mensen, wat de huidige "Data Deluge" en "Data Drift" problematiek dreigt te vergroten.
 
 In een AIM blog geschreven door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
@@ -448,13 +448,13 @@ Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126
 
 
 Een bijkomend probleem is *"Data drift"*, ook wel bekend als  *"Concept drift"*. 
+De fundamentele veronderstelling bij de ontwikkeling van elk model voor machinaal leren is dat de gegevens die worden gebruikt om het model te trainen, congruent zijn aan  input  datasets die het model in de toekomst zal zien.
+Data drift in relatie met LLMs vormt een zogenaamd *"Ill-posed"* probleem, omdat deze vorm van AI geen gebruik *"kunnen"* maken van een "ground truth" om hun voorspellingen te verifiëren. De aanname is dat de toekomst gelijk blijft aan het verleden. Het is nagenoeg onmogelijk om te anticiperen op hoe mensen prompts zullen schrijven om een bepaalde vraag te zo goed mogelijk te laten beantwoorden door een chatbot.
 
-<!-->
+<!--
 Het fenomeen van data drift  is de spontane, onverwachte en ongedocumenteerde veranderingen in de structuur, semantiek en infrastructuur van de input datasets als gevolg van moderne gegevensarchitecturen *---zoals de inzet van LLMs in combinatie met ChatBots, door gebruik making van machinaal lerende [ML] neurale netwerken [NN]---*. 
 --> 
 
-De fundamentele veronderstelling bij de ontwikkeling van elk model voor machinaal leren is dat de gegevens die worden gebruikt om het model te trainen, congruent zijn aan  input  datasets die het model in de toekomst zal zien.
-Data drift in relatie met LLMs vormt een zogenaamd *"Ill-posed"* probleem, omdat deze vorm van AI geen gebruik *"kunnen"* maken van een "ground truth" om hun voorspellingen te verifiëren. De aanname is dat de toekomst gelijk blijft aan het verleden. Het is nagenoeg onmogelijk om te anticiperen op hoe mensen prompts zullen schrijven om een bepaalde vraag te zo goed mogelijk te laten beantwoorden door een chatbot.
 
  <!--
  https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93
