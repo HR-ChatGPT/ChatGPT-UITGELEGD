@@ -574,15 +574,20 @@ Maar Meta's inspanningen om de toegang tot LLaMA te reguleren zijn jammerlijk mi
 >*"De maker van de Github repository ---Shawn Presser-- is van mening dat het vrijgeven van het model zonder voorbehoud beter is dan het te beperken tot erkende academici. "Ik denk dat het goede minstens tien keer groter is dan het slechte. Waarschijnlijk meer dan 100 keer," aldus [The Register](https://www.theregister.com/2023/03/08/meta_llama_ai_leak/)."*
 
 
- Dit heeft het debat over het vrijgeven van LLM's opnieuw aangewakkerd, zoals op te maken valt uit een Blogpost van The Verge: [Meta’s powerful AI language model has leaked online — what happens now?](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse):
+Hierdoor is het debat verhevigd over de juiste manier om geavanceerd onderzoek te delen in een tijd van snelle technologische veranderingen, zoals valt op te maken uit een Blogpost van The Verge: [Meta’s powerful AI language model has leaked online — what happens now?](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse):
 
->*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen," tweette cybersecurity onderzoeker Jeffrey Ladish nadat het nieuws bekend werd. "Het openstellen van deze modellen was een verschrikkelijk idee., aldus [The Verge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse) <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is," schreven onderzoekers Sayash Kapoor en Arvind Narayanan in een blogpost. <br> "Toch lijken er geen gedocumenteerde gevallen te zijn." <br> <br> Kapoor en Narayanan verdisconteren berichten over studenten die spieken met behulp van ChatGPT of sites die worden overspoeld door AI-spam of de publicatie van foutieve AI-journalistiek, omdat deze toepassingen niet bedoeld zijn om schade te berokkenen en per definitie niet kwaadaardig zijn."*
+>*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen," tweette cybersecurity onderzoeker Jeffrey Ladish nadat het nieuws bekend werd. "Het openstellen van deze modellen was een verschrikkelijk idee., aldus [The Verge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse) <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is," schreven onderzoekers Sayash Kapoor en Arvind Narayanan in een blogpost. "Toch lijken er geen gedocumenteerde gevallen te zijn."*
+
 
 
 
 
 
 <!--
+
+Kapoor, S., & Narayanan, A. (2022). Leakage and the reproducibility crisis in ML-based science. arXiv preprint https://doi.org/10.48550/arXiv.2207.07048
+
+
  waardoor een debat op gang kwam over de juiste manier om geavanceerd onderzoek te delen in een tijd van snelle technologische veranderingen.
 
 >*"Het is een beetje een vreemde situatie", zegt [Dr. Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), een van de meest prominente AI-onderzoekers van vandaag. "Het is een beetje als een wetenschapper die een nieuw medicijn ontwikkelt en het vervolgens gratis aan de hele wereld geeft. Het is een beetje een vreemde situatie."*
