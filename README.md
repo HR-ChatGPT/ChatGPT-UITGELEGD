@@ -440,7 +440,7 @@ In een AIM blog geschreven door Mohit Pandey *---Technologie journalist---* geti
 
 Een vergelijkbare situatie bestond voor de ontwikkeling van het Internet-of-Things" [IoT] en haar industriële variant Cyber Physical Systems [CPS] zo rond 2010, waarbij we hebben toegestaan dat "dingen" onderling met elkaar kunnen communiceren zonder tussen komst van de mens *--- human-in-the-Loop--*. 
 
->*We zijn nu op een punt in de ontwikkelingsgeschiedenis van AI-technologie beland waar de "de mens" nog kan bepalen of we deze weg willen bewandelen  of dat we "paal en perk" gaan stellen aan de handelingsvrijheid van Gen-AI.*
+>*We zijn nu op een punt in de ontwikkelingsgeschiedenis van AI-technologie beland waar "de mens" nog kan bepalen of we deze weg willen bewandelen  of dat we "paal en perk" gaan stellen aan de handelingsvrijheid van Gen-AI.*
 
 Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126/science.1200970): De toename van de hoeveelheid digitaal beschikbare ongestructureerde/ruwe data overstijgt de totale hoeveelheid aan beschikbare “computer” rekenkracht. Sinds 2019 wordt wereldwijd meer digitale data geproduceerd dan analoge data. Daarmee is de mensheid in 2023 met de komst van ChatGPT een [*"Society of Algorithms"*](https://doi.org/10.1146/annurev-soc-090820-020800) geworden. 
 
@@ -448,9 +448,9 @@ Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126
 
 
 Een bijkomend probleem is *"Data drift"*, ook wel bekend als  *"Concept drift"*. 
-De fundamentele veronderstelling bij de ontwikkeling van elk machinaal lerend [ML] neuraal netwerk [NN] model is dat de gegevens die worden gebruikt om het model te trainen, congruent zijn aan  input  datasets die het model in de toekomst zal aangeboden krijgen.
+De fundamentele veronderstelling bij de ontwikkeling van elk machinaal lerend [ML] neuraal netwerk [NN] model is dat de gegevens die worden gebruikt om het taalmodel te trainen, congruent zijn aan input gegevens die het model in de toekomst zal aangeboden krijgen.
 
-Data drift in relatie met LLMs vormt een zogenaamd *"Ill-posed"* probleem, omdat deze vorm van AI geen gebruik *"kunnen"* maken van een "ground truth" om hun voorspellingen te verifiëren. De aanname is dat de toekomst gelijk blijft aan het verleden. Het is nagenoeg onmogelijk om te anticiperen op hoe mensen prompts zullen schrijven om een bepaalde vraag te zo goed mogelijk te laten beantwoorden door een chatbot.
+Data drift in relatie met LLMs vormt dan ook een zogenaamd *"Ill-posed"* probleem, omdat deze vorm van AI geen gebruik *"kan"* maken van een *"ground truth"* om voorspellingen te kunnen verifiëren. De aanname is dat de toekomst gelijk blijft aan het verleden. Het is nagenoeg onmogelijk om te anticiperen op hoe mensen prompts zullen schrijven om voor een specifiek probleem met als doel een zo relevant mogelijk antwoord te krijgen van een chatbot. Sterker nog  GPT-4 staat toe dat je een prompt kunt schrijven van 50 pagina's lang.
 
 <!--
 Het fenomeen van data drift  is de spontane, onverwachte en ongedocumenteerde veranderingen in de structuur, semantiek en infrastructuur van de input datasets als gevolg van moderne gegevensarchitecturen *---zoals de inzet van LLMs in combinatie met ChatBots, door gebruik making van machinaal lerende [ML] neurale netwerken [NN]---*. 
