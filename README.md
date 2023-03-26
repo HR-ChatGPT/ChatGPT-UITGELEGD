@@ -545,7 +545,7 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 <br>
 
 
-#### [8] Extreme opschaling van taalmodellen leidt tot onvorziene *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
+#### [8] Extreme opschaling van taalmodellen leidt tot onvoorziene *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
 
 In een veel geciteerd arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift hebben veroorzaakt die van dezelfde orde van magnitude is als de ontwikkeling van *"deep Learning models"* in 2010. Deze "parardigm-shift" hypothese wordt vooral ondersteund door het vermogen van Foundation modellelen om *"emergente eigenschappen"* te ontwikkelen.
 
@@ -558,6 +558,12 @@ Het verwerven van emergente eigenschappen door ChatGPT *---zoals ToM---* moet me
 Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van ChatGPT. 
 
 Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  
+
+
+https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-
+b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+
+<br>
 
 #### [9] Democarisering van AI: *"You're damned if you do and damned if you don't"*.
 
@@ -580,9 +586,27 @@ Hierdoor is het debat verhevigd over de juiste manier om geavanceerd onderzoek t
 The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 
+<br>
+
+### [9] OpenAI-LP's commerciële belangen bemoeilijkt reproduceerbaar onderzoek naar taalmodellen
+
+
+https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible
+
+<!--
+#### [10] Veel AI-diensten zijn als snake oil  ---  maar niet allemaal
 
 
 
+https://openai.com/blog/openai-codex
+https://platform.openai.com/docs/guides/code/introduction
+https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible
+https://twitter.com/goodside/status/1638064664046186496
+https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-
+b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+https://community.openai.com/t/after-codex-being-discontinued-is-the-api-still-free/118016/3
+
+-->
 
 <!--
 FEATURES
