@@ -561,7 +561,7 @@ Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben g
 
 #### [9] Democarisering van AI: *"You're damned if you do and damned if you don't"*.
 
-[Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* taalmodel zonder user-interface en veel kleiner van omvang ---varierend van 9 tot 69 miljard parameters--- dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*. 
+[Llama](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* taalmodel zonder user-interface en veel kleiner van omvang *---varierend van 9 tot 69 miljard parameters---* dan  GPT-4  *---het LLM voor  ChatGPT en Bing----*. 
 
 >*"Het is ontworpen om te worden getest door onderzoekers en ontwikkelaars om zo de democratisering van AI te bevorderen"*, aldus Meta: [Introducing LLaMA: A foundational, 65-billion-parameter large language model (26 februari 2023)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/). 
 
