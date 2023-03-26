@@ -442,7 +442,7 @@ Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft en Alphabet da
 
 <br> 
 
-#### [4] Ten vierde, Conversattionle agenten kunnen een eigen taal creëren & onderling met elkaar communiceren zonder tussen komst van de mens.
+#### [4] Ten vierde, Conversattionle agenten kunnen autonoom een eigen taal creëren die niet door mensen kan worden begrepen, wat de huidige "Data Deluge" en "Data Drift" vergroot.
 
 In een AIM blog geschreven door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
@@ -457,7 +457,17 @@ Gevolg is het ontstaan van de zogenaamde ["Data-deluge"](https://doi.org/10.1126
 
 >De vraag is dan ook; *"Kunnen Gen-AI's  als tool dienen om de "Data-Deluge" paradox  te doorbreken?"*
 
+
+Een bijkomend probleem is *"Data drift"*. Het fenomeen van data drift  is de spontane, onverwachte en ongedocumenteerde veranderingen in de structuur, semantiek en infrastructuur van datasets als gevolg van moderne gegevensarchitecturen *---zoals de inzet van LLMs in combinatie met ChatBots doorgenruik making van machinaal lerende [ML] neurale netwerken [NN]---*. 
+
+Data drift vorm een zogenaamd *"Ill-posed"* probleem, omdat LLMs en ChatBots geen gebruik maken van een "ground truth" om hun voorspellingen te verifiëren.
+
+ vaak afhankelijk is van een belangrijke aanname: het verleden == de toekomst. In de echte wereld is dit zeer zelden het geval. Data drift treedt op wanneer de distributie van invoergegevens in de loop van de tijd verandert. Bijvoorbeeld, als een machine learning-model werd getraind om de waarschijnlijkheid te voorspellen dat een klant een product koopt op basis van hun leeftijd en inkomen. Als de distributie van leeftijd en inkomen in de loop van de tijd verandert, zal het model niet langer nauwkeurig zijn. Driftdetectie is een belangrijk onderdeel van het onderhoud van machine learning-modellen. Het helpt bij het detecteren wanneer data drift optreedt, zodat modellen opnieuw kunnen worden getraind of bijgewerkt.
+
 <!--
+
+https://towardsdatascience.com/in-ai-the-objective-is-subjective-4614795d179b
+
 https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/
 
 And then there's the problem of deliberate misinformation. Experts worry that people will use ChatGPT to flood social media with phony articles that sound professional, or bury Congress with "grassroots" letters that sound authentic.
@@ -944,7 +954,23 @@ Het antwoord in dit geval is onjuist.
 
 Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan worden om als beoordelingsinstrument, maar het is nog niet betrouwbaar *"genoeg"*. 
 
-De volgende stap is om na te gaan of ChatGPT stukken tekst kan beoordelen op basis van een toetsingskader in combinatie met een RUBRICs. Met de komst van GPT-4 is dit mogelijk geworden omdat het beschikt over een groot *"actief"* werkgeheugen van ongeveer 50 pagina's aan tekst. Voor meer details zie [GPT-4: Unieke eigenschappen](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#gpt-4-unieke-eigenschappen).
+
+#### Hoe effectief is ChatGPT in het beoordelen van studentwerkstukken op basis van een RUBRICs?
+
+Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende artikel:
+
+Gardner, J., O'Leary, M., & Yuan, L. (2021). Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’. Journal of Computer Assisted Learning, 37(5), 1207-1216. https://doi.org/10.1111/jcal.12577
+
+Het biedt een kritisch perspectief op de inzet van AI-technologie in het hoger onderwijs met betrekking tot (1) formatieve en (2) summatieve beoordelingen. Het artikel geeft voorbeelden over twee kerntoepassingen (1) geautomatiseerde essayscoringsystemen en (2) computergestuurde adaptieve tests.
+
+Echter, de toekankelijkheid van LLMs via een conversationele agent zoals ChatGPT zet de besproken aanpak volledig op zijn kop, omdat xxxx
+
+De in deze repository beschreven *"proof-of-concepts"* tonen aan dat LLMs *---door gebruikmaking van In-Context leren---* kunnen worden benut om stukken tekst te beoordelen op basis van een toetsingskader.  Dit is een belangrijke stap in het toepassen van AI-technologie voor het volledig automatisch beoordelen van studentwerkstukken. 
+
+
+Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen conform een specifiek toetsingskader in combinatie met een RUBRICs. Met de komst van GPT-4 is dit realistisch omdat het beschikt over een groot *"actief"* werkgeheugen van ongeveer 50 pagina's aan tekst. Voor meer details zie [GPT-4: Unieke eigenschappen](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#gpt-4-unieke-eigenschappen).
+
+
 
 
 
