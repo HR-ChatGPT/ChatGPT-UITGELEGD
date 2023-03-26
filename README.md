@@ -559,9 +559,20 @@ Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.
 
 Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  
 
+Dit roept de vraag op" *"Waar komen deze emergente vermogens vandaan?" 
 
-https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-
-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+Een van de weinige onderzoeken die zich hiermee bezig houdt is getiteld: [*"How does GPT Obtain its Ability: Tracing Emergent Abilities of Language Models to their Sources"*](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-
+b9a57ac0fcf74f30a1ab9e3e36fa1dc1) en is geschreven door Yao Fu, Hui Peng & Tushar Khot.
+
+
+##### Sugesties voor verdere lezing:
+
+* Huang, J., & Chang, K. C. C. (2022). Towards Reasoning in Large Language Models: A Survey. arXiv preprint arXiv https://doi.org/10.48550/arXiv.2212.10403
+
+* Fu, Y., Peng, H., & Khot, T. (2022). How does gpt obtain its ability? tracing emergent abilities of language models to their sources. Yao Fu’s Notion. https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+
+
+
 
 <br>
 
