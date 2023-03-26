@@ -568,7 +568,7 @@ Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben g
 
 Meta heeft LLaMA niet vrijgegeven als een publieke chatbot, maar als een open-source pakket in de vorm van een [Github repository: LLaMA](https://github.com/facebookresearch/llama) waar iedereen in de AI-gemeenschap toegang toe kan vragen.  Meta's argumentatie luidt als volgt:
 
->*"...volledige onderzoekstoegang tot LLMs is beperkt vanwege de enorme investeringen in geld, middelen en mensen die nodig zijn om zulke LLMs te kunnen trainen in een realtief korte tijd... <br> <br> ...vrije toegang is (echter) nodig om te kunnen begrijpen hoe LLMs werken en om te kunnen bijdragen aan de ontwikkeling van nieuwe technieken en methoden om de robuustheid en veiligheid ervan te verhogen..."*
+>*"...volledige onderzoekstoegang tot LLMs is beperkt vanwege de enorme investeringen in geld, middelen en mensen die nodig zijn om zulke LLMs te kunnen trainen in een realtief korte tijd... <br> <br> ...vrije toegang is (echter) nodig om te kunnen begrijpen hoe LLMs werken ...   ...om te kunnen bijdragen aan de ontwikkeling van nieuwe technieken en methoden om de robuustheid en veiligheid ervan te verhogen en bekende problemen, zoals vertekening, toxiciteit en het potentieel voor het genereren van verkeerde informatie, te beperken..."*
 
 
 
