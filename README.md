@@ -442,7 +442,7 @@ Voorlopig lijkt de houding van *"AI tech giants"* zoals Microsoft en Alphabet da
 
 <br> 
 
-#### [4] Ten vierde, Conversattionle agenten kunnen autonoom een eigen taal creëren die niet door mensen kan worden begrepen, wat de huidige "Data Deluge" en "Data Drift" vergroot.
+#### [4] Ten vierde, Conversattionle agenten kunnen autonoom een eigen taal creëren die ongebrijpelijk is voor mensen, wat de huidige "Data Deluge" en "Data Drift" problematiek dreigt te vergroten.
 
 In een AIM blog geschreven door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
