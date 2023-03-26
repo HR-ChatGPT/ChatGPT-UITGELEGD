@@ -466,7 +466,9 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 <br>
 
 
-#### [5] Ten vijfde, in een opiniestuk (07 maart 2023) in de New York Times *---geschreven door Noam Chomsky, Ian Roberts and Jeffrey Watumull---* getiteld: [*"The False Promise of ChatGPT"*](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) wordt de volgende waarschuwing ---door de ethiek ingegeven--- geformuleerd:
+#### [5] Ten vijfde, Conversattionle agenten beschikken *"nog"* over een *"ethische bewustzijn"*.
+
+In een opiniestuk (07 maart 2023) in de New York Times *---geschreven door Noam Chomsky, Ian Roberts and Jeffrey Watumull---* getiteld: [*"The False Promise of ChatGPT"*](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) wordt de volgende waarschuwing ---door de ethiek ingegeven--- geformuleerd:
 
 >*Jorge Luis Borges [---een van de meest invloedrijke schrijvers van de 21ste eeuw---](https://nl.wikipedia.org/wiki/Jorge_Luis_Borges) schreef: <br> <br> "... wij leven in een tijd van groot gevaar en grote beloftes zowel een tragedie als een komedie is, <br> met "de nabijheid van een openbaring" om onszelf en de wereld te begrijpen. <br> <br> Onze zogenaamde revolutionaire vooruitgang op het gebied van AI geeft inderdaad aanleiding tot zowel bezorgdheid als optimisme. Optimisme omdat intelligentie het middel is waarmee we problemen oplossen. <br> Bezorgdheid omdat we vrezen dat de meest populaire en modieuze vorm van A.I. - machine learning - onze wetenschap zal aantasten en onze ethiek zal ontkrachten door in onze technologie een fundamenteel onjuiste opvatting van taal en kennis op te nemen.*
 
