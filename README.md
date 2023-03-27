@@ -1578,7 +1578,7 @@ als LLM gebruikt. Bing beschikt hierdoor over de meest uitgebreide [*"Copilot"*]
 
 >*“We are happy to confirm that the new Bing is running on GPT-4, which we’ve customized for search,” Microsoft’s Yusuf Mehdi, the company’s corporate VP and consumer chief marketing officer, wrote. <br> <br>  “If you’ve used the new Bing preview at any time in the last five weeks, you’ve already experienced an early version of this powerful model.”*
 
-Sinds Microsoft de nieuwe Bing AI zoek- en chatervaring aankondigde, hebben ze het over technologie genaamd "Prometheus". In het begin werd Prometheus beschreven als een model om de integratie van Bing Search en AI-chat aan te drijven. Nu heeft Microsoft in meer technisch detail uitgelegd hoe Prometheus precies werkt.
+Sinds Microsoft de nieuwe Bing  *"zoek- en chatervaring"* aankondigde, hebben ze het over technologie genaamd *"Prometheus"*. In het begin werd Prometheus beschreven als een model om de integratie van Bing Search en AI-chat aan te drijven. Nu heeft Microsoft in meer technisch detail uitgelegd hoe [Prometheus](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing) werkt. 
 
 >*""We hebben een eigen technologie ontwikkeld die we Prometheus noemen, een eerste AI-model dat de uitgebreide index, ranking en antwoordresultaten van Bing combineert met het creatieve redeneervermogen van de meest geavanceerde GPT-modellen van OpenAI", [schreef Jordi Ribas, Corporate Vice President, Search & AI bij Microsoft.](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing)"*
 
@@ -1586,7 +1586,15 @@ Sinds Microsoft de nieuwe Bing AI zoek- en chatervaring aankondigde, hebben ze h
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. 
 Via Google's [*"AI Test Kitchen"*](https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/) is hun *"Language Model for Dialogue Applications"* [LaMDA] uit te proberen; althans voor een beperkt aantal *"onderzoekers"* woonachtig in de VS.
 
-Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie met een taalmodel genaamd *"Large Language Model Meta AI"* [[LLaMA]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), aldus een AI-Blog in The Verge (24 februari, 2023), getiteld: [*"Meta has a new machine learning language model to remind you it does AI too"*](https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model)
+Meta, het moederbedrijf van Facebook, zet vaart achter de invoering van soortgelijke technologie met een taalmodel genaamd *"Large Language Model Meta AI"* [[LLaMA]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), aldus een AI-Blog in The Verge (24 februari, 2023), getiteld: [*"Meta has a new machine learning language model to remind you it does AI too"*](https://www.theverge.com/2023/2/24/23613512/meta-llama-ai-research-large-language-model).
+
+Amazon werkt aan [LEX](https://aws.amazon.com/lex/) *---AI-technolofie voor het bouwen van conversatie-interfaces [*---a network of bots---*](https://aws.amazon.com/about-aws/whats-new/2023/02/network-bots-amazon-lex/) met behulp van spraak en tekst als input ---*. 
+Voor een vergelijk tussen Lex en ChatGPT zie [ChatGPT vs. Lex: AI, datasets, biases and uses](https://camilleoudinot.medium.com/chatgpt-vs-lex-ai-datasets-biases-and-uses-da5bfbe2043f).
+
+Baidu, de grootste zoekmachine in China, heeft een chatbot genaamd [*"ERNIE"*](https://www.aljazeera.com/economy/2023/3/27/chinas-baidu-cancels-showcase-for-chatgpt-rival-ernie) gepresenteerd is op 26 maart 2023 aan een selecte groep ondernemers. 
+Volgens  Baidu research is Ernie [*"the world's first full AI Stack technology for conversational AI"*](http://research.baidu.com/Blog/index-view?id=183) dat is getrained met een  *"large-scale Chinese corpus"*. Volgens [Arstechnica](https://arstechnica.com/information-technology/2023/02/china-plays-catch-up-to-chatgpt-as-hype-builds-around-ai/?comments=1&comments-page=1) is dit een vorm van Big Tech *"Grand standing"*. Het AI-model dat ten grondslag ligt aan ERNIE is sinds 2019 in ontwikkeling, waarbij de nieuwste generatie is getraind op 260 miljard parameters *---vergelijkbaar met ChatGPT's LLM GPT3---*, qua omvang, maar getraind op een veel kleinere dataset.
+
+
 
 
 <!--
