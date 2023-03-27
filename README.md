@@ -1048,14 +1048,15 @@ Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan wo
 
 ### Hoe effectief is ChatGPT in het beoordelen van studentwerkstukken op basis van een RUBRICs?
 
-Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende papers:
+Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende bronnen:
 
-| Author(s) | Year | Title | Journal | DOI |
+| Author(s) | Year | Title | Journal/Publisher | DOI |
 | --- | --- | --- | --- | --- |
 | Dai, C. P., & Ke, F. | 2022 | Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review | Computers and Education: Artificial Intelligence | https://doi.org/10.1016/j.caeai.2022.100087 |
 | Gardner, J., O'Leary, M., & Yuan, L. | 2021 | Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’ | Journal of Computer Assisted Learning | https://doi.org/10.1111/jcal.12577 |
 | Kaddoura, S., Popescu, D. E., & Hemanth, J. D. | 2022 | A systematic review on machine learning models for online learning and examination systems | PeerJ Computer Science | http://dx.doi.org/10.7717/peerj-cs.986 |
 | Vo, N. N., Vu, Q. T., Vu, N. H., Vu, T. A., Mach, B. D., & Xu, G. | 2022 | Domain-specific NLP system to support learning path and curriculum design at tech universities | Computers and Education: Artificial Intelligence | https://doi.org/10.1016/j.caeai.2021.100042 |
+| Popenici, S. | (2022) | Artificial Intelligence and Learning Futures: Critical Narratives of Technology and Imagination in Higher Education. | Taylor & Francis. | https://doi.org/10.4324/9781003266563 |
 
 <br>
 
@@ -1069,7 +1070,7 @@ Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan 
 * Vo, N. N., Vu, Q. T., Vu, N. H., Vu, T. A., Mach, B. D., & Xu, G. (2022). Domain-specific NLP system to support learning path and curriculum design at tech universities. Computers and Education: Artificial Intelligence, 3, 100042. https://doi.org/10.1016/j.caeai.2021.100042
 -->
 
-Deze onderzoeken bieden een overview van de inzet van AI-technologie in het (hoger) onderwijs met betrekking tot (1) formatieve beoordelingen, (2) summatieve beoordelingen, (3) predictive analytics en (4) Toetssurveillance op afstand *---proctoring---*, (5) geautomatiseerde essayscoringsystemen en (6) computergestuurde adaptieve tests.
+Deze bronnen bieden een overview van de inzet van AI-technologie in het (hoger) onderwijs met betrekking tot (1) formatieve beoordelingen, (2) summatieve beoordelingen, (3) predictive analytics en (4) Toetssurveillance op afstand *---proctoring---*, (5) geautomatiseerde essayscoringsystemen en (6) computergestuurde adaptieve tests.
 
 De recente ontwikkelingen rondom LLMs  *---zoals Generative Pre-trained Transformers [GPTs]; zie [Overzicht ontstaansgeschiedenis van tansformers](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#overzicht-ontstaansgeschiedenis-van-op-transformer-gebaseerde-conversationele-agenten)---* wordt echter buiten beschouwing gelaten. 
 
@@ -1135,6 +1136,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 * Lyu, Q., Havaldar, S., Stein, A., Zhang, L., Rao, D., Wong, E., ... & Callison-Burch, C. (2023). Faithful Chain-of-Thought Reasoning. arXiv preprint https://doi.org/10.48550/arXiv.2301.13379
 
 * Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
+
+* Popenici, S. (2022). Artificial Intelligence and Learning Futures: Critical Narratives of Technology and Imagination in Higher Education. Taylor & Francis. https://doi.org/10.4324/9781003266563
 
 * Rascka, S. AI Magazine Blog (16 jan 2023) Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html 
 
