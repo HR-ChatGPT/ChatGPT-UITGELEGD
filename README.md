@@ -1578,7 +1578,8 @@ als LLM gebruikt. Bing beschikt hierdoor over de meest uitgebreide [*"Copilot"*]
 
 >*“We are happy to confirm that the new Bing is running on GPT-4, which we’ve customized for search,” Microsoft’s Yusuf Mehdi, the company’s corporate VP and consumer chief marketing officer, wrote. <br> <br>  “If you’ve used the new Bing preview at any time in the last five weeks, you’ve already experienced an early version of this powerful model.”*
 
-Sinds Microsoft de nieuwe Bing  *"zoek- en chatervaring"* aankondigde, hebben ze het over technologie genaamd *"Prometheus"*. In het begin werd Prometheus beschreven als een model om de integratie van Bing Search en AI-chat aan te drijven. Nu heeft Microsoft in meer technisch detail uitgelegd hoe [Prometheus](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing) werkt. 
+Sinds Microsoft de nieuwe Bing  *"zoek- en chatervaring"* aankondigde, hebben ze het over technologie genaamd *"Prometheus"*. In het begin werd Prometheus beschreven als een model om de integratie van Bing Search en AI-chat aan te drijven. Nu heeft Microsoft in meer technisch detail uitgelegd hoe [Prometheus](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing) werkt.
+ 
 
 >*""We hebben een eigen technologie ontwikkeld die we Prometheus noemen, een eerste AI-model dat de uitgebreide index, ranking en antwoordresultaten van Bing combineert met het creatieve redeneervermogen van de meest geavanceerde GPT-modellen van OpenAI", [schreef Jordi Ribas, Corporate Vice President, Search & AI bij Microsoft.](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing)"*
 
