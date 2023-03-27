@@ -1056,7 +1056,7 @@ Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan 
 | Gardner, J., O'Leary, M., & Yuan, L. | 2021 | Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’ | Journal of Computer Assisted Learning | https://doi.org/10.1111/jcal.12577 |
 | Kaddoura, S., Popescu, D. E., & Hemanth, J. D. | 2022 | A systematic review on machine learning models for online learning and examination systems | PeerJ Computer Science | http://dx.doi.org/10.7717/peerj-cs.986 |
 | Vo, N. N., Vu, Q. T., Vu, N. H., Vu, T. A., Mach, B. D., & Xu, G. | 2022 | Domain-specific NLP system to support learning path and curriculum design at tech universities | Computers and Education: Artificial Intelligence | https://doi.org/10.1016/j.caeai.2021.100042 |
-| Popenici, S. | (2022) | Artificial Intelligence and Learning Futures: Critical Narratives of Technology and Imagination in Higher Education. | Taylor & Francis. | https://doi.org/10.4324/9781003266563 |
+| Popenici, S. | 2022 | Artificial Intelligence and Learning Futures: Critical Narratives of Technology and Imagination in Higher Education. | Taylor & Francis. | https://doi.org/10.4324/9781003266563 |
 
 <br>
 
