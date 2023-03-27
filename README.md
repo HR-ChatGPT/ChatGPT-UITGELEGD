@@ -1048,13 +1048,24 @@ Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan wo
 
 #### Hoe effectief is ChatGPT in het beoordelen van studentwerkstukken op basis van een RUBRICs?
 
-Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende artikel:
+Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende papers:
 
 * Gardner, J., O'Leary, M., & Yuan, L. (2021). Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’. Journal of Computer Assisted Learning, 37(5), 1207-1216. https://doi.org/10.1111/jcal.12577
 
-Het biedt een kritisch perspectief op de inzet van AI-technologie in het hoger onderwijs met betrekking tot (1) formatieve en (2) summatieve beoordelingen. Het artikel geeft voorbeelden over twee kerntoepassingen (1) geautomatiseerde essayscoringsystemen en (2) computergestuurde adaptieve tests.
+*Kaddoura, S., Popescu, D. E., & Hemanth, J. D. (2022). A systematic review on machine learning models for online learning and examination systems. PeerJ Computer Science, 8, e986. http://dx.doi.org/10.7717/peerj-cs.986
 
-Echter, de toekankelijkheid van LLMs via een conversationele agent zoals ChatGPT zet de besproken aanpak volledig op zijn kop, omdat xxxx
+Deze onderzoeken bieden een overview van de inzet van AI-technologie in het (hoger) onderwijs met betrekking tot (1) formatieve beoordelingen, (2) summatieve beoordelingen, (3) predictive analytics en (4) Toetssurveillance op afstand *---proctoring---*, (5) geautomatiseerde essayscoringsystemen en (^) computergestuurde adaptieve tests.
+
+De recente ontwikkelingen rondom LLMs  *---zoals Generative Pre-trained Transformers [GPTs]; zie [Overzicht ontstaansgeschiedenis van tansformers](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#overzicht-ontstaansgeschiedenis-van-op-transformer-gebaseerde-conversationele-agenten)---* wordt echter buiten beschouwing gelaten. 
+
+Nagenoeg alle recente studies gerelateerd aan de inzet van GPT-technologie in een onderwijssetting zijn gericht op het meten van domein kennis van AI in vergelijking met die van een menselijke expert. Opvallend veel van deze studies zijn gericht op het beoordelen van de kwaliteit van de AI-uitkomsten met betrekking tot medische diagnoses, zoasl blijkt uit de volgende papers:
+
+
+* Kung, T. H., Cheatham, M., Medenilla, A., Sillos, C., De Leon, L., & Elepaño, C. (2023). Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. PLOS Digit Health 2 (2): e0000198. https://doi.org/10.1371/journal.pdig.0000198
+
+* Liévin, V., Hother, C. E., & Winther, O. (2022). Can large language models reason about medical questions?. arXiv preprint https://doi.org/10.48550/arXiv.2207.08143
+
+
 
 De in deze repository beschreven *"proof-of-concepts"* tonen aan dat LLMs *---door gebruikmaking van In-Context leren---* kunnen worden benut om stukken tekst te beoordelen op basis van een toetsingskader.  Dit is een belangrijke stap in het toepassen van AI-technologie voor het volledig automatisch beoordelen van studentwerkstukken. 
 
@@ -1085,6 +1096,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 * Khot, T., Trivedi, H., Finlayson, M., Fu, Y., Richardson, K., Clark, P., & Sabharwal, A. (2022). Decomposed prompting: A modular approach for solving complex tasks. arXiv preprint https://doi.org/10.48550/arXiv.2210.02406
 
 * Lester, B., Al-Rfou, R., & Constant, N. (2021). The power of scale for parameter-efficient prompt tuning. arXiv preprint https://doi.org/10.48550/arXiv.2104.08691
+
+* Kaddoura, S., Popescu, D. E., & Hemanth, J. D. (2022). A systematic review on machine learning models for online learning and examination systems. PeerJ Computer Science, 8, e986. http://dx.doi.org/10.7717/peerj-cs.986
 
 * Liu, H., Tam, D., Muqeeth, M., Mohta, J., Huang, T., Bansal, M., & Raffel, C. (2022). Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning. arXiv preprint https://doi.org/10.48550/arXiv.2205.05638
 
