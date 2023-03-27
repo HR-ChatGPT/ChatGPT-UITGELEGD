@@ -2835,7 +2835,11 @@ Verschillende *"prompt-engineering technieken"*  worden besproken zoals *in-cont
 - GPT3: *"Een effectieve prompt is algemeen genoeg om voor verschillende taken te worden gebruikt, maar specifiek genoeg om nuttig te zijn voor een bepaalde taak"*
 - Human: *"Een effectieve prompt is er een die specifiek is en voldoende context biedt voor het model om een antwoord te kunnen genereren dat relevant is voor de beoogde taak."*
 
-#### Lijst met links naar voorbeelden voor het maken van *"effectieve"* opdrachten.
+Voor het gebruik van GPT-technologie *---zoals Bing---* om snel en gemakkelijk evidence-based onderwijsstrategieën te implementeren die docenten in hun onderwijs kunnen integreren verwijs ik naar de onderstaande studie:
+
+* Mollick, E. R., & Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts https://dx.doi.org/10.2139/ssrn.4391243
+
+#### Lijst met leerzame voorbeelden voor het maken van *"effectieve"* prompt recepten.
 
 
 | Prompt Engineering Repositories |
