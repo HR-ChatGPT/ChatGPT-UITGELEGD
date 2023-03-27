@@ -1,5 +1,8 @@
-# AI's NEW FRONTIER is called Chat-GPT
+# ChatGPT - UITGELEGD voor het hoger onderwijs
 
+<!--
+AI's NEW FRONTIER is called Chat-GPT
+-->
 
 <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
@@ -1575,6 +1578,10 @@ als LLM gebruikt. Bing beschikt hierdoor over de meest uitgebreide [*"Copilot"*]
 
 >*“We are happy to confirm that the new Bing is running on GPT-4, which we’ve customized for search,” Microsoft’s Yusuf Mehdi, the company’s corporate VP and consumer chief marketing officer, wrote. <br> <br>  “If you’ve used the new Bing preview at any time in the last five weeks, you’ve already experienced an early version of this powerful model.”*
 
+Sinds Microsoft de nieuwe Bing AI zoek- en chatervaring aankondigde, hebben ze het over technologie genaamd "Prometheus". In het begin werd Prometheus beschreven als een model om de integratie van Bing Search en AI-chat aan te drijven. Nu heeft Microsoft in meer technisch detail uitgelegd hoe Prometheus precies werkt.
+
+>*""We hebben een eigen technologie ontwikkeld die we Prometheus noemen, een eerste AI-model dat de uitgebreide index, ranking en antwoordresultaten van Bing combineert met het creatieve redeneervermogen van de meest geavanceerde GPT-modellen van OpenAI", [schreef Jordi Ribas, Corporate Vice President, Search & AI bij Microsoft.](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing)"*
+
 
 Gevolg is dat ook Alphabet een chatbot genaamd [*Bard*](https://blog.google/technology/ai/bard-google-ai-search-updates/) heeft aangekondigd op 6 februari 2023, dat het gaat toevoegen aan zijn eigen Google zoekmachine. 
 Via Google's [*"AI Test Kitchen"*](https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/) is hun *"Language Model for Dialogue Applications"* [LaMDA] uit te proberen; althans voor een beperkt aantal *"onderzoekers"* woonachtig in de VS.
@@ -1603,6 +1610,8 @@ https://huggingface.co/blog/large-language-models
 
 
 ### Geselecteerde referenties voor verder lezen
+
+* Microsoft Bing Blogs (22 februarii 2023). Building the new Bing. https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing
 
 * The Verge (07 maart 2023) heeft een zeer inzichtelijk overzicht gemaakt van *"Big Tech"* die nu volop inzetten op het implementeren van GPT AI-technologie in hun producten & diensten, getiteld: [*"Meet the companies trying to keep up with ChatGPT"*](https://www.theverge.com/2023/3/5/23599209/companies-keep-up-chatgpt-ai-chatbots)
 
