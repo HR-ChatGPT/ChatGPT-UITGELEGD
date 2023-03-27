@@ -1087,7 +1087,7 @@ Nagenoeg alle recente studies gerelateerd aan de inzet van GPT-technologie in ee
 
 * Liévin, V., Hother, C. E., & Winther, O. (2022). Can large language models reason about medical questions?. arXiv preprint https://doi.org/10.48550/arXiv.2207.08143
 
-* Mollick, E. R., & Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. https://dx.doi.org/10.2139/ssrn.4391243
+* Mollick, E. R., & Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts https://dx.doi.org/10.2139/ssrn.4391243
 -->
 <br> 
 
@@ -2309,6 +2309,9 @@ Tenslotte, verwijs ik naar de FAQ [Is er een ChatGPT "code-of-conduct" en/of ric
 De volgende trend valt hieruit op te maken. Docenten en studenten uit alle geledingen  van het hoger onderwijs *---Hogescholen en universiteiten ---* voelen de noodzaak om een standpunt in te nemen te aanzien van het gebruik van ChatGPT in het onderwijs en dit online kenbaar te maken. Dit is een goede ontwikkeling, omdat het de discussie over de toepassing van ChatGPT in het onderwijs een stuk transparanter maakt. Er lijkt consensus te zijn dat het inzetten en gebruik van conversationele agenten *---zoals ChatGPT---* kansen biedt om (1) het onderwijs te verrijken en (2) de kwaliteitsstandaard te verhogen. Waar de meningen vooral over verschillen is de wijze waarop studenten gebruik mogen maken van AI-diensten om te kunnen het voldoen aan inleveropdrachten, als het überhaupt al is toegestaan. Een fraai voorbeeld hiervan is de  *” ChatGPT workshop voor docenten”* ontwikkeld door [het Programming Teaching Lab en het Teaching and Learning Centre Science]( https://tlc.uva.nl/article/chatgpt-workshop-voor-docenten/) van de UVA. Dit alles valt na te lezen in de [Slides](https://tlc.uva.nl/wp-content/uploads/2023/02/ChatGPT-workshop-voor-docenten-02-02-2023-NL.pdf)
 
 
+### Geselecteerde referenties voor verder lezen
+
+* Mollick, E. R., & Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts https://dx.doi.org/10.2139/ssrn.4391243
 
 <!--
 https://www.icreatemagazine.nl/nieuws/chatgpt-plus/
