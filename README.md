@@ -1046,7 +1046,7 @@ Het antwoord in dit geval is onjuist.
 Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan worden om als beoordelingsinstrument, maar het is nog niet betrouwbaar *"genoeg"*. 
 
 
-#### Hoe effectief is ChatGPT in het beoordelen van studentwerkstukken op basis van een RUBRICs?
+### Hoe effectief is ChatGPT in het beoordelen van studentwerkstukken op basis van een RUBRICs?
 
 Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende papers:
 
