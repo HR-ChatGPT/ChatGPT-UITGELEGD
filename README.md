@@ -1050,25 +1050,54 @@ Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan wo
 
 Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende papers:
 
+| Author(s) | Year | Title | Journal | DOI |
+| --- | --- | --- | --- | --- |
+| Dai, C. P., & Ke, F. | 2022 | Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review | Computers and Education: Artificial Intelligence | https://doi.org/10.1016/j.caeai.2022.100087 |
+| Gardner, J., O'Leary, M., & Yuan, L. | 2021 | Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’ | Journal of Computer Assisted Learning | https://doi.org/10.1111/jcal.12577 |
+| Kaddoura, S., Popescu, D. E., & Hemanth, J. D. | 2022 | A systematic review on machine learning models for online learning and examination systems | PeerJ Computer Science | http://dx.doi.org/10.7717/peerj-cs.986 |
+| Vo, N. N., Vu, Q. T., Vu, N. H., Vu, T. A., Mach, B. D., & Xu, G. | 2022 | Domain-specific NLP system to support learning path and curriculum design at tech universities | Computers and Education: Artificial Intelligence | https://doi.org/10.1016/j.caeai.2021.100042 |
+
+<br>
+
+<!--
+* Dai, C. P., & Ke, F. (2022). Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review. Computers and Education: Artificial Intelligence, 100087. https://doi.org/10.1016/j.caeai.2022.100087
+
 * Gardner, J., O'Leary, M., & Yuan, L. (2021). Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’. Journal of Computer Assisted Learning, 37(5), 1207-1216. https://doi.org/10.1111/jcal.12577
 
 * Kaddoura, S., Popescu, D. E., & Hemanth, J. D. (2022). A systematic review on machine learning models for online learning and examination systems. PeerJ Computer Science, 8, e986. http://dx.doi.org/10.7717/peerj-cs.986
 
-Deze onderzoeken bieden een overview van de inzet van AI-technologie in het (hoger) onderwijs met betrekking tot (1) formatieve beoordelingen, (2) summatieve beoordelingen, (3) predictive analytics en (4) Toetssurveillance op afstand *---proctoring---*, (5) geautomatiseerde essayscoringsystemen en (^) computergestuurde adaptieve tests.
+* Vo, N. N., Vu, Q. T., Vu, N. H., Vu, T. A., Mach, B. D., & Xu, G. (2022). Domain-specific NLP system to support learning path and curriculum design at tech universities. Computers and Education: Artificial Intelligence, 3, 100042. https://doi.org/10.1016/j.caeai.2021.100042
+-->
+
+Deze onderzoeken bieden een overview van de inzet van AI-technologie in het (hoger) onderwijs met betrekking tot (1) formatieve beoordelingen, (2) summatieve beoordelingen, (3) predictive analytics en (4) Toetssurveillance op afstand *---proctoring---*, (5) geautomatiseerde essayscoringsystemen en (6) computergestuurde adaptieve tests.
 
 De recente ontwikkelingen rondom LLMs  *---zoals Generative Pre-trained Transformers [GPTs]; zie [Overzicht ontstaansgeschiedenis van tansformers](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#overzicht-ontstaansgeschiedenis-van-op-transformer-gebaseerde-conversationele-agenten)---* wordt echter buiten beschouwing gelaten. 
 
 Nagenoeg alle recente studies gerelateerd aan de inzet van GPT-technologie in een onderwijssetting zijn gericht op het meten van domein kennis van AI in vergelijking met die van een menselijke expert. Opvallend veel van deze studies zijn gericht op het beoordelen van de kwaliteit van de AI-uitkomsten met betrekking tot medische diagnoses, zoasl blijkt uit de volgende papers:
 
+| Author(s) | Year | Title | Journal | DOI |
+| --- | --- | --- | --- | --- |
+| Kung, T. H., Cheatham, M., Medenilla, A., Sillos, C., De Leon, L., & Elepaño, C. | 2023 | Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models | PLOS Digit Health 2 (2): e0000198 | https://doi.org/10.1371/journal.pdig.0000198 |
+| Liévin, V., Hother, C. E., & Winther, O. | 2022 | Can large language models reason about medical questions? | arXiv preprint | https://doi.org/10.48550/arXiv.2207.08143 |
 
+
+
+<!--
 * Kung, T. H., Cheatham, M., Medenilla, A., Sillos, C., De Leon, L., & Elepaño, C. (2023). Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. PLOS Digit Health 2 (2): e0000198. https://doi.org/10.1371/journal.pdig.0000198
 
 * Liévin, V., Hother, C. E., & Winther, O. (2022). Can large language models reason about medical questions?. arXiv preprint https://doi.org/10.48550/arXiv.2207.08143
 
+* Mollick, E. R., & Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. https://dx.doi.org/10.2139/ssrn.4391243
+-->
+<br> 
 
+Recentelijk is onderzocht of een door mensen ontworpen RUBRICs als input kan dienen voor het toepassen van een machinaal lerend [ML] Random Forest algoritme om studentwerkstukken *---in dit geval essays---* te laten beoordelen, te voorzien van formatieve feedback; met als doel  deze vorm van AI-technologie  als surrogaat voor docentinteracties te fungeren:
 
-De in deze repository beschreven *"proof-of-concepts"* tonen aan dat LLMs *---door gebruikmaking van In-Context leren---* kunnen worden benut om stukken tekst te beoordelen op basis van een toetsingskader.  Dit is een belangrijke stap in het toepassen van AI-technologie voor het volledig automatisch beoordelen van studentwerkstukken. 
+* Lee, A. V. Y., Luco, A. C., & Tan, S. C. (2023). A Human-centric automated essay scoring and feedback system for the development of ethical reasoning. Educational Technology & Society, 26(1), 147-159. https://doi.org/10.30191/ETS.202301_26(1).0011
 
+Volgens de auteurs is het nog *"niet mogelijk"* op basis van een machinaal lerend [ML] Random Forest algoritme om  *"een machine learning-model te ontwikkelen dat de kwaliteit van de feedback van een menselijke docent kan evenaren"*.
+
+De in deze repository beschreven [*"keten-van-gedachten [CoT] prompt recepten"*] (https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#hoe-effectief-is-keten-van-gedachten----chain-of-thoughts-cot---) tonen aan dat LLMs *---door gebruikmaking van In-Context leren---* kunnen worden benut om stukken tekst te beoordelen op basis van een toetsingskader.  Dit is een belangrijke stap in het toepassen van GPT-technologie voor het volledig automatisch beoordelen van studentwerkstukken *---inclusief de mogelijkheid om feedback te geven vergelijkbaar met van die van een deskundige docent---*. 
 
 Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen conform een specifiek toetsingskader in combinatie met een RUBRICs. Met de komst van GPT-4 is dit realistisch omdat het beschikt over een groot *"actief"* werkgeheugen van ongeveer 50 pagina's aan tekst. Voor meer details zie [GPT-4: Unieke eigenschappen](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#gpt-4-unieke-eigenschappen).
 
