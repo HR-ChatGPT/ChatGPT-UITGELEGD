@@ -1052,7 +1052,7 @@ Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan 
 
 * Gardner, J., O'Leary, M., & Yuan, L. (2021). Artificial intelligence in educational assessment:‘Breakthrough? Or buncombe and ballyhoo?’. Journal of Computer Assisted Learning, 37(5), 1207-1216. https://doi.org/10.1111/jcal.12577
 
-*Kaddoura, S., Popescu, D. E., & Hemanth, J. D. (2022). A systematic review on machine learning models for online learning and examination systems. PeerJ Computer Science, 8, e986. http://dx.doi.org/10.7717/peerj-cs.986
+* Kaddoura, S., Popescu, D. E., & Hemanth, J. D. (2022). A systematic review on machine learning models for online learning and examination systems. PeerJ Computer Science, 8, e986. http://dx.doi.org/10.7717/peerj-cs.986
 
 Deze onderzoeken bieden een overview van de inzet van AI-technologie in het (hoger) onderwijs met betrekking tot (1) formatieve beoordelingen, (2) summatieve beoordelingen, (3) predictive analytics en (4) Toetssurveillance op afstand *---proctoring---*, (5) geautomatiseerde essayscoringsystemen en (^) computergestuurde adaptieve tests.
 
