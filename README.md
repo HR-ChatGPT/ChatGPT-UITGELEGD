@@ -1048,7 +1048,7 @@ Op basis van dit eenvoudige experiment valt op te maken dat ChatGPT benut kan wo
 
 ### Hoe effectief is ChatGPT in het beoordelen van studentwerkstukken op basis van een RUBRICs?
 
-Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens, verwijs ik naar het volgende bronnen:
+Voor een goed begrip van de onderliggende principes die tengrondslag liggen aan het inzetten van AI-technologie *"ter verbetering van de doeltreffendheid en validiteit van de beoordeling van studenten werkstukken en examens"*, verwijs ik naar het volgende bronnen:
 
 | Author(s) | Year | Title | Journal/Publisher | DOI |
 | --- | --- | --- | --- | --- |
@@ -1074,7 +1074,7 @@ Deze bronnen bieden een overview van de inzet van AI-technologie in het (hoger) 
 
 De recente ontwikkelingen rondom LLMs  *---zoals Generative Pre-trained Transformers [GPTs]; zie [Overzicht ontstaansgeschiedenis van tansformers](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#overzicht-ontstaansgeschiedenis-van-op-transformer-gebaseerde-conversationele-agenten)---* wordt echter buiten beschouwing gelaten. 
 
-Nagenoeg alle recente studies gerelateerd aan de inzet van GPT-technologie in een onderwijssetting zijn gericht op het meten van domein kennis van AI in vergelijking met die van een menselijke expert. Opvallend veel van deze studies zijn gericht op het beoordelen van de kwaliteit van de AI-uitkomsten met betrekking tot medische diagnoses, zoasl blijkt uit de volgende papers:
+Nagenoeg alle recente studies gerelateerd aan de inzet van GPT-technologie in een onderwijssetting zijn gericht op het meten van domein kennis van een AI-model in vergelijking met die van een menselijke domein specialist. Opvallend veel van deze studies zijn gericht op het stellen van medische diagnoses, zoals blijkt uit de volgende papers:
 
 | Author(s) | Year | Title | Journal | DOI |
 | --- | --- | --- | --- | --- |
