@@ -1140,6 +1140,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 
 * Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
+* Mitchell, M., & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13), e2215907120. https://doi.org/doi:10.1073/pnas.2215907120 
+
 * Popenici, S. (2022). Artificial Intelligence and Learning Futures: Critical Narratives of Technology and Imagination in Higher Education. Taylor & Francis. https://doi.org/10.4324/9781003266563
 
 * Rascka, S. AI Magazine Blog (16 jan 2023) Curated Resources and Trustworthy Experts: The Key Ingredients for Finding Accurate Answers to Technical Questions in the Future https://sebastianraschka.com/blog/2023/chatgpt-dilemma.html 
@@ -1205,7 +1207,7 @@ consistent is met het argument. Hier is een voorbeeld uit de dataset:
 
 * Minaee, S., Kalchbrenner, N., Cambria, E., Nikzad, N., Chenaghlu, M., & Gao, J. (2021). Deep learning--based text classification: a comprehensive review. ACM computing surveys (CSUR), 54(3), 1-40. https://doi.org/10.1145/3439726
 
-* Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
+* Mitchell, M., & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13), e2215907120. https://doi.org/doi:10.1073/pnas.2215907120 
 
 * Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. Proceedings of the National Academy of Sciences, 117(48), 30033-30038. https://doi.org/doi:10.1073/pnas.1907373117 
 
@@ -3085,7 +3087,7 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
-* <sub> Mitchell, M., & Krakauer, D. C. (2022). The Debate Over Understanding in AI's Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2210.13966
+* <sub> Mitchell, M., & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13), e2215907120. https://doi.org/doi:10.1073/pnas.2215907120 
 
 * <sub> Minaee, S., Kalchbrenner, N., Cambria, E., Nikzad, N., Chenaghlu, M., & Gao, J. (2021). Deep learning--based text classification: a comprehensive review. ACM computing surveys (CSUR), 54(3), 1-40. https://doi.org/10.1145/3439726
 
