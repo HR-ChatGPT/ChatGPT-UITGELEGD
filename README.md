@@ -543,7 +543,10 @@ Met andere woorden, taalmodellen zijn niet ontworpen om te voldoen aan de behoef
 Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt het noodzakelijk om de gebreken & vooringenomenheid van ChatGPT systematische te onderzoeken en te categoriseren.  Een Blog getiteld (18 februari 2023): *"The Road to AI We Can Trust: How Not to Test GPT-3"* geschreven door Gary F. Marcus & Ernest Davis *---beiden hoogleraren aan de New York University---*  en een recent paper, getiteld [*"A Categorical Archive of ChatGPT Failures"*](https://doi.org/10.48550/arXiv.2302.03494), geeft een eerste aanzet daartoe.
 
 Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodig om de progressie van taalmodellen objectief te kunnen meten. Hierdoor kunnen de prestaties van GPT-gedreven chatbots accuraat en objectief worden beoordeeld. Maar om een dergelijke test te kunnen opstellen is inzage nodig in de interne werking van de taalmodellen. En dat is nu niet mogelijk omdat de ontwikkelaars van ChatGPT de broncode en de specificatie van de gehanteerde training datasets niet vrijgeven.
- 
+
+<br> 
+
+##### Sugesties voor verdere lezing:
 
 * Mehri, S., Choi, J., D'Haro, L. F., Deriu, J., Eskenazi, M., Gasic, M., ... & Zhang, C. (2022). Report from the nsf future directions workshop on automatic evaluation of dialog: Research directions and challenges. arXiv preprint https://doi.org/10.48550/arXiv.2203.10012
 
