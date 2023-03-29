@@ -545,6 +545,8 @@ Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt he
 Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodig om de progressie van taalmodellen objectief te kunnen meten. Hierdoor kunnen de prestaties van GPT-gedreven chatbots accuraat en objectief worden beoordeeld. Maar om een dergelijke test te kunnen opstellen is inzage nodig in de interne werking van de taalmodellen. En dat is nu niet mogelijk omdat de ontwikkelaars van ChatGPT de broncode en de specificatie van de gehanteerde training datasets niet vrijgeven.
  
 
+* Mehri, S., Choi, J., D'Haro, L. F., Deriu, J., Eskenazi, M., Gasic, M., ... & Zhang, C. (2022). Report from the nsf future directions workshop on automatic evaluation of dialog: Research directions and challenges. arXiv preprint https://doi.org/10.48550/arXiv.2203.10012
+
 <br>
 
 
@@ -1113,6 +1115,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 
 
 #### Geselecteerde referenties voor verder lezen
+
+* Akyürek, E., Schuurmans, D., Andreas, J., Ma, T., & Zhou, D. (2022). What learning algorithm is in-context learning? investigations with linear models. arXiv preprint https://doi.org/10.48550/arXiv.2211.15661
 
 * Bronkhorst, H., Roorda, G., Suhre, C., & Goedhart, M. (2020). Logical reasoning in formal and everyday reasoning tasks. International Journal of Science and Mathematics Education, 18, 1673-1694. https://doi.org/10.1007/s10763-019-10039-8
 
