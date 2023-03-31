@@ -553,7 +553,7 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 <br>
 
 
-#### [8] Extreme opschaling van taalmodellen leidt tot onvoorziene *"emergente eigenschappen"* van  ChatGPT niet te voorspellen en kunnen alleen post-hoc vastgesteld worden.
+#### [8] Extreme opschaling van taalmodellen leidt tot onvoorziene *"emergente eigenschappen"*; deze kunnen alleen post-hoc vastgesteld worden.
 
 In een veel geciteerd arXiv paper getiteld: [*"On the Opportunities and Risks of Foundation Models"*](https://doi.org/10.48550/arXiv.2108.07258) wordt benadrukt dat *"foundation models"* een paradigm-shift hebben veroorzaakt die van dezelfde orde van magnitude is als de ontwikkeling van *"deep Learning models"* in 2010. Deze "parardigm-shift" hypothese wordt vooral ondersteund door het vermogen van Foundation modellelen om *"emergente eigenschappen"* te ontwikkelen.
 
