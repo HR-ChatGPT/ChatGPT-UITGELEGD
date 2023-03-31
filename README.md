@@ -546,7 +546,7 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 
 <br> 
 
-##### Sugesties voor verdere lezing:
+##### suggesties voor verdere lezing:
 
 * Mehri, S., Choi, J., D'Haro, L. F., Deriu, J., Eskenazi, M., Gasic, M., ... & Zhang, C. (2022). Report from the nsf future directions workshop on automatic evaluation of dialog: Research directions and challenges. arXiv preprint https://doi.org/10.48550/arXiv.2203.10012
 
@@ -573,7 +573,7 @@ Een van de weinige onderzoeken die zich hiermee bezig houdt is getiteld: [*"How 
 b9a57ac0fcf74f30a1ab9e3e36fa1dc1) en is geschreven door Yao Fu, Hui Peng & Tushar Khot.
 
 
-##### Sugesties voor verdere lezing:
+##### suggesties voor verdere lezing:
 
 * Huang, J., & Chang, K. C. C. (2022). Towards Reasoning in Large Language Models: A Survey. arXiv preprint arXiv https://doi.org/10.48550/arXiv.2212.10403
 
