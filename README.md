@@ -194,7 +194,7 @@ https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten?](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
 * [0f] [+Voldoen Gen-AI *---zoals ChatGPT---* aan Europese AI-Regelgeving?](#v0f)
-* [0g] [+Hoe FAIR Gen-AI *---zoals ChatGPT---* eigenlijk?](#v0g)
+* [0g] [+Hoe FAIR zijn Gen-AI *---zoals ChatGPT---* eigenlijk?](#v0g)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -1332,6 +1332,17 @@ De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te
 * Veale, M., & Zuiderveen Borgesius, F. (2021). Demystifying the Draft EU Artificial Intelligence Act—Analysing the good, the bad, and the unclear elements of the proposed approach. Computer Law Review International, 22(4), 97-112. https://doi.org/10.9785/cri-2021-220402
 
 <br> 
+
+# v0g
+
+
+*******
+### [0g] HOE FAIR ZIJN GEI_AI *---zoals ChatGPT---* EIGENLIJK?
+*******
+
+
+<br>
+
 
 # v1a
 
