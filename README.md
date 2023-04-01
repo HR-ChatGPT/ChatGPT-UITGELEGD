@@ -1148,6 +1148,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 
 * Lyu, Q., Havaldar, S., Stein, A., Zhang, L., Rao, D., Wong, E., ... & Callison-Burch, C. (2023). Faithful Chain-of-Thought Reasoning. arXiv preprint https://doi.org/10.48550/arXiv.2301.13379
 
+* Min, S., Lyu, X., Holtzman, A., Artetxe, M., Lewis, M., Hajishirzi, H., & Zettlemoyer, L. (2022). Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?. arXiv preprint https://doi.org/10.48550/arXiv.2202.12837
+
 * Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
 * Mitchell, M., & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13), e2215907120. https://doi.org/doi:10.1073/pnas.2215907120 
@@ -3099,7 +3101,9 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Min, S., Wallace, E., Singh, S., Gardner, M., Hajishirzi, H., & Zettlemoyer, L. (2019). Compositional questions do not necessitate multi-hop reasoning. arXiv preprint https://doi.org/10.48550/arXiv.1906.02900
 
-* <sub> Mitchell, M., & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13), e2215907120. https://doi.org/doi:10.1073/pnas.2215907120 
+* <sub> Mitchell, M., & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13), e2215907120. https://doi.org/doi:10.1073/pnas.2215907120
+
+* <sub> Min, S., Lyu, X., Holtzman, A., Artetxe, M., Lewis, M., Hajishirzi, H., & Zettlemoyer, L. (2022). Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?. arXiv preprint https://doi.org/10.48550/arXiv.2202.12837
 
 * <sub> Minaee, S., Kalchbrenner, N., Cambria, E., Nikzad, N., Chenaghlu, M., & Gao, J. (2021). Deep learning--based text classification: a comprehensive review. ACM computing surveys (CSUR), 54(3), 1-40. https://doi.org/10.1145/3439726
 
