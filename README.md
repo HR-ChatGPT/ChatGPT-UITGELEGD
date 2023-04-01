@@ -194,6 +194,7 @@ https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten?](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
 * [0f] [+Voldoen Gen-AI *---zoals ChatGPT---* aan Europese AI-Regelgeving?](#v0f)
+* [0g] [+Hoe FAIR Gen-AI *---zoals ChatGPT---* eigenlijk?](#v0g)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -1122,6 +1123,8 @@ Een belangrijke onderzoeksvraag is dan: *" Kan ChatGPT stukken tekst beoordelen 
 * Akyürek, E., Schuurmans, D., Andreas, J., Ma, T., & Zhou, D. (2022). What learning algorithm is in-context learning? investigations with linear models. arXiv preprint https://doi.org/10.48550/arXiv.2211.15661
 
 * Bronkhorst, H., Roorda, G., Suhre, C., & Goedhart, M. (2020). Logical reasoning in formal and everyday reasoning tasks. International Journal of Science and Mathematics Education, 18, 1673-1694. https://doi.org/10.1007/s10763-019-10039-8
+
+* Dong, Q., Li, L., Dai, D., Zheng, C., Wu, Z., Chang, B., ... & Sui, Z. (2022). A Survey for In-context Learning. arXiv preprint https://doi.org/10.48550/arXiv.2301.00234
 
 * Huang, J., & Chang, K. C. C. (2022). Towards Reasoning in Large Language Models: A Survey. arXiv preprint arXiv https://doi.org/10.48550/arXiv.2212.10403
 
@@ -3036,6 +3039,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> DeSilva, J. M., Traniello, J. F. A., Claxton, A. G., & Fannin, L. D. (2021). When and Why Did Human Brains Decrease in Size? A New Change-Point Analysis and Insights From Brain Evolution in Ants [Original Research]. Frontiers in Ecology and Evolution, 9. https://doi.org/10.3389/fevo.2021.742639 
 
 * <sub> Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint https://doi.org/10.48550/arXiv.1810.04805
+
+* <sub>  Dong, Q., Li, L., Dai, D., Zheng, C., Wu, Z., Chang, B., ... & Sui, Z. (2022). A Survey for In-context Learning. arXiv preprint https://doi.org/10.48550/arXiv.2301.00234
 
 * <sub> Finnie-Ansley, J., Denny, P., Becker, B. A., Luxton-Reilly, A., & Prather, J. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. In ACE '22: Australasian Computing Education Conference (pp. 10-19). https://doi.org/10.1145/3511861.3511863
 
