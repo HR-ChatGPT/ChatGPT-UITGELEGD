@@ -1337,7 +1337,7 @@ De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te
 
 
 *******
-### [0g] HOE FAIR ZIJN GEI_AI *---zoals ChatGPT---* EIGENLIJK?
+### [0g] HOE FAIR ZIJN Gen-AI *---zoals ChatGPT---* EIGENLIJK?
 *******
 
 
