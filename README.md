@@ -1950,7 +1950,12 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 #### Referenties op basis waarvan het onderstaande antwoord is opgesteld:
 
+* Crothers, E., Japkowicz, N., & Viktor, H. (2023). Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods. arXiv preprint https://doi.org/10.48550/arXiv.2210.07321
+
 * Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
+
+* Melissa Heikkiläarchive (19 december 2022). AI BLOG MIT Technology Review.  How to spot AI-generated text
+The internet is increasingly awash with text written by AI software. We need new tools to detect it.
 
 * Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) 
 
@@ -1985,6 +1990,8 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + <br> [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
 
+
+
 | URL | tool name | LLM
 ---- | ---- | ---
 https://gptzero.me/ | GPTzero | GTP-2
@@ -1997,6 +2004,34 @@ https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
 https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GTP-2
 http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
+
+<br> 
+
+De onderstaande tabel is gebaseerd op een studie door Crothers, E., Japkowicz, N., & Viktor, H. (2023). <br> *Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods.*  <br> arXiv preprint https://doi.org/10.48550/arXiv.2210.07321
+
+<br> 
+
+| Tool Naam             | Model  | Onderzoek          | Statistisch <br> analyse | NLM analyse | GPT2                            | GPT-3                       | Grover                        | Other Datasets/Models       |
+| ----------------------------- | -----------| -------------------------- | -------------- | ------------ | -------------------------------| -------------------------- | -----------------------------| ----------------------------|
+| Algorithmic Detection         | K-nearest-neighbor | Lavoie et al. 2010    |       ✓        |              |                                 |                            |                               | SCIgen                       |
+| Statistical Features          | SVM        | Nguyen-Son et al. 2017      |       ✓        |              |                                 |                            |                               | Google Translate             |
+| TF-IDF Baseline               | LR         | Radford, Wu et al. 2019     |       ✓        |              |                                 |                            |                               |                              |
+|                               |            | Solaiman et al. 2019        |                |              |                                 |                            |                               |                              |
+| Zero-shot GPT-2               | GPT-2     | Radford, Wu et al. 2019     |                |       ✓      | Zellers et al. 2019            | Solaiman et al. 2019       |                               |                              |
+|                               |            | Solaiman et al. 2019        |                |       ✓      |                                 |                            |                               |                              |
+| Zero-shot Grover              | Grover    | Zellers et al. 2019         |                |       ✓      |                                 |                            |       ✓                       |                              |
+|                               |            | Solaiman et al. 2019        |                |       ✓      |                                 |                            |       ✓                       |                              |
+| GLTR                          | BERT, GPT-2 | Gehrmann et al. 2019       |                |       ✓      |                                 |                            |                               |                              |
+|                               |            | Ippolito et al. 2019        |                |       ✓      |                                 |                            |                               |                              |
+| RoBERTa fine-tuning           | RoBERTa   | Solaiman et al. 2019        |                |       ✓      |                                 |       ✓                    |                               |                              |
+| Energy-Based Models           | BiLSTM, GPT, RoBERTa | Bakhtin et al. 2019    |                |       ✓      |                                 |       ✓                    |                               |                              |
+| Feature Ensemble              | LR, SVM, RF, NN | Fröhling et al. 2021  |       ✓        |       ✓      |       ✓                         |       ✓                    |       ✓                       |       ✓                      |
+| Twitter-specific RoBERTa fine-tuning | RoBERTa | Fagni et al. 2021 |       ✓        |       ✓      |                                 |       ✓                    |                               | TweepFake (incl. RNN/LSTM/Markov) |
+| Human-Bot Interaction Feature Ensemble | BERT, LR | Bhatt and Rios, 2021  |       ✓        |       ✓      |                                 |       ✓                    |                               | ConvAI2, WOCHAT, DailyDialog |
+| Neural-Stat. Ensemble         | RoBERTa, SVM | Crothers et al. 2022      |       ✓        |       ✓      |       ✓                         |       ✓                    |       ✓                       |       ✓                      |
+| Explainable classifiers       | RF, XGBoost | Kowalczyk et al. 2022      |       ✓        |             
+
+
 
 Inmiddels is er ook een [Nederlandstalige tool](https://bron.fontys.nl/studenten-ontwikkelen-een-chatgpt-detector/) in de maak. Het is een initiatief van Fontys Hogeschool in samenwerking met [OpenMaze](https://openmaze.io/).
 
@@ -3044,6 +3079,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Chan, A. GPT-3 and InstructGPT: technological dystopianism, utopianism, and “Contextual” perspectives in AI ethics and industry. AI Ethics (2022). https://doi.org/10.1007/s43681-022-00148-6
 
 * <sub> Costanza-Chock, S., Raji, I.D., Buolamwini, J. (2022). Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1571–1583). Association for Computing Machinery. https://doi.org/10.1145/3531146.3533213
+
+* <sub> Crothers, E., Japkowicz, N., & Viktor, H. (2023). Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods. arXiv preprint https://doi.org/10.48550/arXiv.2210.07321
 
 * <sub> Das, A., Liu, H., Kovatchev, V., & Lease, M. (2023). The state of human-centered NLP technology for fact-checking. Information Processing & Management, 60(2), 103219. https://doi.org/https://doi.org/10.1016/j.ipm.2022.103219
 
