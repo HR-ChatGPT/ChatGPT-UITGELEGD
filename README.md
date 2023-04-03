@@ -1372,11 +1372,33 @@ De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te
 ### [0g] HOE FAIR ZIJN Gen-AI *---zoals ChatGPT---* EIGENLIJK?
 *******
 
-AI beïnvloed ons leven direct. Een toenemend aantal beslissingen over ons dagelijks leven worden gestuurd door AI-modellen die machinaal lerende [ML] algoritmen een zeer uiteenlopende toepassingsgebieden variërend van de gezondheidszorg, vervoer en onderwijs tot toelating tot de universiteit, werving, verstrekking van leningen en nog veel meer. Het is dus van groot maatschappelijk belang AI-modellen te ontwikkelen die niet alleen accuraat, maar ook objectief en eerlijk zijn. 
+AI beïnvloed ons leven direct. Een toenemend aantal beslissingen over ons dagelijks leven worden gestuurd door AI-modellen die machinaal lerende [ML] algoritmen een zeer uiteenlopende toepassingsgebieden variërend van de gezondheidszorg, vervoer en onderwijs tot toelating tot de universiteit, werving, verstrekking van leningen en nog veel meer. Het is dus van groot maatschappelijk belang AI-modellen te ontwikkelen die niet alleen accuraat, maar ook objectief, onbevooroordeeld, en eerlijk *---FAIR---* zijn. 
 
 Recente studies hebben aangetoond dat algoritmische besluitvorming door gebruikmaking van AI-diensten *---zogeheten data-producten---* inherent vatbaar kan zijn voor oneerlijkheid, zelfs wanneer dat niet de bedoeling is. Zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#7-faalveiligheid--cyber-security-er-is-nog-geen-theoretische-onderbouwing-enof-test-methodiek-om-de-gebreken--vooringenomenheid-die-chatgpt-vertoont-te-kunnen-objectiveren-en-te-testen.
 
+Onderscheid maatschappelijke vs. statistische vooringenomenheid |  Besluitvormende vs. voorspellingde taak
 
+<br> <br> 
+```mermaid
+flowchart TB  
+    A(De ideale wereld <br> volgens morele waarden)
+    B(De werkelijke wereld)
+    C(De wereld zoals gerepresenteerd door Data)
+    B-->|Besluitvormende Taak|A
+    A-->|Maatschappelijke <br> vooringenomenheid|B
+    B-->|Statistische Bias|C
+    C-->|Voorspellende Taak |B
+```
+
+<br> <br> 
+
+* Barocas, S., Hardt, M., & Narayanan, A. (2018). Fairness and Machine Learning Limitations and Opportunities. https://fairmlbook.org/pdf/fairmlbook.pdf
+
+* Milano, S., McGrane, J. A., & Leonelli, S. (2023). Large language models challenge the future of higher education. Nature Machine Intelligence, 1-2. https://doi.org/10.1038/s42256-023-00644-2
+
+* Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). Algorithmic Fairness: Choices, Assumptions, and Definitions. Annual Review of Statistics and Its Application, 8(1), 141-163. https://doi.org/10.1146/annurev-statistics-042720-125902 
+
+* Pessach, D., & Shmueli, E. (2022). A review on fairness in machine learning. ACM Computing Surveys (CSUR), 55(3), 1-44. https://doi.org/10.1145/3494672
 
 <br>
 
