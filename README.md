@@ -533,7 +533,7 @@ Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, r
 <br>
 
 
-#### [7] Faalveiligheid: Er is *"nog"* geen theoretische onderbouwing en/of test-methodiek om de gebreken & vooringenomenheid die ChatGPT vertoont te kunnen objectiveren en te testen.
+#### [7] Faalveiligheid & Cyber Security: Er is *"nog"* geen theoretische onderbouwing en/of test-methodiek om de gebreken & vooringenomenheid die ChatGPT vertoont te kunnen objectiveren en te testen.
 
 Grote taalmodellen zoals GTP's kunnen worden *"gevraagd"*  *---in het Engels heet dit "prompting"---* om een reeks taken op het gebied van natuurlijke taalverwerking (NLP) uit te voeren, gegeven enkele voorbeelden van de taak als invoer. In review paper getiteld: [*"Training language models to follow instructions with human feedback"*](https://arxiv.org/pdf/2203.02155.pdf) wordt beschreven waarom LLM's regelmatig *"onbedoeld gedrag"*  vertonen, zoals het verzinnen van feiten, het genereren van bevooroordeelde of giftige tekst, of het simpelweg het *niet opvolgen* van prompts. 
 
@@ -550,6 +550,12 @@ Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodi
 ##### suggesties voor verdere lezing:
 
 * Mehri, S., Choi, J., D'Haro, L. F., Deriu, J., Eskenazi, M., Gasic, M., ... & Zhang, C. (2022). Report from the nsf future directions workshop on automatic evaluation of dialog: Research directions and challenges. arXiv preprint https://doi.org/10.48550/arXiv.2203.10012
+
+* Raji, I. D., Kumar, I. E., Horowitz, A., & Selbst, A. (2022, June). The fallacy of AI functionality. In 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 959-972). https://doi.org/10.1145/3531146.3533158
+
+* Truong TC, Diep QB, Zelinka I. Artificial Intelligence in the Cyber Domain: Offense and Defense. Symmetry. 2020; 12(3):410. https://doi.org/10.3390/sym12030410
+
+
 
 <br>
 
@@ -621,7 +627,10 @@ The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible
 
-* Raji, I. D., Kumar, I. E., Horowitz, A., & Selbst, A. (2022, June). The fallacy of AI functionality. In 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 959-972). https://doi.org/10.1145/3531146.3533158
+
+
+<br>
+
 
 
 <!--
@@ -2201,6 +2210,10 @@ hebben inmiddels hun redactioneel beleid aangepast en staan op het standpunt dat
 
 >Almira Osmanovic Thunstrom *---een neurobioloog aan het Sahlgrenska University Hospital, Göteborg---* zei dat het artikel mede is geschreven door een oudere chatbot genaamd GPT-3. Het is geplaatst op de Franse preprint server HAL juni 2022. Het zal binnenkort worden gepubliceerd in peer-reviewed tijdschriften. Na beoordeling van het artikel wees één tijdschrift het af. Een tweede accepteerde echter het artikel met GPT-3 als auteur. Ze herschreef het artikel om te voldoen aan de verzoeken van de recensenten.
 
+
+#### Suggesties voor verdere lezing
+
+* Lund, B. D., Wang, T., Mannuru, N. R., Nie, B., Shimray, S., & Wang, Z. (2023). ChatGPT and a new academic reality: Artificial Intelligence-written research papers and the ethics of the large language models in scholarly publishing. Journal of the Association for Information Science and Technology, 74(5), 570-581. https://doi.org/https://doi.org/10.1002/asi.24750 
 
 <br>
 
