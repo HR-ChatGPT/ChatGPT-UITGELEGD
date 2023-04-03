@@ -1394,11 +1394,15 @@ flowchart TB
 
 * Barocas, S., Hardt, M., & Narayanan, A. (2018). Fairness and Machine Learning Limitations and Opportunities. https://fairmlbook.org/pdf/fairmlbook.pdf
 
+* Goossens, J., Hirsch Ballin, E. M. H., & van Vugt, E. Y. (2021). Algoritmische beslisregels vanuit constitutioneel oogpunt: Tweedeling tussen algemene regels en concrete toepassing onder druk. Tijdschrift voor constitutioneel recht, 4. https://research.tilburguniversity.edu/en/publications/algoritmische-beslisregels-vanuit-constitutioneel-oogpunt-tweedel
+
 * Milano, S., McGrane, J. A., & Leonelli, S. (2023). Large language models challenge the future of higher education. Nature Machine Intelligence, 1-2. https://doi.org/10.1038/s42256-023-00644-2
 
 * Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). Algorithmic Fairness: Choices, Assumptions, and Definitions. Annual Review of Statistics and Its Application, 8(1), 141-163. https://doi.org/10.1146/annurev-statistics-042720-125902 
 
 * Pessach, D., & Shmueli, E. (2022). A review on fairness in machine learning. ACM Computing Surveys (CSUR), 55(3), 1-44. https://doi.org/10.1145/3494672
+
+* https://www.rathenau.nl/nl/digitalisering/grip-op-algoritmische-besluitvorming-bij-de-overheid-de-rol-van-de-eerste-kamer
 
 <br>
 
