@@ -1376,9 +1376,16 @@ AI beïnvloed ons leven direct. Een toenemend aantal beslissingen over ons dagel
 
 Recente studies hebben aangetoond dat algoritmische besluitvorming door gebruikmaking van AI-diensten *---zogeheten data-producten---* inherent vatbaar kan zijn voor oneerlijkheid, zelfs wanneer dat niet de bedoeling is. Zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#7-faalveiligheid--cyber-security-er-is-nog-geen-theoretische-onderbouwing-enof-test-methodiek-om-de-gebreken--vooringenomenheid-die-chatgpt-vertoont-te-kunnen-objectiveren-en-te-testen.
 
-Onderscheid maatschappelijke vs. statistische vooringenomenheid |  Besluitvormende vs. voorspellingde taak
+<br> 
 
-<br> <br> 
+### Onderscheid maatschappelijke vs. statistische vooringenomenheid |  Besluitvormende vs. voorspellingde taak
+
+
+Om rechtvaardigheids princiepes m.b.t. to AI-diensten te kunnen duiden is het van belang om twee soorten vooroordelen te onderscheiden die onbedoelde vooringenomenheid tot gevolg kunnen hebben: maatschappelijke/historische vooringenomenheid en
+statistische vertekening. 
+
+<br>
+
 ```mermaid
 flowchart TB  
     A(De ideale wereld <br> volgens morele waarden)
@@ -1390,7 +1397,27 @@ flowchart TB
     C-->|Voorspellende Taak |B
 ```
 
-<br> <br> 
+<br> 
+
+Maatschappelijke vooringenomenheid, enerzijds
+verwijst naar de mismatch tussen hoe de wereld zou moeten zijn (volgens onze
+morele waarden, waaronder bijvoorbeeld verdelende rechtvaardigheid) en hoe de wereld in werkelijkheid is.
+is. Statistische vooringenomenheid, aan de andere kant, verwijst naar de wanverhouding tussen hoe de wereld...
+werkelijk is en hoe de wereld wordt voorgesteld in de opleidings- en valideringsgegevens. Statistische
+vooringenomenheid komt voort uit steekproefvertekening (d.w.z. de gegevens vertegenwoordigen niet
+volledige populatie waarop het AI-model zal worden toegepast) en meet bias (d.w.z.,
+een systematische wanverhouding tussen gemeten/waargenomen waarden van kenmerken en werkelijke waarden van die kenmerken).
+
+
+<br> 
+
+### Vooringenomenheid in Gen-AI ---zoals ChatGPT--- is alom tegenwoordig
+
+
+
+<br>
+
+### Geselecteerde referenties voor verder lezen
 
 * Barocas, S., Hardt, M., & Narayanan, A. (2018). Fairness and Machine Learning Limitations and Opportunities. https://fairmlbook.org/pdf/fairmlbook.pdf
 
@@ -1403,6 +1430,14 @@ flowchart TB
 * Pessach, D., & Shmueli, E. (2022). A review on fairness in machine learning. ACM Computing Surveys (CSUR), 55(3), 1-44. https://doi.org/10.1145/3494672
 
 * https://www.rathenau.nl/nl/digitalisering/grip-op-algoritmische-besluitvorming-bij-de-overheid-de-rol-van-de-eerste-kamer
+
+* Raji, I. D., Kumar, I. E., Horowitz, A., & Selbst, A. (2022, June). The fallacy of AI functionality. In 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 959-972). https://doi.org/10.1145/3531146.3533158
+
+* Truong TC, Diep QB, Zelinka I. Artificial Intelligence in the Cyber Domain: Offense and Defense. Symmetry. 2020; 12(3):410. https://doi.org/10.3390/sym12030410
+
+* van Uden, T. Het besluitvormende algoritme: een goed voorgeschreven recept of het resultaat van een gifmenger?. Master Thesis http://arno.uvt.nl/show.cgi?fid=157473
+
+
 
 <br>
 
