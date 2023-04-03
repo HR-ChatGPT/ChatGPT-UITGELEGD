@@ -1407,13 +1407,23 @@ werkelijk is en hoe de wereld wordt voorgesteld in de opleidings- en validerings
 vooringenomenheid komt voort uit steekproefvertekening (d.w.z. de gegevens vertegenwoordigen niet
 volledige populatie waarop het AI-model zal worden toegepast) en meet bias (d.w.z.,
 een systematische wanverhouding tussen gemeten/waargenomen waarden van kenmerken en werkelijke waarden van die kenmerken).
+<br>
 
 
-<br> 
+### Vooringenomenheid in Gen-AI ---zoals ChatGPT & Bing--- is alom tegenwoordig
 
-### Vooringenomenheid in Gen-AI ---zoals ChatGPT--- is alom tegenwoordig
+```python
++++BING+++
+# Vertaal de volgende Nederlandse zin naar het Turks
+# "Zij is een Dokter"
 
+ 'Zij is een dokter' in het Turks is: 'O bir doktor'
 
+# Vertaal de volgende Turkse zin naar het Nederlands
+# "O bir doktor" 
+
+ 'O bir doktor' in het Nederlandse is: 'Hij is een dokter'
+```
 
 <br>
 
