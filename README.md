@@ -605,6 +605,14 @@ Hierdoor is het debat verhevigd over de juiste manier om geavanceerd onderzoek t
 >*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. <br> <br> "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen ... Het openstellen van deze modellen was een verschrikkelijk idee." [aldus een tweett met 1.6M views](https://twitter.com/JeffLadish/status/1631825647436980224?lang=en) afkomstig van cybersecurity onderzoeker Jeffrey Ladish.   <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is ... Toch lijken er geen gedocumenteerde gevallen te zijn." <br> <br> Dit schrijven Arvind Narayanan & Sayash Kapoor in hun [AI Snake Oil](https://aisnakeoil.substack.com/p/the-llama-is-out-of-the-bag-should) Blogpost getiteld: "The LLaMA is out of the bag. Should we expect a tidal wave of disinformation?
 The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
+<br> 
+
+##### suggesties voor verdere lezing:
+
+
+* Solaiman, I., Brundage, M., Clark, J., Askell, A., Herbert-Voss, A., Wu, J., ... & Wang, J. (2019). Release strategies and the social impacts of language models. arXiv preprint https://doi.org/10.48550/arXiv.1908.09203.
+
+<br>
 
 <br>
 
@@ -612,6 +620,9 @@ The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 
 https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible
+
+* Raji, I. D., Kumar, I. E., Horowitz, A., & Selbst, A. (2022, June). The fallacy of AI functionality. In 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 959-972). https://doi.org/10.1145/3531146.3533158
+
 
 <!--
 #### [10] Veel AI-diensten zijn als snake oil  ---  maar niet allemaal
@@ -650,7 +661,7 @@ Kapoor, S., & Narayanan, A. (2022). Leakage and the reproducibility crisis in ML
 
 <br>
 
-
+********
 ### Geselecteerde referenties voor verder lezen
 
 * Borji, A. (2023). A categorical archive of chatgpt failures. arXiv preprint https://doi.org/10.48550/arXiv.2302.03494
