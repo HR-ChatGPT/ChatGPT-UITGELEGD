@@ -435,7 +435,7 @@ Toch is het de verwachting dat deze tekortkomingen maar van tijdelijk aard zulle
 
 <br> 
 
-#### [4] Conversattionle agenten kunnen autonoom een eigen taal creëren die onbegrijpelijk is voor mensen, wat de huidige "Data Deluge" en "Data Drift" problematiek dreigt te vergroten.
+#### [4] Conversationle agenten kunnen autonoom een eigen taal creëren die onbegrijpelijk is voor mensen, wat de huidige "Data Deluge" en "Data Drift" problematiek dreigt te vergroten.
 
 In een AIM blog geschreven door Mohit Pandey *---Technologie journalist---* getiteld: [*"ChatGPT & Bing AI are Chit-chatting, Should We Be Worried? If chatbots can simulate conversations, will they generate languages that humans cannot understand?"*](https://analyticsindiamag.com/chatgpt-bing-ai-are-chit-chatting-should-we-be-worried/) beschrijft hij de volgende "bizarre" conversaties tussen "taalvaardige" Gen-AI en hun vermogen voor het creëren van een *"eigen-taal"*:
 
@@ -478,7 +478,7 @@ And then there's the problem of deliberate misinformation. Experts worry that pe
 <br>
 
 
-#### [5] Conversattionle agenten zijn immoreel, ze missen een *"ethisch bewustzijn"*.
+#### [5] Conversationle agenten zijn immoreel, ze missen een *"ethisch bewustzijn"*.
 
 In een opiniestuk (07 maart 2023) in de New York Times *---geschreven door Noam Chomsky, Ian Roberts and Jeffrey Watumull---* getiteld: [*"The False Promise of ChatGPT"*](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) wordt de volgende waarschuwing ---door de ethiek ingegeven--- geformuleerd:
 
@@ -545,9 +545,22 @@ Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt he
 
 Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodig om de progressie van taalmodellen objectief te kunnen meten. Hierdoor kunnen de prestaties van GPT-gedreven chatbots accuraat en objectief worden beoordeeld. Maar om een dergelijke test te kunnen opstellen is inzage nodig in de interne werking van de taalmodellen. En dat is nu niet mogelijk omdat de ontwikkelaars van ChatGPT de broncode en de specificatie van de gehanteerde training datasets niet vrijgeven.
 
+
+## AI-systeem fouten
+
+Systeem Fout | Omschrijving | Voorbeeld |
+:--|:--|:--|
+Onmogelijke taken | <br> Conceptueel Onmogelijk <br>  <br> Praktisch Onmogelijk <br> <br> | *"Criminaliteit" afleiden op basis van iemands uiterlijke fysieke verschijning."*  <br> <br> <sub> Sidney Fussell. (juni 2020). An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor Its creators said they could use facial analysis to determine if someone would become a criminal. Critics said the work recalled debunked “race science.” Wired: https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/ <br> | 
+Engineering  Mislukkingen | <br> Ontwerpfouten <br> <br> Mislukte implementatie <br> <br> Ontbrekende veiligheidsvoorzieningen <br> <br> |  | 
+Post implementatie Mislukkingen | <br> Robuustheidsproblemen <br> <br> Falen onder aanvallen van tegenstanders <br> <br> Onvoorziene interacties <br> <br> | |
+Communicatiestoringen | <br> Overschatting en/of misrepresentatie m.b.t. functionele vermogens van het systeem <br> <br> Onderwaardering van de capaciteiten van het systeem <br> <br> |  |
+
+
+
+
 <br> 
 
-##### suggesties voor verdere lezing:
+#### Suggesties voor verdere lezing:
 
 * Mehri, S., Choi, J., D'Haro, L. F., Deriu, J., Eskenazi, M., Gasic, M., ... & Zhang, C. (2022). Report from the nsf future directions workshop on automatic evaluation of dialog: Research directions and challenges. arXiv preprint https://doi.org/10.48550/arXiv.2203.10012
 
