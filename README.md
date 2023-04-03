@@ -1990,6 +1990,29 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + <br> [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
 
+<!--
+
+| Tool | Description | AI Detection Tool | URL |
+| --- | --- | --- | --- |
+| AI Text Classifier by OpenAI | A tool that can detect AI-generated text by analyzing its language patterns. | OpenAI | https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/ |
+| AI Content Detector by CopyLeaks | A tool that can detect AI-generated text by comparing it with other texts on the internet. | CopyLeaks | https://copyleaks.com/ |
+| Corrector App | A tool that can detect AI-generated text by analyzing its grammar and syntax. | N/A | https://correctorapp.com/ |
+| AI Content Detector by CrossPlag | A tool that can detect AI-generated text by comparing it with other texts on the internet. | CrossPlag | https://crossplag.com/ |
+| GPT Detector App (Android) | A tool that can detect AI-generated text by analyzing its language patterns. | N/A | https://play.google.com/store/apps/details?id=com.gptdetector&hl=en_US&gl=US |
+| GPTKit app (iOS) | A tool that can detect AI-generated text by analyzing its language patterns. | N/A | https://apps.apple.com/us/app/gptkit/id1603459329 |
+| AI Writer by Writesonic | A tool that can generate text using AI algorithms. | Writesonic | https://writesonic.com/ |
+| GPT-3 by OpenAI | A tool that can generate text using AI algorithms. | OpenAI | https://openai.com/blog/gpt-3-apps/ |
+| Copy.ai | A tool that can generate text using AI algorithms. | Copy.ai | https://www.copy.ai/ |
+| Textio | A tool that can analyze and optimize text using AI algorithms. | Textio | https://textio.com/ |
+| Grammarly | A tool that can analyze and optimize text using AI algorithms. | Grammarly | https://www.grammarly.com/ |
+| Hemingway Editor | A tool that can analyze and optimize text using AI algorithms. | Hemingway Editor | http://www.hemingwayapp.com/ |
+| AI Text Classifier by OpenAI | A tool that can detect AI-generated text by analyzing its language patterns. | OpenAI | https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/ |
+| AI Content Detector by CopyLeaks | A tool that can detect AI-generated text by comparing it with other texts on the internet. | CopyLeaks | https://copyleaks.com/ |
+| Corrector App | A tool that can detect AI-generated text by analyzing its grammar and syntax. | N/A | https://correctorapp.com/ |
+| AI Content Detector by CrossPlag | A tool that can detect AI-generated text by comparing it with other texts on the internet. | CrossPlag | https://crossplag.com/ |
+| GPT Detector App (Android) | A tool that can detect AI-generated text by analyzing its language patterns. | N/A | https://play.google.com/store/apps/details?id=com.gptdetector&hl=en_US&gl=US |
+| GPTKit app (iOS) | A tool that can detect AI-generated text by analyzing its language patterns. | N/A | https://apps.apple.com/us/app/gptkit/id1603459329 |
+-->
 
 
 | URL | tool name | LLM
