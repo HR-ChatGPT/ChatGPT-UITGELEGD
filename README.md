@@ -545,13 +545,14 @@ Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt he
 
 Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodig om de progressie van taalmodellen objectief te kunnen meten. Hierdoor kunnen de prestaties van GPT-gedreven chatbots accuraat en objectief worden beoordeeld. Maar om een dergelijke test te kunnen opstellen is inzage nodig in de interne werking van de taalmodellen. En dat is nu niet mogelijk omdat de ontwikkelaars van ChatGPT de broncode en de specificatie van de gehanteerde training datasets niet vrijgeven.
 
+<br> 
 
-## AI-systeem fouten
+## Typering AI-systeem fouten
 
 Systeem Fout | Omschrijving | Voorbeeld |
 :--|:--|:--|
-Onmogelijke taken | <br> Conceptueel Onmogelijk <br>  <br> Praktisch Onmogelijk <br> <br> | *"Criminaliteit" afleiden op basis van iemands uiterlijke fysieke verschijning."*  <br> <br> <sub> Sidney Fussell. (juni 2020). An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor Its creators said they could use facial analysis to determine if someone would become a criminal. Critics said the work recalled debunked “race science.” Wired: https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/ <br> | 
-Engineering  Mislukkingen | <br> Ontwerpfouten <br> <br> Mislukte implementatie <br> <br> Ontbrekende veiligheidsvoorzieningen <br> <br> |  | 
+Onmogelijke taken | <br> Conceptueel Onmogelijk <br>  <br> Praktisch Onmogelijk <br> <br> | *"Criminaliteit" afleiden op basis van iemands uiterlijke fysieke verschijning."*  <br> <br> <sub> Sidney Fussell. (juni 2020). An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor Its creators said they could use facial analysis to determine if someone would become a criminal. Critics said the work recalled debunked “race science.” Wired: https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/ <br> <br>  | 
+Technisch Ontwerp  Fouten | <br> Ontwerpfouten <br> <br> Mislukte implementatie <br> <br> Ontbrekende veiligheidsvoorzieningen <br> <br> | <br>   *"Cheating in English language tests"* <br> <br> <sub> In 2014 legde BBC Panorama bewijzen bloot van systematisch spieken bij Engelse taalexamens van de van de Britse Educational Testing Service (ETS) door anderen het examen te laten maken. Dit is een voorbeeld van een systeem dat niet was ontworpen om een bepaald type schadelijk falen te voorkomen. <br> https://www.nao.org.uk/press-releases/investigation-into-the-response-to-cheating-in-english-language-tests/<br><br> | 
 Post implementatie Mislukkingen | <br> Robuustheidsproblemen <br> <br> Falen onder aanvallen van tegenstanders <br> <br> Onvoorziene interacties <br> <br> | |
 Communicatiestoringen | <br> Overschatting en/of misrepresentatie m.b.t. functionele vermogens van het systeem <br> <br> Onderwaardering van de capaciteiten van het systeem <br> <br> |  |
 
