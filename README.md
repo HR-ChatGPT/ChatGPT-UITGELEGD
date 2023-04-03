@@ -1971,8 +1971,7 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 * Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 
-* Melissa Heikkiläarchive (19 december 2022). AI BLOG MIT Technology Review.  How to spot AI-generated text
-The internet is increasingly awash with text written by AI software. We need new tools to detect it.
+* Melissa Heikkilä archive (7 februari 2022). AI BLOG MIT Technology Review.  Why detecting AI-generated text is so difficult (and what to do about it): Plus: AI models generate copyrighted images and photos of real people. https://www.technologyreview.com/2023/02/07/1067928/why-detecting-ai-generated-text-is-so-difficult-and-what-to-do-about-it/
 
 * Alex Wilkins's technologie artikel in *"the New Scientist"* getiteld: [*ChatGPT detector could help spot cheaters using AI to write essays*](https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/#:~:text=A%20web%20tool%20called%20GPTZero,to%20the%20underlying%20AI%20models.) 
 
