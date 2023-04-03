@@ -1553,6 +1553,23 @@ Een van de meest innovatieve aspecten van GPT-4 is ongetwijfeld zijn multimodale
 | [6] <br> <br> Kan applicaties of teksten iteratief <br>  *"bouwen & testen "*  <br> <br>  | <sub> Op basis van een persoonlijkheid *---bijvoorbeeld, een assistent die broncode kan uitleggen en verbeteren---* kan GPT-4 optreden als AI-programmeerassistent. Vervolgens kan de broncode door de assistent worden getest, om te zien of het ook echt werkt. Dit kan herhaald worden net zolang tot broncode foutloos werkt |
 | [7] <br> <br> Biases & Toxiciteit  <br> <br>  | <sub> OpenAI-LP melde op haar website: *"We zullen binnenkort [aanbevelingen publiceren](https://cdn.openai.com/papers/gpt-4.pdf) over stappen die de samenleving kan nemen om zich voor te bereiden op de gevolgen van AI en eerste ideeën voor het voorspellen van de mogelijke economische gevolgen van AI"*, hoewel er geen aanwijzing is voor een deadline voor die beoordeling. <br> <br> Het bedrijf citeert zijn eigen interne gegevens over hoe het nieuwste taalmodel ongeveer 23% van de tijd antwoorden geeft op "gevoelige prompts", namelijk medisch advies of zelfbeschadiging. Het zal reageren op "afgekeurde prompts" .73% van de tijd. <br> <br>Die laatste reeks gegevens is gebaseerd op de Real Toxicity Prompts dataset, een open source evaluatie-instrument dat 100.000 zinnen bevat met behoorlijk subsersieve  inhoud. Op die manier hebben we een klein idee van wat GPT-4 niet leuk vindt, maar niemand buiten het bedrijf begrijpt veel van wat voor soort *"subsersieve"* inhoud het misschien uitspuugt. <br> <br>|
 
+<br> 
+
+#### Toepassing van ChatGPT 4
+<br>
+
+| Functie                        | Uitleg                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------|
+| Chatbots en Virtuele Assistenten | Met zijn geavanceerde taalverwerkingsmogelijkheden kan ChatGPT 4 worden gebruikt om meer intelligente chatbots en virtuele assistenten te ontwikkelen die klantvragen beter kunnen begrijpen en beantwoorden. |
+| Content Creatie                | ChatGPT 4's verbeterde tekstgeneratiemogelijkheden kunnen worden ingezet om hoogwaardige inhoud te creëren voor blogs, sociale media en andere marketingkanalen. Dit kan bedrijven tijd en middelen besparen en tegelijkertijd de kwaliteit van hun inhoud verbeteren. |
+| Klantenservice                 | ChatGPT 4 kan worden gebruikt om nauwkeurigere en boeiendere antwoorden te geven op klantvragen, wat de algehele klantervaring verbetert. |
+| Onderzoek                      | De geavanceerde taalverwerkingsmogelijkheden van ChatGPT 4 kunnen worden gebruikt in onderzoeksapplicaties, zoals sentimentanalyse en datamining, om grote hoeveelheden tekstgegevens beter te begrijpen en te analyseren. |
+| Vertaling                  | De verbeterde meertalige mogelijkheden van ChatGPT 4 kunnen worden ingezet om de nauwkeurigheid en vloeiendheid van taalvertalingsapplicaties te verbeteren. |
+| Tekstbewerking en proeflezen   | ChatGPT 4 kan worden gebruikt om te helpen bij tekstbewerking en proeflezen, en suggesties te geven voor grammatica, syntax en toon. |
+
+
+<br> 
+
 Voor een meer academisch georienteerde beschrijving van GPT-4 verwijs ik naar het Nature nieuws article (16 maart 2023) *---geschreven door Katharine Sanderson---* getiteld: [*"GPT-4 is here: what scientists think:* <br> 
 *Researchers are excited about the AI — but many are frustrated that its underlying engineering is cloaked in secrecy."*](https://doi.org/10.1038/d41586-023-00816-5). <br> Zoveel is duidelijk, het gegeven dat zowel de broncode, training dataset als ook de technische specificaties van GTP-3, 3.5 en 4 *niet* openbaar zijn gemaakt, is een bron van frustratie voor wetenschappers zowel onderzoekstechnisch als ook in ethisch opzicht:
 
