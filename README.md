@@ -1374,7 +1374,7 @@ De technologie heeft de EU-instellingen er al toe aangezet hun ontwerpplannen te
 
 AI beïnvloed ons leven direct. Een toenemend aantal beslissingen over ons dagelijks leven worden gestuurd door AI-modellen die machinaal lerende [ML] algoritmen een zeer uiteenlopende toepassingsgebieden variërend van de gezondheidszorg, vervoer en onderwijs tot toelating tot de universiteit, werving, verstrekking van leningen en nog veel meer. Het is dus van groot maatschappelijk belang AI-modellen te ontwikkelen die niet alleen accuraat, maar ook objectief, onbevooroordeeld, en eerlijk *---FAIR---* zijn. 
 
-Recente studies hebben aangetoond dat algoritmische besluitvorming door gebruikmaking van AI-diensten *---zogeheten data-producten---* inherent vatbaar kan zijn voor oneerlijkheid, zelfs wanneer dat niet de bedoeling is. Zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#7-faalveiligheid--cyber-security-er-is-nog-geen-theoretische-onderbouwing-enof-test-methodiek-om-de-gebreken--vooringenomenheid-die-chatgpt-vertoont-te-kunnen-objectiveren-en-te-testen.
+Recente studies hebben aangetoond dat algoritmische besluitvorming door gebruikmaking van AI-diensten *---zogeheten data-producten zoals OpenAI-LP's ChatGPT---* inherent vatbaar kan zijn voor oneerlijkheid, zelfs wanneer dat niet de bedoeling is. Zie: https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#7-faalveiligheid--cyber-security-er-is-nog-geen-theoretische-onderbouwing-enof-test-methodiek-om-de-gebreken--vooringenomenheid-die-chatgpt-vertoont-te-kunnen-objectiveren-en-te-testen.
 
 <br> 
 
