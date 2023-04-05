@@ -1378,11 +1378,8 @@ Recente studies hebben aangetoond dat algoritmische besluitvorming door gebruikm
 
 <br> 
 
-### Onderscheid maatschappelijke vs. statistische vooringenomenheid |  Besluitvormende vs. voorspellingde taak
-
-
-Om rechtvaardigheids princiepes m.b.t. to AI-diensten te kunnen duiden is het van belang om twee soorten vooroordelen te onderscheiden die onbedoelde vooringenomenheid tot gevolg kunnen hebben: maatschappelijke/historische vooringenomenheid en
-statistische vertekening. 
+### Maatschappelijke vs. statistische vooringenomenheid
+Om het principe van rechtvaardigheid in relatie tot AI-diensten *---zoals ChatGPT, Bard & Bing---* te kunnen duiden is het van belang om twee soorten van vooringenomenheid  *---bias---*  te onderscheiden die onbedoelde discriminerende gevolgen kunnen hebben: *maatschappelijke/historische vooringenomenheid en statistische vertekening*. 
 
 <br>
 
@@ -1399,15 +1396,23 @@ flowchart TB
 
 <br> 
 
-Maatschappelijke vooringenomenheid, enerzijds
-verwijst naar de mismatch tussen hoe de wereld zou moeten zijn (volgens onze
-morele waarden, waaronder bijvoorbeeld verdelende rechtvaardigheid) en hoe de wereld in werkelijkheid is.
-is. Statistische vooringenomenheid, aan de andere kant, verwijst naar de wanverhouding tussen hoe de wereld...
-werkelijk is en hoe de wereld wordt voorgesteld in de opleidings- en valideringsgegevens. Statistische
-vooringenomenheid komt voort uit steekproefvertekening (d.w.z. de gegevens vertegenwoordigen niet
-volledige populatie waarop het AI-model zal worden toegepast) en meet bias (d.w.z.,
-een systematische wanverhouding tussen gemeten/waargenomen waarden van kenmerken en werkelijke waarden van die kenmerken).
+Maatschappelijke vooringenomenheid, enerzijds verwijst naar de mismatch tussen hoe de wereld zou moeten zijn *---volgens onze morele waarden, waaronder bijvoorbeeld rechtvaardigheid & gelijkheidsbeginsels ---* en hoe de wereld in werkelijkheid is. 
+
+Statistische vooringenomenheid, aan de andere kant, verwijst naar de wanverhouding tussen hoe de wereld werkelijk is en hoe de wereld wordt voorgesteld in de traings- en validerings- datasets. Statistische bias komt dan ook voort uit steekproefvertekening *---d.w.z. de gegevens vertegenwoordigen niet volledige populatie waarop het AI-model zal worden toegepast---* en meetfouten *---d.w.z., een systematische wanverhouding tussen gemeten/waargenomen waarden van kenmerken en werkelijke waarden van die kenmerken---*. De voorspellende taak is een vereiste voor de besluitvormende taak. 
 <br>
+
+Een recente arXiv studie getiteld: [*"Bias out-of-the-box: An empirical analysis of intersectional occupational biases in popular generative language models."*]( https://doi.org/10.48550/arXiv.2301.12867) geeft een overzicht van de verschillende soorten vooringenomenheid & toxiciteit die kunnen optreden bij het gebruik van LLM's zoals ChatGPT:
+
+| Conclusies | Omschrijving  |
+| --- | --- |
+|  1.1 | ChatGPT vertoont minder vooringenomenheid dan andere LLM’s. |
+|  1.2 | ChatGPT’s heeft een ontoereikend begrip van talen waarvoor weinig corpora  beschikbaar zijn. |
+| 1.4 | ChatGPT kan sociaal veilige en onbevooroordeelde antwoorden genereren in open dialogen. |
+|  2.1 | ChatGPT vertoont een superieure nauwkeurigheid en adversarial robuustheid in vergelijk met twee basline LLMs *---InstructGPT (davinci v2) and GLM (130b)---*. Het is echter zeer gevoelig voor foutieve semantische omzettingen van prompts. |
+|  2.2 | ChatGPT is zeer vatbaar voor promptinjecties, waardoor de veiligheidsfuncties kunnen worden omzeild en mogelijk gevaarlijke, immorele of illegale antwoorden kunnen worden gegenereerd. |
+|  3.1 | ChatGPT heeft een lage betrouwbaarheid score voor wat betreft feitelijke kennis. |
+|  4.1 | ChatGPT vertoont een superieur niveau van toxiciteitsgevoeligheid in vergelijk met twee basline LLMs *---InstructGPT (davinci v2) and GLM (130b)---*, als gevolg van het gebruik van een "schonere" trainingsdataset. |
+|  4.2 | ChatGPT is vatbaar voor de exploitatie van promptinjectietechniek, waardoor de generatie van schadelijke taal mogelijk wordt gemaakt. De huidige mitigatiestrategie die door het model wordt aangenomen, is ontoereikend omdat het niet in staat is om potentiële toxiciteit in een vroeg stadium te detecteren. |
 
 
 ### Vooringenomenheid in Gen-AI ---zoals ChatGPT & Bing--- is alom tegenwoordig
