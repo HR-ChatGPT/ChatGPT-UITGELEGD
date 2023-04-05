@@ -1433,6 +1433,8 @@ een systematische wanverhouding tussen gemeten/waargenomen waarden van kenmerken
 
 * Goossens, J., Hirsch Ballin, E. M. H., & van Vugt, E. Y. (2021). Algoritmische beslisregels vanuit constitutioneel oogpunt: Tweedeling tussen algemene regels en concrete toepassing onder druk. Tijdschrift voor constitutioneel recht, 4. https://research.tilburguniversity.edu/en/publications/algoritmische-beslisregels-vanuit-constitutioneel-oogpunt-tweedel
 
+* Kirk, H. R., Jun, Y., Volpin, F., Iqbal, H., Benussi, E., Dreyer, F., ... & Asano, Y. (2021). Bias out-of-the-box: An empirical analysis of intersectional occupational biases in popular generative language models. Advances in neural information processing systems, 34, 2611-2624. https://proceedings.neurips.cc/paper_files/paper/2021/file/1531beb762df4029513ebf9295e0d34f-Paper.pdf
+
 * Milano, S., McGrane, J. A., & Leonelli, S. (2023). Large language models challenge the future of higher education. Nature Machine Intelligence, 1-2. https://doi.org/10.1038/s42256-023-00644-2
 
 * Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). Algorithmic Fairness: Choices, Assumptions, and Definitions. Annual Review of Statistics and Its Application, 8(1), 141-163. https://doi.org/10.1146/annurev-statistics-042720-125902 
@@ -1446,6 +1448,9 @@ een systematische wanverhouding tussen gemeten/waargenomen waarden van kenmerken
 * Truong TC, Diep QB, Zelinka I. Artificial Intelligence in the Cyber Domain: Offense and Defense. Symmetry. 2020; 12(3):410. https://doi.org/10.3390/sym12030410
 
 * van Uden, T. Het besluitvormende algoritme: een goed voorgeschreven recept of het resultaat van een gifmenger?. Master Thesis http://arno.uvt.nl/show.cgi?fid=157473
+
+
+* Zhuo, T. Y., Huang, Y., Chen, C., & Xing, Z. (2023). Exploring AI ethics of ChatGPT: A diagnostic analysis. arXiv preprint https://doi.org/10.48550/arXiv.2301.12867
 
 
 
