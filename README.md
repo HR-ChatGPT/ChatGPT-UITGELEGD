@@ -2106,8 +2106,9 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 * Clark, E., August, T., Serrano, S., Haduong, N., Gururangan, S., & Smith, N. A. (2021). All that's' human'is not gold: Evaluating human evaluation of generated text. arXiv preprint https://doi.org/10.48550/arXiv.2107.00061
 
-
 * [Ron Karjian (05 april 2023) Techtarget.](https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/) *How to detect AI-generated content.* <br> AI- or human-generated? To test their reliability, six popular generative AI detectors were asked to judge three pieces of content. The one they got wrong may surprise you.
+
+* Vivian van Oijen. SURF. AI in Education Blog. [*"AI-generated text detectors: Do they work?"*](https://communities.surf.nl/en/ai-in-education/article/ai-generated-text-detectors-do-they-work)
 
 <br> 
 
@@ -2119,8 +2120,15 @@ https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-ch
 https://seo.ai/blog/chatgpt-detector-tools
 
 -->
+### Welke tools zijn er om Gen-AI tekst te detecteren en kan je ze in het (hbo) onderwijs effectief inzetten?
 
-[Plagiaat](https://nl.wikipedia.org/wiki/Plagiaat) *---"het overnemen van stukken, gedachten, redeneringen van anderen en deze laten doorgaan voor eigen werk"---* is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing. [The Washington Post (03 april 2023)](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) heeft recentelijk Turnitin gestest en concludeerde ook dat Turnitin niet in staat bleek om ChatGPT betrouwbaar te detecteren, zie onderstaande statements:
+Eind maart 2023 heeft Vivia van Oijen *---Machine Learning Consultant bij SURF---* een [blog](https://communities.surf.nl/en/ai-in-education/article/ai-generated-text-detectors-do-they-work) geschreven over de vraag of AI-generated text detectors werken. Zij geeft niet een duidelijk antwoord op deze vraag, maar geeft wel een aantal zeer bruikbare aanwijzingen hoe AI-detectie tools te gebruiken en te testen.
+
+[Plagiaat](https://nl.wikipedia.org/wiki/Plagiaat) *---"het overnemen van stukken, gedachten, redeneringen van anderen en deze laten doorgaan voor eigen werk"---* is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* 
+
+ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing. 
+
+[The Washington Post (03 april 2023)](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) heeft recentelijk Turnitin gestest en concludeerde ook dat Turnitin niet in staat bleek om ChatGPT betrouwbaar te detecteren, zie onderstaande statements:
 
 >Is het detecteren van AI een goed idee? <br> <br> Gezien het potentieel - zelfs bij 1 procent - om het mis te hebben, waarom een AI-detector loslaten in software die zoveel leerlingen zal raken? <br> <br> "Leraren willen afschrikking", zegt Chechitelli. Ze maken zich grote zorgen over AI en door hen te helpen de omvang van het werkelijke probleem te zien, "zal de temperatuur dalen". Sommige docenten maken zich zorgen dat de temperatuur juist zal stijgen.<br> <br> Mitchel Sollenberger, associate provost voor digitaal onderwijs aan de Universiteit van Michigan-Dearborn, is een van de functionarissen die Turnitin heeft gevraagd om bij de eerste lancering geen AI-detectie te activeren voor zijn campus. Hij is vooral bezorgd over hoe fout-positieve resultaten op de ongeveer 20.000 werkstukken van studenten die zijn faculteit elk semester door Turnitin haalt, kunnen leiden tot ongegronde onderzoeken naar academische integriteit. <br> *"Docenten zouden geen expert moeten zijn in een softwaresysteem van een derde partij - ze zouden niet noodzakelijkerwijs elke nuance moeten begrijpen.* <br> <br> Ian Linkletter, bibliothecaris *---British Columbia Institute of Technology---* zegt dat de drang naar AI-detectoren hem doet denken aan het debat over AI-examinering tijdens pandemisch virtueel leren: *"Ik maak me zorgen dat ze het op de markt brengen als een precisieproduct, maar ze gebruiken onbetrouwbare taal over hoe het niet moet worden gebruikt om beslissingen te nemen" "Ze werken in een versneld tempo, niet omdat ze wanhopig zijn om het product op de markt te brengen, maar omdat ze doodsbang zijn dat hun bestaande product verouderd raakt."* <br> <br>  Deborah Green *---CEO van UCISA in het Verenigd Koninkrijk---* vertelt dat ze de motieven van Turnitin voor de Gen-AI detector begrijpt en waardeert: *"Wat we nodig hebben is tijd om ons te overtuigen van de nauwkeurigheid, de betrouwbaarheid en vooral de geschiktheid van een instrument van deze aard."*
 
@@ -2177,6 +2185,8 @@ https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detect
 http://gltr.io/dist/index.html | Giant Language model Test Room [GLTR] | GPT-2-small 117M
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
 https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
+https://crossplag.com/ | plagiarism checking tool | ???
+
 
 <br> 
 
