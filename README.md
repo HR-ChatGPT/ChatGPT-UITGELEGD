@@ -2112,7 +2112,13 @@ https://seo.ai/blog/chatgpt-detector-tools
 
 -->
 
-[Plagiaat](https://nl.wikipedia.org/wiki/Plagiaat) *---"het overnemen van stukken, gedachten, redeneringen van anderen en deze laten doorgaan voor eigen werk"---* is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing.
+[Plagiaat](https://nl.wikipedia.org/wiki/Plagiaat) *---"het overnemen van stukken, gedachten, redeneringen van anderen en deze laten doorgaan voor eigen werk"---* is een terugkerend fenomeen in het onderwijs en de academische wereld. Jarenlang was [Turnitin](https://www.turnitin.com/nl) of [equivalenten](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software) daarvan het beste tegengif. Het enige probleem is: *"[Content Similarity Detection [CSD] software](https://en.wikipedia.org/wiki/Content_similarity_detection) identificeert teksten gekopieerd van het world-wide-web."* ChatGPT kopieert niet van het internet. Dus CSD software is dan geen effectieve oplossing. [The Washington Post (03 april 2023)](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) heeft recentelijk Turnitin gestest en concludeerde dat het niet in staat was om ChatGPT betrouwbaar te detecteren.
+
+>Is het detecteren van AI een goed idee? <br> <br> Gezien het potentieel - zelfs bij 1 procent - om het mis te hebben, waarom een AI-detector loslaten in software die zoveel leerlingen zal raken? <br> <br> "Leraren willen afschrikking", zegt Chechitelli. Ze maken zich grote zorgen over AI en door hen te helpen de omvang van het werkelijke probleem te zien, "zal de temperatuur dalen". Sommige docenten maken zich zorgen dat de temperatuur juist zal stijgen.<br> <br> Mitchel Sollenberger, associate provost voor digitaal onderwijs aan de Universiteit van Michigan-Dearborn, is een van de functionarissen die Turnitin heeft gevraagd om bij de eerste lancering geen AI-detectie te activeren voor zijn campus.
+
+<br> 
+
+
 
 Darren Hick *---professor filosofie---* was een van de eerste docenten die via sociale media meldde dat hij een student betrapt had op het gebruik van ChatGPT. In een Facebook-post beschrijft hij enkele van de rode vlaggen die hij opmerkte:
 
@@ -2151,16 +2157,17 @@ Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGP
 
 | URL | tool name | LLM
 ---- | ---- | ---
-https://gptzero.me/ | GPTzero | GTP-2
+https://gptzero.me/ | GPTzero | GPT-2
 https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
-https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GTP-2
+https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GPT-2
 https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
 https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
 https://corrector.app/ai-content-detector/ | Corrector | ???
 https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
-https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GTP-2
+https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GPT-2
 http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
+https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
 
 <br> 
 
