@@ -2085,6 +2085,13 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 #### Referenties op basis waarvan het onderstaande antwoord is opgesteld:
 
+
+>“I don’t think [ChatGPT] has anything to do with education,” Chomsky tells interviewer Thijmen Sprakel of EduKitchen. <br> <br> “I think it’s undermining it. ChatGPT is basically high-tech plagiarism.” The challenge for educators, according to Chomsky, is to create interest in the topics that they teach so that students will be motivated to learn, rather than trying to avoid doing the work.
+
+<br> 
+
+* Jessica Stewart's *" My Modern Met"*  technologie blog getiteld: ["*Noam Chomsky Says ChatGPT Is a Form of “High-Tech Plagiarism”*"](https://mymodernmet.com/noam-chomsky-chat-gpt/)
+
 * Crothers, E., Japkowicz, N., & Viktor, H. (2023). Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods. arXiv preprint https://doi.org/10.48550/arXiv.2210.07321
 
 * Mitchel Clarck's AT-tech Blog in *"the Verge"* getiteld ["*ChatGPT’s creator made a free tool for detecting AI-generated text*"](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
@@ -2099,9 +2106,10 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 * Clark, E., August, T., Serrano, S., Haduong, N., Gururangan, S., & Smith, N. A. (2021). All that's' human'is not gold: Evaluating human evaluation of generated text. arXiv preprint https://doi.org/10.48550/arXiv.2107.00061
 
-* Jessica Stewart's *" My Modern Met"*  technologie blog getiteld: ["*Noam Chomsky Says ChatGPT Is a Form of “High-Tech Plagiarism”*"](https://mymodernmet.com/noam-chomsky-chat-gpt/)
 
->“I don’t think [ChatGPT] has anything to do with education,” Chomsky tells interviewer Thijmen Sprakel of EduKitchen. “I think it’s undermining it. ChatGPT is basically high-tech plagiarism.” The challenge for educators, according to Chomsky, is to create interest in the topics that they teach so that students will be motivated to learn, rather than trying to avoid doing the work.
+* [Ron Karjian (05 april 2023) Techtarget.](https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/) *How to detect AI-generated content.* <br> AI- or human-generated? To test their reliability, six popular generative AI detectors were asked to judge three pieces of content. The one they got wrong may surprise you.
+
+<br> 
 
 <!--
 https://uproxx.com/technology/chat-gpt-plagiarism-is-blowing-up-academia-the-unexpected-solution/
@@ -2165,8 +2173,8 @@ https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
 https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
 https://corrector.app/ai-content-detector/ | Corrector | ???
 https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
-https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector | GPT-2
-http://gltr.io/dist/index.html | Giant Language model Test Room | GPT-2-small
+https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector  | GPT-2
+http://gltr.io/dist/index.html | Giant Language model Test Room [GLTR] | GPT-2-small 117M
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
 https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
 
