@@ -1,4 +1,4 @@
-# ChatGPT - UITGELEGD voor het hoger onderwijs
+# ChatGPT -- UITGELEGD voor het hoger onderwijs
 
 <!--
 AI's NEW FRONTIER is called Chat-GPT
