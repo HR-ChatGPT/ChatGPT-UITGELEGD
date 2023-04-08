@@ -73,6 +73,8 @@ Het Wired  IDEAS Blog (09 december 2022) getiteld: [*"ChatGPT, Galactica, and th
 
 Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) is. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het interpreteren van zinsbouw, maar is nagenoeg foutloos in het vertalen van individuele woorden. 
 
+> *"I know what the lion devoured [*the gazelle/_ ] yesterday."* <br> <br>  *"I know that the lion devoured [the gazelle/ *_ ] yesterday."
+
 Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van Gen-AI anno 2023 omdat het ogenschijnlijk *"taalvaardig"* lijkt te zijn op basis van enorme hoeveelheden tekst afkomstig van het world-wide-web. Chatbots beschikken dus *nog* niet over linguïstische concepten en probleemoplossend vermogen die nodig zijn om een taal te kunnen verwerken zoals mensen dat zouden doen. Nog problematischer is dat ChatGPT alle dominante opvattingen en vooroordelen *---die schadelijk kunnen zijn voor tal van minderheden---*, woord voor woord in zich herbergt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. 
 
 >*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media. <br> De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.*
@@ -140,6 +142,9 @@ Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld v
  Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets, die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige GEN-AI.
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
+### Suggesties voor verdere lezing:
+
+* Chang, T. A., & Bergen, B. K. (2023). Language Model Behavior: A Comprehensive Survey. arXiv preprint https://doi.org/10.48550/arXiv.2303.11504
 
 <!-- 
 <img align="right" width="400" height="600" src=".\TimeCover_March_2023.jpg">
@@ -3264,6 +3269,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Burrell, J., & Fourcade, M. (2021). The society of algorithms. Annual Review of Sociology, 47, 213-237. https://doi.org/10.1146/annurev-soc-090820-020800
 
 * <sub> Chan, A. GPT-3 and InstructGPT: technological dystopianism, utopianism, and “Contextual” perspectives in AI ethics and industry. AI Ethics (2022). https://doi.org/10.1007/s43681-022-00148-6
+
+* <suv> Chang, T. A., & Bergen, B. K. (2023). Language Model Behavior: A Comprehensive Survey. arXiv preprint https://doi.org/10.48550/arXiv.2303.11504
 
 * <sub> Costanza-Chock, S., Raji, I.D., Buolamwini, J. (2022). Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1571–1583). Association for Computing Machinery. https://doi.org/10.1145/3531146.3533213
 
