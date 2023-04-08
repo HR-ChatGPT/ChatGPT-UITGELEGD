@@ -75,7 +75,7 @@ Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.
 
 Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van Gen-AI anno 2023 omdat het ogenschijnlijk *"taalvaardig"* lijkt te zijn op basis van enorme hoeveelheden tekst afkomstig van het world-wide-web. Chatbots beschikken dus *nog* niet over linguïstische concepten en probleemoplossend vermogen die nodig zijn om een taal te kunnen verwerken zoals mensen dat zouden doen. Nog problematischer is dat ChatGPT alle dominante opvattingen en vooroordelen *---die schadelijk kunnen zijn voor tal van minderheden---*, woord voor woord in zich herbergt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. 
 
->*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media. <br> De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naive houding.*
+>*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media. <br> De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naïeve houding.*
 
 <!--
 https://doi.org/10.48550/arxiv.2009.07118
@@ -98,7 +98,7 @@ https://doi.org/10.34133/2022/9847630
 
 -->
 
-Toch is het de verwachting dat deze tekortkomingen maar van tijdelijk aard zullen zijn. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht in of Gen-AI *"False-belief"* taken kunnen oplossen. Dit zou een aanwijzing kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
+Toch is het de verwachting dat deze tekortkomingen maar van tijdelijk aard zullen zijn. Op de preprint server arXiv is eind 2022 een paper verschenen *---getiteld: ["Theory of Mind May Have Spontaneously Emerged in Large Language Models"](https://arxiv.org/abs/2302.02083)---* waarin is onderzocht of Gen-AI appliaties *"False-belief"* taken kunnen oplossen. Dit zou een aanwijzing kunnen zijn voor [*"Theory-of-Mind"* [ToM]](http://dx.doi.org/10.13140/RG.2.2.16487.98724): *"het vermogen om niet-waarneembare mentale toestanden toe te schrijven aan anderen, nodig voor menselijke sociale interacties, communicatie, empathie, zelfbewustzijn en moraliteit."* 
 
 >*... ToM ---tot nu toe beschouwd als uniek menselijk--- kan spontaan ontstaan als emergente eigenschap van het opschalen van taalmodellen ...*
 
@@ -137,7 +137,7 @@ Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld v
 
  Het is dus zaak dat onderwijsinstellingen regie nemen over de ontwikkeling en inzet van AI-gedreven leermiddelen. 
  Met andere woorden *“Zijn hogescholen voldoende voorbereid op de opmars van foundation models?”*
- Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets, die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige GEN-AI.
+ Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets, die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige Gen-AI.
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 
@@ -246,7 +246,7 @@ https://www.kennisnet.nl/faq-chatgpt-veelgestelde-vragen-over-chatgpt-in-het-ond
 
 ***********
 
-Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
+Typerend voor AI anno 2023 is de lerende machine [ML] genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel [LLM] dat gebruik maakt van natuurlijke taal verwerkende [NLP] AI-technologie. De laatste versie is gevoed met 500 miljard woorden en meer dan 8 miljoen unieke dialogen.
 
 ChatGPT’s gebruikersinterface is ontworpen om menselijke conversatie na te bootsen. Het revolutionaire aan deze Generatieve AI-technologie zijn de ogenschijnlijk levensechte gesprekken die het kan onderhouden met mensen. Het behoort daardoor tot een van de meest geavanceerde "*conversationele agenten*" die publiekelijk beschikbaar is gesteld.
 
