@@ -71,9 +71,11 @@ Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.or
 
 Het Wired  IDEAS Blog (09 december 2022) getiteld: [*"ChatGPT, Galactica, and the Progress Trap: When large language models fall short, the consequences can be serious."*](https://www.wired.com/story/large-language-models-critique/) legt een aantal fundamentele beperkingen bloot van *"taalvaardige-AI"*, zoals ChatGPT, dat tot stand is gebracht met behulp van "Deep Learning" technieken. 
 
-Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) is. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het interpreteren van zinsbouw, maar is nagenoeg foutloos in het vertalen van individuele woorden. 
+Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) is. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het [interpreteren van zinsbouw](https://doi.org/10.48550/arXiv.2303.11504), maar is nagenoeg foutloos in het vertalen van individuele woorden. 
 
-Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van Gen-AI anno 2023 omdat het ogenschijnlijk *"taalvaardig"* lijkt te zijn op basis van enorme hoeveelheden tekst afkomstig van het world-wide-web. Chatbots beschikken dus *nog* niet over linguïstische concepten en probleemoplossend vermogen die nodig zijn om een taal te kunnen verwerken zoals mensen dat zouden doen. Nog problematischer is dat ChatGPT alle dominante opvattingen en vooroordelen *---die schadelijk kunnen zijn voor tal van minderheden---*, woord voor woord in zich herbergt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. 
+> *"I know what the lion devoured [the gazelle] yesterday."* <br>  *"I know that the lion devoured [the gazelle] yesterday."*
+
+Dergelijke systematische fouten weerspiegelen een [fundamentele tekortkoming van Gen-AI anno 2023](https://doi.org/10.48550/arXiv.2303.11504) omdat het ogenschijnlijk *"taalvaardig"* lijkt te zijn op basis van enorme hoeveelheden tekst afkomstig van het world-wide-web. Chatbots beschikken dus *nog* niet over linguïstische concepten en probleemoplossend vermogen die nodig zijn om een taal te kunnen verwerken zoals mensen dat zouden doen. Nog problematischer is dat ChatGPT alle dominante opvattingen en vooroordelen *---die schadelijk kunnen zijn voor tal van minderheden---*, woord voor woord in zich herbergt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. 
 
 >*ChatGPT wordt gevoed met de schoonheid, lelijkheid en wreedheid van het internet en sociale-media. <br> De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijke en naïeve houding.*
 
@@ -140,6 +142,11 @@ Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld v
  Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets, die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige Gen-AI.
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
+### Suggesties voor verdere lezing:
+
+* Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.12173
+
+* Chang, T. A., & Bergen, B. K. (2023). Language Model Behavior: A Comprehensive Survey. arXiv preprint https://doi.org/10.48550/arXiv.2303.11504
 
 <!-- 
 <img align="right" width="400" height="600" src=".\TimeCover_March_2023.jpg">
@@ -3265,6 +3272,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 
 * <sub> Chan, A. GPT-3 and InstructGPT: technological dystopianism, utopianism, and “Contextual” perspectives in AI ethics and industry. AI Ethics (2022). https://doi.org/10.1007/s43681-022-00148-6
 
+* <suv> Chang, T. A., & Bergen, B. K. (2023). Language Model Behavior: A Comprehensive Survey. arXiv preprint https://doi.org/10.48550/arXiv.2303.11504
+
 * <sub> Costanza-Chock, S., Raji, I.D., Buolamwini, J. (2022). Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1571–1583). Association for Computing Machinery. https://doi.org/10.1145/3531146.3533213
 
 * <sub> Crothers, E., Japkowicz, N., & Viktor, H. (2023). Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods. arXiv preprint https://doi.org/10.48550/arXiv.2210.07321
@@ -3292,6 +3301,8 @@ Mijn eerste zin is "Zwart is Wit" omdat "Wit Zwart is!"
 * <sub> Grandoni, D. (2022, November 30). Why this mammal eats its own brain — and why it could matter for you. [Environment Blog] The Washington Post. https://www.washingtonpost.com/climate-environment/2022/11/30/shrews-shrink-regrow-own-brains/
 
 * <sub> Grant, N., & Metz, C. (2022, December 21). A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. [Tecnology Blog] The New York Times. https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html
+
+* <sub> Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.12173
 
 * <sub> Goldman, S. (2022, September 23). Why DeepMind isn’t deploying its new AI chatbot — and what it means for responsible AI. [Blog] Special Issue AI: VentureBeat. https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/
 
