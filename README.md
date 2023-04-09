@@ -411,7 +411,7 @@ Maar dit laat onverlet dat het betrouwbaar kan worden ingezet voor specifieke fu
 
 De geconstateerde gebreken leggen vooral bloot dat GPT-technologie alleen in staat is om het meest waarschijnlijke antwoord te genereren. Het kan geen onderscheid maken tussen feit en fictie. In die zin heeft Timni Gebru gelijk, LLMs moeten worden gereguleerd en gecontroleerd om te voorkomen dat het ongeleide projectielen worden die niet meer zijn te stoppen. Maar dat geldt ook voor alle andere AI-technologieën. Zie: [Voldoen Gen-AI ---zoals ChatGPT--- aan Europese AI-Regelgeving?](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1f-voldoen-gen-ai----zoals-chatgpt----aan-de-europese-ai-regelgeving).
 
-> Zorgwekkender is dat OpenAI-LP op haar website melde: *"We zullen binnenkort [aanbevelingen publiceren](https://cdn.openai.com/papers/gpt-4.pdf) over stappen die de samenleving kan nemen om zich voor te bereiden op de gevolgen van AI en eerste ideeën voor het voorspellen van de mogelijke economische gevolgen van AI"*, hoewel er geen aanwijzing is voor een deadline voor die beoordeling.
+> Zorgwekkender is dat OpenAI-LP op haar website meldt: *"We zullen binnenkort [aanbevelingen publiceren](https://cdn.openai.com/papers/gpt-4.pdf) over stappen die de samenleving kan nemen om zich voor te bereiden op de gevolgen van AI en eerste ideeën voor het voorspellen van de mogelijke economische gevolgen van AI"*, hoewel er geen aanwijzing is voor een deadline voor die beoordeling.
 
 #### [2] Conversationele agenten beschikken niet of nauwelijks over *"creatief vermogen."* 
 
