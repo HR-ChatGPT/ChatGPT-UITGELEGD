@@ -363,7 +363,7 @@ In februari 2023 kondigde Alphabet aan om zijn ChatGPT-rivaal Bard uit te brenge
 # v0b
 
 *******
-### [0b] IS ER EEN KORT OVERZICHT VAN ChatGPT's TEKORTKOMINGEN?
+### [0b] IS ER EEN KORT OVERZICHT VAN (versie 3.5) ChatGPT's TEKORTKOMINGEN?
 *******
 
 Dit is een aangepaste, Nederlandstalige versie van [5 Big Problems With OpenAI's ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) geschreven door door Garling Wu op 22 december 2022.
@@ -407,7 +407,7 @@ Het is van belang om te weten dat Gen-AI *---zoals ChatGPT en Bard---*  [*taal a
 Dergelijke systematische fouten weerspiegelen een fundamentele tekortkoming van GPT-technologie omdat het leert taalvaardig te worden op basis van reeksen aan woordvolgorde zoals die voorkomen in door mensen geschreven en/of gesproken teksten die zijn  ontleend aan het world-wide-web. ChatGPT beschikt dus niet over linguïstische concepten en probleemoplossend vermogen dat nodig is om een taal te kunnen verwerken zoals mensen dat zouden doen. Sterker nog, een [invloedrijk paper getiteld: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) benadrukt dat GPT-technologie alle voorkomende overheersende opvattingen en vooroordelen die schadelijk zijn voor tal van minderheden, woord voor woord vastlegt precies zoals ze voorkomen op het world-wide-web *"zonder aanzien des persoons"*. Voorlopig lijkt het erop dat opschalen van het onderliggende taal-model ervoor moet zorgen dat de geconstateerde gebreken  als sneeuw voor de zon zullen verdwijnen.
 
 Dus reden tot zorg is er wel omdat Gen-AI in haar huidige vorm een "Work-in-Progress" is, dat nog veel te wensen overlaat. Voor een overzicht zie:["Is er een kort overzicht van ChatGPT's tekortkomingen?"](v0b). 
-Maar dit laat onverlet dat het betrouwbaar kan worden ingezet voor specifieke functies waarbij het *"Talige & probleemoplossend vermogen"* *---zoals het vertalen teksten en of verbeteren van spelfouten---* een ondergeschikte rol speelt ([*"Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"*](#v1b))
+Maar dit laat onverlet dat het betrouwbaar kan worden ingezet voor specifieke functies waarbij het *"Talige & probleemoplossend vermogen"* *---zoals het vertalen van teksten en of verbeteren van spelfouten---* een ondergeschikte rol speelt ([*"Wat zijn de functionele mogelijkheden & beperkingen van ChatGPT?"*](#v1b))
 
 De geconstateerde gebreken leggen vooral bloot dat GPT-technologie alleen in staat is om het meest waarschijnlijke antwoord te genereren. Het kan geen onderscheid maken tussen feit en fictie. In die zin heeft Timni Gebru gelijk, LLMs moeten worden gereguleerd en gecontroleerd om te voorkomen dat het ongeleide projectielen worden die niet meer zijn te stoppen. Maar dat geldt ook voor alle andere AI-technologieën. Zie: [Voldoen Gen-AI ---zoals ChatGPT--- aan Europese AI-Regelgeving?](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1f-voldoen-gen-ai----zoals-chatgpt----aan-de-europese-ai-regelgeving).
 
