@@ -497,7 +497,7 @@ In een belangwekkend arXiv preprint paper getiteld: [*"Characterizing Manipulati
 
 >*"Hoewel het niet een vooropgezet doel is van ontwerpers van AI-diensten, verhoogt het op grote schaal inzetten van zeer grote, ondoorzichtige en steeds autonomere AI-modellen de kans dat mensen ongemerkt worden gemanipuleerd. Dit kan gebeuren omdat manipulatie helpt bij het optimaliseren van een doel ---zoals betrokkenheid bij aanbeveling van inhoud---, of omdat een model leert manipulatief gedrag na te bootsen in zijn trainingsgegevens (zoals manipulatieve tekst in taalmodellering).  Gen-AI vormen hierdoor een reële bedreiging voor de menselijke autonomie."*
 
-Het is de dan ook van groot maatschappelijk belang, om manipulatie door AI goed te doorgronden en de risico's in kaart te brengen zodat overheden de nodige voorzorgsmaatregelen kunnen nemen *---via wetgeving en verantwoord bestuur---*.
+Het is dan ook van groot maatschappelijk belang, om manipulatie door AI goed te doorgronden en de risico's in kaart te brengen zodat overheden de nodige voorzorgsmaatregelen kunnen nemen *---via wetgeving en verantwoord bestuur---*.
 
 Deze kritische houding staat op gespannen voet met ontwerpers gericht op het ontwikkelen van defensieve AI-systemen. Amerikaanse wetenschappers [*---verbonden aan U.S. DEVCOM Army Research Laboratory---*](https://doi.org/10.1109/ACCESS.2021.3078298) betogen juist dat een te eenzijdige opvatting van de relatie tussen mens en machine de ontwikkeling van AI belemmert. 
 
@@ -536,13 +536,13 @@ Manipulatie is een veelvoorkomende zorg in veel domeinen, zoals sociale media, r
 
 #### [7] Faalveiligheid & Cyber Security: Er is *"nog"* geen theoretische onderbouwing en/of test-methodiek om de gebreken & vooringenomenheid die ChatGPT vertoont te kunnen objectiveren en te testen.
 
-Grote taalmodellen zoals GTP's kunnen worden *"gevraagd"*  *---in het Engels heet dit "prompting"---* om een reeks taken op het gebied van natuurlijke taalverwerking (NLP) uit te voeren, gegeven enkele voorbeelden van de taak als invoer. In review paper getiteld: [*"Training language models to follow instructions with human feedback"*](https://arxiv.org/pdf/2203.02155.pdf) wordt beschreven waarom LLM's regelmatig *"onbedoeld gedrag"*  vertonen, zoals het verzinnen van feiten, het genereren van bevooroordeelde of giftige tekst, of het simpelweg het *niet opvolgen* van prompts. 
+Grote taalmodellen zoals GTP's kunnen worden *"gevraagd"*  *---in het Engels heet dit "prompting"---* om een reeks taken op het gebied van natuurlijke taalverwerking (NLP) uit te voeren, gegeven enkele voorbeelden van de taak als invoer. In review paper getiteld: [*"Training language models to follow instructions with human feedback"*](https://arxiv.org/pdf/2203.02155.pdf) wordt beschreven waarom LLM's *"onbedoeld gedrag"*  kunnen vertonen, zoals het verzinnen van feiten, het genereren van bevooroordeelde of giftige tekst, of het simpelweg het *niet opvolgen* van prompts. 
 
 Dit komt omdat de *"taalmodelleringsdoelstelling"  ---het voorspellen van de volgende woord/token op een webpagina van het internet---*  verschilt van  *"prompting" ---de instructies van de gebruiker hulpvaardig en veilig opvolgen---*. Het voorkomen van dit onbedoelde gedrag is vooral belangrijk voor taalmodellen die in honderden verschillende toepassingen worden ingezet en gebruikt. De verklaring hiervoor moet gezocht worden in de manier waarop taalmodellen zijn ontworpen en getraind. Het taalmodel van ChatGPT is getraind met content van het world-wide-web en reflecteert dus de schoonheid, lelijkheid en wreedheid van het internet en sociale-media De verwachting dat het ons alleen het goede, het schone en het behulpzame toont is een gevaarlijk naïeve houding.
 
 Met andere woorden, taalmodellen zijn niet ontworpen om te voldoen aan de behoeften *---lees het juist inschatten van de intentie---* van de gebruiker ervan en dus het voorkomen van foutieve en/of giftige teksten. Ze zijn ontworpen om de meest plausibele woordvolgorde te voorspellen op basis van een tekstuele prompt eventueel in combinatie met beeld.  
 
-Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt het noodzakelijk om de gebreken & vooringenomenheid van ChatGPT systematische te onderzoeken en te categoriseren.  Een Blog getiteld (18 februari 2023): *"The Road to AI We Can Trust: How Not to Test GPT-3"* geschreven door Gary F. Marcus & Ernest Davis *---beiden hoogleraren aan de New York University---*  en een recent paper, getiteld [*"A Categorical Archive of ChatGPT Failures"*](https://doi.org/10.48550/arXiv.2302.03494), geeft een eerste aanzet daartoe.
+Het ontbreken van een theoretisch kader voor faalveiligheid van ChatGPT maakt het noodzakelijk om de gebreken & vooringenomenheid van ChatGPT systematische te onderzoeken en te categoriseren.  Een Blog getiteld (18 februari 2023): *"The Road to AI We Can Trust: How Not to Test GPT-3"* geschreven door Gary F. Marcus & Ernest Davis *---beiden hoogleraren aan de New York University---*  en een paper, getiteld [*"A Categorical Archive of ChatGPT Failures"*](https://doi.org/10.48550/arXiv.2302.03494), geeft een eerste aanzet daartoe.
 
 Hun voorstel is het opstellen van een gestandaardiseerde reeks test-vragen, nodig om de progressie van taalmodellen objectief te kunnen meten. Hierdoor kunnen de prestaties van GPT-gedreven chatbots accuraat en objectief worden beoordeeld. Maar om een dergelijke test te kunnen opstellen is inzage nodig in de interne werking van de taalmodellen. En dat is nu niet mogelijk omdat de ontwikkelaars van ChatGPT de broncode en de specificatie van de gehanteerde training datasets niet vrijgeven.
 
@@ -583,9 +583,7 @@ Op de preprint server arXiv is eind 2022 een belangwekkend paper verschenen *---
 
 Het verwerven van emergente eigenschappen door ChatGPT *---zoals ToM---* moet met enige scepsis worden betracht. Dat wil zeggen, [emergentie](https://doi.org/10.1207/s15327000em0101_4) kenmerkt zich door “het ontstaan van nieuwe en samenhangende structuren, patronen en eigenschappen tijdens het proces van zelforganisatie in complexe systemen”. 
 
-Deze bevinding is moeilijk te verenigen met het *[*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) karakter* van ChatGPT. 
-
-Maar het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  
+Het maakt duidelijk dat chatbots die het Gen-AI landschap tot 2020 hebben gedomineerd, plaats maken voor [*"Foundation models"*](https://research.ibm.com/blog/what-are-foundation-models):  taal modellen  getraind met enorme hoeveelheden tekst *---grotendeels afkomstig van het world-wide-web---*  die nieuwe taken kunnen uitvoeren *---[few-shot learning]()---* op basis van slechts paar voorbeelden.  
 
 Dit roept de vraag op" *"Waar komen deze emergente vermogens vandaan?" 
 
@@ -604,7 +602,7 @@ b9a57ac0fcf74f30a1ab9e3e36fa1dc1) en is geschreven door Yao Fu, Hui Peng & Tusha
 
 <br>
 
-#### [9] Democarisering van AI: *"You're damned if you do and damned if you don't"*.
+#### [9] Democratisering van AI: *"You're damned if you do and damned if you don't"*.
 
 [LLaMA](https://en.wikipedia.org/wiki/LLaMA)  *---Large Language Model Meta AI---* het nieuwste LLM van Meta is een *"open-source"* taalmodel, zonder user-interface *---varierend van 7, 13,33 tot 69 milijard aan trainbare parameters---*. LLaMa neemt maximaal 31GB in beslag op de hardeschijf van een PC en heeft 40GB aan VRAM geheugen nodig. Voor gedetaileerde technische specificaties zie https://aituts.com/llama/.
 
@@ -621,7 +619,7 @@ Maar Meta's inspanningen om de toegang tot LLaMA te reguleren zijn jammerlijk mi
 
 Hierdoor is het debat verhevigd over de juiste manier om geavanceerd onderzoek te delen in een tijd van snelle technologische veranderingen, zoals valt op te maken uit een Blogpost van The Verge: [Meta’s powerful AI language model has leaked online — what happens now?](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse):
 
->*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. <br> <br> "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen ... Het openstellen van deze modellen was een verschrikkelijk idee." [aldus een tweett met 1.6M views](https://twitter.com/JeffLadish/status/1631825647436980224?lang=en) afkomstig van cybersecurity onderzoeker Jeffrey Ladish.   <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is ... Toch lijken er geen gedocumenteerde gevallen te zijn." <br> <br> Dit schrijven Arvind Narayanan & Sayash Kapoor in hun [AI Snake Oil](https://aisnakeoil.substack.com/p/the-llama-is-out-of-the-bag-should) Blogpost getiteld: "The LLaMA is out of the bag. Should we expect a tidal wave of disinformation?
+>*Sommigen zeggen dat het lek verontrustende gevolgen zal hebben en verwijten Meta dat het de technologie te vrij verspreidt. <br> <br> "Bereid je voor op veel gepersonaliseerde spam en phishing pogingen ... Het openstellen van deze modellen was een verschrikkelijk idee." [aldus een tweet met 1.6M views](https://twitter.com/JeffLadish/status/1631825647436980224?lang=en) afkomstig van cybersecurity onderzoeker Jeffrey Ladish.   <br> <br> Anderen zijn optimistischer en stellen dat open toegang noodzakelijk is om waarborgen voor AI-systemen te ontwikkelen en wijzen erop dat vergelijkbare complexe taalmodellen al eerder openbaar zijn gemaakt zonder significante schade te veroorzaken. <br> <br> "Er wordt ons al een tijdje verteld dat er een golf van kwaadaardig gebruik [van AI-taalmodellen] op komst is ... Toch lijken er geen gedocumenteerde gevallen te zijn." <br> <br> Dit schrijven Arvind Narayanan & Sayash Kapoor in hun [AI Snake Oil](https://aisnakeoil.substack.com/p/the-llama-is-out-of-the-bag-should) Blogpost getiteld: "The LLaMA is out of the bag. Should we expect a tidal wave of disinformation?
 The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 <br> 
@@ -635,7 +633,7 @@ The bottleneck isn't the cost of producing disinfo, which is already very low."*
 
 <br>
 
-#### [10] OpenAI-LP's commerciële belangen bemoeilijkt reproduceerbaar onderzoek naar taalmodellen
+#### [10] OpenAI-LP's commerciële belangen bemoeilijken reproduceerbaar onderzoek naar taalmodellen
 
 
 https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible
