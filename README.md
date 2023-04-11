@@ -1297,7 +1297,7 @@ Zoals veel nieuwe technologieën heeft Gen-AI de bekende paniek opgeroepen: Doem
 --> 
 
 Wanneer er terechte zorgen bestaan over het gebruik van Gen-AI *---zoals de verspreiding van verkeerde informatie of schadelijke inhoud---* moeten wetgevers deze risico's aanpakken in sectorale wetgeving *---zoals de wet op de digitale diensten, die platforms en zoekmachines verplicht om verkeerde informatie en schadelijke inhoud aan te pakken---*. 
-Maar het is contraproductief, om een brede categorie aan AI-technologie, zoals chatbots, per-definitie als *"hoog risico"* aan te merken. Hierbij wordt volledig voorbijgegaan aan verschillende in risicoprofielen die ontstaan op basis van  hun *"use case"*. 
+Maar het is contraproductief, om een brede categorie aan AI-technologie, zoals chatbots, per-definitie als *"hoog risico"* aan te merken. Hierbij wordt volledig voorbijgegaan aan verschillen in risicoprofielen die ontstaan op basis van  hun *"use case"*. 
 
 ### Talige Gen-AI diensten 
 
@@ -1340,7 +1340,7 @@ Erger nog, de wet zou deze instrumenten - waarvan vele momenteel vrij te gebruik
 
 Dus het lijkt erop dat door de enorme populariteit van Gen-AI, de EU-instellingen zich gedwongen voelen hun ontwerpplannen te amenderen. Uitgangspunt is een definitieve *"AI-act"*  (AI-wet) uitwerken in driehoeksonderhandelingen tussen *(1) de Europese Commissie, (2) het Europees Parlement en de (3) Raad van Europa*, die naar verwachting op zijn vroegst in april 2023 van start zullen gaan. ChatGPT zou er wel eens voor kunnen zorgen dat de onderhandelaars in een impasse raken, terwijl de drie partijen een gemeenschappelijke oplossing voor state-of-the-art Gen-AI zoeken. Niet onbelangrijk, aan de zijlijn houdt Big-Tech  *---Microsoft, Alphabet en Meta---* de ontwikkelingen angstvallig in de gaten.
 
-In the academische wereld is de consesus dat de *"AI-act"* te beperkt van opzet is, zo schrijven Helberger & Diakopoulus in hun paper getiteld: ["*ChatGPT and the AI-Act*"](https://doi.org/10.14763/2023.1.1682)
+In de academische wereld is de consensus dat de *"AI-act"* te beperkt van opzet is, zo schrijven Helberger & Diakopoulus in hun paper getiteld: ["*ChatGPT and the AI-Act*"](https://doi.org/10.14763/2023.1.1682)
 
 >*" ...Gen-AI in de vorm van 'Foundation models' ---zoals ChatGPT--- verschillen  op twee belangrijke punten met meer 'traditionele' deep learning AI-technologie waarvoor de Wet oorspronkelijk is geschreven: (1) dynamische context en (2) schaal van gebruik. <br> <br> Gen-AI zijn niet gebouwd voor een specifieke context of gebruiksvoorwaarden, en hun openheid en controlegemak maken een ongekende schaal van gebruik mogelijk. De output van Gen-AI kan worden benut als een vorm media content (tekst, audio, video) door mensen met doorsnee communicatievaardigheden, waardoor de drempel voor het gebruik ervan aanzienlijk wordt verlaagd. <br> <br> Tegelijkertijd kan Gen-AI voor zeer uiteenlopende doeleinden worden gebruikt door de enorme omvang van de extractie van gegevens die aan hun training ten grondslag ligt. Driehonderd miljard woorden alleen al voor ChatGPT, die alle soorten op het internet beschikbare inhoud omvatten - van persoonlijke gegevens tot beleidsdocumenten, nieuwsberichten, literaire teksten en kunst ..."* <br> <br>
 Deze twee kenmerken maken dat de huidige AI-Act op ten minste drie punten te kort schiet: (1) de haalbaarheid van het sorteren van generatieve AI-systemen in categorieën met een hoog/geen hoog risico, (2) de onvoorspelbaarheid van toekomstige risico's en (3) de bezorgdheid over het ordenen van particuliere risico's.
@@ -1407,27 +1407,12 @@ Een recente arXiv studie getiteld: [*"Bias out-of-the-box: An empirical analysis
 |  1.1 | ChatGPT vertoont minder vooringenomenheid dan andere LLM’s. |
 |  1.2 | ChatGPT’s heeft een ontoereikend begrip van talen waarvoor weinig corpora  beschikbaar zijn. |
 | 1.4 | ChatGPT kan sociaal veilige en onbevooroordeelde antwoorden genereren in open dialogen. |
-|  2.1 | ChatGPT vertoont een superieure nauwkeurigheid en adversarial robuustheid in vergelijk met twee basline LLMs *---InstructGPT (davinci v2) and GLM (130b)---*. Het is echter zeer gevoelig voor foutieve semantische omzettingen van prompts. |
+|  2.1 | ChatGPT vertoont een superieure nauwkeurigheid en adversarial robuustheid in vergelijk met twee baseline LLMs *---InstructGPT (davinci v2) and GLM (130b)---*. Het is echter zeer gevoelig voor foutieve semantische omzettingen van prompts. |
 |  2.2 | ChatGPT is zeer vatbaar voor promptinjecties, waardoor de veiligheidsfuncties kunnen worden omzeild en mogelijk gevaarlijke, immorele of illegale antwoorden kunnen worden gegenereerd. |
 |  3.1 | ChatGPT heeft een lage betrouwbaarheid score voor wat betreft feitelijke kennis. |
-|  4.1 | ChatGPT vertoont een superieur niveau van toxiciteitsgevoeligheid in vergelijk met twee basline LLMs *---InstructGPT (davinci v2) and GLM (130b)---*, als gevolg van het gebruik van een "schonere" trainingsdataset. |
+|  4.1 | ChatGPT vertoont een superieur niveau van toxiciteitsgevoeligheid in vergelijk met twee baseline LLMs *---InstructGPT (davinci v2) and GLM (130b)---*, als gevolg van het gebruik van een "schonere" trainingsdataset. |
 |  4.2 | ChatGPT is vatbaar voor de exploitatie van promptinjectietechniek, waardoor de generatie van schadelijke taal mogelijk wordt gemaakt. De huidige mitigatiestrategie die door het model wordt aangenomen, is ontoereikend omdat het niet in staat is om potentiële toxiciteit in een vroeg stadium te detecteren. |
 
-
-### Vooringenomenheid in Gen-AI ---zoals ChatGPT & Bing--- is alom tegenwoordig
-
-```python
-+++BING+++
-# Vertaal de volgende Nederlandse zin naar het Turks
-# "Zij is een Dokter"
-
- 'Zij is een dokter' in het Turks is: 'O bir doktor'
-
-# Vertaal de volgende Turkse zin naar het Nederlands
-# "O bir doktor" 
-
- 'O bir doktor' in het Nederlandse is: 'Hij is een dokter'
-```
 
 <br>
 
