@@ -939,7 +939,7 @@ Onderstaande voorbeelden zijn ontleend aan [The Decoder nieuwsbrief (27 septembe
 | Resultaat zonder CoT | Resultaat met CoT |
 | <sub> De jaarlijkse waterbehoefte van een eengezinswoning waarin vier personen wonen, die gemiddeld 200 dagen per jaar thuis zijn en gemiddeld 100 liter water per dag nodig hebben, is 80.000 liter. | <sub> Aantal personen in het huishouden: 4 personen Gemiddeld aantal dagen dat de mensen in het huishouden thuis zijn: 200 dagen Gemiddeld waterverbruik per persoon per dag: 100 liter 4 personen * 200 dagen * 100 liter water = 80.000 liter water per jaar <br> <br> |
 
-Dit rekenvoorbeeld toont aan dat reeds de eerste stappen naar verklaarbaarheid kunnen worden gezet door een intelligent prompt ontwerp. De uitlegbaarheid heeft echter alleen betrekking op de gevolde redenatie, niet op de innerlijke structuur van het onderliggende taalmodel *---GPT-3---*.
+Dit rekenvoorbeeld toont aan dat reeds de eerste stappen naar verklaarbaarheid kunnen worden gezet door een intelligent prompt ontwerp. De uitlegbaarheid heeft echter alleen betrekking op de gevolgde redenatie, niet op de innerlijke structuur van het onderliggende taalmodel *---GPT-3---*.
 
 #####  Voorbeeld 2: Verbetert CoT prompting de uitleg van een citaat?
 
