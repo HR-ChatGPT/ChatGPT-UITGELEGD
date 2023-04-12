@@ -51,7 +51,7 @@ Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 
 <img align="left" width="130" height="250" src="https://user-images.githubusercontent.com/684692/212558117-0445bc99-5ef7-438c-9421-e758f64473da.jpg">
 
-<img align="left" width="130" height="250" src=".\QR_CODE_CHATGPT_HR-UITGELEGD.jpg">
+<img align="left" width="130" height="250" src=".\QR-code-ChatGPT-UITGELEGD.png">
 
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jou interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. Of toch niet??!!! Voorlopig is het een *"work-in-progress"*.
 
@@ -145,6 +145,8 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 ### Suggesties voor verdere lezing:
 
 * Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.12173
+
+* Hohenstein, J., Kizilcec, R. F., DiFranzo, D., Aghajari, Z., Mieczkowski, H., Levy, K., ... & Jung, M. F. (2023). Artificial intelligence in communication impacts language and social relationships. Scientific Reports, 13(1), 5487. https://doi.org/10.1038/s41598-023-30938-9
 
 * Chang, T. A., & Bergen, B. K. (2023). Language Model Behavior: A Comprehensive Survey. arXiv preprint https://doi.org/10.48550/arXiv.2303.11504
 
