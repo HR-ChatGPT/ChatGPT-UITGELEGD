@@ -71,7 +71,7 @@ Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.or
 
 Het Wired  IDEAS Blog (09 december 2022) getiteld: [*"ChatGPT, Galactica, and the Progress Trap: When large language models fall short, the consequences can be serious."*](https://www.wired.com/story/large-language-models-critique/) legt een aantal fundamentele beperkingen bloot van *"taalvaardige-AI"*, zoals ChatGPT, dat tot stand is gebracht met behulp van "Deep Learning" technieken. 
 
-Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) is. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het veelvuldig in de fout met het [interpreteren van zinsbouw](https://doi.org/10.48550/arXiv.2303.11504), maar is nagenoeg foutloos in het vertalen van individuele woorden. 
+Een nagenoeg onoplosbaar probleem is dat ChatGPT [*taal agnostisch*](https://dl.acm.org/doi/abs/10.5555/3495724.3495883) is. Door gebruikmaking van [*"Machinaal lerende"* algoritmen](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.02155.pdf) gaat het soms in de fout met het [interpreteren van zinsbouw](https://doi.org/10.48550/arXiv.2303.11504), maar is nagenoeg foutloos in het vertalen van individuele woorden. 
 
 > *"I know what the lion devoured [the gazelle] yesterday."* <br>  *"I know that the lion devoured [the gazelle] yesterday."*
 
