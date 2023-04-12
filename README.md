@@ -2692,7 +2692,7 @@ print(fullText)
 Microsoft heeft op Github een Blog geschreven hoe je met OpenAI's [Codex](https://en.wikipedia.org/wiki/OpenAI_Codex) broncode kunt laten genereren via een techniek die [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering) heet. 
 Een prompt is een tekstsequentie zoals een zin of een blok code. Het gebruik van prompts om output te verkrijgen vindt zijn oorsprong bij mensen. Net zoals je mensen een onderwerp voor een essay kunt aanreiken, kun je verbazingwekkend genoeg een AI-model aan de hand van prompts een output laten genereren op basis van een taak die je in gedachten hebt.
 
-OpenAI Codex is een Gen-AI ontwikkeld door OpenAI LD. Het wordt gebruikt voor Microsoft's GitHub Copilot, een tool voor het automatisch aanvullen van broncode; speciaal ontwikkeld voor IDE's, zoals Visual Studio Code, JetBrains suite  en Neovim. Codex is gebaseerd op GPT-3-model, maar dan verfijnd voor het genereren van broncode.
+OpenAI Codex is een Gen-AI ontwikkeld door OpenAI LP. Het wordt gebruikt voor Microsoft's GitHub Copilot, een tool voor het automatisch aanvullen van broncode; speciaal ontwikkeld voor IDE's, zoals Visual Studio Code, JetBrains suite  en Neovim. Codex is gebaseerd op GPT-3-model, maar dan verfijnd voor het genereren van broncode.
 
 #### Geselecteerde referenties voor verder lezen:
 
