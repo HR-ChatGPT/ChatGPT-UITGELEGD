@@ -49,9 +49,9 @@ Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 *****
 
 
-<img align="left" width="130" height="250" src="https://user-images.githubusercontent.com/684692/212558117-0445bc99-5ef7-438c-9421-e758f64473da.jpg">
+<img align="left" width="150" height="250" src="https://user-images.githubusercontent.com/684692/212558117-0445bc99-5ef7-438c-9421-e758f64473da.jpg">
 
-<img align="left" width="130" height="250" src=".\QR-code-ChatGPT-UITGELEGD.png">
+<img align="right" width="240" height="240" src=".\QR-code-ChatGPT-UITGELEGD.png">
 
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending; of een gesprek met je kan voeren over een thema dat jou interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. Of toch niet??!!! Voorlopig is het een *"work-in-progress"*.
 
