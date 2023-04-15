@@ -1462,17 +1462,16 @@ Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-
 
 
 
->*Het is geen nieuwe chatbot technologie, geen nieuw groot taalmodel [LLM]. En zeker NIET een voorbeeld van artificial general intelligence (AGI).* <br> <br> Het is een innovatieve implementatie van het ontwerpen van chatbots die gebruik maakt van de kracht van natuurlijke taalverwerking AI-technologieën om autonoom taken uit te voeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
+>*Het is geen nieuwe chatbot technologie, geen nieuw groot taalmodel [LLM]. En zeker NIET een voorbeeld van artificial general intelligence (AGI).* <br> <br> Het is een innovatieve implementatie van het ontwerpen van Gen-AI chatbots die gebruik maakt van de kracht van natuurlijke taalverwerking AI-technologieën *---zoals GPT-4---* om zelfstandig taken uit te voeren op het world-wide-web zonder menselijke tussenkomst. <br> 
 
 TSA's is dus een vorm van autonome-AI met als doel om een breed spectrum aan taken in zeer uiteenlopende domeinen te kunnen uitvoeren zonder menselijke tussenkomst. 
 
 
+Auto-GPT is een [open-source GitHub-project](https://github.com/Torantulino/Auto-GPT) dat gebruikt maakt van natuurlijke taalverwerking van de [tokenmachine *---GPT-4---*]( https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1g-wat-is-tokeniseren--wat-is-een-token). Deze GPT-4 implementatie werd op 30 maart 2023 op GitHub geplaatst door ontwikkelaar Significant Gravitas. 
 
-Auto-GPT is een [open-source GitHub-project](https://github.com/Torantulino/Auto-GPT) dat gebruikt maakt van natuurlijke taalverwerking van de [tokenmachine *---GPT-4---*]( https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1g-wat-is-tokeniseren--wat-is-een-token). Deze GPT-4 implementatie werd op 30 maart 2023 op GitHub geplaatst door ontwikkelaar Significant Gravitas. De toepassing wordt echter aangestuurd door GPT-4, het nieuwste en meest geavanceerde AI-model van OpenAI.
+Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën *---zoals GPT-4---*  kunnen TSA's autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
 
-Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën kunnen TSA's autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
-
-Dus, Auto-GPT maakt gebruik van OpenAI-LP's GPT-4 taalmodel, om taken uit te voeren, nieuwe taken te genereren op basis van de resultaten, en taken in real-time te prioriteren. Het implementeren van een TSA vereist echter een aantal belangrijke stappen, zoals het definiëren van de taak, het verzamelen van data, het trainen van het model, het evalueren van het model en het implementeren van het model. Mar voordat je zover bent moet je eerst een taak definiëren.
+Dus, Auto-GPT maakt gebruik van OpenAI-LP's GPT-4 taalmodel, om taken uit te voeren, nieuwe taken te genereren op basis van de resultaten, en taken in real-time te prioriteren. Het implementeren van een TSA vereist echter een aantal belangrijke stappen, zoals het definiëren van de taak, het verzamelen van data, het trainen van het model, het evalueren van het model en het implementeren van het model. Maar voordat je zover bent moet je eerst een aantal zeer technische stappen doorlopen.
 
 
 
