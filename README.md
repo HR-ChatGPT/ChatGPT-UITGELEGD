@@ -1458,27 +1458,104 @@ Een recente arXiv studie getiteld: [*"Bias out-of-the-box: An empirical analysis
 *******
 
 #### Taak-gedreven zelfstandig opererende AI Agenten *---TSA's---* versus Gen-AI Chatbots
-Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-gedreven zelfstandig opererende Agenten [TSA's]*. TSA's zijn gen-AI chatbots *---zoals ChatGPT---* die autonoom *---zelfstandig---* kunnen handelen zonder tussen komst van een mens om een reeks van opeenvolgende acties in gang te zetten totdat een bepaalde taak is volbracht. 
+Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-gedreven zelfstandig opererende Agenten [TSA's]*. <br> TSA's kunnen handelen zonder tussen komst van een mens om een reeks van opeenvolgende acties in gang te zetten totdat een bepaalde taak is volbracht. 
+
+>Denk aan taken zoals:  
+ *Financieel:* 10.000 Euro sparen voor een aanbetaling van een huis.
+<br> *Sociale media:* Binnen zes maanden 10.000 volgers op Instagram krijgen.
+<br> *Leren:* Vloeiend worden in een nieuwe taal binnen een jaar.
+<br> *Koken:* Het beheersen van vijf gastronomische recepten en het organiseren van een diner voor vrienden en familie.
+
+Het is dus vorm van verregaande automatisering taken die normaal gesproken door mensen worden uitgevoerd en die informatie ontlenen aan bronnen en/of applicaties die te vinden zijn op het internet.
+
+<br> 
+
+#### Auto-GPT
+
+Auto-GPT is een TSA dat gebruikt maakt van natuurlijke taalverwerking. Om precies te zijn, het is een GPT-4 implementatie dat op 30 maart 2023 als [GitHub Repository *---met meer dan 140 "contributers"---*](https://github.com/Significant-Gravitas/Auto-GPT) gedeeld werd op het internet door ontwikkelaar *"Significant Gravitas"*. Het is een vorm van innovatieve GPT-based automatisering van world-wide-web taken die normaal gesproken door mensen worden uitgevoerd.
+
+>*Auto-GPT is geen nieuwe chatbot technologie, geen nieuw groot taalmodel [LLM]. <br> En zeker NIET een voorbeeld van artificial general intelligence (AGI). <br> Het is eerder een web-crawler on steroids*
+
+Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën *---zoals GPT-4---* kunnen TSA's autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
+
+Het implementeren van een TSA vereist echter een aantal belangrijke stappen, zoals het definiëren van de taak, en de bijhehorende wachtrij van subtaken op meta-niveua, het verzamelen van data, het trainen van het model, het evalueren van het model en het implementeren van het model. 
+
+Het onderstaande voorbeeld is overgenomen uit het Tech Blog getiteld: <br> [*Uncover the Extraordinary Potential of Self-Prompting AI Models and Their Role in Shaping Our Future*](https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae)
+
+```python
+# Voorbeeld van een taak die AutoGPT kan uitvoeren
+
+'Stel dat uw doel is om het aantal volgers op Twitter te vergroten.'
+
+'Het eerste wat AutoGPT zal doen is een wachtrij van subtaken maken op "meta" niveau:'
+
+    (1)   Inhoud creatie
+    (2)   Engage met uw publiek
+    (3)   Verbinden met beïnvloeders
+    (4)   Optimaliseer uw profiel
+    (5)   Uw account promoten
+
+# AutoGPT definieert de subtaken voor elke taak op meta-niveau
+
+    (1) Inhoud creatie
+          (1.1) Boeiende inhoud delen die waarde toevoegt
+          (1.2) Gebruik visuals van hoge kwaliteit
+          (1.3) Gebruik relevante hashtags om het bereik te vergroten
+
+# Vervolgens worden de taken voor elke substaak degefinieerd.
+
+# Hier is de takenlijst voor 
+"Deel boeiende inhoud die waarde toevoegt"
+
+                (1.1.1) Identificeer uw doelgroep en hun interesses
+                (1.1.2) Doe onderzoek om op de hoogte te blijven van nieuws en trends uit de sector
+                (1.1.3) Creëer originele inhoud die waarde toevoegt aan uw volgers
+                (1.1.3) Gebruik visueel aantrekkelijke afbeeldingen of videos bij uw berichten
+                (1.1.3) Post consequent om betrokkenheid bij uw volgers te behouden
+                (1.1.3) Gebruik relevante hashtags om een breder publiek te bereiken
+                (1.1.3) Communiceer met je volgers door te reageren op opmerkingen en berichten
+                (1.1.3) Analyseer de prestaties van uw inhoud om toekomstige berichten te optimaliseren.
+
+AutoGPT start een recursief proces waarbij elk subniveau aan taken verder moet worden uitgewerkt en uirgevoerd.
+
+```
+
+Maar voordat je zover bent moet je eerst een aantal zeer technische stappen doorlopen en implementeren waarvoor coding expertise een vereiste is.
+
+AutoGPT gebruikt GPT-4 voor het genereren, prioriteren en uitvoeren van taken die in een wachtrij worden geplaatst.
+Plug-ins zijn nodig voor het ondersteunen van de benodigde interactie met het internet.
+*"Extern geheugen"* is nodig om lopende acties bij te houden en zichzelf waar nodig kan corrigeren en nieuwe taken aan de wachtrij kan toevoegen.
+De genereerde taken worden op basis van hun urgentie en belang achtereenvolgens afgehandeld, zodat het efficiënt en effectief kan werken. Hoe dit in zijn werkt gaat wordt hieronder uitgelegd.
+
+| Access to the internet | Auto-GPT kan toegang krijgen tot internet en realtime informatie verzamelen uit verschillende bronnen. Dit houdt het up-to-date met de laatste trends en stelt het in staat om gespecialiseerde en domeinspecifieke sites te openen om belangrijke informatie te vinden voor specifieke taken. |
+| --- | --- |
+| Effective memory management | Auto-GPT heeft effectief geheugenbeheer op lange en korte termijn. Dit stelt het in staat om informatie effectiever op te slaan, te lezen en te verwerken. |
+| GPT-4 text generation | Auto-GPT gebruikt GPT-4 voor tekstgeneratie. Dit stelt het in staat om zeer gebruiksvriendelijke en contextgevoelige uitvoer te bieden. |
+| Parallel processing | Auto-GPT kan meerdere instanties van zichzelf parallel laten werken. Dit stelt het in staat om doelen sneller te bereiken. |
+| Access to various platforms | Auto-GPT heeft toegang tot verschillende platforms, zoals ElevenLabs (voor spraakmogelijkheden). Dit stelt het in staat om met verschillende bronnen en services te communiceren. |
+| Improved file storage and summarization | De bestandsopslag- en samenvattingsmogelijkheden van Auto-GPT zijn verbeterd met GPT 3.5. Dit stelt het in staat om belangrijke documenten en bestanden op te slaan terwijl de inhoud effectief wordt samengevat. |
+| Continuous mode | Auto-GPT kan worden uitgevoerd in continue modus, waardoor het 100% geautomatiseerd is. Dit stelt het in staat om taken zonder menselijke tussenkomst uit te voeren. |
 
 
 
->*Het is geen nieuwe chatbot technologie, geen nieuw groot taalmodel [LLM]. En zeker NIET een voorbeeld van artificial general intelligence (AGI).* <br> <br> Het is een innovatieve implementatie van het ontwerpen van Gen-AI chatbots die gebruik maakt van de kracht van natuurlijke taalverwerking AI-technologieën *---zoals GPT-4---* om zelfstandig taken uit te voeren op het world-wide-web zonder menselijke tussenkomst. <br> 
 
-TSA's is dus een vorm van autonome-AI met als doel om een breed spectrum aan taken in zeer uiteenlopende domeinen te kunnen uitvoeren zonder menselijke tussenkomst. 
+<br>
 
+#### AgentGPT
 
-Auto-GPT is een [open-source GitHub-project](https://github.com/Torantulino/Auto-GPT) dat gebruikt maakt van natuurlijke taalverwerking van de [tokenmachine *---GPT-4---*]( https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1g-wat-is-tokeniseren--wat-is-een-token). Deze GPT-4 implementatie werd op 30 maart 2023 op GitHub geplaatst door ontwikkelaar Significant Gravitas. 
+Omdat dat Auto-GPT nogal bwewerkelijk is om te gebruiken, is er een alternatief ontwikkeld genaamd [AgentGPT](https://agentgpt.reworkd.ai/). AgentGPT is een Python-script dat is ontworpen om Auto-GPT te gebruiken en te integreren met andere applicaties. AgentGPT is een veel gebruiksvriendelijker en eenvoudiger te gebruiken dan Auto-GPT.
 
-Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën *---zoals GPT-4---*  kunnen TSA's autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
-
-Dus, Auto-GPT maakt gebruik van OpenAI-LP's GPT-4 taalmodel, om taken uit te voeren, nieuwe taken te genereren op basis van de resultaten, en taken in real-time te prioriteren. Het implementeren van een TSA vereist echter een aantal belangrijke stappen, zoals het definiëren van de taak, het verzamelen van data, het trainen van het model, het evalueren van het model en het implementeren van het model. Maar voordat je zover bent moet je eerst een aantal zeer technische stappen doorlopen.
+> Auto-GPT kan rechtstreeks vanuit de browser worden benaderd zonder Python-scripts te hoeven installeren, bekend als Agent-GPT. Andere projecten zoals Baby AGI en Jarvis Hugging GPT beogen de integratie van taalmodellen en andere functies om complexe taken te automatiseren. In deze systemen fungeert het taalmodel als controller en maakt het gebruik van andere taal- of expertmodellen en hulpmiddelen om zo autonoom mogelijk doelen te bereiken.
 
 
+Het is echter belangrijk om bij het gebruik autonome systemen rekening te houden met potentiële risico's, zoals de privacy van gegevens, ethische bezwaren en overbelasting van het systeem, om een verantwoorde en succesvolle implementatie te waarborgen.
 
+### Geselecteerde referenties voor verder lezen
 
-Het is echter belangrijk om bij het gebruik van deze systemen rekening te houden met potentiële risico's, zoals de privacy van gegevens, ethische bezwaren en overbelasting van het systeem, om een verantwoorde en succesvolle implementatie te waarborgen.
-
-
+* https://github.com/kalaspuff/ai-assisted-task-executor
+* https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/
+* https://github.com/Significant-Gravitas/Auto-GPT
+* https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae
 
 <br>
 
