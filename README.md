@@ -1458,7 +1458,7 @@ Een recente arXiv studie getiteld: [*"Bias out-of-the-box: An empirical analysis
 *******
 
 #### Taak-gedreven zelfstandig opererende AI Agenten *---TSA's---* versus Gen-AI Chatbots
-Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-gedreven zelfstandig opererende Agenten [TSA's]*. <br> TSA's kunnen handelen zonder tussen komst van een mens om een reeks van opeenvolgende acties in gang te zetten totdat een bepaalde taak is volbracht. 
+Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-gedreven zelfstandig opererende Agenten [TSA's]*. TSA's kunnen handelen zonder tussen komst van een mens om een reeks van opeenvolgende acties in gang te zetten totdat een bepaalde taak is volbracht. 
 
 >Denk aan taken zoals:  
  *Financieel:* 10.000 Euro sparen voor een aanbetaling van een huis.
