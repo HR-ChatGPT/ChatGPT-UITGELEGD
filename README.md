@@ -199,11 +199,14 @@ https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 * [0c] [+Moet ik me zorgen maken over ChatGPT technologie?](#v0c)
 <!--
 * [0d] [+Wat is nodig om een Gen-AI zoals ChatGPT te bouwen?](#v0d)
+https://medium.com/codingthesmartway-com-blog/unlocking-the-power-of-gpt-4-api-a-beginners-guide-for-developers-a4baef2b5a81
 -->
 * [0d] [+Is er een ChatGPT *"code-of-conduct"* en/of richtlijn voor hbo docenten?](#v0d)
 * [0e] [+Kan ChatGPT benut worden als beoordelingsinstrument?](#v0e)
 * [0f] [+Voldoen Gen-AI *---zoals ChatGPT---* aan Europese AI-Regelgeving?](#v0f)
 * [0g] [+Hoe FAIR zijn Gen-AI *---zoals ChatGPT---* eigenlijk?](#v0g)
+* [0h] [+Hoe verschilt chatGPT van *"Auto-GPT"*?](#v0h)
+
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -1442,6 +1445,26 @@ Een recente arXiv studie getiteld: [*"Bias out-of-the-box: An empirical analysis
 
 
 * Zhuo, T. Y., Huang, Y., Chen, C., & Xing, Z. (2023). Exploring AI ethics of ChatGPT: A diagnostic analysis. arXiv preprint https://doi.org/10.48550/arXiv.2301.12867
+
+
+<br>
+
+
+
+# v0h
+
+*******
+### [0h] HOE VERSCHILT ChatGPT van *"Auto-GPT"*?
+*******
+
+#### Taak-gedreven zelfstandig opererende AI Agenten *---TSA's---* versus Gen-AI Chatbots
+Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-gedreven zelfstandig opererende Agenten [TSA's]*. TSA's zijn gen-AI chatbots *---zoals ChatGPT---* die autonoom *---zelfstandig---* kunnen handelen zonder tussen komst van een mens om een reeks van opeenvolgende acties in gang te zetten totdat een bepaalde taak is volbracht. Het is geen nieuwe chatbot technologie en geen nieuw groot taalmodel [LLM]. 
+TSA's zijn ontworpen met als doel om een breed spectrum aan taken in zeer uiteenlopende domeinen te kunnen uitvoeren zonder menselijke tussenkomst. Auto-GPT is een open-source TSA-project dat gebruikt maakt van natuurlijke taalverwerking van de [tokenmachine *---GPT-4---*]( https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1g-wat-is-tokeniseren--wat-is-een-token). 
+Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën kunnen deze agents autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
+
+Dus, Auto-GPT maakt gebruik van OpenAI-LP's GPT-4 taalmodel, om taken uit te voeren, nieuwe taken te genereren op basis van de resultaten, en taken in real-time te prioriteren. 
+
+Het is echter belangrijk om bij het gebruik van deze systemen rekening te houden met potentiële risico's, zoals de privacy van gegevens, ethische bezwaren en overbelasting van het systeem, om een verantwoorde en succesvolle implementatie te waarborgen.
 
 
 
