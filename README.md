@@ -1513,7 +1513,7 @@ Het onderstaande voorbeeld is overgenomen uit het Tech Blog getiteld: <br> [*Unc
                 (1.1.3) Communiceer met je volgers door te reageren op opmerkingen en berichten
                 (1.1.3) Analyseer de prestaties van uw inhoud om toekomstige berichten te optimaliseren.
 
-AutoGPT start een recursief proces waarbij elk subniveau aan taken verder moet worden uitgewerkt en uirgevoerd.
+AutoGPT start een recursief proces waarbij elk subniveau aan taken verder moet worden uitgewerkt en uitgevoerd.
 
 ```
 
@@ -1536,7 +1536,7 @@ De genereerde taken worden op basis van hun urgentie en belang achtereenvolgens 
 
 #### AgentGPT
 
-Omdat dat Auto-GPT nogal bwewerkelijk is om te gebruiken, is er een alternatief ontwikkeld genaamd [AgentGPT](https://agentgpt.reworkd.ai/). AgentGPT is een Python-script dat is ontworpen om Auto-GPT te gebruiken en te integreren met andere applicaties. AgentGPT is een veel gebruiksvriendelijker en eenvoudiger te gebruiken dan Auto-GPT.
+Omdat dat Auto-GPT nogal bwewerkelijk is om te gebruiken, is er een alternatief ontwikkeld genaamd [AgentGPT](https://agentgpt.reworkd.ai/). AgentGPT is een Python-script dat is ontworpen om Auto-GPT te gebruiken en te integreren met andere applicaties. AgentGPT is veel gebruiksvriendelijker en eenvoudiger te gebruiken dan Auto-GPT.
 
 > Auto-GPT kan rechtstreeks vanuit de browser worden benaderd zonder Python-scripts te hoeven installeren, bekend als Agent-GPT. Andere projecten zoals Baby AGI en Jarvis Hugging GPT beogen de integratie van taalmodellen en andere functies om complexe taken te automatiseren. In deze systemen fungeert het taalmodel als controller en maakt het gebruik van andere taal- of expertmodellen en hulpmiddelen om zo autonoom mogelijk doelen te bereiken.
 
