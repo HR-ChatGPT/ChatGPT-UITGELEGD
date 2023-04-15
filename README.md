@@ -1467,9 +1467,6 @@ Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-
 <br> *Koken:* Het beheersen van vijf gastronomische recepten en het organiseren van een diner voor vrienden en familie.
 
 Het is dus vorm van verregaande automatisering taken die normaal gesproken door mensen worden uitgevoerd en die informatie ontlenen aan bronnen en/of applicaties die te vinden zijn op het internet.
-
-<br> 
-
 #### Auto-GPT
 
 Auto-GPT is een TSA dat gebruikt maakt van natuurlijke taalverwerking. Om precies te zijn, het is een GPT-4 implementatie dat op 30 maart 2023 als [GitHub Repository *---met meer dan 140 "contributers"---*](https://github.com/Significant-Gravitas/Auto-GPT) gedeeld werd op het internet door ontwikkelaar *"Significant Gravitas"*. Het is een vorm van innovatieve GPT-based automatisering van world-wide-web taken die normaal gesproken door mensen worden uitgevoerd.
@@ -1537,10 +1534,6 @@ De genereerde taken worden op basis van hun urgentie en belang achtereenvolgens 
 | Continuous mode | Auto-GPT kan worden uitgevoerd in continue modus, waardoor het 100% geautomatiseerd is. Dit stelt het in staat om taken zonder menselijke tussenkomst uit te voeren. |
 
 
-
-
-<br>
-
 #### AgentGPT
 
 Omdat dat Auto-GPT nogal bwewerkelijk is om te gebruiken, is er een alternatief ontwikkeld genaamd [AgentGPT](https://agentgpt.reworkd.ai/). AgentGPT is een Python-script dat is ontworpen om Auto-GPT te gebruiken en te integreren met andere applicaties. AgentGPT is een veel gebruiksvriendelijker en eenvoudiger te gebruiken dan Auto-GPT.
@@ -1556,6 +1549,7 @@ Het is echter belangrijk om bij het gebruik autonome systemen rekening te houden
 * https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/
 * https://github.com/Significant-Gravitas/Auto-GPT
 * https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae
+* https://medium.com/codingthesmartway-com-blog/from-chatgpt-to-auto-gpt-discover-the-next-evolution-of-autonomous-ai-thats-changing-the-game-a00e83d583cf
 
 <br>
 
