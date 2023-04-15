@@ -1459,7 +1459,7 @@ Een recente arXiv studie getiteld: [*"Bias out-of-the-box: An empirical analysis
 
 #### Taak-gedreven zelfstandig opererende AI Agenten *---TSA's---* versus Gen-AI Chatbots
 Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-gedreven zelfstandig opererende Agenten [TSA's]*. TSA's zijn gen-AI chatbots *---zoals ChatGPT---* die autonoom *---zelfstandig---* kunnen handelen zonder tussen komst van een mens om een reeks van opeenvolgende acties in gang te zetten totdat een bepaalde taak is volbracht. Het is geen nieuwe chatbot technologie en geen nieuw groot taalmodel [LLM]. 
-TSA's zijn ontworpen met als doel om een breed spectrum aan taken in zeer uiteenlopende domeinen te kunnen uitvoeren zonder menselijke tussenkomst. Auto-GPT is een open-source TSA-project dat gebruikt maakt van natuurlijke taalverwerking van de [tokenmachine *---GPT-4---*]( https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1g-wat-is-tokeniseren--wat-is-een-token). 
+TSA's is dus een vorm van autonome-AI met als doel om een breed spectrum aan taken in zeer uiteenlopende domeinen te kunnen uitvoeren zonder menselijke tussenkomst. Auto-GPT is een open-source TSA-project dat gebruikt maakt van natuurlijke taalverwerking van de [tokenmachine *---GPT-4---*]( https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1g-wat-is-tokeniseren--wat-is-een-token). 
 Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën kunnen deze agents autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
 
 Dus, Auto-GPT maakt gebruik van OpenAI-LP's GPT-4 taalmodel, om taken uit te voeren, nieuwe taken te genereren op basis van de resultaten, en taken in real-time te prioriteren. 
