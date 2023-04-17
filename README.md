@@ -1466,7 +1466,7 @@ Sinds april 2023 is er een nieuwe trend te bespeuren in de Gen-AI wereld: *Taak-
 <br> *Leren:* Vloeiend worden in een nieuwe taal binnen een jaar.
 <br> *Koken:* Het beheersen van vijf gastronomische recepten en het organiseren van een diner voor vrienden en familie.
 
-Het is dus vorm van verregaande automatisering taken die normaal gesproken door mensen worden uitgevoerd en die informatie ontlenen aan bronnen en/of applicaties die te vinden zijn op het internet.
+Het is dus een vorm van verregaande automatisering van taken die normaal gesproken door mensen worden uitgevoerd en die informatie ontlenen aan bronnen en/of applicaties die te vinden zijn op het internet.
 #### Auto-GPT
 
 Auto-GPT is een TSA dat gebruikt maakt van natuurlijke taalverwerking. Om precies te zijn, het is een GPT-4 implementatie dat op 30 maart 2023 als [GitHub Repository *---met meer dan 140 "contributers"---*](https://github.com/Significant-Gravitas/Auto-GPT) gedeeld werd op het internet door ontwikkelaar *"Significant Gravitas"*. Het is een vorm van innovatieve GPT-based automatisering van world-wide-web taken die normaal gesproken door mensen worden uitgevoerd.
