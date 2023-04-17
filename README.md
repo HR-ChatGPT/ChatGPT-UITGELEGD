@@ -1475,7 +1475,7 @@ Auto-GPT is een TSA dat gebruikt maakt van natuurlijke taalverwerking. Om precie
 
 Door gebruik te maken van de kracht van natuurlijke taalverwerking AI-technologieën *---zoals GPT-4---* kunnen TSA's autonoom taken uitvoeren binnen verschillende beperkingen en contexten, waardoor ze nuttig zijn voor uiteenlopende toepassingen.
 
-Het implementeren van een TSA vereist echter een aantal belangrijke stappen, zoals het definiëren van de taak, en de bijhehorende wachtrij van subtaken op meta-niveua, het verzamelen van data, het trainen van het model, het evalueren van het model en het implementeren van het model. 
+Het implementeren van een TSA vereist echter een aantal belangrijke stappen, zoals het definiëren van de taak, en de bijhehorende wachtrij van subtaken op meta-niveau, het verzamelen van data, het trainen van het model, het evalueren van het model en het implementeren van het model. 
 
 Het onderstaande voorbeeld is overgenomen uit het Tech Blog getiteld: <br> [*Uncover the Extraordinary Potential of Self-Prompting AI Models and Their Role in Shaping Our Future*](https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae)
 
