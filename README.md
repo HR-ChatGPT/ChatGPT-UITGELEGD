@@ -2242,7 +2242,7 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
 Onderstaande tabel is gebaseerd op: <br> (1) Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools)  <br> (2) [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."* <br> (3)  Chloe Appleby's Blog on BestColleges.
 Updated on April 6, 2023: [The Best AI Detection Tools to Catch Cheating and Plagiarism.
-](https://www.bestcolleges.com/news/best-ai-detection-tools-cheating-plagiarism/)
+](https://www.bestcolleges.com/news/best-ai-detection-tools-cheating-plagiarism/) <br> (4) [GoldPenguin](https://goldpenguin.org/blog/check-for-ai-content/) Blog on: *"How To Check If Something Was Written with AI"*.
 
 <!--
 
@@ -2273,19 +2273,20 @@ Updated on April 6, 2023: [The Best AI Detection Tools to Catch Cheating and Pla
 ---- | ---- | ---
 https://gptzero.me/ | GPTzero | GPT-2
 https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
-https://platform.openai.com/ai-text-classifier | OpenAI's AI Text Classifier | Uesed are a dataset of AI-generated and human-written text. The human-written text came from three sources - a new Wikipedia dataset, the WebText dataset collected in 2019, and a set of human demonstrations collected as part of training [InstructGPT](https://arxiv.org/abs/2203.02155).
-https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GPT-2
+https://platform.openai.com/ai-text-classifier | OpenAI's AI Text Classifier | *"Used are a dataset of AI-generated and human-written text. The human-written text came from three sources - a new Wikipedia dataset, the WebText dataset collected in 2019, and a set of human demonstrations collected as part of training [InstructGPT](https://arxiv.org/abs/2203.02155)."*
+https://huggingface.co/spaces/openai/openai-detector | Huggingface GPT-2 Output Detector Demo | GPT-2
 https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
-https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
+https://www.poemofquotes.com/tools/chatgpt-content-detector.php | Poem Of Quotes | ???
 https://corrector.app/ai-content-detector/ | Corrector | ???
 https://contentatscale.ai/ai-content-detector/ | Content at Scale | GPT-2, GPT-3, 3.5, GPT-4(ChatGPT)?
 https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector  | GPT-2
 http://gltr.io/dist/index.html | Giant Language model Test Room [GLTR] | GPT-2-small 117M
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
-https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
+https://www.turnitin.com/solutions/ai-writing | Turnitin | GPT-4
 https://crossplag.com/ | plagiarism checking tool | ???
 https://gowinston.ai/ | Winston AI Detection | GPT-4
-https://originality.ai/free-ai-content-detector-chrome-extension/ | Originality AI Content Detector | GPT-3, 3.5, GPT-4(ChatGPT)?
+https://originality.ai/free-ai-content-detector-chrome-extension/ | Originality AI Content Detector | GPT-3, 3.5, GPT-4(ChatGPT)? <br><br> *"Originality can be a valuable tool for students looking to verify the originality and authenticity of their work before submitting it for a class or assignment.""* <br> <br> 
+https://writer.com/ai-content-detector/ | Writer AI Content Detector | GPT-3, 3.5, GPT-4(ChatGPT)?
 
 
 <br> 
