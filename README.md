@@ -2240,7 +2240,9 @@ In het vervolg zal ik materiaal ---dat door een student is ingediend maar door e
 #### Overzicht Gen-AI detectoren
 
 Sinds januari 2023 zijn er op taalmodellen gebaseerde tools online beschikbaar met als doel het gebruik van Gen-AI te detecteren. 
-Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools) + <br> [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."*
+Onderstaande tabel is gebaseerd op: <br> (1) Daniel Baek's SEO-AI blog getiteld: [*"ChatGPT detector"*](https://seo.ai/blog/chatgpt-detector-tools)  <br> (2) [KDnuggets](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html): *"Top free tools to check research papers, thesis, assignments, documentation, and draft for AI content detection."* <br> (3)  Chloe Appleby's Blog on BestColleges.
+Updated on April 6, 2023: [The Best AI Detection Tools to Catch Cheating and Plagiarism.
+](https://www.bestcolleges.com/news/best-ai-detection-tools-cheating-plagiarism/)
 
 <!--
 
