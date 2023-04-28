@@ -573,6 +573,9 @@ Miscommunicatie | <br> Overschatting en/of misrepresentatie m.b.t. functionele v
 
 * Truong TC, Diep QB, Zelinka I. Artificial Intelligence in the Cyber Domain: Offense and Defense. Symmetry. 2020; 12(3):410. https://doi.org/10.3390/sym12030410
 
+* Bowman, S. R. (2023). Eight things to know about large language models. arXiv preprint https://doi.org/10.48550/arXiv.2304.00612
+
+
 
 
 <br>
