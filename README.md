@@ -2207,6 +2207,25 @@ De herkenningstools zijn, net als ChatGPT zelf, relatief nieuw en worden nog nie
 
 <br> 
 
+
+Volgens [TechCrunch](https://techcrunch.com/2023/01/31/openai-releases-tool-to-detect-ai-generated-text-including-from-chatgpt/):
+ >*"Naarmate Gen-AI beter worden, verbeteren ook de detectoren - een nooit eindigende rat-race vergelijkbaar met dat tussen cybercriminelen en maleware-detertor applicaties... ...Er is geen wondermiddel."*
+
+
+Toch kunnen deze tools ten minste standard AI gegenereerde inhoud detecteren en beoordelaars een gevoel geven of een tekst al dan niet door mensen is gegenereerd. Over het algemeen geldt dat hoe langer de tekst in een passage is, hoe beter de tool werkt.
+
+<!--
+Volgens de [Search Engine Journal](https://www.searchenginejournal.com/chatgpt-watermark/475366/#close) is OpenAI van plan om een cryptografische watermerkfunctie te introduceren. Door statistische patronen in woordkeuzes en zelfs interpunctie in te bedden, zou het watermerk het gemakkelijk maken voor een detectietool om het te vangen.
+
+Scott Aaronson, een computerwetenschapper die werkt aan het OpenAI-watermerkproject, zei: “We willen het veel moeilijker maken om een GPT-uitvoer te nemen en deze door te geven alsof deze van een mens afkomstig was. Dit kan nuttig zijn om academisch plagiaat te voorkomen, uiteraard, maar ook bijvoorbeeld bij massale generatie van propaganda… Of het imiteren van iemands schrijfstijl om hem of haar te belasten.”
+
+Totdat watermerkfuncties zijn geïmplementeerd, kunnen AI-detectietools echter nodig zijn om vals spelen en plagiaat te voorkomen. Hier is een lijst met de huidige tools die studenten en professoren kunnen gebruiken om te helpen detecteren of iets met behulp van AI is geschreven."
+
+Received message. Hier is de vertaling van uw tekst in het Nederlands: "Volgens Search Engine Journal is OpenAI van plan om een cryptografische watermerkfunctie te introduceren. Door statistische patronen in woordkeuzes en zelfs interpunctie in te bedden, zou het watermerk het gemakkelijk maken voor een detectietool om het te vangen. Scott Aaronson, een computerwetenschapper die werkt aan het OpenAI-watermerkproject, zei: "We willen het veel moeilijker maken om een GPT-uitvoer te nemen en deze door te geven alsof deze van een mens afkomstig was. Dit kan nuttig zijn om academisch plagiaat te voorkomen, uiteraard, maar ook bijvoorbeeld bij massale generatie van propaganda... Of het imiteren van iemands schrijfstijl om hem of haar te belasten." Totdat watermerkfuncties zijn geïmplementeerd, kunnen AI-detectietools echter nodig zijn om vals spelen en plagiaat te voorkomen. Hier is een lijst met de huidige tools die studenten en professoren kunnen gebruiken om te helpen detecteren of iets met behulp van AI is geschreven.
+-->
+
+
+
 <!--
 https://uproxx.com/technology/chat-gpt-plagiarism-is-blowing-up-academia-the-unexpected-solution/
 https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier
