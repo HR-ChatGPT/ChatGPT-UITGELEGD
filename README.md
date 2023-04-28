@@ -2285,6 +2285,7 @@ https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detec
 https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
 https://crossplag.com/ | plagiarism checking tool | ???
 https://gowinston.ai/ | Winston AI Detection | GPT-4
+https://originality.ai/free-ai-content-detector-chrome-extension/ | Originality AI Content Detector | GPT-3
 
 
 <br> 
