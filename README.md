@@ -2271,6 +2271,7 @@ Onderstaande tabel is gebaseerd op Daniel Baek's SEO-AI blog getiteld: [*"ChatGP
 ---- | ---- | ---
 https://gptzero.me/ | GPTzero | GPT-2
 https://openai-openai-detector.hf.space/ | AI-detector | GPT-2
+https://platform.openai.com/ai-text-classifier | OpenAI's AI Text Classifier | Uesed are a dataset of AI-generated and human-written text. The human-written text came from three sources - a new Wikipedia dataset, the WebText dataset collected in 2019, and a set of human demonstrations collected as part of training [InstructGPT](https://arxiv.org/abs/2203.02155).
 https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Demo | GPT-2
 https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
 https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
@@ -2281,6 +2282,7 @@ http://gltr.io/dist/index.html | Giant Language model Test Room [GLTR] | GPT-2-s
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
 https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
 https://crossplag.com/ | plagiarism checking tool | ???
+https://gowinston.ai/ | Winston AI Detection | GPT-4
 
 
 <br> 
