@@ -2278,14 +2278,14 @@ https://huggingface.co/spaces/openai/openai-detector | GPT-2 Output Detector Dem
 https://copyleaks.com/features/ai-content-detector | CopyLeaks |  ???
 https://www.poemofquotes.com/tools/chatgpt-content-detector.php | PoemOfQuotes | ???
 https://corrector.app/ai-content-detector/ | Corrector | ???
-https://contentatscale.ai/ai-content-detector/ | Content at Scale | ???
+https://contentatscale.ai/ai-content-detector/ | Content at Scale | GPT-2, GPT-3, 3.5, GPT-4(ChatGPT)?
 https://huggingface.co/roberta-base-openai-detector | Roberta-Base-OpenAI-Detector  | GPT-2
 http://gltr.io/dist/index.html | Giant Language model Test Room [GLTR] | GPT-2-small 117M
 https://contentatscale.ai/ai-content-detector/ | Contentatscale AI Content Detector | ???
 https://www.turnitin.com/solutions/ai-writing | https://www.turnitin.com/solutions/ai-writing | GPT-4
 https://crossplag.com/ | plagiarism checking tool | ???
 https://gowinston.ai/ | Winston AI Detection | GPT-4
-https://originality.ai/free-ai-content-detector-chrome-extension/ | Originality AI Content Detector | GPT-3
+https://originality.ai/free-ai-content-detector-chrome-extension/ | Originality AI Content Detector | GPT-3, 3.5, GPT-4(ChatGPT)?
 
 
 <br> 
