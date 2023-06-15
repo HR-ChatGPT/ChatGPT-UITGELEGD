@@ -148,6 +148,8 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 ### Suggesties voor verdere lezing:
 
+* UNESCO. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. https://unesdoc.unesco.org/ark:/48223/pf0000385146
+
 * Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.12173
 
 * Hohenstein, J., Kizilcec, R. F., DiFranzo, D., Aghajari, Z., Mieczkowski, H., Levy, K., ... & Jung, M. F. (2023). Artificial intelligence in communication impacts language and social relationships. Scientific Reports, 13(1), 5487. https://doi.org/10.1038/s41598-023-30938-9
