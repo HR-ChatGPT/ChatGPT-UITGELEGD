@@ -150,9 +150,9 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 * UNESCO. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. https://unesdoc.unesco.org/ark:/48223/pf0000385146
 
-* EDUCAUSE Review. (2022). Special Report | Artificial Intelligence: Where Are We Now? https://edusupport.rug.nl/2430042249
+* EDUCAUSE Review. (2022). Special Report | Artificial Intelligence: Where Are We Now? https://er.educause.edu/toc/educause-review-special-report-artificial-intelligence-where-are-we-now
 
-* Rijksuniversiteit Groningen. (2022). Educational uses for teachers | Artificial Intelligence (AI) tools in education. https://www.rug.nl/education/innovation-support/onderwijsinnovatie/ai-in-het-onderwijs
+* Rijksuniversiteit Groningen. (2022). Educational uses for teachers. | Artificial Intelligence (AI) tools in education.  https://edusupport.rug.nl/2430042249
 
 * Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.12173
 
