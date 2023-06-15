@@ -44,6 +44,7 @@ Er zullen regelmatig updates volgen over nieuwe ontwikkelingen.
 >Disclaimer: deze tekst is door het gebruik van *"gezond verstand'* tot stand gekomen. <br> Artificiële intelligentie [AI] is gebruikt ter verificatie van de gebruikte bronnen + vertaling van Engelstalige teksten.
 
   [![HitCount](https://hits.dwyl.com/robvdw/HR-ChatGPT/ChatGPT-UITGELEGD.svg?style=flat-square)](http://hits.dwyl.com/robvdw/HR-ChatGPT/ChatGPT-UITGELEGD)
+  [![HitCount](https://hits.dwyl.com/robvdw/HR-ChatGPT/ChatGPT-UITGELEGD.svg?style=flat-square&show=unique)](http://hits.dwyl.com/robvdw/HR-ChatGPT/ChatGPT-UITGELEGD)
 
 *****
 ### Dit is een data product gemaakt door het [PROMETHEUS DATA SCIENCE LAB](https://github.com/HR-DATA-FABRIC/PROMETHEUS) <br> van de Hogeschool Rotterdam.
