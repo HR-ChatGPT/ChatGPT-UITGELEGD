@@ -152,7 +152,7 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 * EDUCAUSE Review. (2022). Special Report | Artificial Intelligence: Where Are We Now? https://er.educause.edu/toc/educause-review-special-report-artificial-intelligence-where-are-we-now
 
-* Rijksuniversiteit Groningen. (2022). Educational uses for teachers. | Artificial Intelligence (AI) tools in education.  https://edusupport.rug.nl/2430042249
+* Rijksuniversiteit Groningen. (mei, 2023). Educational uses for teachers. | Artificial Intelligence (AI) tools in education.  https://edusupport.rug.nl/2430042249
 
 * Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. arXiv preprint https://doi.org/10.48550/arXiv.2302.12173
 
