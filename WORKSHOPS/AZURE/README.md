@@ -89,6 +89,15 @@ openai.api_key = "AZURE_OPENAI_KEY"   #<==== Replace with your key
 ####################################
 ####################################
 
+
+# LET op GPT-35-turbo is een dummy naam
+# deze dien je aan te passe met de naam 
+# die je hebt opgegeven tijdens de DEPLOYMENT stap
+# in het Azure portaal
+# Zie https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal
+
+
+
 response = openai.ChatCompletion.create(
     engine="gpt-35-turbo", # engine = "deployment_name".
     messages=[
