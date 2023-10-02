@@ -25,7 +25,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 
 De onderstaande link  beschrijft hoe je aan de slag kunt gaan met Azure OpenAI Service en geeft stapsgewijze instructies om een resource aan te maken en een model te implementeren.
-Dit gaat het beste met behulp van het Azure portaal.
+Dit wordt DEPLOYMENT genoemd en gaat het beste met behulp van het Azure portaal.
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal
 
