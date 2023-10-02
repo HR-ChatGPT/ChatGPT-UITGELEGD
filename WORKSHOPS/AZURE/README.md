@@ -15,7 +15,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 >•  Informatie is een maat voor gereduceerde onzekerheid over beschikbare data. Bijvoorbeeld met behulp van een weermodel kan op basis van meteorologische data een voorspelling gedaan worden over het verloop van de temperatuur voor de komende week. Dus het weermodel structureert en presenteert "betekenisloze" data zoals temperatuur en luchtdruk op een voor mensen betekenisvolle wijze
 -->
 
-<font size="8"> **PROMETHEUS <br /> DATA SCIENCE LAB**</font>
+<font size="8"> **Quickstart: Get started using GPT-35-Turbo and GPT-4 with Azure OpenAI Service**</font>
 
 
 
