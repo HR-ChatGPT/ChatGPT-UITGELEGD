@@ -28,7 +28,7 @@ Maar de Python code die wordt getoond om een Python applicatie te kunnen  ontwik
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python
 
-Het doel van deze repository is om de fouten in de Python code te corrigeren en de code te testen.
+Het doel van deze repository is om de fouten in de Python code te corrigeren.
 Deze fouten zijn in de onderstaande code gecorrigeerd.
 
 
@@ -44,7 +44,7 @@ import openai
 openai.api_type = "azure"
 openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT") 
 openai.api_version = "2023-05-15"
-openai.api_key = os.getenv("AZURE_OPENAI_KEY")
+openai.api_key = "AZURE_OPENAI_KEY"   # Replace with your key
 
 response = openai.ChatCompletion.create(
     engine="gpt-35-turbo", # engine = "deployment_name".
