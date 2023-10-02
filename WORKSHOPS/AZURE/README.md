@@ -43,7 +43,22 @@ Je kunt de code copy/pasten en gebruiken in je eigen Python applicatie.
 import os
 import openai
 openai.api_type = "azure"
-openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT") 
+
+####################################
+####################################
+####################################
+####################################
+
+openai.api_base = "AZURE_OPENAI_ENDPOINT" #<==== Replace with your endpoint
+                                          # endpoint ziet er ongeveer zo uit: https://openai.azure-api.com/
+                                          # let op dit is een dummy endpoint
+                                          # Deze waarde kun je vinden in de Keys & Endpoint sectie wanneer je je bron bekijkt vanuit het Azure portaal. 
+
+####################################
+####################################
+####################################
+####################################                   
+
 openai.api_version = "2023-05-15"
 
 ####################################
