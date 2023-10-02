@@ -23,6 +23,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 <font size="6"> **Context & Einddoel**</font>
 
+De onderstaande link laat zien hoe je met Azure OpenAI Service een GPT-3-Turbo en GPT-4 model kan gebruiken.
+Maar de Python code die wordt getoond om een Python applicatie te kunnen  ontwikkelen bevat fouten.
+
 https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python
+
+Het doel van deze repository is om de fouten in de Python code te corrigeren en de code te testen.
+Deze fouten zijn in de onderstaande code gecorrigeerd.
+
 
 
