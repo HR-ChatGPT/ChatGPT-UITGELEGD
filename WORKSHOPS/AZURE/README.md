@@ -27,14 +27,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 De onderstaande link  beschrijft hoe je aan de slag kunt gaan met Azure OpenAI Service en geeft stapsgewijze instructies om een resource aan te maken en een model te implementeren.
 Dit wordt DEPLOYMENT genoemd en gaat het beste met behulp van het Azure portaal.
 
-https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal
-
-De onderstaande link laat in stappen zien hoe je met Azure OpenAI Service een GPT-3-Turbo en GPT-4 model kan gebruiken.
-Maar de Python code die wordt getoond om een Python applicatie te kunnen  ontwikkelen bevat fouten.
-
-https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python
-
-
 Zorg ervoor dat je je hebt aangemeld voor de Azure OpenAI Service. Eenmaal goedgekeurd voor de Azure OpenAI Service, krijg je toegang tot GPT-4 in de volgende regio's:
 
  * Zweden Centraal
@@ -42,7 +34,12 @@ Zorg ervoor dat je je hebt aangemeld voor de Azure OpenAI Service. Eenmaal goedg
  * Zwitserland Noord 
 
 
+https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal
 
+De onderstaande link laat in stappen zien hoe je met Azure OpenAI Service een GPT-3-Turbo en GPT-4 model als api kunt gebruiken.
+Maar de Python code die wordt getoond om een Python applicatie te kunnen  ontwikkelen bevat fouten.
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python
 
 
 Het doel van deze repository is om de fouten in de Python code te corrigeren.
