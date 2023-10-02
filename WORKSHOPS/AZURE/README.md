@@ -23,13 +23,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 <font size="6"> **Context & Einddoel**</font>
 
-Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets.
-Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
-
-
-<!--
-Machine Learning ––ML––  is een AI-technology binnen Data Science dat een steeds dominantere rol speelt bij data-gedreven innovaties.
-AI (kunstmatige intelligentie) is een toegepaste wetenschap gericht op het automatiseren, simuleren en/of creëren van systemen die taken zelfstandig kunnen uitvoeren waarvoor menselijke intelligentie nodig is. Denk voorbeeld aan zoiets als het begrijpen van natuurlijke taal. Het vormt een interdisciplinair vakgebied dat veel subdisciplines bestrijkt, waaronder [computer visie (CV)](https://datascience.eu/nl/computer-vision/computer-visie/), [natuurlijke taalverwerking (NLP)](https://datascience.eu/nl/natuurlijke-taalverwerking/natuurlijke-taalverwerking-nlp/) en [Robotica / Reinforcement Learning (RL)](https://centillien.com/nl/reinforcement-learning/). Of toch niet??!!! Voorlopig is het een "work-in-progress".
--->
+https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python
 
 
