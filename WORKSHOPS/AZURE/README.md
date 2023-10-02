@@ -44,7 +44,21 @@ import openai
 openai.api_type = "azure"
 openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT") 
 openai.api_version = "2023-05-15"
-openai.api_key = "AZURE_OPENAI_KEY"   # Replace with your key
+
+####################################
+####################################
+####################################
+####################################
+
+openai.api_key = "AZURE_OPENAI_KEY"   #<==== Replace with your key
+                                      # key ziet er ongeveer zo uit: ded218c778894f6da4d3c3456c6904194
+                                      # let op dit is een dummy key
+                                      # Deze waarde kun je vinden in de Keys & Endpoint sectie wanneer je je bron bekijkt vanuit het Azure portaal. 
+                                      # Je kunt KEY1 of KEY2 gebruiken.
+####################################
+####################################
+####################################
+####################################
 
 response = openai.ChatCompletion.create(
     engine="gpt-35-turbo", # engine = "deployment_name".
