@@ -28,6 +28,17 @@ Maar de Python code die wordt getoond om een Python applicatie te kunnen  ontwik
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python
 
+
+Zorg ervoor dat je je hebt aangemeld voor de Azure OpenAI Service. Eenmaal goedgekeurd voor de Azure OpenAI Service, krijg je toegang tot GPT-4 in de volgende regio's:
+
+ * Zweden Centraal
+ * Canada Oost
+ * Zwitserland Noord 
+
+Meer informatie over GPT-4 modellen en beschikbaarheid vind je in de documentatie.
+
+
+
 Het doel van deze repository is om de fouten in de Python code te corrigeren.
 Deze fouten zijn gecorrigeerd in het onderste donkere window
 Je kunt de code copy/pasten en gebruiken in je eigen Python applicatie.
