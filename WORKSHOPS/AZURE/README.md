@@ -33,3 +33,4 @@ Deze fouten zijn in de onderstaande code gecorrigeerd.
 
 
 
+![Alt text](code-1.JPG)
