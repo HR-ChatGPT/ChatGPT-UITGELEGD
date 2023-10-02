@@ -53,6 +53,7 @@ openai.api_base = "AZURE_OPENAI_ENDPOINT" #<==== Replace with your endpoint
                                           # endpoint ziet er ongeveer zo uit: https://openai.azure-api.com/
                                           # let op dit is een dummy endpoint
                                           # Deze waarde kun je vinden in de Keys & Endpoint sectie wanneer je je bron bekijkt vanuit het Azure portaal. 
+                                          # dus uiteidelijk moet her er zo uitzien:     openai.api_base ="https://openai.azure-api.com/"
 
 ####################################
 ####################################
@@ -71,6 +72,7 @@ openai.api_key = "AZURE_OPENAI_KEY"   #<==== Replace with your key
                                       # let op dit is een dummy key
                                       # Deze waarde kun je vinden in de Keys & Endpoint sectie wanneer je je bron bekijkt vanuit het Azure portaal. 
                                       # Je kunt KEY1 of KEY2 gebruiken.
+                                      # dus uiteidelijk moet her er zo uitzien:     openai.api_key ="ded218c778894f6da4d3c3456c6904194"
 ####################################
 ####################################
 ####################################
