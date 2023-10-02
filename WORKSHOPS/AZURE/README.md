@@ -23,6 +23,12 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 <font size="6"> **Context & Einddoel**</font>
 
+
+De onderstaande link  beschrijft hoe je aan de slag kunt gaan met Azure OpenAI Service en geeft stapsgewijze instructies om een resource aan te maken en een model te implementeren.
+Dit gaat het beste met behulp van het Azure portaal.
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal
+
 De onderstaande link laat in stappen zien hoe je met Azure OpenAI Service een GPT-3-Turbo en GPT-4 model kan gebruiken.
 Maar de Python code die wordt getoond om een Python applicatie te kunnen  ontwikkelen bevat fouten.
 
