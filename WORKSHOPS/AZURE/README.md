@@ -35,7 +35,7 @@ Zorg ervoor dat je je hebt aangemeld voor de Azure OpenAI Service. Eenmaal goedg
  * Canada Oost
  * Zwitserland Noord 
 
-Meer informatie over GPT-4 modellen en beschikbaarheid vind je in de documentatie.
+
 
 
 
