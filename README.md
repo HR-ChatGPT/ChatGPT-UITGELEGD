@@ -148,6 +148,8 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 ### Suggesties voor verdere lezing:
 
+* Npuls presenteert het magazine Slimmer onderwijs met AI: https://npuls.nl/wp-content/uploads/2023/09/Slimmer-onderwijs-met-AI-Npuls.pdf
+
 * UNESCO. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. https://unesdoc.unesco.org/ark:/48223/pf0000385146
 
 * EDUCAUSE Review. (2022). Special Report | Artificial Intelligence: Where Are We Now? https://er.educause.edu/toc/educause-review-special-report-artificial-intelligence-where-are-we-now
@@ -159,6 +161,15 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 * Hohenstein, J., Kizilcec, R. F., DiFranzo, D., Aghajari, Z., Mieczkowski, H., Levy, K., ... & Jung, M. F. (2023). Artificial intelligence in communication impacts language and social relationships. Scientific Reports, 13(1), 5487. https://doi.org/10.1038/s41598-023-30938-9
 
 * Chang, T. A., & Bergen, B. K. (2023). Language Model Behavior: A Comprehensive Survey. arXiv preprint https://doi.org/10.48550/arXiv.2303.11504
+
+* Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Scaling laws for neural language models. arXiv preprint https://doi.org/10.48550/arXiv.2001.08361
+
+
+### Aanbevolen boeken:
+
+
+#### Simply Artificial Intelligence By DK
+<img align="" width="320" height="500" src=".\simply-1.png">
 
 <!-- 
 <img align="right" width="400" height="600" src=".\TimeCover_March_2023.jpg">
