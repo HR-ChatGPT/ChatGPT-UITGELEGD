@@ -164,12 +164,16 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 * Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Scaling laws for neural language models. arXiv preprint https://doi.org/10.48550/arXiv.2001.08361
 
+<Br/>
 
-### Aanbevolen boeken:
+## Aanbevolen boeken:
 
+<br/>
 
-#### Simply Artificial Intelligence By DK
-<img align="" width="320" height="500" src=".\simply-1.png">
+<img align="" width="320" height="500" src=".\simply.png">
+<img align="" width="320" height="500" src=".\Learning-Deep_Learning-1.jpg">
+<img align="" width="320" height="500" src=".\data-driven-harnessing-reinvent-engagement-1.jpg">
+
 
 <!-- 
 <img align="right" width="400" height="600" src=".\TimeCover_March_2023.jpg">
