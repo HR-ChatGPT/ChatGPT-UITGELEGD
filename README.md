@@ -170,9 +170,7 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 <br/>
 
-<img width="160" height="250" src=".\simply.png">
-<img width="160" height="250" src=".\Learning-Deep_Learning-1.jpg">
-<img width="160" height="250" src=".\data-driven-harnessing-reinvent-engagement-1.jpg">
+<img width="160" height="250" src=".\simply.png"> <img width="160" height="250" src=".\Learning-Deep_Learning-1.jpg"> <img width="160" height="250" src=".\data-driven-harnessing-reinvent-engagement-1.jpg">
 
 
 <!-- 
