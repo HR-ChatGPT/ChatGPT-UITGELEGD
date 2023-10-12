@@ -152,7 +152,7 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 * UNESCO. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. https://unesdoc.unesco.org/ark:/48223/pf0000385146
 
-* [UNESCO. (2023). Guidance for generative AI in education and research](https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000386693&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_eac0f406-0548-426d-b1f9-8158c22906bc%3F_%3D386693eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000386693/PDF/386693eng.pdf)
+* UNESCO. (2023). Guidance for generative AI in education and research. [PDF](https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000386693&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_eac0f406-0548-426d-b1f9-8158c22906bc%3F_%3D386693eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000386693/PDF/386693eng.pdf)
 
 * EDUCAUSE Review. (2022). Special Report | Artificial Intelligence: Where Are We Now? https://er.educause.edu/toc/educause-review-special-report-artificial-intelligence-where-are-we-now
 
