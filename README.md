@@ -11,7 +11,7 @@ AI's NEW FRONTIER is called Chat-GPT
 <!--
 SEO
 TL;DR === Too Long; Didn't Read
-FACS = Frequently Asked Questions & Concerns
+FAQs = Frequently Asked Questions & Concerns
 Nederlandstalig ChatGPT FAQ Cheat Sheet
 A beginners guide to ChatGPT | GPT-1 | GPT-2 | GPT-3 | GPT-4
 
@@ -208,7 +208,7 @@ https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 
 # faqs
 ***********
-## Overzicht van veel gestelde vragen [ChatGPT FACs]
+## Overzicht van veel gestelde vragen [ChatGPT FAQs]
 ***********
 
 <div align="left">
