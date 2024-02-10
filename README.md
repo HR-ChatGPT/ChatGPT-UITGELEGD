@@ -29,7 +29,7 @@ via het schrijven van “PROMPT-RECEPTEN”
 | 3. Effectieve prompts schrijven
 | 4. Vervolgvragen schrijven
 | 5. Waarschuwing betrouwbaarheid
-| 6. Overzicht van veel gestelde vragen [[ChatGPT FACs]](#faqs).
+| 6. Overzicht van veel gestelde vragen [[ChatGPT FAQs]](#faqs).
 
 Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is deze *Nederlandstalige  "How-To?" repository* opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan in het hoger onderwijs. 
 
