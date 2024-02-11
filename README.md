@@ -153,7 +153,7 @@ Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld v
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
 
 
-### Overzicht van de belangrijkste eigenschappen van 2024 meest gebruikte (wereldwijd) publieke Chatbots 
+### Overzicht van de in 2024 meest gebruikte publieke Chatbots 
 (bron [Gemini](https://gemini.google.com/app/b0fb09186e02b972))
 
 | Feature | ChatGPT | Perplexity AI | Microsoft Bing AI | Jasper Chat | Rytr | Meta Llama 2 | Bard (Google AI) | Claude | Tidio | Mitsuku | Dialogflow | Replika | Anima |
