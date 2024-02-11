@@ -148,6 +148,8 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 ### Suggesties voor verdere lezing:
 
+* García-Peñalvo, F. J., & Vázquez-Ingelmo, A. (2023). What Do We Mean by GenAI? A Systematic Mapping of The Evolution, Trends, and Techniques Involved in Generative AI. International Journal of Interactive Multimedia and Artificial Intelligence, 8, 7-16. https://doi.org/10.9781/ijimai.2023.07.006 
+
 * Npuls presenteert het magazine Slimmer onderwijs met AI: https://npuls.nl/wp-content/uploads/2023/09/Slimmer-onderwijs-met-AI-Npuls.pdf
 
 * UNESCO. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. https://unesdoc.unesco.org/ark:/48223/pf0000385146
