@@ -1616,10 +1616,10 @@ In het hoger onderwijs kan RAG worden ingezet om studenten te helpen bij het vin
 Voor een meer gedetaileerde uitleg zie de PROMETHEUS data Science Lab workshop: [Leer-je-eigen-documenten-bevragen](https://github.com/HR-DATA-FABRIC/Leer-je-eigen-documenten-bevragen-met-generatieve-AI/tree/main)
 
 
-### Retrieval-Augmented Generation Workflow:
+### Retrieval-Augmented Generation Workflow + LangChain:
 <img align="center" width="1000" height="800" src=".\overview.png">
 <br /><br />
-All You Need to Know to Build Your First LLM App: 
+All You Need to Know to Build Your First LLM App by Dominik Polzer: 
 
 [A Step-by-Step Tutorial to Document Loaders, Embeddings, Vector Stores and Prompt Templates](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac)
 
