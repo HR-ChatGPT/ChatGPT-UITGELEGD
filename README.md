@@ -150,6 +150,8 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 
 * García-Peñalvo, F. J., & Vázquez-Ingelmo, A. (2023). What Do We Mean by GenAI? A Systematic Mapping of The Evolution, Trends, and Techniques Involved in Generative AI. International Journal of Interactive Multimedia and Artificial Intelligence, 8, 7-16. https://doi.org/10.9781/ijimai.2023.07.006 
 
+* Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., Guo, Q., Wang, M., & Wang, H. (2023). Retrieval-Augmented Generation for Large Language Models: A Survey. arXiv preprint arXiv:2312.10997. https://doi.org/10.48550/arXiv.2312.10997 
+
 * Npuls presenteert het magazine Slimmer onderwijs met AI: https://npuls.nl/wp-content/uploads/2023/09/Slimmer-onderwijs-met-AI-Npuls.pdf
 
 * UNESCO. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. https://unesdoc.unesco.org/ark:/48223/pf0000385146
@@ -233,7 +235,7 @@ https://medium.com/codingthesmartway-com-blog/unlocking-the-power-of-gpt-4-api-a
 * [0f] [+Voldoen Gen-AI *---zoals ChatGPT---* aan Europese AI-Regelgeving?](#v0f)
 * [0g] [+Hoe FAIR zijn Gen-AI *---zoals ChatGPT---* eigenlijk?](#v0g)
 * [0h] [+Hoe verschilt chatGPT van *"Auto-GPT"*?](#v0h)
-
+* [0i] [+Kan ChatGPT benut worden voor waarheidsvinding?](#v0i)
 <!--
 Hoe ga je als docent om met ChatGPT?
 Kan ChatGPT benut worden als beoordelingsinstrument voor het hoger onderwijs?
@@ -1580,6 +1582,39 @@ Het is echter belangrijk om bij het gebruik autonome systemen rekening te houden
 * https://github.com/Significant-Gravitas/Auto-GPT
 * https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae
 * https://medium.com/codingthesmartway-com-blog/from-chatgpt-to-auto-gpt-discover-the-next-evolution-of-autonomous-ai-thats-changing-the-game-a00e83d583cf
+
+
+<br>
+
+
+
+# v0i
+
+*******
+### [0i] KAN ChatGPT WORDEN INGEZET VOOR WAARHEIDSBEVINDING??
+*******
+
+#### WAARHEIDSVINDING & ChatGPT
+Gen-AI applicaties gebaseerd op grote taalmodellen (LLMs) is elke vorm van machinaal-lerende (ML) kunstmatige intelligentie (AI) die gebruikt maakt van natuurlijke taal verwerkende (NLP) algoritmen. 
+
+Eindgebruikers  kunnen  online gebruik  maken deze conversationele agenten (Chatbots zoals Bard, Co-Pilot, en ChatGPT) via webbrowser userinterfaces.  Hierdoor is het mogelijk om via een toetsenbord ingevoerde instructies (zogenaamde prompts), content te genereren, in de vorm van tekst, broncode, afbeeldingen, video's, muziek etc.
+
+LLMs worden tijdens hun trainingfase gevoed met publiekelijk beschikbare content, in de vorm van boeken, video's, audio opnames, databases, artikelen, websites, en open source-broncode. Zo leren LLMs output te creëren die sterk lijkt op door mensen gemaakte, authentieke content. Op het moment dat eindgebruikers een vraag stelt in de vorm van een prompt dan is het onderliggende taal model bevroren en kan niet meer worden getraind.  De Engelse term “pre-trained” wordt veelal gebruikt om dit aan te geven. Het onderliggende taalmodel van de ChatGPT interface is GPT-4 hetgeen staat voor: 4de generatie “Generative Pre-trained Transformer”.
+
+Een groot nadeel van de huidige generatie LLMs is dat ze feitelijk functioneren als algemene (lees general-purpose) kennisbanken, waarvan de hoeveelheid beschikbare gegevens niet uitbreidbaar (lees, bevroren) en niet op één enkele locatie in het model is opgeslagen, maar over verschillende locaties is verspreid (lees, gedistribueerd). Dus, de in LLMs opgeslagen kennis is voor eindgebruikers zowel onveranderbaar als ook  onherkenbaar waardoor taalmodellen niet eenvoudig doelgericht zijn te bevragen over een specifiek en actueel kennisdomein. Het is dan ook niet mogelijk om te bepalen welke informatie het LLM  benut om antwoorden te genereren, waardoor waarheidsvinding (fact-checking) moeilijk uitvoerbaar is.
+
+Deze tekortkomingen kunnen worden gecompenseerd door ["Retrieval-Augmented Generation"](https://doi.org/10.48550/arXiv.2005.11401) (RAG). Deze op natuurlijke taal generatie (NLP) gebaseerde AI-technologie kan externe digitale-bronnen (zoals API's, Websites, SQL-databases, PDF en Excel  files) koppelen aan LLMs. Hierdoor wordt de informatie die is opgeslagen in de externe bron direct opvraagbaar via prompts. De werking van RAG is op te vatten als de combinatie van een kundige schrijver (het LLM) die alle externe informatie kan uitleggen die hem door de bibliothecaris (de database) is verstrekt. 
+
+
+#### Geraadpleegde Bronnen
+
+* [AZURE AI STUDIO [RAG]: Evaluatie- en bewakingsgegevens voor generatieve AI](https://learn.microsoft.com/nl-nl/azure/ai-studio/concepts/evaluation-metrics-built-in)
+
+
+<!--
+https://labs.kadaster.nl/tech-radar/index.html
+-->
+
 
 <br>
 
