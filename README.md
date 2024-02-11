@@ -1591,7 +1591,7 @@ Het is echter belangrijk om bij het gebruik autonome systemen rekening te houden
 # v0i
 
 *******
-### [0i] KAN ChatGPT WORDEN INGEZET VOOR WAARHEIDSBEVINDING??
+### [0i] KAN ChatGPT WORDEN INGEZET VOOR WAARHEIDSVINDING??
 *******
 
 #### WAARHEIDSVINDING & ChatGPT
@@ -1606,6 +1606,16 @@ Een groot nadeel van de huidige generatie LLMs is dat ze feitelijk functioneren 
 
 #### "Retrieval-Augmented Generation" [RAG]
 ChatGPT zal antwoorden te geven op alle vragen die je stelt en doet dat meestal goed. Probleem is dat de antwoorden die de Chatbot geeft niet altijd betrouwbare of correcte informatie. Dit gebrek kan gecompenseerd worden door ["Retrieval-Augmented Generation"](https://doi.org/10.48550/arXiv.2005.11401) (RAG). Deze op natuurlijke taal generatie (NLP) gebaseerde AI-technologie kan externe digitale-bronnen (zoals API's, Websites, SQL-databases, PDF en Excel  files) koppelen aan LLMs. Hierdoor wordt de informatie die is opgeslagen in de externe bron direct opvraagbaar via prompts. De werking van RAG is op te vatten als de combinatie van een kundige schrijver (het LLM) die alle externe informatie kan uitleggen die hem door de bibliothecaris (de database) is verstrekt. 
+
+De combinatie van een LLM met een externe database is een vorm van “hybride AI” waarbij de gegevens van een LLM worden gecombineerd met de kennis van een database. RAG vergroot dus de zeer brede kennisbasis van een LLM met betrouwbare en zeer specifieke informatie. Dus met RAG is het mogelijk om een "fact-checking" component toe te voegen aan een LLM.
+
+Een voor de hand liggende toepassing is dan ook het bevraagbaar maken van intranet websites, databases, en handleidingen. Hierdoor kunnen eindgebruikers via een webbrowser interface, in de vorm van een chatbot, vragen stellen over de inhoud van deze digitale bronnen.
+In het hoger onderwijs kan RAG worden ingezet om studenten te helpen bij het vinden van informatie in de vorm van antwoorden op vragen over het LMS (Learning Management System) zoals Canvas, Brightspace, Blackboard, enz. Verder kan RAG worden ingezet om patronen te ontdekken in de antwoorden die studenten geven op open vragen in toetsen. Hierdoor kan de kwaliteit van de toetsvragen worden verbeterd. Ook kan RAG worden benut om studenten te helpen bij het vinden van informatie in de vorm van antwoorden op vragen over de digitale bibliotheek, de digitale leeromgeving, enz.
+
+
+### Retrieval-Augmented Generation Workflow:
+<img align="center" width="1000" height="800" src=".\overview.png">
+
 
 
 ### Geselecteerde referenties voor verder lezen
