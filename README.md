@@ -1612,11 +1612,16 @@ De combinatie van een LLM met een externe database is een vorm van “hybride AI
 Een voor de hand liggende toepassing is dan ook het bevraagbaar maken van intranet websites, databases, en handleidingen. Hierdoor kunnen eindgebruikers via een webbrowser interface, in de vorm van een chatbot, vragen stellen over de inhoud van deze digitale bronnen.
 In het hoger onderwijs kan RAG worden ingezet om studenten te helpen bij het vinden van informatie in de vorm van antwoorden op vragen over het LMS (Learning Management System) zoals Canvas, Brightspace, Blackboard, enz. Verder kan RAG worden ingezet om patronen te ontdekken in de antwoorden die studenten geven op open vragen in toetsen. Hierdoor kan de kwaliteit van de toetsvragen worden verbeterd. Ook kan RAG worden benut om studenten te helpen bij het vinden van informatie in de vorm van antwoorden op vragen over de digitale bibliotheek, de digitale leeromgeving, enz.
 
+### Prometheus Data Science Lab workshops over RAG & Public LLMs zoals ChatGPT
+Voor een meer gedetaileerde uitleg zie de PROMETHEUS data Science Lab workshop: [Leer-je-eigen-documenten-bevragen](https://github.com/HR-DATA-FABRIC/Leer-je-eigen-documenten-bevragen-met-generatieve-AI/tree/main)
+
 
 ### Retrieval-Augmented Generation Workflow:
 <img align="center" width="1000" height="800" src=".\overview.png">
+<br /><br />
+All You Need to Know to Build Your First LLM App: 
 
-
+[A Step-by-Step Tutorial to Document Loaders, Embeddings, Vector Stores and Prompt Templates](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac)
 
 ### Geselecteerde referenties voor verder lezen
 
@@ -1624,6 +1629,10 @@ In het hoger onderwijs kan RAG worden ingezet om studenten te helpen bij het vin
 
 * Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., Guo, Q., Wang, M., & Wang, H. (2023). Retrieval-Augmented Generation for Large Language Models: A Survey. arXiv preprint arXiv:2312.10997. https://doi.org/10.48550/arXiv.2312.10997 
 * [AZURE AI STUDIO [RAG]: Evaluatie- en bewakingsgegevens voor generatieve AI](https://learn.microsoft.com/nl-nl/azure/ai-studio/concepts/evaluation-metrics-built-in)
+
+* Fui-Hoon Nah, F., Zheng, R., Cai, J., Siau, K., & Chen, L. (2023). Generative AI and ChatGPT: Applications, challenges, and AI-human collaboration. Journal of Information Technology Case and Application Research, 25(3), 277-304. https://doi.org/10.1080/15228053.2023.2233814 
+
+* Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-t., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. arXiv-preprint arXiv:2005.11401. https://doi.org/10.48550/arXiv.2005.11401 
 
 
 <!--
