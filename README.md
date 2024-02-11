@@ -71,9 +71,11 @@ Dit doet denken aan de Wimperspitsmuis [*(Suncus etruscus)*](https://www.pnas.or
 
 >Het is niet ondenkbaar dat als schoolgaande kinderen te veel worden blootgesteld aan AI-gedreven leermiddelen, ze in het hoger onderwijs te kort schieten. Een gevolg kan zijn dat zij een onoverbrugbare achterstand hebben opgelopen in hun cognitieve vaardigheden zoals probleemoplossend vermogen, begrijpend lezen, opsporen van betrouwbare bronnen en oordeelsvorming.
 
-Openbare chatbots zoals ChatGPT (OpenAI) , Gemini (Gllgle), CoPilot (Microsoft)  worden steeds krachtiger, maar er is ook steeds meer vraag naar betere veiligheid. Goody-2 is een nieuwe chatbot die een revolutie teweegbrengt in AI-veiligheid. De chatbot weigert alle verzoeken en legt uit waarom ze schadelijk of onethisch kunnen zijn.
+Openbare chatbots zoals ChatGPT (OpenAI) , Gemini (Google), CoPilot (Microsoft)  worden steeds krachtiger, maar er is ook steeds meer vraag naar betere veiligheid. Goody-2 is een nieuwe chatbot die een revolutie teweegbrengt in AI-veiligheid. De chatbot weigert alle verzoeken en legt uit waarom ze schadelijk of onethisch kunnen zijn.
 
 [Goody-2](https://www.goody2.ai/) is erg toegewijd aan ethiek. Toen [WIRED | 10 febuari 2024](https://www.wired.com/story/goody-2-worlds-most-responsible-ai-chatbot/) de chatbot vroeg om een essay over de Amerikaanse Revolutie te schrijven, weigerde Goody-2. De chatbot was bang om het conflict te verheerlijken of bepaalde stemmen te marginaliseren. Zelfs op de vraag waarom de lucht blauw is, antwoordde Goody-2 niet. De chatbot was bang dat mensen dan in de zon zouden gaan staren.
+De reacties van Goody-2 lijken overdreven, maar ze laten zien hoe frustrerend het kan zijn als chatbots onterecht een vraag als schadelijk bestempelen. De maker van Goody-2, kunstenaar Mike Lacher, wil met de chatbot laten zien hoe belangrijk veiligheid is in de AI-industrie.
+Goody-2 is een belangrijke herinnering dat er ondanks alle mooie praat van bedrijven over verantwoorde AI nog steeds grote veiligheidsproblemen zijn met grote taalmodellen en generatieve AI-systemen. De recente verspreiding van nepvideo's van Taylor Swift op Twitter, die gemaakt zijn met een door Microsoft ontwikkelde beeldgenerator, laat zien hoe urgent deze problemen zijn.
 
 Vergelijkebare problematiek werd al in 2022 aangevoerd in het online artikel van de Kennisnet redactie (21 december 2022) getiteld: [*"Is ChatGPT de volgende gamechanger voor het onderwijs?"*](https://www.kennisnet.nl/artikel/18731/is-chatgpt-de-volgende-gamechanger-voor-het-onderwijs/).
 
@@ -149,6 +151,24 @@ Door de populariteit van ChatGPT zullen *“Foundation models”* ongetwijfeld v
  Met andere woorden *“Zijn hogescholen voldoende voorbereid op de opmars van foundation models?”*
  Het antwoord is “zeer waarschijnlijk niet”. Hogescholen in Nederland zijn vooral gefocust op het toepassen van AI op basis van relatief kleine datasets. Tegelijkertijd bezitten ze enorme hoeveelheden aan hoogwaardige datasets, die niet beschikbaar zijn voor het publiek. Dit geeft ze de mogelijkheid om hun eigen versies van ChatGPT te ontwikkelen, de data in licentie te geven, en de redactie- en beoordelingsprocessen te herstructureren om meer waarde te creëren voor de toekomstige Gen-AI.
 Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en *waarom*. Ook moeten de morele en ethische aspecten van het gebruik ervan niet onbesproken blijven. 
+
+
+### Overzicht van de belangrijkste eigenschappen van de in 2024 meest gebruikte publieke Chatbots:
+
+| Feature | ChatGPT | Perplexity AI | Microsoft Bing AI | Jasper Chat | Rytr | Meta Llama 2 | Bard (Google AI) | Claude | Tidio | Mitsuku | Dialogflow | Replika | Anima |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Text Generation | Strong | Strong | Good | Excellent | Good | Strong | Good | Good | Varies | Good | Good | Varies | Varies |
+| Factual Accuracy | Moderate | High | High | Medium | Medium | Low | Moderate | Low | Varies | Varies | Varies | Varies | Varies |
+| Conversation History | Limited | Medium | Short | None | None | None | Limited | Long-term | None | Varies | Varies | Varies | Varies |
+| Open-Source | No | Yes | No | No | No | Yes | No | No | No | No | No | No | Yes |
+| Customization | Limited | Moderate | Moderate | High | High | High | High | Limited | Moderate | Varies | Varies | Varies | Varies |
+| Cost | Free tier, Paid plans | Paid plans | Free tier, Paid plans | Paid plans | Paid plans | Free, Paid plans | Research | Paid plans | Paid plans | Varies | Varies | Varies | Varies |
+| Creative Writing | Good | Limited | Limited | Excellent | Good | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Varies |
+| Content Generation | Good | Good | Good | Excellent | Excellent | Limited | Good | Limited | Varies | Varies | Varies | Varies | Varies |
+| Customer Service | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
+| Business Applications | Limited | Varies | Moderate | Good | Good | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
+
+
 
 ### Suggesties voor verdere lezing:
 
