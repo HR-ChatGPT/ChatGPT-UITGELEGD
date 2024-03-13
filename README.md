@@ -156,20 +156,19 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 ### Overzicht van de in 2024 meest gebruikte publieke Chatbots 
 (bron [Gemini](https://gemini.google.com/app/b0fb09186e02b972))
 
-| Feature | ChatGPT | Perplexity AI | Microsoft Bing AI | Jasper Chat | Rytr | Meta Llama 2 | Bard (Google AI) | Claude | Tidio | Mitsuku | Dialogflow | Replika | Anima |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Text Generation | Strong | Strong | Good | Excellent | Good | Strong | Good | Good | Varies | Good | Good | Varies | Varies |
-| Factual Accuracy | Moderate | High | High | Medium | Medium | Low | Moderate | Low | Varies | Varies | Varies | Varies | Varies |
-| Conversation History | Limited | Medium | Short | None | None | None | Limited | Long-term | None | Varies | Varies | Varies | Varies |
-| Open-Source | No | Yes | No | No | No | Yes | No | No | No | No | No | No | Yes |
-| Customization | Limited | Moderate | Moderate | High | High | High | High | Limited | Moderate | Varies | Varies | Varies | Varies |
-| Cost | Free tier, Paid plans | Paid plans | Free tier, Paid plans | Paid plans | Paid plans | Free, Paid plans | Research | Paid plans | Paid plans | Varies | Varies | Varies | Varies |
-| Creative Writing | Good | Limited | Limited | Excellent | Good | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Varies |
-| Content Generation | Good | Good | Good | Excellent | Excellent | Limited | Good | Limited | Varies | Varies | Varies | Varies | Varies |
-| Customer Service | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
-| Business Applications | Limited | Varies | Moderate | Good | Good | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
 
-
+| Feature | Mistral | ChatGPT | Perplexity AI | Microsoft Bing AI | Jasper Chat | Rytr | Meta Llama 2 | Bard (Google AI) | Claude | Tidio | Mitsuku | Dialogflow | Replika | Anima |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Text Generation | Good | Strong | Strong | Good | Excellent | Good | Strong | Good | Good | Varies | Good | Good | Varies | Varies |
+| Factual Accuracy | Varies | Moderate | High | High | Medium | Medium | Low | Moderate | Low | Varies | Varies | Varies | Varies | Varies |
+| Conversation History | Varies | Limited | Medium | Short | None | None | None | Limited | Long-term | None | Varies | Varies | Varies | Varies |
+| Open-Source | Some models | No | Yes | No | No | No | Yes | No | No | No | No | No | No | Yes |
+| Customization | Some models | Limited | Moderate | Moderate | High | High | High | High | Limited | Moderate | Varies | Varies | Varies | Varies | Varies |
+| Cost | Paid plans | Free tier, Paid plans | Paid plans | Free tier, Paid plans | Paid plans | Paid plans | Free, Paid plans | Research | Paid plans | Paid plans | Varies | Varies | Varies | Varies |
+| Creative Writing | Good | Good | Limited | Limited | Excellent | Good | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Varies |
+| Content Generation | Good | Good | Good | Good | Excellent | Excellent | Limited | Good | Limited | Varies | Varies | Varies | Varies | Varies |
+| Customer Service | Varies | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
+| Business Applications | Good | Limited | Varies | Moderate | Good | Good | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
 
 ### Suggesties voor verdere lezing:
 
