@@ -157,7 +157,7 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 (bron [Gemini](https://gemini.google.com/app/b0fb09186e02b972))
 
 
-| Feature | Mistral | ChatGPT | Perplexity AI | Microsoft Bing AI | Jasper Chat | Rytr | Meta Llama 2 | Bard (Google AI) | Claude | Tidio | Mitsuku | Dialogflow | Replika | Anima |
+| Feature | Mistral | ChatGPT (GPT-4o) | Perplexity AI | Microsoft Bing AI | Jasper Chat | Rytr | Meta Dolphin Llama 13B | Gemini Ultra | Claude 3| Tidio | Mitsuku | Dialogflow | Replika | Anima |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Text Generation | Good | Strong | Strong | Good | Excellent | Good | Strong | Good | Good | Varies | Good | Good | Varies | Varies |
 | Factual Accuracy | Varies | Moderate | High | High | Medium | Medium | Low | Moderate | Low | Varies | Varies | Varies | Varies | Varies |
@@ -167,6 +167,7 @@ Het is daarom belangrijk om te begrijpen wat ChatGPT *wel* en *niet* kan doen en
 | Cost | Paid plans | Free tier, Paid plans | Paid plans | Free tier, Paid plans | Paid plans | Paid plans | Free, Paid plans | Research | Paid plans | Paid plans | Varies | Varies | Varies | Varies |
 | Creative Writing | Good | Good | Limited | Limited | Excellent | Good | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Varies |
 | Content Generation | Good | Good | Good | Good | Excellent | Excellent | Limited | Good | Limited | Varies | Varies | Varies | Varies | Varies |
+| Reasoning | Good | Good | Good | Good | Excellent | Excellent | Limited | Good | Limited | Varies | Varies | Varies | Varies | Varies |
 | Customer Service | Varies | Limited | Varies | Limited | Varies | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
 | Business Applications | Good | Limited | Varies | Moderate | Good | Good | Varies | Varies | Varies | Good | Good | Varies | Varies | Varies | Varies |
 
