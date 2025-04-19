@@ -1,7 +1,5 @@
 # A Comprehensive Overview of Large Language Models Since May 2024: OpenAI and Its Competitors
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 ## Table of Contents
 
 1.  [Introduction](https://www.google.com/search?q=%231-introduction)
