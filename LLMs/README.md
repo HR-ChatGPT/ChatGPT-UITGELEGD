@@ -29,7 +29,7 @@
 
 ## 1\. Introduction
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 The field of Large Language Models (LLMs) has witnessed remarkable progress in recent years, marked by a rapid increase in capabilities and a growing influence across various sectors. These sophisticated models have become integral to advancements in natural language processing, enabling significant strides in tasks such as text generation, language translation, and information retrieval. OpenAI has consistently been at the forefront of this technological evolution, particularly renowned for its development of the GPT series of models, which have set new standards for performance and versatility. However, the LLM landscape is becoming increasingly competitive, with major research organizations, technology corporations, and innovative startups introducing highly capable models that challenge OpenAI's dominance. This dynamic environment necessitates a continuous and detailed analysis to track the latest developments and to understand the relative strengths and specializations of the various LLMs available. This report aims to provide such an analysis, focusing specifically on the period since May 2024, a timeframe that has seen significant advancements and new model releases from OpenAI and its competitors.
 
@@ -39,67 +39,67 @@ The methodology employed in this report involves a comprehensive review and synt
 
 ## 2\. OpenAI LLMs Released Since May 2024
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 A systematic review of the available information reveals a diverse and extensive portfolio of Large Language Models released by OpenAI starting from May 2024. This period has been characterized by a high frequency of new model introductions and updates, reflecting OpenAI's ongoing commitment to pushing the boundaries of AI capabilities. The models identified include GPT-4o [1](#ref-1), [2](#ref-2), [3](#ref-3), [4](#ref-4), [5](#ref-5), [6](#ref-6), [7](#ref-7), [8](#ref-8), [9](#ref-9), [10](#ref-10), [11](#ref-11), [12](#ref-12), [13](#ref-13), [14](#ref-14), [15](#ref-15), [16](#ref-16), [17](#ref-17), [18](#ref-18), [19](#ref-19), [20](#ref-20), [21](#ref-21), [22](#ref-22), [23](#ref-23), [24](#ref-24), [25](#ref-25), [26](#ref-26), [27](#ref-27), [28](#ref-28), [29](#ref-29), [30](#ref-30), [31](#ref-31), [32](#ref-32), [33](#ref-33), [34](#ref-34), [35](#ref-35), [36](#ref-36), [37](#ref-37), [38](#ref-38), [39](#ref-39)], GPT-4o mini [1](#ref-1), [2](#ref-2), [6](#ref-6), [8](#ref-8), [9](#ref-9), [13](#ref-13), [14](#ref-14), [15](#ref-15), [27](#ref-27), [30](#ref-30), [34](#ref-34), [35](#ref-35), [36](#ref-36), [37](#ref-37), [39](#ref-39), [40](#ref-40), [41](#ref-41)], o1 [1](#ref-1), [2](#ref-2), [4](#ref-4), [5](#ref-5), [6](#ref-6), [8](#ref-8), [9](#ref-9), [10](#ref-10), [31](#ref-31), [33](#ref-33), [42](#ref-42), [43](#ref-43), [44](#ref-44), [45](#ref-45), [46](#ref-46), [47](#ref-47), [48](#ref-48), [49](#ref-49), [50](#ref-50), [51](#ref-51), [52](#ref-52), [53](#ref-53), [54](#ref-54), [55](#ref-55), [56](#ref-56), [57](#ref-57), [58](#ref-58), [59](#ref-59), [60](#ref-60)], o1-mini [1](#ref-1), [2](#ref-2), [6](#ref-6), [8](#ref-8), [9](#ref-9), [31](#ref-31), [33](#ref-33), [36](#ref-36), [50](#ref-50), [52](#ref-52), [56](#ref-56), [58](#ref-58), [59](#ref-59), [60](#ref-60)], GPT-4o mini Audio [9](#ref-9), GPT-4o Realtime [9](#ref-9), GPT-4o mini Realtime [9](#ref-9), GPT-4o mini TTS [9](#ref-9), GPT-4o Transcribe [9](#ref-9), GPT-4o mini Transcribe [9](#ref-9), o1-preview [8](#ref-8), [9](#ref-9), [33](#ref-33), [50](#ref-50), [55](#ref-55), [59](#ref-59), [60](#ref-60), o3-mini [1](#ref-1), [2](#ref-2), [4](#ref-4), [61](#ref-61), [5](#ref-5), [6](#ref-6), [8](#ref-8), [9](#ref-9), [10](#ref-10), [17](#ref-17), [28](#ref-28), [33](#ref-33), [42](#ref-42), [43](#ref-43), [50](#ref-50), [56](#ref-56), [57](#ref-57), [62](#ref-62), [63](#ref-63), [64](#ref-64), [65](#ref-65), [66](#ref-66), [67](#ref-67)], o3 [1](#ref-1), [5](#ref-5), [6](#ref-6), [8](#ref-8), [9](#ref-9), [10](#ref-10), [28](#ref-28), [33](#ref-33), [42](#ref-42), [43](#ref-43), [44](#ref-44), [45](#ref-45), [46](#ref-46), [47](#ref-47), [48](#ref-48), [49](#ref-49), [68](#ref-68)], o4-mini [1](#ref-1), [5](#ref-5), [6](#ref-6), [8](#ref-8), [9](#ref-9), [10](#ref-10), [28](#ref-28), [33](#ref-33), [34](#ref-34), [43](#ref-43), [44](#ref-44), [45](#ref-45), [46](#ref-46), [47](#ref-47), [48](#ref-48), [49](#ref-49), [57](#ref-57), [63](#ref-63), [64](#ref-64), [65](#ref-65), [66](#ref-66), [68](#ref-68)], GPT-4.5 [1](#ref-1), [2](#ref-2), [61](#ref-61), [5](#ref-5), [6](#ref-6), [10](#ref-10), [11](#ref-11), [17](#ref-17), [29](#ref-29), [33](#ref-33), [41](#ref-41), [69](#ref-69), [70](#ref-70), [71](#ref-71), [72](#ref-72), [73](#ref-73), [74](#ref-74), [75](#ref-75), [76](#ref-76)], GPT-4.1 [6](#ref-6), [9](#ref-9), [11](#ref-11), [17](#ref-17), [33](#ref-33), [41](#ref-41), [70](#ref-70), [77](#ref-77), [78](#ref-78), [79](#ref-79), [80](#ref-80), [81](#ref-81), [82](#ref-82), [83](#ref-83), [84](#ref-84)], GPT-4.1 mini [6](#ref-6), [9](#ref-9), [17](#ref-17), [77](#ref-77), [80](#ref-80), [81](#ref-81), [82](#ref-82), [84](#ref-84)], GPT-4.1 nano [6](#ref-6), [9](#ref-9), [17](#ref-17), [77](#ref-77), [80](#ref-80), [81](#ref-81), [82](#ref-82), [84](#ref-84)], gpt-4o-search-preview [6](#ref-6), [9](#ref-9), gpt-4o-mini-search-preview [6](#ref-6), [9](#ref-9), computer-use-preview [6](#ref-6), [8](#ref-8), [9](#ref-9), gpt-4o-realtime [6](#ref-6), gpt-4o-audio [6](#ref-6), gpt-4o-audio-preview [6](#ref-6), chatgpt-4o-latest [1](#ref-1), [6](#ref-6), o3-pro [7](#ref-7), o3-mini-high [42](#ref-42), o3-mini-medium [42](#ref-42), o1-pro [9](#ref-9), gpt-4o-2024-08-06 [6](#ref-6), [16](#ref-16), [30](#ref-30), [79](#ref-79), gpt-4o-2024-11-20 [8](#ref-8), [16](#ref-16), [17](#ref-17), [28](#ref-28), [79](#ref-79), gpt-4o-2024-05-13 [8](#ref-8), [16](#ref-16), [79](#ref-79), o3 (2025-04-16) [8](#ref-8), o4-mini (2025-04-16) [8](#ref-8), o3-mini (2025-01-31) [8](#ref-8), o1 (2024-12-17) [8](#ref-8), o1-preview (2024-09-12) [8](#ref-8), o1-mini (2024-09-12) [8](#ref-8), gpt-4o (2024-11-20) [8](#ref-8), gpt-4o (2024-08-06) [8](#ref-8), gpt-4o-mini (2024-07-18) [8](#ref-8), gpt-4o (2024-05-13) [8](#ref-8), gpt-4.1 (April 14, 2025) [6](#ref-6), gpt-4.1-mini (April 14, 2025) [6](#ref-6), gpt-4.1-nano (April 14, 2025) [6](#ref-6), o3 (April 16, 2025) [6](#ref-6), o4-mini (April 16, 2025) [6](#ref-6), o3-mini (January 31, 2025) [6](#ref-6), GPT-4.5 (February 27, 2025) [1](#ref-1), [6](#ref-6), o3 and o4-mini (April 16, 2025) [1](#ref-1), o3-mini (January 31, 2025) [1](#ref-1), GPT-4o mini (July 18, 2024) [1](#ref-1), o1 (September 12, 2024) [1](#ref-1), o1-mini (September 12, 2024).[1](#ref-1) This extensive list highlights OpenAI's strategy of developing models with varying capabilities and cost structures to address a wide array of applications. The introduction of the "o" series signifies a dedicated effort towards enhancing the reasoning abilities of their models.
 
 ### GPT-4o
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **GPT-4o**, released on May 13, 2024 [18](#ref-18), stands out as a flagship model with native multimodal capabilities, processing and generating text, audio, and images.[12](#ref-12), [22](#ref-22) Its architecture involves a single end-to-end neural network, enabling faster response times and improved efficiency compared to its predecessors.[18](#ref-18) Key features include real-time audio conversation and enhanced understanding of non-English languages and vision.[12](#ref-12), [18](#ref-18), [23](#ref-23), [24](#ref-24), [25](#ref-25), [26](#ref-26) GPT-4o is intended for versatile applications requiring fast and intelligent responses across various modalities.[2](#ref-2)
 
 ### GPT-4o mini
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **GPT-4o mini**, launched on July 18, 2024 [1](#ref-1), is a smaller, faster, and more cost-efficient variant of GPT-4o.[9](#ref-9), [14](#ref-14), [37](#ref-37) It leverages a streamlined version of the GPT-4 architecture [40](#ref-40) and excels in tasks requiring speed and efficiency, such as coding, debugging, and real-time interactions.[14](#ref-14) Despite its compact size, GPT-4o mini demonstrates strong performance in multimodal reasoning and achieves impressive scores on academic benchmarks.[5](#ref-5), [34](#ref-34), [37](#ref-37)
 
 ### o1
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 The **o1** model series, with the full version released on December 17, 2024 [8](#ref-8), represents a new generation of reasoning models designed to spend more time "thinking" before responding.[50](#ref-50), [55](#ref-55) This is achieved through large-scale reinforcement learning focused on chain-of-thought processing.[50](#ref-50), [51](#ref-51) o1 excels in complex reasoning tasks and demonstrates strong performance in STEM fields, including mathematics, coding, and science.[50](#ref-50), [53](#ref-53), [55](#ref-55) It also shows notable capabilities in cybersecurity.[51](#ref-51), [54](#ref-54)
 
 ### o1-mini
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **o1-mini**, released on September 12, 2024 [8](#ref-8), is a faster and more cost-effective version of o1, particularly effective at coding and other STEM tasks where broad general knowledge might not be essential.[58](#ref-58), [60](#ref-60)
 
 ### o3
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 The **o3** model, released on April 16, 2025 [1](#ref-1), [6](#ref-6), [8](#ref-8), is described as OpenAI's most powerful reasoning model to date, excelling in complex queries requiring multi-faceted analysis and demonstrating state-of-the-art performance in coding, mathematics, science, and visual tasks.[5](#ref-5), [43](#ref-43), [68](#ref-68) It can integrate images directly into its chain of thought and agentically utilize tools like web search and Python.[5](#ref-5), [49](#ref-49), [68](#ref-68)
 
 ### o4-mini
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **o4-mini**, also released on April 16, 2025 [1](#ref-1), [6](#ref-6), [8](#ref-8), is a smaller model optimized for fast and cost-efficient reasoning, achieving remarkable performance for its size, especially in math, coding, and visual analysis.[5](#ref-5), [48](#ref-48) It is notable for being the best-performing benchmarked model on AIME 2024 and 2025.[5](#ref-5)
 
 ### GPT-4.5
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **GPT-4.5**, released as a research preview on February 27, 2025 [1](#ref-1), [6](#ref-6), is OpenAI's largest and most knowledgeable model for chat yet.[1](#ref-1), [61](#ref-61) It builds on GPT-4o by scaling pre-training and incorporates new supervision techniques.[72](#ref-72) GPT-4.5 demonstrates a broader knowledge base, improved ability to follow user intent, and greater "EQ," making it useful for tasks like improving writing, programming, and solving practical problems.[71](#ref-71), [73](#ref-73), [75](#ref-75) It also exhibits strong factual accuracy and hallucinates less than other OpenAI models.[71](#ref-71), [73](#ref-73)
 
 ### GPT-4.1 Family
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 The **GPT-4.1** family of models, including GPT-4.1, GPT-4.1 mini, and GPT-4.1 nano, was launched on April 14, 2025.[6](#ref-6), [17](#ref-17), [77](#ref-77) These models outperform GPT-4o and GPT-4o mini across the board, with significant gains in coding and instruction following.[17](#ref-17) They also feature larger context windows, supporting up to 1 million tokens.[17](#ref-17), [82](#ref-82) **GPT-4.1** is the flagship model, optimized for complex tasks and excelling in software development, research, and agentic workflows.[80](#ref-80), [84](#ref-84) It shows substantial improvements in real-world software engineering skills and instruction accuracy.[80](#ref-80), [82](#ref-82), [84](#ref-84) **GPT-4.1 mini** offers nearly the same capabilities as the full model but with lower latency and cost, making it a balanced option for various use cases.[80](#ref-80), [84](#ref-84) **GPT-4.1 nano** is the fastest and most cost-effective model in this series, ideal for tasks like classification and autocompletion.[80](#ref-80), [84](#ref-84)
 
 ### Specialized Models and Updates
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 In addition to these primary models, OpenAI has also released various specialized versions and updates, such as gpt-4o-search-preview and gpt-4o-mini-search-preview for web search, computer-use-preview for specific tool usage, and audio-related models like gpt-4o-audio-preview and gpt-4o mini TTS.[6](#ref-6), [9](#ref-9) These tailored offerings further illustrate OpenAI's strategy of providing a comprehensive suite of LLMs to meet diverse application requirements.
 
 ### Table: OpenAI LLM Areas of Excellence
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 | OpenAI LLM Name | Areas of Excellence |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -141,61 +141,61 @@ In addition to these primary models, OpenAI has also released various specialize
 
 ## 3\. Comparative Analysis with Alternative LLMs
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 The LLM landscape extends beyond OpenAI, with several organizations releasing highly competitive models since May 2024. These alternative LLMs often rival or surpass OpenAI's offerings in specific areas, showcasing the rapid advancements and diverse approaches within the field.
 
 ### Claude 3.7 Sonnet (Anthropic)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **Claude 3.7 Sonnet** from Anthropic, released in February 2025 [61](#ref-61), [85](#ref-85), is positioned as a highly intelligent model with state-of-the-art capabilities for coding and significant improvements in content generation, data analysis, and planning.[85](#ref-85), [86](#ref-86), [87](#ref-87) Benchmarks indicate that Claude 3.7 Sonnet excels in instruction following, achieving high scores on IFEval.[63](#ref-63) It also demonstrates strong performance in coding tasks, scoring competitively on the Aider polyglot benchmark.[62](#ref-62) Anthropic has stated that Sonnet is designed to outperform GPT-4o, making it a direct competitor in terms of intelligence and versatility.[2](#ref-2)
 
 ### Grok-3 (xAI)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **Grok-3**, developed by xAI and unveiled in February 2025 [61](#ref-61), [64](#ref-64), represents a significant leap in reasoning capabilities, leveraging ten times more compute than its predecessor, Grok-2.[88](#ref-88), [89](#ref-89) Trained on xAI's Colossus supercluster, Grok-3 exhibits strong performance in STEM domains, achieving high accuracy on the AIME 2025 competition math (93.3%) and GPQA (84.6%) graduate-level reasoning benchmarks.[64](#ref-64), [65](#ref-65), [88](#ref-88) In coding, it scores impressively on LiveCodeBench (79.4%).[64](#ref-64), [65](#ref-65), [88](#ref-88) Grok-3 features a "Think" mode that allows it to refine answers through test-time computation, enhancing accuracy in complex analytical tasks.[64](#ref-64), [88](#ref-88), [90](#ref-90) Its performance on the LMSYS Arena leaderboard has also been notable, surpassing models like GPT-4o and Claude 3.5 Sonnet.[89](#ref-89), [91](#ref-91)
 
 ### Gemini 2.0 (Google DeepMind)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 Google DeepMind has continued to innovate with its **Gemini 2.0** family of models. Since May 2024, they have released or updated several variants, including **Gemini 2.0 Pro**, **Gemini 2.0 Flash**, and **Gemini 2.0 Flash-Lite**.[2](#ref-2), [3](#ref-3), [4](#ref-4), [61](#ref-61), [66](#ref-66), [92](#ref-92), [93](#ref-93), [94](#ref-94), [95](#ref-95), [96](#ref-96) These models are multimodal, capable of processing text, images, audio, and video inputs (with varying support across models) and generating text responses.[2](#ref-2), [92](#ref-92) A key advantage of the Gemini 2.0 family is their large context windows, with Flash and Pro versions supporting up to 1 million tokens.[3](#ref-3), [92](#ref-92), [93](#ref-93) Gemini 2.0 Pro is considered Google's best model yet for coding performance and complex prompts.[94](#ref-94) Benchmarks show that Gemini 2.0 Flash outperforms 1.5 Flash in reasoning, multimodal tasks, math, and factuality.[93](#ref-93), [94](#ref-94) Gemini 2.0 Flash-Lite is optimized for cost efficiency and low latency, offering improved performance over 1.5 Flash on several benchmarks, including SimpleQA and BirdSQL.[94](#ref-94) In coding tasks, Gemini 2.0 Flash has shown strong performance on LiveBench.[66](#ref-66)
 
 ### DeepSeek R1 and V3 (DeepSeek AI)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **DeepSeek AI** has emerged as a strong contender, particularly with its **DeepSeek R1** and **DeepSeek V3** models.[4](#ref-4), [61](#ref-61), [97](#ref-97), [98](#ref-98), [99](#ref-99), [100](#ref-100), [101](#ref-101), [102](#ref-102) DeepSeek R1, released in January 2025, is a 671B parameter Mixture-of-Experts (MoE) model focused on reasoning capabilities, trained via large-scale reinforcement learning.[98](#ref-98), [99](#ref-99) It achieves performance comparable to OpenAI-o1 across math (MATH-500: 97.3%), code (Codeforces: 96.3% percentile), and reasoning tasks.[97](#ref-97), [98](#ref-98) DeepSeek R1 is designed to provide step-by-step reasoning, making it suitable for research and analysis.[100](#ref-100), [102](#ref-102) DeepSeek V3, released in December 2024, is also a 671B parameter MoE model but is optimized for broader performance across multiple NLP benchmarks while maintaining efficient training costs.[97](#ref-97), [98](#ref-98) It incorporates reasoning capabilities distilled from DeepSeek R1 and supports a 128K context window.[98](#ref-98), [99](#ref-99) Notably, DeepSeek V3 is significantly more cost-effective than DeepSeek R1 for API usage.[98](#ref-98), [99](#ref-99)
 
 ### Mistral Large 2 (Mistral AI)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 **Mistral AI** has continued to develop its range of models, with **Mistral Large 2** released in July 2024.[4](#ref-4), [61](#ref-61), [103](#ref-103), [104](#ref-104), [105](#ref-105), [106](#ref-106), [107](#ref-107) This model boasts top-tier reasoning capabilities and excels in advanced reasoning, multilingual tasks, mathematics, and code generation.[105](#ref-105) It features a 128K token context window and has shown strong performance on the MMLU benchmark (84.0% in a 5-shot scenario).[104](#ref-104), [107](#ref-107) Mistral Large 2 is also noted for its cost-effectiveness compared to some older models like GPT-4 32K.[107](#ref-107)
 
 ### Llama 3.1 (Meta AI)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 Meta AI has released **Llama 3.1** in July 2024, building upon the strengths of its predecessors with enhanced NLP performance and improved contextual understanding.[4](#ref-4), [61](#ref-61), [108](#ref-108), [109](#ref-109), [110](#ref-110), [111](#ref-111), [112](#ref-112), [113](#ref-113) The Llama 3.1 family includes models with 8B, 70B, and 405B parameters, with the 405B model demonstrating outstanding performance across a broad range of industry benchmarks, often rivaling or surpassing GPT-4 in some tests.[113](#ref-113) Specifically, Llama 3.1 405B achieves high scores on MMLU (88.6%), HumanEval (89.0%), and GSM8K (96.8%).[109](#ref-109), [111](#ref-111), [112](#ref-112) The model also excels in long-context tasks with a 128K token context window.[111](#ref-111)
 
 ### Phi-3 (Microsoft)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 Microsoft has introduced the **Phi-3** family of Small Language Models (SLMs) since April 2024, including models like Phi-3 mini, small, and medium, as well as the Phi-3.5 series.[4](#ref-4), [61](#ref-61), [114](#ref-114), [115](#ref-115), [116](#ref-116), [117](#ref-117), [118](#ref-118) These models are designed to be highly capable and cost-effective, often outperforming models of similar and larger sizes across various benchmarks in language, reasoning, coding, and math.[116](#ref-116) Phi-3 mini, with 3.8 billion parameters, achieves performance rivaling models like Mixtral 8x7B and GPT-3.5 on benchmarks like MMLU (69%) and MT-bench (8.38).[117](#ref-117), [118](#ref-118) The Phi-3.5 series further enhances capabilities, with Phi-3.5-mini supporting a 128K context length and improved multilingual support.[116](#ref-116) Phi-3.5-MoE, with 6.6B active parameters, delivers high performance in language understanding, math, and reasoning, often surpassing larger models.[116](#ref-116)
 
 ### Amazon Nova (Amazon)
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 Amazon introduced its **Amazon Nova** models (Pro, Micro, Lite) at AWS re:Invent in December 2024.[4](#ref-4), [61](#ref-61), [27](#ref-27) These models are presented as cost-effective alternatives to OpenAI's offerings, particularly in retrieval-augmented generation tasks. While GPT-4o demonstrated a slight advantage in accuracy over Amazon Nova Pro on a subset of the CRAG benchmark dataset, Amazon Nova Pro outperformed GPT-4o in efficiency, operating 97% faster and being 65.26% more cost-effective.[27](#ref-27) Amazon Nova Micro and Amazon Nova Lite also showed competitive accuracy and cost-effectiveness compared to GPT-4o-mini.[27](#ref-27)
 
 ## 4\. Summary Table of OpenAI and Alternative LLM Benchmarks
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 | Model Name | Organization | MMLU (%) | HumanEval (%) | AIME (%) | GPQA (%) | SWE-bench (%) | Context Window (Tokens) | Approx. Parameters (B) | Source(s) |
 | :--------------------- | :---------------- | :------- | :------------ | :------- | :------- | :------------ | :---------------------- | :----------------------- | :------------------------- |
@@ -215,7 +215,7 @@ Amazon introduced its **Amazon Nova** models (Pro, Micro, Lite) at AWS re:Invent
 
 ## 5\. Conclusion
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 The analysis of Large Language Models released since May 2024 reveals a period of intense innovation and rapid advancement within the field. OpenAI has continued to be a dominant force, introducing a diverse range of models, including the flagship multimodal GPT-4o, the cost-effective GPT-4o mini, the reasoning-focused o-series (o1, o3, o4-mini), and the high-performing GPT-4.1 family. These models demonstrate significant progress in areas such as multimodality, reasoning capabilities, and performance on various benchmarks, catering to a wide spectrum of applications and user needs.
 
@@ -225,7 +225,7 @@ The current state of the LLM landscape is characterized by a strong emphasis on 
 
 ## 6\. References
 
-(\#table-of-contents)
+[Table of Contents](#table-of-contents)
 
 <a id="ref-1"></a>
 1.  OpenAI. (2025, February 27). *Introducing GPT-4.5*. [https://openai.com/index/introducing-gpt-4-5/](https://openai.com/index/introducing-gpt-4-5/)
