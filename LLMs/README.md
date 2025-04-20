@@ -116,7 +116,6 @@ Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies e
 | GPT-4.1 nano | Snelheid, kostenefficiëntie, classificatie, autocompletion |
 | gpt-4o-search-preview | Websearch in Chat Completions |
 | gpt-4o-mini-search-preview | Snel, betaalbaar klein model voor websearch |
-| computer-use-preview | Gespecialiseerd model voor computergebruik |
 | GPT-4o Audio | Audio-invoer en -uitvoer |
 | GPT-4o mini Audio | Kleinere model met audio-invoer en -uitvoer |
 | GPT-4o Realtime | Realtime tekst- en audio-invoer en -uitvoer |
