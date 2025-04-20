@@ -1,4 +1,4 @@
-# Functioneel Overzicht van OPENAI's Grote Taalmodellen (sinds Mei 2024)
+# Functioneel Overzicht van OPENAI's Grote Taalmodellen
 
 <a id="table-of-contents"></a>
 ## Inhoudsopgave
