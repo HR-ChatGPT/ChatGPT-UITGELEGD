@@ -28,9 +28,7 @@
 5.  [Conclusie](#5-conclusie)
 6.  [Referenties](#6-referenties)
 
-## 1\. Inleiding
-
-[Inhoudsopgave](#table-of-contents)
+## 1. [Inleiding](#table-of-contents)
 
 Het veld van Grote Taalmodellen (LLM's) heeft de afgelopen jaren opmerkelijke vooruitgang geboekt, gekenmerkt door een snelle toename van mogelijkheden en een groeiende invloed in diverse sectoren. Deze geavanceerde modellen zijn essentieel geworden voor vooruitgang in natuurlijke taalverwerking, waardoor aanzienlijke stappen zijn gezet in taken zoals tekstgeneratie, vertaling en informatieopvraging. OpenAI loopt consequent voorop in deze technologische evolutie, vooral bekend om de ontwikkeling van de GPT-serie modellen, die nieuwe normen hebben gesteld voor prestaties en veelzijdigheid. Toch wordt het LLM-landschap steeds competitiever, met grote onderzoeksorganisaties, technologiebedrijven en innovatieve startups die zeer capabele modellen introduceren die de dominantie van OpenAI uitdagen. Deze dynamische omgeving vereist een voortdurende en gedetailleerde analyse om de laatste ontwikkelingen bij te houden en de relatieve sterktes en specialisaties van de verschillende beschikbare LLM's te begrijpen. Dit rapport beoogt zo'n analyse te bieden, met een specifieke focus op de periode sinds mei 2024, een tijdsbestek waarin aanzienlijke vooruitgang en nieuwe modelreleases van OpenAI en zijn concurrenten zijn waargenomen.
 
@@ -38,69 +36,47 @@ Het primaire doel van dit rapport is een uitgebreid overzicht te geven van alle 
 
 De methodologie die in dit rapport wordt gehanteerd, omvat een uitgebreide beoordeling en synthese van openbaar toegankelijke onderzoeksdocumentatie. Dit omvat technische documentatie en systeemkaarten die zijn uitgebracht door OpenAI en andere organisaties, aankondigingen en blogposts met details over nieuwe modelkenmerken en mogelijkheden, en gerapporteerde benchmarkresultaten van verschillende industriestandaard evaluaties. De analyse richt zich op het extraheren van cruciale technische specificaties, belangrijke prestatie-indicatoren en de beoogde gebruiksscenario's voor elk geïdentificeerd LLM, en biedt zo een gedetailleerde en op data gebaseerde vergelijking van hun respectievelijke sterktes en beperkingen.
 
-## 2\. OpenAI LLM's Uitgebracht Sinds Mei 2024
-
-[Inhoudsopgave](#table-of-contents)
+## 2\. [OpenAI LLM's Uitgebracht Sinds Mei 2024](#table-of-contents)
 
 Een systematische beoordeling van de beschikbare informatie onthult een divers en uitgebreid portfolio van Grote Taalmodellen die door OpenAI zijn uitgebracht vanaf mei 2024. Deze periode werd gekenmerkt door een hoge frequentie van nieuwe modelintroducties en updates, wat de voortdurende inzet van OpenAI weerspiegelt om de grenzen van AI-mogelijkheden te verleggen. De geïdentificeerde modellen omvatten GPT-4o ([1](#ref-1), [2](#ref-2)). Deze uitgebreide lijst benadrukt de strategie van OpenAI om modellen te ontwikkelen met verschillende mogelijkheden en kostenstructuren om een breed scala aan toepassingen te bedienen. De introductie van de "o"-serie betekent een gerichte inspanning om de redeneervermogens van hun modellen te verbeteren.
 
-### GPT-4o
-
-[Inhoudsopgave](#table-of-contents)
+### GPT-4o](#table-of-contents)
 
 **GPT-4o**, uitgebracht op 13 mei 2024 ([18](#ref-18)), is een vlaggenschipmodel met native multimodale mogelijkheden, waarmee tekst, audio en afbeeldingen verwerkt en gegenereerd kunnen worden ([12](#ref-12), [22](#ref-22)). De architectuur bestaat uit één end-to-end neuraal netwerk, wat zorgt voor snellere responstijden en verbeterde efficiëntie ten opzichte van eerdere modellen ([18](#ref-18)). Belangrijke kenmerken zijn realtime audiogesprekken en verbeterd begrip van niet-Engelse talen en visuele input ([12](#ref-12), [18](#ref-18), [23](#ref-23), [24](#ref-24), [25](#ref-25), [26](#ref-26)). GPT-4o is bedoeld voor veelzijdige toepassingen die snelle en intelligente reacties vereisen over verschillende modaliteiten ([2](#ref-2)).
 
-### GPT-4o mini
-
-[Inhoudsopgave](#table-of-contents)
+### [GPT-4o mini](#table-of-contents)
 
 **GPT-4o mini**, gelanceerd op 18 juli 2024 ([1](#ref-1)), is een kleinere, snellere en kostenefficiëntere variant van GPT-4o ([9](#ref-9), [14](#ref-14), [37](#ref-37)). Het maakt gebruik van een gestroomlijnde versie van de GPT-4-architectuur ([40](#ref-40)) en blinkt uit in taken die snelheid en efficiëntie vereisen, zoals coderen, debuggen en realtime interacties ([14](#ref-14)). Ondanks het compacte formaat levert GPT-4o mini sterke prestaties in multimodale redeneervaardigheden en behaalt het indrukwekkende scores op academische benchmarks ([5](#ref-5), [34](#ref-34), [37](#ref-37)).
 
-### o1
-
-[Inhoudsopgave](#table-of-contents)
+### [o1](#table-of-contents)
 
 De **o1**-modelserie, waarvan de volledige versie werd uitgebracht op 17 december 2024 ([8](#ref-8)), vertegenwoordigt een nieuwe generatie redeneermodellen die ontworpen zijn om meer tijd te besteden aan "nadenken" voordat ze antwoorden ([50](#ref-50), [55](#ref-55)). Dit wordt bereikt door grootschalige reinforcement learning gericht op chain-of-thought-verwerking ([50](#ref-50), [51](#ref-51)). o1 blinkt uit in complexe redeneertaken en levert sterke prestaties in bètavakken, waaronder wiskunde, programmeren en wetenschap ([50](#ref-50), [53](#ref-53), [55](#ref-55)). Het model toont ook opmerkelijke capaciteiten op het gebied van cybersecurity ([51](#ref-51), [54](#ref-54)).
 
-### o1-mini
-
-[Inhoudsopgave](#table-of-contents)
+### [o1-mini](#table-of-contents)
 
 **o1-mini**, uitgebracht op 12 september 2024 ([8](#ref-8)), is een snellere en kostenefficiëntere versie van o1, vooral effectief bij programmeertaken en andere STEM-taken waarbij brede algemene kennis minder essentieel is ([58](#ref-58), [60](#ref-60)).
 
-### o3
-
-[Inhoudsopgave](#table-of-contents)
+### [o3](#table-of-contents)
 
 Het **o3**-model, uitgebracht op 16 april 2025 ([1](#ref-1), [6](#ref-6), [8](#ref-8)), wordt beschreven als het krachtigste redeneermodel van OpenAI tot nu toe, dat uitblinkt in complexe vragen die een veelzijdige analyse vereisen en state-of-the-art prestaties levert in programmeren, wiskunde, wetenschap en visuele taken ([5](#ref-5), [43](#ref-43), [68](#ref-68)). Het kan afbeeldingen direct integreren in zijn redeneerlijn en agentisch gebruikmaken van tools zoals websearch en Python ([5](#ref-5), [49](#ref-49), [68](#ref-68)).
 
-### o4-mini
-
-[Inhoudsopgave](#table-of-contents)
+### [o4-mini](#table-of-contents)
 
 **o4-mini**, eveneens uitgebracht op 16 april 2025 ([1](#ref-1), [6](#ref-6), [8](#ref-8)), is een kleiner model geoptimaliseerd voor snelle en kostenefficiënte redenatie, met opmerkelijke prestaties voor zijn formaat, vooral in wiskunde, programmeren en visuele analyse ([5](#ref-5), [48](#ref-48)). Het is het best presterende model op de AIME 2024 en 2025 benchmarks ([5](#ref-5)).
 
-### GPT-4.5
-
-[Inhoudsopgave](#table-of-contents)
+### [GPT-4.5](#table-of-contents)
 
 **GPT-4.5**, uitgebracht als research preview op 27 februari 2025 ([1](#ref-1), [6](#ref-6)), is het grootste en meest kennisrijke chatmodel van OpenAI tot nu toe ([1](#ref-1), [61](#ref-61)). Het bouwt voort op GPT-4o door het opschalen van pre-training en het toepassen van nieuwe supervisietechnieken ([72](#ref-72)). GPT-4.5 heeft een bredere kennisbasis, een verbeterd vermogen om gebruikersintentie te volgen en een grotere "EQ", waardoor het nuttig is voor taken als schrijven, programmeren en het oplossen van praktische problemen ([71](#ref-71), [73](#ref-73), [75](#ref-75)). Het model vertoont ook sterke feitelijke nauwkeurigheid en hallucineert minder dan andere OpenAI-modellen ([71](#ref-71), [73](#ref-73)).
 
-### GPT-4.1 Familie
-
-[Inhoudsopgave](#table-of-contents)
+### [GPT-4.1 Familie](#table-of-contents)
 
 De **GPT-4.1**-familie van modellen, waaronder GPT-4.1, GPT-4.1 mini en GPT-4.1 nano, werd gelanceerd op 14 april 2025 ([6](#ref-6), [17](#ref-17), [77](#ref-77)). Deze modellen presteren beter dan GPT-4o en GPT-4o mini, met aanzienlijke verbeteringen in programmeren en instructievolging ([17](#ref-17)). Ze ondersteunen grotere contextvensters tot 1 miljoen tokens ([17](#ref-17), [82](#ref-82)). **GPT-4.1** is het vlaggenschipmodel, geoptimaliseerd voor complexe taken en uitmuntend in softwareontwikkeling, onderzoek en agentische workflows ([80](#ref-80), [84](#ref-84)). Het model toont aanzienlijke verbeteringen in real-world software engineering en instructienauwkeurigheid ([80](#ref-80), [82](#ref-82), [84](#ref-84)). **GPT-4.1 mini** biedt bijna dezelfde mogelijkheden als het volledige model, maar met lagere latency en kosten, waardoor het een gebalanceerde optie is voor diverse toepassingen ([80](#ref-80), [84](#ref-84)). **GPT-4.1 nano** is het snelste en meest kostenefficiënte model in deze serie, ideaal voor taken zoals classificatie en autocompletion ([80](#ref-80), [84](#ref-84)).
 
-### Gespecialiseerde Modellen en Updates
-
-[Inhoudsopgave](#table-of-contents)
+### [Gespecialiseerde Modellen en Updates](#table-of-contents)
 
 Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies en updates uitgebracht, zoals gpt-4o-search-preview en gpt-4o-mini-search-preview voor websearch, computer-use-preview voor specifieke toolgebruik, en audio-gerelateerde modellen zoals gpt-4o-audio-preview en gpt-4o mini TTS ([6](#ref-6), [9](#ref-9)). Deze op maat gemaakte modellen illustreren de strategie van OpenAI om een breed scala aan LLM's te bieden voor uiteenlopende toepassingsbehoeften.
 
-### Tabel: OpenAI LLM Gebieden van Uitmuntendheid
-
-[Inhoudsopgave](#table-of-contents)
+### [Tabel: OpenAI LLM Gebieden van Uitmuntendheid](#table-of-contents)
 
 | OpenAI LLM Naam | Gebieden van Uitmuntendheid |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -139,63 +115,43 @@ Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies e
 | o1-preview (2024-09-12) | Oudere previewversie |
 | o1-mini (2024-09-12) | Snellere en kostenefficiëntere optie in de o1-serie, ideaal voor programmeertaken die snelheid en lagere resourceconsumptie vereisen |
 
-## 3\. Vergelijkende Analyse met Alternatieve LLM's
-
-[Inhoudsopgave](#table-of-contents)
+## 3\. [Vergelijkende Analyse met Alternatieve LLM's](#table-of-contents)
 
 Het LLM-landschap reikt verder dan OpenAI, met verschillende organisaties die sinds mei 2024 zeer competitieve modellen hebben uitgebracht. Deze alternatieve LLM's evenaren of overtreffen vaak de modellen van OpenAI op specifieke gebieden, wat de snelle vooruitgang en diverse benaderingen binnen het veld onderstreept.
 
-### Claude 3.7 Sonnet (Anthropic)
-
-[Inhoudsopgave](#table-of-contents)
+### [Claude 3.7 Sonnet (Anthropic)](#table-of-contents)
 
 **Claude 3.7 Sonnet** van Anthropic, uitgebracht in februari 2025 ([61](#ref-61), [85](#ref-85)), wordt gepositioneerd als een zeer intelligent model met state-of-the-art mogelijkheden voor programmeren en aanzienlijke verbeteringen in contentgeneratie, data-analyse en planning ([85](#ref-85), [86](#ref-86), [87](#ref-87)). Benchmarks tonen aan dat Claude 3.7 Sonnet uitblinkt in instructievolging en hoge scores behaalt op IFEval ([63](#ref-63)). Het model presteert ook sterk bij programmeertaken, met competitieve scores op de Aider polyglot benchmark ([62](#ref-62)). Anthropic heeft aangegeven dat Sonnet is ontworpen om GPT-4o te overtreffen, waardoor het een directe concurrent is qua intelligentie en veelzijdigheid ([2](#ref-2)).
 
-### Grok-3 (xAI)
-
-[Inhoudsopgave](#table-of-contents)
+### [Grok-3 (xAI)](#table-of-contents)
 
 **Grok-3**, ontwikkeld door xAI en onthuld in februari 2025 ([61](#ref-61), [64](#ref-64)), vertegenwoordigt een aanzienlijke sprong in redeneercapaciteiten, met tien keer meer rekenkracht dan zijn voorganger, Grok-2 ([88](#ref-88), [89](#ref-89)). Getraind op xAI's Colossus-supercluster, laat Grok-3 sterke prestaties zien in STEM-domeinen, met hoge nauwkeurigheid op de AIME 2025 wiskunde (93,3%) en GPQA (84,6%) graduate-level redeneerbenchmarks ([64](#ref-64), [65](#ref-65), [88](#ref-88)). Bij programmeren scoort het indrukwekkend op LiveCodeBench (79,4%) ([64](#ref-64), [65](#ref-65), [88](#ref-88)). Grok-3 heeft een "Think"-modus waarmee het antwoorden kan verfijnen via test-time computation, wat de nauwkeurigheid bij complexe analytische taken vergroot ([64](#ref-64), [88](#ref-88), [90](#ref-90)). De prestaties op de LMSYS Arena leaderboard zijn ook opmerkelijk, waarbij het modellen als GPT-4o en Claude 3.5 Sonnet overtreft ([89](#ref-89), [91](#ref-91)).
 
-### Gemini 2.0 (Google DeepMind)
-
-[Inhoudsopgave](#table-of-contents)
+### [Gemini 2.0 (Google DeepMind)](#table-of-contents)
 
 Google DeepMind blijft innoveren met de **Gemini 2.0**-familie van modellen. Sinds mei 2024 zijn verschillende varianten uitgebracht of bijgewerkt, waaronder **Gemini 2.0 Pro**, **Gemini 2.0 Flash** en **Gemini 2.0 Flash-Lite** ([2](#ref-2), [3](#ref-3), [4](#ref-4), [61](#ref-61), [66](#ref-66), [92](#ref-92), [93](#ref-93), [94](#ref-94), [95](#ref-95), [96](#ref-96)). Deze modellen zijn multimodaal, kunnen tekst, afbeeldingen, audio en video verwerken (met verschillende ondersteuning per model) en tekst genereren ([2](#ref-2), [92](#ref-92)). Een belangrijk voordeel van de Gemini 2.0-familie is het grote contextvenster, waarbij Flash en Pro tot 1 miljoen tokens ondersteunen ([3](#ref-3), [92](#ref-92), [93](#ref-93)). Gemini 2.0 Pro wordt beschouwd als het beste model van Google tot nu toe voor programmeren en complexe prompts ([94](#ref-94)). Benchmarks tonen aan dat Gemini 2.0 Flash beter presteert dan 1.5 Flash op het gebied van redenatie, multimodale taken, wiskunde en feitelijkheid ([93](#ref-93), [94](#ref-94)). Gemini 2.0 Flash-Lite is geoptimaliseerd voor kostenefficiëntie en lage latency, met verbeterde prestaties op SimpleQA en BirdSQL ([94](#ref-94)). Bij programmeren presteert Gemini 2.0 Flash sterk op LiveBench ([66](#ref-66)).
 
-### DeepSeek R1 en V3 (DeepSeek AI)
-
-[Inhoudsopgave](#table-of-contents)
+### [DeepSeek R1 en V3 (DeepSeek AI)](#table-of-contents)
 
 **DeepSeek AI** is een sterke speler geworden, vooral met de **DeepSeek R1** en **DeepSeek V3** modellen ([4](#ref-4), [61](#ref-61), [97](#ref-97), [98](#ref-98), [99](#ref-99), [100](#ref-100), [101](#ref-101), [102](#ref-102)). DeepSeek R1, uitgebracht in januari 2025, is een 671B parameter Mixture-of-Experts (MoE) model gericht op redeneercapaciteiten, getraind via grootschalige reinforcement learning ([98](#ref-98), [99](#ref-99)). Het model behaalt prestaties vergelijkbaar met OpenAI-o1 op het gebied van wiskunde (MATH-500: 97,3%), programmeren (Codeforces: 96,3% percentiel) en redeneertaken ([97](#ref-97), [98](#ref-98)). DeepSeek R1 is ontworpen voor stapsgewijze redenatie, waardoor het geschikt is voor onderzoek en analyse ([100](#ref-100), [102](#ref-102)). DeepSeek V3, uitgebracht in december 2024, is ook een 671B parameter MoE model, maar geoptimaliseerd voor bredere prestaties op meerdere NLP-benchmarks met behoud van efficiënte trainingskosten ([97](#ref-97), [98](#ref-98)). Het model bevat redeneercapaciteiten gedistilleerd uit DeepSeek R1 en ondersteunt een 128K contextvenster ([98](#ref-98), [99](#ref-99)). Opvallend is dat DeepSeek V3 aanzienlijk kostenefficiënter is dan DeepSeek R1 voor API-gebruik ([98](#ref-98), [99](#ref-99)).
 
-### Mistral Large 2 (Mistral AI)
-
-[Inhoudsopgave](#table-of-contents)
+### [Mistral Large 2 (Mistral AI)](#table-of-contents)
 
 **Mistral AI** heeft zijn modellenreeks verder ontwikkeld, met **Mistral Large 2** uitgebracht in juli 2024 ([4](#ref-4), [61](#ref-61), [103](#ref-103), [104](#ref-104), [105](#ref-105), [106](#ref-106), [107](#ref-107)). Dit model beschikt over topklasse redeneercapaciteiten en blinkt uit in geavanceerde redenatie, meertalige taken, wiskunde en codegeneratie ([105](#ref-105)). Het heeft een contextvenster van 128K tokens en presteert sterk op de MMLU-benchmark (84,0% in een 5-shot scenario) ([104](#ref-104), [107](#ref-107)). Mistral Large 2 staat ook bekend om zijn kostenefficiëntie ten opzichte van oudere modellen zoals GPT-4 32K ([107](#ref-107)).
 
-### Llama 3.1 (Meta AI)
-
-[Inhoudsopgave](#table-of-contents)
+### [Llama 3.1 (Meta AI)](#table-of-contents)
 
 Meta AI heeft **Llama 3.1** uitgebracht in juli 2024, voortbouwend op de sterke punten van eerdere modellen met verbeterde NLP-prestaties en beter contextueel begrip ([4](#ref-4), [61](#ref-61), [108](#ref-108), [109](#ref-109), [110](#ref-110), [111](#ref-111), [112](#ref-112), [113](#ref-113)). De Llama 3.1-familie omvat modellen met 8B, 70B en 405B parameters, waarbij het 405B-model uitmuntende prestaties levert op een breed scala aan industriestandaard benchmarks, vaak gelijk of beter dan GPT-4 in sommige tests ([113](#ref-113)). Llama 3.1 405B behaalt hoge scores op MMLU (88,6%), HumanEval (89,0%) en GSM8K (96,8%) ([109](#ref-109), [111](#ref-111), [112](#ref-112)). Het model blinkt ook uit in lang-contexttaken met een contextvenster van 128K tokens ([111](#ref-111)).
 
-### Phi-3 (Microsoft)
-
-[Inhoudsopgave](#table-of-contents)
+### [Phi-3 (Microsoft)](#table-of-contents)
 
 Microsoft heeft sinds april 2024 de **Phi-3**-familie van Small Language Models (SLMs) geïntroduceerd, waaronder modellen als Phi-3 mini, small, medium en de Phi-3.5-serie ([4](#ref-4), [61](#ref-61), [114](#ref-114), [115](#ref-115), [116](#ref-116), [117](#ref-117), [118](#ref-118)). Deze modellen zijn ontworpen om zeer capabel en kostenefficiënt te zijn, en presteren vaak beter dan modellen van vergelijkbare of grotere omvang op diverse benchmarks voor taal, redenatie, programmeren en wiskunde ([116](#ref-116)). Phi-3 mini, met 3,8 miljard parameters, behaalt prestaties vergelijkbaar met modellen als Mixtral 8x7B en GPT-3.5 op benchmarks als MMLU (69%) en MT-bench (8,38) ([117](#ref-117), [118](#ref-118)). De Phi-3.5-serie verbetert de mogelijkheden verder, met Phi-3.5-mini die een contextlengte van 128K ondersteunt en verbeterde meertalige ondersteuning biedt ([116](#ref-116)). Phi-3.5-MoE, met 6,6B actieve parameters, levert hoge prestaties in taalbegrip, wiskunde en redenatie, en overtreft vaak grotere modellen ([116](#ref-116)).
 
-### Amazon Nova (Amazon)
-
-[Inhoudsopgave](#table-of-contents)
+### [Amazon Nova (Amazon)](#table-of-contents)
 
 Amazon introduceerde zijn **Amazon Nova**-modellen (Pro, Micro, Lite) op AWS re:Invent in december 2024 ([4](#ref-4), [61](#ref-61), [27](#ref-27)). Deze modellen worden gepresenteerd als kostenefficiënte alternatieven voor de modellen van OpenAI, vooral bij retrieval-augmented generation-taken. Hoewel GPT-4o een klein voordeel in nauwkeurigheid liet zien ten opzichte van Amazon Nova Pro op een subset van de CRAG-benchmarkdataset, presteerde Amazon Nova Pro efficiënter, met 97% snellere werking en 65,26% meer kostenefficiëntie ([27](#ref-27)). Amazon Nova Micro en Amazon Nova Lite lieten ook competitieve nauwkeurigheid en kostenefficiëntie zien vergeleken met GPT-4o-mini ([27](#ref-27)).
 
-## 4\. Samenvattende Tabel van OpenAI en Alternatieve LLM Benchmarks
-
-[Inhoudsopgave](#table-of-contents)
+## 4\. [Samenvattende Tabel van OpenAI en Alternatieve LLM Benchmarks](#table-of-contents)
 
 | Modelnaam | Organisatie | MMLU (%) | HumanEval (%) | AIME (%) | GPQA (%) | SWE-bench (%) | Contextvenster (Tokens) | Approx. Parameters (B) | Bron(nen) |
 | :--------------------- | :---------------- | :------- | :------------ | :------- | :------- | :------------ | :---------------------- | :----------------------- | :------------------------- |
@@ -213,9 +169,7 @@ Amazon introduceerde zijn **Amazon Nova**-modellen (Pro, Micro, Lite) op AWS re:
 | o4-mini | OpenAI | 93.4 | N/B | 99.5 | 81.4 | 68.1 | 200,000 | Onbekend | ([5](#ref-5)) |
 | GPT-4.5 | OpenAI | 85.1 | 32.6 | 36.7 | 71.4 | 38.0 | 128,000 | Onbekend | ([71](#ref-71)) |
 
-## 5\. Conclusie
-
-[Inhoudsopgave](#table-of-contents)
+## 5\. [Conclusie](#table-of-contents)
 
 De analyse van Grote Taalmodellen die sinds mei 2024 zijn uitgebracht, laat een periode van intense innovatie en snelle vooruitgang binnen het veld zien. OpenAI blijft een dominante speler, met een divers aanbod aan modellen, waaronder het vlaggenschip multimodale GPT-4o, de kostenefficiënte GPT-4o mini, de redenatiegerichte o-serie (o1, o3, o4-mini) en de krachtige GPT-4.1-familie. Deze modellen tonen aanzienlijke vooruitgang op het gebied van multimodaliteit, redeneercapaciteiten en prestaties op diverse benchmarks, en bedienen een breed spectrum aan toepassingen en gebruikersbehoeften.
 
@@ -223,15 +177,8 @@ Toch is het LLM-landschap steeds competitiever. Alternatieve LLM's van organisat
 
 De huidige stand van het LLM-landschap wordt gekenmerkt door een sterke focus op het verbeteren van redeneercapaciteiten, het uitbreiden van multimodale functionaliteiten, het verbeteren van efficiëntie en kosteneffectiviteit, en het ondersteunen van langere contextvensters. Het snelle innovatietempo zorgt ervoor dat er voortdurend nieuwe modellen met steeds geavanceerdere mogelijkheden verschijnen. Hoewel OpenAI een leider blijft, onderstrepen de concurrentievoordelen van alternatieve LLM's het belang van het afstemmen van de modelkeuze op specifieke gebruikssituaties. De optimale keuze hangt vaak af van de taak, gewenste prestatiekenmerken en budgettaire overwegingen, waardoor een grondig inzicht in de sterke en zwakke punten van elk model essentieel is voor weloverwogen beslissingen.
 
-## 6\. References
+## 6\. [Referenties](#table-of-contents)
 
-[Table of Contents](#table-of-contents)
-
-<!-- De referentiesectie blijft onvertaald -->
-
-## 6\. References
-
-[Table of Contents](#table-of-contents)
 
 <a id="ref-1"></a>
 1.  OpenAI. (2025, February 27). *Introducing GPT-4.5*. [https://openai.com/index/introducing-gpt-4-5/](https://openai.com/index/introducing-gpt-4-5/)
