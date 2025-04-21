@@ -15,7 +15,7 @@
       * [GPT4-1](#gpt4-1)
       * [Gespecialiseerde Modellen en Updates](#gespecialiseerde-modellen-en-updates)
       * [Maximale Input in Tokens](#maximale-input-in-tokens)
-3.  [Vergelijkende Analyse met Alternatieve LLM's](#3-vergelijkende-analyse-met-alternatieve-llms)
+3.  [Alternatieve LLM's](#3-alternatieve-llms)
     * [Claude 3.7 Sonnet (Anthropic)](#claude-37-sonnet-anthropic)
     * [Grok-3 (xAI)](#grok-3-xai)
     * [Gemini 2.0 (Google DeepMind)](#gemini-20-google-deepmind)
@@ -26,13 +26,17 @@
     * [Amazon Nova (Amazon)](#amazon-nova-amazon)
 4.  [Samenvattende Tabel van OpenAI en Alternatieve LLM Benchmarks](#4-samenvattende-tabel-van-openai-en-alternatieve-llm-benchmarks)
 5.  [Conclusie](#5-conclusie)
-6.  [Referenties](#6-referenties)
+6.  [Verantwoording](#6-verantwoording)
+7.  [Referenties](#7-referenties)
 
 ## 1. [Inleiding](#table-of-contents)
 
 Grote Taalmodellen (LLM's) hebben de afgelopen twee jaar een opmerkelijke progressie doorgemaakt in hun vermogen om taken zoals tekstgeneratie, vertaling en informatieopvraging te ondersteunen. OpenAI loopt vooralsnog voorop in deze technologische ontwikkeling, vooral bekend om de GPT-serie LLM's, die nieuwe normen hebben gesteld voor prestaties en veelzijdigheid. Toch wordt het LLM-landschap steeds competitiever, met grote onderzoeksorganisaties, technologiebedrijven en innovatieve startups die zeer capabele modellen introduceren die de dominantie van OpenAI uitdagen. 
 
 Het primaire doel van deze repositorie is een overzicht te geven van alle Grote Taalmodellen (LLM's) die door OpenAI zijn uitgebracht vanaf mei 2024. Naast het beschrijven van deze modellen en hun specifieke sterktes en zwaktes, bevat deze repository een vergelijkende overzicht van het aanbod van OpenAI ten opzichte van alternatieve LLM's van andere organisaties die in dezelfde periode zijn uitgebracht of aanzienlijk zijn bijgewerkt.
+
+---
+
 
 ## 2\. [Overzicht OpenAI LLM's + Nomenclatuur](#table-of-contents)
 
@@ -97,8 +101,6 @@ De **GPT-4.1**-familie van modellen, waaronder GPT-4.1, GPT-4.1 mini en GPT-4.1 
 
 Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies en updates uitgebracht, zoals gpt-4o-search-preview en gpt-4o-mini-search-preview voor websearch, computer-use-preview voor specifieke toolgebruik, en audio-gerelateerde modellen zoals gpt-4o-audio-preview en gpt-4o mini TTS ([6](#ref-6), [9](#ref-9)). Deze op maat gemaakte modellen illustreren de strategie van OpenAI om een breed scala aan LLM's te bieden voor uiteenlopende toepassingsbehoeften.
 
-
-
 | OpenAI LLM Naam | Specialisatie |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GPT-4o | Realtime multimodale interactie, snelle responstijden, verbeterde prestaties in niet-Engelse talen |
@@ -148,9 +150,10 @@ Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies e
 | GPT-4.5                 | februari 2025    | 128.000                    | Groter model, betere natuurlijke interactie             |
 | GPT-4.1                 | april 2025       | 1.047.576                  | Nieuwste modellen met extreem groot contextvenster      |
 
+---
 
 
-## 3\. [Vergelijkende Analyse met Alternatieve LLM's](#table-of-contents)
+## 3\. [Alternatieve LLM's](#table-of-contents)
 
 Het LLM-landschap reikt verder dan OpenAI, met verschillende organisaties die sinds mei 2024 zeer competitieve modellen hebben uitgebracht. Deze alternatieve LLM's evenaren of overtreffen vaak de modellen van OpenAI op specifieke gebieden, wat de snelle vooruitgang en diverse benaderingen binnen het veld onderstreept.
 
@@ -186,6 +189,9 @@ Microsoft heeft sinds april 2024 de **Phi-3**-familie van Small Language Models 
 
 Amazon introduceerde zijn **Amazon Nova**-modellen (Pro, Micro, Lite) op AWS re:Invent in december 2024 ([4](#ref-4), [61](#ref-61), [27](#ref-27)). Deze modellen worden gepresenteerd als kostenefficiënte alternatieven voor de modellen van OpenAI, vooral bij retrieval-augmented generation-taken. Hoewel GPT-4o een klein voordeel in nauwkeurigheid liet zien ten opzichte van Amazon Nova Pro op een subset van de CRAG-benchmarkdataset, presteerde Amazon Nova Pro efficiënter, met 97% snellere werking en 65,26% meer kostenefficiëntie ([27](#ref-27)). Amazon Nova Micro en Amazon Nova Lite lieten ook competitieve nauwkeurigheid en kostenefficiëntie zien vergeleken met GPT-4o-mini ([27](#ref-27)).
 
+---
+
+
 ## 4\. [Samenvattende Tabel van OpenAI en Alternatieve LLM Benchmarks](#table-of-contents)
 
 | Modelnaam | Organisatie | MMLU (%) | HumanEval (%) | AIME (%) | GPQA (%) | SWE-bench (%) | Contextvenster (Tokens) | Approx. Parameters (B) | Bron(nen) |
@@ -204,6 +210,9 @@ Amazon introduceerde zijn **Amazon Nova**-modellen (Pro, Micro, Lite) op AWS re:
 | o4-mini | OpenAI | 93.4 | N/B | 99.5 | 81.4 | 68.1 | 200,000 | Onbekend | ([5](#ref-5)) |
 | GPT-4.5 | OpenAI | 85.1 | 32.6 | 36.7 | 71.4 | 38.0 | 128,000 | Onbekend | ([71](#ref-71)) |
 
+---
+
+
 ## 5\. [Conclusie](#table-of-contents)
 
 De analyse van Grote Taalmodellen die sinds mei 2024 zijn uitgebracht, laat een periode van intense innovatie en snelle vooruitgang binnen het veld zien. OpenAI blijft een dominante speler, met een divers aanbod aan modellen, waaronder het vlaggenschip multimodale GPT-4o, de kostenefficiënte GPT-4o mini, de redenatiegerichte o-serie (o1, o3, o4-mini) en de krachtige GPT-4.1-familie. Deze modellen tonen aanzienlijke vooruitgang op het gebied van multimodaliteit, redeneercapaciteiten en prestaties op diverse benchmarks, en bedienen een breed spectrum aan toepassingen en gebruikersbehoeften.
@@ -212,7 +221,45 @@ Toch is het LLM-landschap steeds competitiever. Alternatieve LLM's van organisat
 
 De huidige stand van het LLM-landschap wordt gekenmerkt door een sterke focus op het verbeteren van redeneercapaciteiten, het uitbreiden van multimodale functionaliteiten, het verbeteren van efficiëntie en kosteneffectiviteit, en het ondersteunen van langere contextvensters. Het snelle innovatietempo zorgt ervoor dat er voortdurend nieuwe modellen met steeds geavanceerdere mogelijkheden verschijnen. Hoewel OpenAI een leider blijft, onderstrepen de concurrentievoordelen van alternatieve LLM's het belang van het afstemmen van de modelkeuze op specifieke gebruikssituaties. De optimale keuze hangt vaak af van de taak, gewenste prestatiekenmerken en budgettaire overwegingen, waardoor een grondig inzicht in de sterke en zwakke punten van elk model essentieel is voor weloverwogen beslissingen.
 
-## 6\. [Referenties](#table-of-contents)
+---
+
+## 6\. [Verantwoording](#table-of-contents)
+
+Deze tekst is tot stand gekomen met behulp van generatieve tools: Gemini Advanced + Deep Research Pro. Het gebruik van deze tools is toegepast conform onderstaande wettelijke vereisten en ethische normen:
+
+- **Artikel 12 AVG**: Transparantie over gegevensverwerking.
+- **Artikel 5 AVG**: Doelbinding en minimale gegevensverwerking.
+- **Artikel 13 AI-ACT**: Verplichting om gebruikers te informeren over interacties met een AI-systeem.
+- **Artikel 50 AI-ACT**: Transparantievereisten voor aanbieders en gebruikers van AI-systemen.
+
+Hoewel de onderhavige tekst volledig door AI is gegenereerd, zijn alle resultaten gecontroleerd en bewerkt door menselijke auteurs om nauwkeurigheid, relevantie en ethische naleving te waarborgen.
+
+#### **Toelichting op Juridische Verwijzingen**
+
+**AVG (Algemene Verordening Gegevensbescherming)**  
+- *Artikel 12*: Vereist dat informatie over gegevensverwerking duidelijk, transparant en toegankelijk wordt verstrekt.  
+- *Artikel 5*: Stelt basisprincipes zoals doelbinding (gegevens mogen alleen voor specifieke doeleinden worden verzameld) en dataminimalisatie (alleen noodzakelijke gegevens mogen worden verwerkt).
+
+**AI-ACT (EU Artificial Intelligence Act)**  
+- *Artikel 13*: Transparantieverplichtingen voor hoog-risico AI-systemen, inclusief uitleg over hoe systemen werken.  
+- *Artikel 50*: Algemene transparantievereisten voor alle relevante AI-systemen, zoals labeling van door AI gegenereerde inhoud.
+
+
+#### **Toelichting op de gebruikte  Generatieve AI-tools**
+
+De gebruikte tools, zoals Gemini Advanced en Deep Research Pro, bieden krachtige mogelijkheden om complexe onderzoeksprocessen te versnellen. Deze tools maken gebruik van geavanceerde algoritmes om informatie te verzamelen, te analyseren en rapporten te genereren. Voorbeelden hiervan zijn:  
+
+- Het creëren van multi-step onderzoeksplannen.  
+- Automatische analyse van honderden websites.  
+- Generatie van overzichtelijke rapporten met bronvermeldingen.  
+
+
+<br> 
+
+---
+
+
+## 7\. [Referenties](#table-of-contents)
 
 
 <a id="ref-1"></a>
