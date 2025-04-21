@@ -32,46 +32,37 @@
 
 Grote Taalmodellen (LLM's) hebben de afgelopen twee jaar een opmerkelijke progressie doorgemaakt in hun vermogen om taken zoals tekstgeneratie, vertaling en informatieopvraging te ondersteunen. OpenAI loopt vooralsnog voorop in deze technologische ontwikkeling, vooral bekend om de GPT-serie LLM's, die nieuwe normen hebben gesteld voor prestaties en veelzijdigheid. Toch wordt het LLM-landschap steeds competitiever, met grote onderzoeksorganisaties, technologiebedrijven en innovatieve startups die zeer capabele modellen introduceren die de dominantie van OpenAI uitdagen. 
 
-Het primaire doel van deze repositorie is een overzicht te geven van alle Grote Taalmodellen (LLM's) die door OpenAI zijn uitgebracht vanaf mei 2024. Naast het beschrijven van deze modellen en hun specifieke sterktes, bevat deze analyse een vergelijkende evaluatie van het aanbod van OpenAI ten opzichte van alternatieve LLM's van andere organisaties die in dezelfde periode zijn uitgebracht of aanzienlijk zijn bijgewerkt.
+Het primaire doel van deze repositorie is een overzicht te geven van alle Grote Taalmodellen (LLM's) die door OpenAI zijn uitgebracht vanaf mei 2024. Naast het beschrijven van deze modellen en hun specifieke sterktes en zwaktes, bevat deze repository een vergelijkende overzicht van het aanbod van OpenAI ten opzichte van alternatieve LLM's van andere organisaties die in dezelfde periode zijn uitgebracht of aanzienlijk zijn bijgewerkt.
 
-## 2\. [OpenAI LLM's Nomenclatuur Uitgebracht Sinds Mei 2024](#table-of-contents)
+## 2\. [Overzicht OpenAI LLM's + Nomenclatuur](#table-of-contents)
 
-Sinds mei 2024 heeft OpenAI een belangrijke ontwikkeling ingezet met de introductie van de zogeheten "o"-serie modellen. Deze modellen zijn specifiek ontworpen om het redeneervermogen en de probleemoplossende capaciteiten van AI-systemen aanzienlijk te verbeteren ([1](#ref-1) --- [17](#ref-17)).
+Sinds mei 2024 heeft OpenAI een belangrijke ontwikkeling ingezet met de introductie van de "o"-serie modellen, een nieuwe generatie AI-modellen die speciaal zijn ontworpen voor verbeterde redeneervaardigheden en probleemoplossing. Deze modellen besteden meer tijd aan het verwerken en begrijpen van gebruikersvragen, waardoor ze uitblinken in complexe taken zoals waarheidsvinding, programmeren en wiskunde (zie bronnen [1](#ref-1), [2](#ref-2), [3](#ref-3), [4](#ref-4), [5](#ref-5), [6](#ref-6), [7](#ref-7), [8](#ref-8), [9](#ref-9), [10](#ref-10), [11](#ref-11), [12](#ref-12), [13](#ref-13), [14](#ref-14), [15](#ref-15), [16](#ref-16), [17](#ref-17)).
 
-Deze onderstaande systematiek geeft eindgebruikers duidelijkheid over welke generatie, variant en versie van het model zij gebruiken, wat belangrijk is voor compatibiliteit en onderliggende prestaties.
+Het belangrijkste verschil tussen de GPT-4o modellen en de OpenAI o-serie modellen ligt in hun ontwerpdoel en prestaties:
 
-- **Modelfamilienaam**: De naam begint vaak met een aanduiding van de modelfamilie, zoals `gpt` voor de GPT-serie. Bijvoorbeeld `gpt-4` verwijst naar de vierde generatie GPT-modellen.
+- **GPT-4o** is een veelzijdig, multimodaal model dat vooral gericht is op snelheid, brede toepasbaarheid en gebruiksgemak. Het levert snelle, intuïtieve antwoorden en is ideaal voor algemene conversaties, contentcreatie en snelle toegang tot informatie. GPT-4o verwerkt tekst, afbeeldingen, audio en video simultaan en is daarmee zeer geschikt voor multimodale toepassingen. Het is goedkoper en sneller in gebruik, maar kan soms minder nauwkeurig zijn bij complexe taken.
 
-- **Subvariant of specificatie**: Soms wordt er een toevoeging gedaan om een subvariant aan te geven, zoals `gpt-4o` of `gpt-3.5-turbo`. Dit kan duiden op een geoptimaliseerde of versnelde versie van het model.
+- **OpenAI o-serie modellen** (zoals o1, o3, o4-mini) zijn specifiek ontwikkeld voor diepere redeneervaardigheden en complexe probleemoplossing. Ze besteden meer tijd aan het analyseren van vragen en blinken uit in domeinen als waarheidsvinding, onderzoek, strategie, programmeren, wiskunde en wetenschap. Deze modellen bieden geavanceerde redeneermogelijkheden, inclusief visueel denken (voor sommige varianten) en combineren meerdere tools zoals websearch en code-executie om multi-step taken aan te kunnen. Ze zijn doorgaans langzamer en duurder dan GPT-4o, maar leveren aanzienlijk betere prestaties op complexe benchmarks en technische taken.
 
-- **Datum of versiecode**: Modellen kunnen een datum of een code bevatten die verwijst naar de uitgiftedatum of een specifieke build, zoals `gpt-4o-mini-2024-07-18`. Dit geeft aan dat het model een mini-versie is van de GPT-4 optimized variant, uitgebracht op 18 juli 2024.
+### Samenvattende vergelijking
 
-- **Extra aanduidingen**: Soms worden er extra termen toegevoegd die specifieke eigenschappen of beperkingen van het model aangeven, zoals `mini` voor een lichtere variant.
-
-### Voorbeeld van een modelnaam:
-
-| Onderdelen      | Betekenis                                           |
-|-----------------|----------------------------------------------------|
-| gpt             | Modelfamilie (Generative Pre-trained Transformer)  |
-| 4o              | Versie 4, geoptimaliseerd (optimized)               |
-| mini            | Lichtere versie van het model                        |
-| 2024-07-18      | Datum van uitgifte of build                          |
-
-Deze systematiek helpt gebruikers te begrijpen welke generatie, variant en versie van het model ze gebruiken, wat belangrijk is voor compatibiliteit en prestaties.
-
-## Samenvatting
-
-De nomenclatuur van OpenAI's LLM's sinds mei 2024 combineert doorgaans:
-
-- De modelgeneratie en familie (zoals GPT-3, GPT-4)
-- Eventuele optimalisaties of subvarianten (zoals `o` voor optimized, `mini` voor lichtere versie)
-- Een datum- of versienummer om de specifieke build aan te duiden
-
-Deze aanpak maakt het voor ontwikkelaars en gebruikers duidelijk welke versie van het model ze inzetten en welke eigenschappen daarbij horen.
+| Kenmerk                  | GPT-4o                                 | OpenAI o-serie (o1, o3, o4-mini)                 | GPT-4.5 / GPT-4.1                               |
+|--------------------------|---------------------------------------|--------------------------------------------------|-------------------------------------------------|
+| Doel                     | Algemeen, snel, multimodaal            | Geavanceerd redeneren en probleemoplossing       | GPT-4.5: Creatieve, natuurlijke conversatie; GPT-4.1: Efficiënt, groot contextvenster, coderen |
+| Snelheid                 | Zeer snel                             | Langzamer, meer rekentijd per vraag              | GPT-4.5: Langzamer, duurder; GPT-4.1: Vergelijkbaar met GPT-4o, soms sneller |
+| Kosten                   | Lagere kosten                        | Hoger, vanwege complexiteit                        | GPT-4.5: Hoog; GPT-4.1: Lager dan GPT-4o en GPT-4.5 |
+| Complexe taken           | Minder geschikt                      | Uitstekend, vooral STEM en programmeren          | GPT-4.5: Goed in algemene taken, minder in diep redeneren; GPT-4.1: Uitstekend in coderen en lange contexten |
+| Multimodaal              | Ja (tekst, beeld, audio, video)      | Ja (voor o3 en o4-mini; sommige varianten missen visie) | GPT-4.5: Ja (tekst + beeld + bestanden); GPT-4.1: Ja, met 1 miljoen tokens context |
+| Toepassingen             | Conversatie, contentcreatie, klantenservice | Onderzoek, strategie, programmeren, wetenschap  | GPT-4.5: Creatieve content, klantenservice; GPT-4.1: Coderen, lange documenten, gestructureerde taken |
+| Nauwkeurigheid bij complexiteit | Goed, maar kan fouten maken         | Beter, minder fouten op moeilijke benchmarks     | GPT-4.5: Goed in conversatie, iets minder in complexe logica; GPT-4.1: Zeer goed in coderen en instructies volgen |
+| Contextvenster           | 128.000 tokens                      | Varieert, meestal kleiner                         | GPT-4.5: 128.000 tokens; GPT-4.1: 1.000.000 tokens |
+| Instruction following    | Goed                               | Uitstekend                                        | GPT-4.5: Goed; GPT-4.1: Verbeterd, beter in complexe instructies |
+| Emotionele intelligentie | Basis                              | Basis                                            | GPT-4.5: Verbeterd (hoger EQ); GPT-4.1: Basis, meer gericht op precisie |
 
 
 
 
+#
 
 ### [GPT-4o](#table-of-contents)
 
@@ -105,13 +96,12 @@ Het **o3**-model, uitgebracht op 16 april 2025 ([1](#ref-1), [6](#ref-6), [8](#r
 
 De **GPT-4.1**-familie van modellen, waaronder GPT-4.1, GPT-4.1 mini en GPT-4.1 nano, werd gelanceerd op 14 april 2025 ([6](#ref-6), [17](#ref-17), [77](#ref-77)). Deze modellen presteren beter dan GPT-4o en GPT-4o mini, met aanzienlijke verbeteringen in programmeren en instructievolging ([17](#ref-17)). Ze ondersteunen grotere contextvensters tot 1 miljoen tokens ([17](#ref-17), [82](#ref-82)). **GPT-4.1** is het vlaggenschipmodel, geoptimaliseerd voor complexe taken en uitmuntend in softwareontwikkeling, onderzoek en agentische workflows ([80](#ref-80), [84](#ref-84)). Het model toont aanzienlijke verbeteringen in real-world software engineering en instructienauwkeurigheid ([80](#ref-80), [82](#ref-82), [84](#ref-84)). **GPT-4.1 mini** biedt bijna dezelfde mogelijkheden als het volledige model, maar met lagere latency en kosten, waardoor het een gebalanceerde optie is voor diverse toepassingen ([80](#ref-80), [84](#ref-84)). **GPT-4.1 nano** is het snelste en meest kostenefficiënte model in deze serie, ideaal voor taken zoals classificatie en autocompletion ([80](#ref-80), [84](#ref-84)).
 
-### [Gespecialiseerde Modellen en Updates](#table-of-contents)
+### [Gespecialiseerde OpenAI Modellen en Updates](#table-of-contents)
 
 Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies en updates uitgebracht, zoals gpt-4o-search-preview en gpt-4o-mini-search-preview voor websearch, computer-use-preview voor specifieke toolgebruik, en audio-gerelateerde modellen zoals gpt-4o-audio-preview en gpt-4o mini TTS ([6](#ref-6), [9](#ref-9)). Deze op maat gemaakte modellen illustreren de strategie van OpenAI om een breed scala aan LLM's te bieden voor uiteenlopende toepassingsbehoeften.
 
-### [Tabel: OpenAI LLM Gebieden van Uitmuntendheid](#table-of-contents)
 
-| OpenAI LLM Naam | Gebieden van Uitmuntendheid |
+| OpenAI LLM Naam | Specialisatie |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GPT-4o | Realtime multimodale interactie, snelle responstijden, verbeterde prestaties in niet-Engelse talen |
 | GPT-4o mini | Kostenefficiënte intelligentie, sterke prestaties in wiskunde, programmeren en visueel redeneren voor zijn formaat |
@@ -147,6 +137,19 @@ Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies e
 | o1 (2024-12-17) | Verbeterde redeneercapaciteiten, tekst, beeldverwerking |
 | o1-preview (2024-09-12) | Oudere previewversie |
 | o1-mini (2024-09-12) | Snellere en kostenefficiëntere optie in de o1-serie, ideaal voor programmeertaken die snelheid en lagere resourceconsumptie vereisen |
+
+
+| Modelnaam                | Introductiedatum | Max. inputgrootte (tokens) | Opmerkingen                                             |
+|-------------------------|------------------|----------------------------|---------------------------------------------------------|
+| GPT-4o                  | mei 2024         | 128.000                    | Multimodaal (tekst, beeld, audio, video), snel en goedkoop |
+| OpenAI o1-preview       | september 2024   | Niet exact bekend          | Eerste o-serie model, gefocust op diep redeneren        |
+| OpenAI o1               | december 2024    | Niet exact bekend          | Geavanceerd redeneermodel, hoge nauwkeurigheid in STEM   |
+| OpenAI o3               | december 2024    | Niet exact bekend          | Verbeterde versie o1, betere redeneervaardigheden       |
+| OpenAI o4-mini          | april 2025       | Niet exact bekend          | Mini-variant van o-serie, efficiënter                    |
+| GPT-4.5                 | februari 2025    | 128.000                    | Groter model, betere natuurlijke interactie             |
+| GPT-4.1                 | april 2025       | 1.047.576                  | Nieuwste modellen met extreem groot contextvenster      |
+
+
 
 ## 3\. [Vergelijkende Analyse met Alternatieve LLM's](#table-of-contents)
 
