@@ -15,7 +15,7 @@
       * [GPT-4.1 Familie](#gpt-4-1-familie)
       * [Gespecialiseerde Modellen en Updates](#gespecialiseerde-modellen-en-updates)
       * [Tabel: OpenAI LLM Gebieden van Uitmuntendheid](#tabel-openai-llm-gebieden-van-uitmuntendheid)
-      * [Maximale Input Grote in Tokens](maximale-input-grote-in-tokens)
+      * [Maximale Input Grote in Tokens](#maximale-input-grote-in-tokens)
 3.  [Vergelijkende Analyse met Alternatieve LLM's](#3-vergelijkende-analyse-met-alternatieve-llms)
     * [Claude 3.7 Sonnet (Anthropic)](#claude-37-sonnet-anthropic)
     * [Grok-3 (xAI)](#grok-3-xai)
@@ -98,7 +98,7 @@ De **GPT-4.1**-familie van modellen, waaronder GPT-4.1, GPT-4.1 mini en GPT-4.1 
 
 Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies en updates uitgebracht, zoals gpt-4o-search-preview en gpt-4o-mini-search-preview voor websearch, computer-use-preview voor specifieke toolgebruik, en audio-gerelateerde modellen zoals gpt-4o-audio-preview en gpt-4o mini TTS ([6](#ref-6), [9](#ref-9)). Deze op maat gemaakte modellen illustreren de strategie van OpenAI om een breed scala aan LLM's te bieden voor uiteenlopende toepassingsbehoeften.
 
-### Maximale Input Grote in Tokens
+### [Maximale Input Grote in Tokens](#maximale-input-grote-in-tokens)
 
 | OpenAI LLM Naam | Specialisatie |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
