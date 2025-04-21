@@ -12,9 +12,8 @@
       * [o3](#o3)
       * [o4-mini](#o4-mini)
       * [GPT-4.5](#gpt-4-5)
-      * [GPT-4.1 Familie](#gpt-4-1-familie)
+      * [GPT-4.1](#gpt-4-1)
       * [Gespecialiseerde Modellen en Updates](#gespecialiseerde-modellen-en-updates)
-      * [Tabel: OpenAI LLM Gebieden van Uitmuntendheid](#tabel-openai-llm-gebieden-van-uitmuntendheid)
       * [Maximale Input Grote in Tokens](#maximale-input-grote-in-tokens)
 3.  [Vergelijkende Analyse met Alternatieve LLM's](#3-vergelijkende-analyse-met-alternatieve-llms)
     * [Claude 3.7 Sonnet (Anthropic)](#claude-37-sonnet-anthropic)
@@ -90,15 +89,17 @@ Het **o3**-model, uitgebracht op 16 april 2025 ([1](#ref-1), [6](#ref-6), [8](#r
 
 **GPT-4.5**, uitgebracht als research preview op 27 februari 2025 ([1](#ref-1), [6](#ref-6)), is het grootste en meest kennisrijke chatmodel van OpenAI tot nu toe ([1](#ref-1), [61](#ref-61)). Het bouwt voort op GPT-4o door het opschalen van pre-training en het toepassen van nieuwe supervisietechnieken ([72](#ref-72)). GPT-4.5 heeft een bredere kennisbasis, een verbeterd vermogen om gebruikersintentie te volgen en een grotere "EQ", waardoor het nuttig is voor taken als schrijven, programmeren en het oplossen van praktische problemen ([71](#ref-71), [73](#ref-73), [75](#ref-75)). Het model vertoont ook sterke feitelijke nauwkeurigheid en hallucineert minder dan andere OpenAI-modellen ([71](#ref-71), [73](#ref-73)).
 
-### [GPT-4.1 Familie](#table-of-contents)
+### [GPT-4.1](#table-of-contents)
 
 De **GPT-4.1**-familie van modellen, waaronder GPT-4.1, GPT-4.1 mini en GPT-4.1 nano, werd gelanceerd op 14 april 2025 ([6](#ref-6), [17](#ref-17), [77](#ref-77)). Deze modellen presteren beter dan GPT-4o en GPT-4o mini, met aanzienlijke verbeteringen in programmeren en instructievolging ([17](#ref-17)). Ze ondersteunen grotere contextvensters tot 1 miljoen tokens ([17](#ref-17), [82](#ref-82)). **GPT-4.1** is het vlaggenschipmodel, geoptimaliseerd voor complexe taken en uitmuntend in softwareontwikkeling, onderzoek en agentische workflows ([80](#ref-80), [84](#ref-84)). Het model toont aanzienlijke verbeteringen in real-world software engineering en instructienauwkeurigheid ([80](#ref-80), [82](#ref-82), [84](#ref-84)). **GPT-4.1 mini** biedt bijna dezelfde mogelijkheden als het volledige model, maar met lagere latency en kosten, waardoor het een gebalanceerde optie is voor diverse toepassingen ([80](#ref-80), [84](#ref-84)). **GPT-4.1 nano** is het snelste en meest kostenefficiënte model in deze serie, ideaal voor taken zoals classificatie en autocompletion ([80](#ref-80), [84](#ref-84)).
 
-### [Gespecialiseerde OpenAI Modellen en Updates](#table-of-contents)
+### [Gespecialiseerde OpenAI Modellen en Updates]
+
+(#table-of-contents)
 
 Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies en updates uitgebracht, zoals gpt-4o-search-preview en gpt-4o-mini-search-preview voor websearch, computer-use-preview voor specifieke toolgebruik, en audio-gerelateerde modellen zoals gpt-4o-audio-preview en gpt-4o mini TTS ([6](#ref-6), [9](#ref-9)). Deze op maat gemaakte modellen illustreren de strategie van OpenAI om een breed scala aan LLM's te bieden voor uiteenlopende toepassingsbehoeften.
 
-### [Maximale Input Grote in Tokens](#maximale-input-grote-in-tokens)
+
 
 | OpenAI LLM Naam | Specialisatie |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,8 +138,7 @@ Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies e
 | o1-preview (2024-09-12) | Oudere previewversie |
 | o1-mini (2024-09-12) | Snellere en kostenefficiëntere optie in de o1-serie, ideaal voor programmeertaken die snelheid en lagere resourceconsumptie vereisen |
 
-
-
+### [Maximale Input Grote in Tokens](#maximale-input-grote-in-tokens)
 
 | Modelnaam                | Introductiedatum | Max. inputgrootte (tokens) | Opmerkingen                                             |
 |-------------------------|------------------|----------------------------|---------------------------------------------------------|
@@ -493,3 +493,6 @@ De huidige stand van het LLM-landschap wordt gekenmerkt door een sterke focus op
 137. Reddit. (n.d.). *GPT4.5 Benchmark Performance : singularity*. [https://www.reddit.com/r/singularity/comments/1izp75f/gpt45\_benchmark\_performance/](https://www.reddit.com/r/singularity/comments/1izp75f/gpt45_benchmark_performance/)
 <a id="ref-138"></a>
 138. Arize AI. (2024, September 13). *Exploring OpenAI o1-preview and o1-mini*. [https://arize.com/blog/exploring-openai-o1-preview-and-o1-mini/](https://arize.com/blog/exploring-openai-o1-preview-and-o1-mini/)
+
+
+[specializedModelsLink]: #gespecialiseerde-modellen-en-updates
