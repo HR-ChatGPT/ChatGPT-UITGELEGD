@@ -40,7 +40,7 @@ De methodologie die in dit rapport wordt gehanteerd, omvat een uitgebreide beoor
 
 Een systematische beoordeling van de beschikbare informatie onthult een divers en uitgebreid portfolio van Grote Taalmodellen die door OpenAI zijn uitgebracht vanaf mei 2024. Deze periode werd gekenmerkt door een hoge frequentie van nieuwe modelintroducties en updates, wat de voortdurende inzet van OpenAI weerspiegelt om de grenzen van AI-mogelijkheden te verleggen. De geïdentificeerde modellen omvatten GPT-4o ([1](#ref-1), [2](#ref-2)). Deze uitgebreide lijst benadrukt de strategie van OpenAI om modellen te ontwikkelen met verschillende mogelijkheden en kostenstructuren om een breed scala aan toepassingen te bedienen. De introductie van de "o"-serie betekent een gerichte inspanning om de redeneervermogens van hun modellen te verbeteren.
 
-### GPT-4o](#table-of-contents)
+### [GPT-4o](#table-of-contents)
 
 **GPT-4o**, uitgebracht op 13 mei 2024 ([18](#ref-18)), is een vlaggenschipmodel met native multimodale mogelijkheden, waarmee tekst, audio en afbeeldingen verwerkt en gegenereerd kunnen worden ([12](#ref-12), [22](#ref-22)). De architectuur bestaat uit één end-to-end neuraal netwerk, wat zorgt voor snellere responstijden en verbeterde efficiëntie ten opzichte van eerdere modellen ([18](#ref-18)). Belangrijke kenmerken zijn realtime audiogesprekken en verbeterd begrip van niet-Engelse talen en visuele input ([12](#ref-12), [18](#ref-18), [23](#ref-23), [24](#ref-24), [25](#ref-25), [26](#ref-26)). GPT-4o is bedoeld voor veelzijdige toepassingen die snelle en intelligente reacties vereisen over verschillende modaliteiten ([2](#ref-2)).
 
