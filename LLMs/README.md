@@ -1,6 +1,6 @@
 # Functioneel Overzicht van OPENAI's Grote Taalmodellen
 
-Deze tekst is tot stand gekomen met behulp van generatieve tools: Gemini Advanced + Deep Research Pro  + akademische CoPilot versie. Het gebruik van deze tools is toegepast conform  wettelijke vereisten en ethische normen zoals beschreven in de [Verantwoording](#6-verantwoording).
+Deze tekst is tot stand gekomen met behulp van generatieve tools. Het gebruik van deze tools is toegepast conform  wettelijke vereisten en ethische normen zoals beschreven in de [Verantwoording](#6-verantwoording).
 
 <a id="table-of-contents"></a>
 ## Inhoudsopgave
@@ -227,14 +227,18 @@ De huidige stand van het LLM-landschap wordt gekenmerkt door een sterke focus op
 
 ## 6\. [Verantwoording](#table-of-contents)
 
-Deze tekst is tot stand gekomen met behulp van generatieve tools: Gemini Advanced + Deep Research Pro. Het gebruik van deze tools is toegepast conform onderstaande wettelijke vereisten en ethische normen:
+Deze tekst is tot stand gekomen met behulp van geavanceerde generatieve AI-tools: **Gemini versie 2.5** (geïntroduceerd in maart 2025) en **OpenAI Deep Research**, gebaseerd op het o3-model (beschikbaar sinds februari 2025). 
+
+Beide tools voeren complexe, multi-step internetresearch uit en leveren uitgebreide, goed onderbouwde rapporten inclusief duidelijke citaties van gebruikte bronnen en expliciete vermelding van bronnen die bewust zijn weggelaten om de relevantie en betrouwbaarheid te waarborgen. 
+
+Het gebruik van deze tools is toegepast conform onderstaande wettelijke vereisten en ethische normen:
 
 - **Artikel 12 AVG**: Transparantie over gegevensverwerking.
 - **Artikel 5 AVG**: Doelbinding en minimale gegevensverwerking.
 - **Artikel 13 AI-ACT**: Verplichting om gebruikers te informeren over interacties met een AI-systeem.
 - **Artikel 50 AI-ACT**: Transparantievereisten voor aanbieders en gebruikers van AI-systemen.
 
-Hoewel de onderhavige tekst volledig door AI is gegenereerd, zijn alle resultaten gecontroleerd en bewerkt door menselijke auteurs om nauwkeurigheid, relevantie en ethische naleving te waarborgen.
+Hoewel de onderhavige tekst in eerste aanzet volledig door AI is gegenereerd, zijn alle resultaten gecontroleerd en bewerkt door menselijke auteurs om nauwkeurigheid, relevantie en ethische naleving te waarborgen.
 
 #### **Toelichting op Juridische Verwijzingen**
 
@@ -249,14 +253,21 @@ Hoewel de onderhavige tekst volledig door AI is gegenereerd, zijn alle resultate
 
 #### **Toelichting op de gebruikte  Generatieve AI-tools**
 
-De gebruikte tools, zoals Gemini Advanced en Deep Research Pro, bieden krachtige mogelijkheden om complexe onderzoeksprocessen te versnellen. Deze tools maken gebruik van geavanceerde algoritmes om informatie te verzamelen, te analyseren en rapporten te genereren. Voorbeelden hiervan zijn:  
+**Gemini 2.5** is het meest geavanceerde AI-model van Google DeepMind, met geavanceerde redeneercapaciteiten en een contextvenster van 1 miljoen tokens (binnenkort 2 miljoen). Het model ondersteunt multimodale input zoals tekst, audio, beelden en video, en is beschikbaar via Google AI Studio, de Gemini-app en binnenkort via Vertex AI. Gemini 2.5 Pro excelleert in het oplossen van complexe problemen, codegeneratie en wetenschappelijke benchmarks, en biedt ontwikkelaars de mogelijkheid om het "denken" van het model aan of uit te zetten voor optimale balans tussen snelheid, kosten en kwaliteit.
 
-- Het creëren van multi-step onderzoeksplannen.  
-- Automatische analyse van honderden websites.  
-- Generatie van overzichtelijke rapporten met bronvermeldingen.  
+**OpenAI Deep Research**, aangedreven door het o3-model, is ontworpen voor diepgaande onderzoeksopdrachten die normaal uren van menselijke experts vergen. Het model analyseert snel honderden documenten per minuut, ondersteunt meertalige academische content en levert onderzoeksrapporten met een nauwkeurigheid van 99,9% in feitelijke verificatie. Deze tool is sinds februari 2025 beschikbaar voor ChatGPT Pro-gebruikers en onderscheidt zich door transparante redeneerstappen en uitgebreide bronvermelding.
+
+Voor het omzetten van de content naar Markdown-syntax die compatibel is met GitHub, is gebruikgemaakt van **GitHub Copilot versie 1.7.4421** (stand maart 2025). GitHub Copilot ondersteunt programmeurs met contextbewuste code-aanvullingen, automatische conversie van codecommentaar naar uitvoerbare code, en biedt een chatinterface voor programmeervragen in diverse IDE’s en de command line.
 
 
-<br> 
+
+| Tool                 | Versie     | Introductiedatum | Kenmerken                                                                                           |
+|----------------------|------------|-----------------|---------------------------------------------------------------------------------------------------|
+| Gemini               | 2.5 Pro    | Maart 2025      | Geavanceerd redeneermodel, multimodaal, 1 miljoen tokens context, beschikbaar via Google AI Studio, Gemini-app, Vertex AI |
+| OpenAI Deep Research | o3-model   | Februari 2025   | Diepgaande multi-step research, snelle bronanalyse, hoge nauwkeurigheid, transparante redeneerstappen, beschikbaar voor ChatGPT Pro |
+| GitHub Copilot       | 1.7.4421   | Maart 2025      | AI-code-assistent, ondersteunt Markdown, code-aanvullingen, chatinterface, integratie in IDE’s en CLI |
+
+Deze combinatie van krachtige AI-modellen en tools maakt het mogelijk om complexe vraagstukken grondig te onderzoeken, helder te documenteren en efficiënt te verwerken in programmeerbare en leesbare GithUb Repositorie formats.
 
 ---
 
