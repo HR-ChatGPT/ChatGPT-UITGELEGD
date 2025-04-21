@@ -4,7 +4,7 @@
 ## Inhoudsopgave
 
 1.  [Inleiding](#1-inleiding)
-2.  [OpenAI LLM's Uitgebracht Sinds Mei 2024](#2-openai-llms-uitgebracht-sinds-mei-2024)
+2.  [Overzicht OpenAI LLM's + Nomenclatuur](#2-overzicht-openAI-LLMs-Nomenclatuur)
     * [GPT-4o](#gpt-4o)
     * [GPT-4o mini](#gpt-4o-mini)
       * [o1](#o1)
@@ -15,6 +15,7 @@
         * [GPT-4.1 Familie](#gpt-4-1-familie)
         * [Gespecialiseerde Modellen en Updates](#gespecialiseerde-modellen-en-updates)
         * [Tabel: OpenAI LLM Gebieden van Uitmuntendheid](#tabel-openai-llm-gebieden-van-uitmuntendheid)
+        * [Maximale Input Grote in Tokens](maximale-input-grote-in-tokens)
 3.  [Vergelijkende Analyse met Alternatieve LLM's](#3-vergelijkende-analyse-met-alternatieve-llms)
     * [Claude 3.7 Sonnet (Anthropic)](#claude-37-sonnet-anthropic)
     * [Grok-3 (xAI)](#grok-3-xai)
@@ -61,9 +62,6 @@ Het belangrijkste verschil tussen de GPT-4o modellen en de OpenAI o-serie modell
 
 
 
-
-#
-
 ### [GPT-4o](#table-of-contents)
 
 **GPT-4o**, uitgebracht op 13 mei 2024 ([18](#ref-18)), is een vlaggenschipmodel met native multimodale mogelijkheden, waarmee tekst, audio en afbeeldingen verwerkt en gegenereerd kunnen worden ([12](#ref-12), [22](#ref-22)). De architectuur bestaat uit één end-to-end neuraal netwerk, wat zorgt voor snellere responstijden en verbeterde efficiëntie ten opzichte van eerdere modellen ([18](#ref-18)). Belangrijke kenmerken zijn realtime audiogesprekken en verbeterd begrip van niet-Engelse talen en visuele input ([12](#ref-12), [18](#ref-18), [23](#ref-23), [24](#ref-24), [25](#ref-25), [26](#ref-26)). GPT-4o is bedoeld voor veelzijdige toepassingen die snelle en intelligente reacties vereisen over verschillende modaliteiten ([2](#ref-2)).
@@ -100,6 +98,7 @@ De **GPT-4.1**-familie van modellen, waaronder GPT-4.1, GPT-4.1 mini en GPT-4.1 
 
 Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies en updates uitgebracht, zoals gpt-4o-search-preview en gpt-4o-mini-search-preview voor websearch, computer-use-preview voor specifieke toolgebruik, en audio-gerelateerde modellen zoals gpt-4o-audio-preview en gpt-4o mini TTS ([6](#ref-6), [9](#ref-9)). Deze op maat gemaakte modellen illustreren de strategie van OpenAI om een breed scala aan LLM's te bieden voor uiteenlopende toepassingsbehoeften.
 
+### Maximale Input Grote in Tokens
 
 | OpenAI LLM Naam | Specialisatie |
 | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,6 +136,8 @@ Naast deze primaire modellen heeft OpenAI ook diverse gespecialiseerde versies e
 | o1 (2024-12-17) | Verbeterde redeneercapaciteiten, tekst, beeldverwerking |
 | o1-preview (2024-09-12) | Oudere previewversie |
 | o1-mini (2024-09-12) | Snellere en kostenefficiëntere optie in de o1-serie, ideaal voor programmeertaken die snelheid en lagere resourceconsumptie vereisen |
+
+
 
 
 | Modelnaam                | Introductiedatum | Max. inputgrootte (tokens) | Opmerkingen                                             |
