@@ -34,9 +34,44 @@ Grote Taalmodellen (LLM's) hebben de afgelopen twee jaar een opmerkelijke progre
 
 Het primaire doel van deze repositorie is een overzicht te geven van alle Grote Taalmodellen (LLM's) die door OpenAI zijn uitgebracht vanaf mei 2024. Naast het beschrijven van deze modellen en hun specifieke sterktes, bevat deze analyse een vergelijkende evaluatie van het aanbod van OpenAI ten opzichte van alternatieve LLM's van andere organisaties die in dezelfde periode zijn uitgebracht of aanzienlijk zijn bijgewerkt.
 
-## 2\. [OpenAI LLM's Uitgebracht Sinds Mei 2024](#table-of-contents)
+## 2\. [OpenAI LLM's Nomenclatuur Uitgebracht Sinds Mei 2024](#table-of-contents)
 
 Sinds mei 2024 heeft OpenAI een belangrijke ontwikkeling ingezet met de introductie van de zogeheten "o"-serie modellen. Deze modellen zijn specifiek ontworpen om het redeneervermogen en de probleemoplossende capaciteiten van AI-systemen aanzienlijk te verbeteren ([1](#ref-1) --- [17](#ref-17)).
+
+Deze onderstaande systematiek geeft eindgebruikers duidelijkheid over welke generatie, variant en versie van het model zij gebruiken, wat belangrijk is voor compatibiliteit en onderliggende prestaties.
+
+- **Modelfamilienaam**: De naam begint vaak met een aanduiding van de modelfamilie, zoals `gpt` voor de GPT-serie. Bijvoorbeeld `gpt-4` verwijst naar de vierde generatie GPT-modellen.
+
+- **Subvariant of specificatie**: Soms wordt er een toevoeging gedaan om een subvariant aan te geven, zoals `gpt-4o` of `gpt-3.5-turbo`. Dit kan duiden op een geoptimaliseerde of versnelde versie van het model.
+
+- **Datum of versiecode**: Modellen kunnen een datum of een code bevatten die verwijst naar de uitgiftedatum of een specifieke build, zoals `gpt-4o-mini-2024-07-18`. Dit geeft aan dat het model een mini-versie is van de GPT-4 optimized variant, uitgebracht op 18 juli 2024.
+
+- **Extra aanduidingen**: Soms worden er extra termen toegevoegd die specifieke eigenschappen of beperkingen van het model aangeven, zoals `mini` voor een lichtere variant.
+
+### Voorbeeld van een modelnaam:
+
+| Onderdelen      | Betekenis                                           |
+|-----------------|----------------------------------------------------|
+| gpt             | Modelfamilie (Generative Pre-trained Transformer)  |
+| 4o              | Versie 4, geoptimaliseerd (optimized)               |
+| mini            | Lichtere versie van het model                        |
+| 2024-07-18      | Datum van uitgifte of build                          |
+
+Deze systematiek helpt gebruikers te begrijpen welke generatie, variant en versie van het model ze gebruiken, wat belangrijk is voor compatibiliteit en prestaties.
+
+## Samenvatting
+
+De nomenclatuur van OpenAI's LLM's sinds mei 2024 combineert doorgaans:
+
+- De modelgeneratie en familie (zoals GPT-3, GPT-4)
+- Eventuele optimalisaties of subvarianten (zoals `o` voor optimized, `mini` voor lichtere versie)
+- Een datum- of versienummer om de specifieke build aan te duiden
+
+Deze aanpak maakt het voor ontwikkelaars en gebruikers duidelijk welke versie van het model ze inzetten en welke eigenschappen daarbij horen.
+
+
+
+
 
 ### [GPT-4o](#table-of-contents)
 
