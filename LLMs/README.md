@@ -36,7 +36,7 @@ Het primaire doel van deze repositorie is een overzicht te geven van alle Grote 
 
 ## 2\. [OpenAI LLM's Uitgebracht Sinds Mei 2024](#table-of-contents)
 
-Sinds mei 2024 heeft OpenAI een belangrijke ontwikkeling ingezet met de introductie van de zogeheten "o"-serie modellen. Deze modellen zijn specifiek ontworpen om het redeneervermogen en de probleemoplossende capaciteiten van AI-systemen aanzienlijk te verbeteren.
+Sinds mei 2024 heeft OpenAI een belangrijke ontwikkeling ingezet met de introductie van de zogeheten "o"-serie modellen. Deze modellen zijn specifiek ontworpen om het redeneervermogen en de probleemoplossende capaciteiten van AI-systemen aanzienlijk te verbeteren ([1](#ref-1) --- [17](#ref-17)).
 
 ### [GPT-4o](#table-of-contents)
 
