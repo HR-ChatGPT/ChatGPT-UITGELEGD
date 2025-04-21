@@ -1,6 +1,6 @@
 # Functioneel Overzicht van OPENAI's Grote Taalmodellen
 
-Deze tekst is tot stand gekomen met behulp van generatieve tools: Gemini Advanced + Deep Research Pro. Het gebruik van deze tools is toegepast conform  wettelijke vereisten en ethische normen zoals beschreven in de [Verantwoording](#6-verantwoording).
+Deze tekst is tot stand gekomen met behulp van generatieve tools: Gemini Advanced + Deep Research Pro  + akademische CoPilot versie. Het gebruik van deze tools is toegepast conform  wettelijke vereisten en ethische normen zoals beschreven in de [Verantwoording](#6-verantwoording).
 
 <a id="table-of-contents"></a>
 ## Inhoudsopgave
