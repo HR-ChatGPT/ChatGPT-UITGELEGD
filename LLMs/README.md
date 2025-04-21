@@ -36,7 +36,7 @@ Het primaire doel van deze repositorie is een overzicht te geven van alle Grote 
 
 ## 2\. [OpenAI LLM's Uitgebracht Sinds Mei 2024](#table-of-contents)
 
-Een systematische beoordeling van publiekelijk beschikbare informatie onthult een divers en uitgebreid portfolio van Grote Taalmodellen die door OpenAI zijn uitgebracht vanaf mei 2024. Deze periode werd gekenmerkt door een hoge frequentie van nieuwe modelintroducties en updates, wat de voortdurende inzet van OpenAI weerspiegelt om de grenzen van AI-mogelijkheden te verleggen. De geïdentificeerde modellen omvatten GPT-4o ([1](#ref-1), [2](#ref-2)). Deze uitgebreide lijst benadrukt de strategie van OpenAI om modellen te ontwikkelen met verschillende mogelijkheden en kostenstructuren om een breed scala aan toepassingen te bedienen. De introductie van de "o"-serie betekent een gerichte inspanning om de redeneervermogens van hun modellen te verbeteren.
+Sinds mei 2024 heeft OpenAI een belangrijke ontwikkeling ingezet met de introductie van de zogeheten "o"-serie modellen. Deze modellen zijn specifiek ontworpen om het redeneervermogen en de probleemoplossende capaciteiten van AI-systemen aanzienlijk te verbeteren.
 
 ### [GPT-4o](#table-of-contents)
 
